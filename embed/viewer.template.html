@@ -69,6 +69,9 @@ select:focus-visible,input:focus-visible,button:focus-visible{outline:2px solid 
 .meter{display:grid;grid-template-columns:4.5em 1fr 3em;gap:8px;align-items:center;font-size:12px;color:var(--ink-2);margin-top:4px}
 .meter i{position:relative;height:2px;background:var(--rule)}
 .meter i b{position:absolute;top:-4px;width:10px;height:10px;border-radius:50%;background:var(--hot);transform:translateX(-50%)}
+.money{font-size:13px;margin-top:6px;display:flex;flex-wrap:wrap;gap:4px 8px;align-items:baseline}
+.money small{color:var(--ink-3);font-size:11px}
+.money .dot{color:var(--ink-3)}
 .why{font-size:12px;color:var(--ink-3);margin-top:4px}
 .why::before{content:"근거 ";font-weight:800}
 
@@ -106,9 +109,9 @@ td.name small{display:block;color:var(--ink-3);font-size:11px;line-height:1.2}
 
 <div class="wrap">
   <header>
-    <h1>브랜드 좌표판 <em>1차</em></h1>
+    <h1>브랜드 좌표판 <em>2차</em></h1>
     <div class="meta mono" id="meta"></div>
-    <p class="lede">브랜드 <span id="count"></span>개를 세 가지 방식으로 벡터로 만들고 2차원(t-SNE)에 펼친 결과. 1차 보강으로 <b>설명글·브랜드 원형·업계 안 가격 위치·창업과 소유</b>가 들어갔음. 점을 누르거나 검색하면 가장 가까운 12곳과 묶음별로 얼마나 닮았는지가 나옴.</p>
+    <p class="lede">브랜드 <span id="count"></span>개를 세 가지 방식으로 벡터로 만들고 2차원(t-SNE)에 펼친 결과. 1차 보강(설명글·원형·업계 안 위치·창업과 소유)에 2차로 <b>파는 상품 종류·대표 가격·시가총액</b>을 더했음. 점을 누르거나 검색하면 가장 가까운 12곳과 묶음별로 얼마나 닮았는지가 나옴.</p>
   </header>
 
   <div class="controls">
@@ -147,14 +150,14 @@ td.name small{display:block;color:var(--ink-3);font-size:11px;line-height:1.2}
   </section>
 
   <section class="reads">
-    <div><h3>의미만: 업종을 넘는 이웃</h3><p>람보르기니 → 오데마 피게·리차드 밀·롤렉스, 탬버린즈 → 젠틀몬스터·이세이 미야케, 할리데이비슨 → 올세인츠·스톤아일랜드. 상위 10곳의 절반이 다른 분야.</p></div>
-    <div><h3>설명글의 국적 누수 제거</h3><p>요약에 "일본의…", "국내에서는…"이 많아 설명글 이웃의 53%가 같은 나라였음(무작위 18%). 나라·지역·도시 이름을 지우고 다시 임베딩해 30%로. 무인양품 이웃이 비오레·가루비 → 아르켓·코스·헤이.</p></div>
-    <div><h3>전부: train 으로 고르고 test 로 확인</h3><p>"A는 C보다 B에 가깝다" 90문항을 학습·검증으로 나눔. 학습 문항으로만 가중치를 격자 탐색했고, 검증 18문항(업종·가격 위치)을 전부 맞힘. 다른 분야 이웃은 11%.</p></div>
+    <div><h3>상품이 다르면 같은 업종이어도 갈림</h3><p>르 라보는 이솝(스킨케어)보다 바이레도(향수)에, 농심은 오리온(과자)보다 삼양식품(라면)에, 엔비디아는 ASML(장비)보다 AMD 에 가까움. 상품 문항 14개 중 13개 맞힘 — 몽클레르는 아직 캐나다구스보다 구찌 쪽.</p></div>
+    <div><h3>가격대·시총은 업종을 넘어 작동</h3><p>파텍필립은 카시오보다 람보르기니에, 다이소는 에르메스보다 메가커피에, 무신사는 아마존보다 크림에 가까움. 대표 가격은 로그 척도, 하위 브랜드 시총은 모회사 값을 흐리게 물려받음.</p></div>
+    <div><h3>가중치: train 으로 고르고 test 로 확인</h3><p>정답 109문항. train 에서 틀림 없이 다른 분야 이웃이 10% 넘는 조합을 격자 탐색으로 고름. 상품 묶음은 업종끼리 묶는 힘이 커서, 올리면 다른 분야 이웃이 6% 까지 떨어지는 줄다리기가 있음.</p></div>
   </section>
 
   <section class="next">
-    <h2>다음</h2>
-    <p><b>Wikidata 대조</b>로 설립 연도·국가·모회사 불일치 검수. <b>소속 묶음 압축</b>(지금 최상위 그룹 원-핫 1,008차원 — 같은 그룹인지만 보면 되므로 서빙 땐 id 비교로). <b>2차 묶음</b>: 협업·스폰서십 그래프.</p>
+    <h2>남은 것</h2>
+    <p><b>무인양품</b> 이웃에 일본 브랜드가 여전히 많고(출신·소유 묶음), <b>카길</b>은 가격 정보가 없어 금융 대기업과 붙음. 시총·가격은 LLM 기억 기반 대략값이라 <b>티커로 실제 시세 갱신</b> 필요. Wikidata 대조 진행 중.</p>
   </section>
 </div>
 
@@ -164,7 +167,7 @@ td.name small{display:block;color:var(--ink-3);font-size:11px;line-height:1.2}
 const D = JSON.parse(document.getElementById('data').textContent);
 const B = D.brands, N = B.length;
 const idx = Object.fromEntries(B.map((b, i) => [b.id, i]));
-const BLOCKS = [['summary','설명글'],['archetype','원형'],['position','업계위치'],['heritage','창업·소유'],['category','분류'],['family','소속'],['origin','출신'],['scale','규모']];
+const BLOCKS = [['summary','설명글'],['offering','상품'],['archetype','원형'],['price','가격대'],['position','업계위치'],['category','분류'],['heritage','창업·소유'],['size','시총'],['origin','출신'],['family','소속'],['scale','티어']];
 const MODE_KO = {structure:'구조만', meaning:'의미만', all:'전부'};
 const ARCH_KO = {innocent:'순수',explorer:'탐험가',sage:'현자',hero:'영웅',outlaw:'반항아',magician:'마법사',everyman:'보통사람',lover:'연인',jester:'광대',caregiver:'돌보는 자',creator:'창조자',ruler:'지배자'};
 const OWN_KO = {family:'가족 지배',founder:'창업자 지배',public:'분산 상장',state:'국영',foundation:'재단 소유',coop:'협동조합',pe:'사모펀드',chaebol:'재벌 계열',subsidiary:'자회사',unknown:'소유 불명'};
@@ -270,6 +273,8 @@ function setMode(m){
 document.querySelectorAll('.seg button').forEach(b => b.addEventListener('click', () => setMode(b.dataset.mode)));
 $('sector').addEventListener('change', e => { sector = e.target.value; $('lg-sector').hidden = !sector; $('lg-sector-name').textContent = sector; draw(); });
 
+function won(v){ if (v>=1e8) return `${+(v/1e8).toFixed(v>=1e9?0:1)}억원`; if (v>=1e4) return `${Math.round(v/1e4).toLocaleString()}만원`; return `${v.toLocaleString()}원`; }
+function usd(b){ return b>=1000 ? `$${(b/1000).toFixed(2)}조` : b>=1 ? `$${Math.round(b)}B` : `$${Math.round(b*1000)}M`; }
 function select(i){ sel = i; renderPanel(); draw(); }
 
 function renderPanel(){
@@ -277,12 +282,21 @@ function renderPanel(){
   const parent = b.parent && idx[b.parent] != null ? B[idx[b.parent]].name_ko : '';
   const arch = b.archetype ? Object.entries(b.archetype).sort((x,y)=>y[1]-x[1]).map(([k,v])=>`<span class="chip">${ARCH_KO[k]||k} ${Math.round(v*100)}</span>`).join('') : '';
   const meter = (lab, v) => v==null ? '' : `<div class="meter"><span>${lab}</span><i><b style="left:${v*100}%"></b></i><span class="mono">${v.toFixed(2)}</span></div>`;
+  const money = b => {
+    const parts = [];
+    if (b.typical_price_krw) parts.push(`${won(b.typical_price_krw)} <small>${b.price_item||''}</small>`);
+    if (b.market_cap_usd_b) parts.push(`시총 ${usd(b.market_cap_usd_b)}${b.ticker?` <small class="mono">${b.ticker}</small>`:''}`);
+    else if (b.revenue_usd_b) parts.push(`매출 ${usd(b.revenue_usd_b)}`);
+    return parts.length ? `<div class="money">${parts.join('<span class="dot">·</span>')}</div>` : '';
+  };
   const heritage = [b.founded ? `${b.founded}년` : '', b.ownership ? OWN_KO[b.ownership] : '', b.founder_named ? '창업자 이름' : ''].filter(Boolean).join(' · ');
   $('card').innerHTML = `<div class="nm">${b.name_ko}</div><div class="sub mono">${b.name_en}</div>
     <div class="chips"><span class="chip">${b.sector} › ${b.category}</span><span class="chip">${b.country}</span><span class="chip">${b.tier}</span><span class="chip">${b.b2b==='1'?'B2B':'B2C'}</span>${parent?`<span class="chip">소속 ${parent}</span>`:''}${b.confidence?`<span class="chip conf-${b.confidence}">확신 ${b.confidence}</span>`:''}</div>
     ${b.summary ? `<p class="summary">${b.summary}</p>` : '<p class="summary muted">보강 데이터 없음</p>'}
     ${arch ? `<div class="chips"><span class="lab">원형</span>${arch}</div>` : ''}
     ${meter('가격 위치', b.price_pos)}${meter('희소성', b.exclusivity)}
+    ${b.products ? `<div class="chips"><span class="lab">상품</span>${b.products.map(p=>`<span class="chip">${p}</span>`).join('')}</div>` : ''}
+    ${money(b)}
     ${heritage ? `<div class="sub">${heritage}</div>` : ''}
     ${b.why ? `<div class="why">${b.why}</div>` : ''}`;
   const used = BLOCKS.filter(([k]) => k in M.weights);
@@ -326,7 +340,7 @@ q.addEventListener('blur', () => setTimeout(()=>{ list.hidden=true; q.setAttribu
 function pick(i){ q.value=''; list.hidden=true; select(i); }
 
 // 비교표
-const SAMPLE = ['lamborghini','tamburins','harley-davidson','red-bull','apple','hermes','starbucks','muji','cargill'].filter(s=>idx[s]!=null);
+const SAMPLE = ['le-labo','nongshim','moncler','patek-philippe','daiso','lamborghini','tamburins','harley-davidson','muji','cargill'].filter(s=>idx[s]!=null);
 $('cmp').innerHTML = `<thead><tr><th>브랜드</th>${Object.keys(MODE_KO).map(m=>`<th>${MODE_KO[m]}</th>`).join('')}</tr></thead><tbody>` +
   SAMPLE.map(s => { const i = idx[s]; return `<tr><td data-i="${i}">${B[i].name_ko}</td>${Object.keys(MODE_KO).map(m=>`<td>${D.modes[m].nb[i].slice(0,5).map(j=>B[j].name_ko).join(', ')}</td>`).join('')}</tr>`; }).join('') + '</tbody>';
 $('cmp').querySelectorAll('td[data-i]').forEach(td => td.addEventListener('click', () => { select(+td.dataset.i); $('plot').scrollIntoView({behavior: reduce?'auto':'smooth', block:'center'}); }));

@@ -30,13 +30,15 @@ REGION = {
 ARCH = ["innocent", "explorer", "sage", "hero", "outlaw", "magician", "everyman", "lover", "jester", "caregiver", "creator", "ruler"]
 OWN = ["family", "founder", "public", "state", "foundation", "coop", "pe", "chaebol", "subsidiary"]
 ERAS = [1850, 1900, 1945, 1970, 1990, 2005, 2015]
+PRICE_CENTERS = [3 + 0.75 * k for k in range(9)]   # log10(원): 1천원 ~ 10억원
+SIZE_CENTERS = [-1 + 0.5 * k for k in range(10)]    # log10(십억달러): 1억 ~ 3조 달러
 
 MODES = {
     "structure": {"category": 0.55, "family": 0.2, "origin": 0.1, "scale": 0.15},
     "meaning": {"summary": 0.5, "archetype": 0.3, "position": 0.2},
-    # embed/tune.py 격자 탐색으로 고름 (정답 세트 틀림 최소 + 다른 분야 이웃 10% 이상)
-    "all": {"summary": 0.34, "archetype": 0.16, "position": 0.11, "category": 0.13,
-            "heritage": 0.09, "origin": 0.07, "family": 0.05, "scale": 0.05},
+    # embed/tune.py 격자 탐색으로 고름 (train 틀림 최소 + 다른 분야 이웃 10% 이상)
+    "all": {"summary": 0.32, "offering": 0.115, "archetype": 0.09, "price": 0.07, "position": 0.045,
+            "category": 0.09, "heritage": 0.08, "size": 0.08, "origin": 0.06, "family": 0.015, "scale": 0.035},
 }
 FULL_SHARE = 0.5  # 공통 묶음 가중치가 이보다 적으면 유사도를 비례해 깎는다
 
@@ -65,11 +67,15 @@ def load():
     with (ROOT / "data" / "brands.csv").open(newline="") as f:
         rows = list(csv.DictReader(f))
     extra = {}
-    for p in sorted((ROOT / "data" / "enrich" / "out").glob("chunk_*.jsonl")):
-        for line in p.read_text().splitlines():
-            if line.strip():
-                d = json.loads(line)
-                extra[d["id"]] = d
+    for folder in ("out", "out2"):  # 1차·2차 보강을 id 로 합친다 (confidence 는 1차 것을 유지)
+        for p in sorted((ROOT / "data" / "enrich" / folder).glob("chunk_*.jsonl")):
+            for line in p.read_text().splitlines():
+                if line.strip():
+                    d = json.loads(line)
+                    cur = extra.setdefault(d["id"], {})
+                    if folder == "out2":
+                        d["confidence2"] = d.pop("confidence", None)
+                    cur.update(d)
     return rows, extra
 
 
@@ -155,7 +161,62 @@ def build_blocks(rows, extra):
         if e.get("founded"):
             her[i, len(OWN) + 2:] = soft_bins(e["founded"], ERAS, 25) * 0.8
     blocks["heritage"] = (l2(her), her_has)
+
+    prods = [strip_places("; ".join(e.get("products") or [])) for e in ex]
+    off_has = np.array([bool(p) for p in prods])
+    blocks["offering"] = (bge(prods, OUT / "offering_emb.npy", 96), off_has)
+
+    price = np.zeros((n, len(PRICE_CENTERS)), dtype=np.float32)
+    price_has = np.zeros(n, dtype=bool)
+    for i, e in enumerate(ex):
+        if e.get("typical_price_krw"):
+            price[i] = soft_bins(np.log10(e["typical_price_krw"]), PRICE_CENTERS, .45)
+            price_has[i] = True
+    blocks["price"] = (l2(price), price_has)
+
+    size, size_has = size_block(rows, ex)
+    blocks["size"] = (l2(size), size_has)
     return blocks
+
+
+def company_size(rows, ex):
+    """브랜드별 (log10 십억달러, 출처). 출처: own 자기 시총·기업가치 / parent 소속 시총 / revenue 매출."""
+    by_id = {r["id"]: i for i, r in enumerate(rows)}
+    out = []
+    for i, r in enumerate(rows):
+        e = ex[i]
+        if e.get("market_cap_usd_b"):
+            out.append((np.log10(e["market_cap_usd_b"]), "own"))
+            continue
+        cur, seen, found = r["parent"], set(), None
+        while cur and cur in by_id and cur not in seen:
+            seen.add(cur)
+            cap = ex[by_id[cur]].get("market_cap_usd_b")
+            if cap:
+                found = (np.log10(cap), "parent")
+                break
+            cur = rows[by_id[cur]]["parent"]
+        if found:
+            out.append(found)
+        elif e.get("revenue_usd_b"):
+            out.append((np.log10(e["revenue_usd_b"] * 1.5), "revenue"))  # 매출 1.5배를 대략의 가치로
+        else:
+            out.append((None, None))
+    return out
+
+
+def size_block(rows, ex):
+    n = len(rows)
+    m = np.zeros((n, len(SIZE_CENTERS) + 3), dtype=np.float32)
+    has = np.zeros(n, dtype=bool)
+    for i, (v, src) in enumerate(company_size(rows, ex)):
+        if v is None:
+            continue
+        has[i] = True
+        # 소속에서 물려받은 값은 조금 흐리게: 킷캣이 곧 네슬레 규모는 아니므로
+        m[i, :len(SIZE_CENTERS)] = soft_bins(v, SIZE_CENTERS, .4) * (1 if src == "own" else .7)
+        m[i, len(SIZE_CENTERS) + ["own", "parent", "revenue"].index(src)] = .3
+    return m, has
 
 
 def pairwise(blocks):
@@ -187,7 +248,8 @@ def main():
         b = {k: r[k] for k in keep}
         e = extra.get(r["id"])
         if e:
-            b.update({k: e.get(k) for k in ["summary", "why", "archetype", "price_pos", "exclusivity", "founded", "founder_named", "ownership", "confidence"]})
+            b.update({k: e.get(k) for k in ["summary", "why", "archetype", "price_pos", "exclusivity", "founded", "founder_named", "ownership", "confidence",
+                                        "typical_price_krw", "price_item", "products", "listed", "ticker", "market_cap_usd_b", "revenue_usd_b"]})
         brands.append(b)
     result = {"brands": brands, "modes": {}}
 

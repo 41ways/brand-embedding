@@ -75,5 +75,24 @@ class Similarity(unittest.TestCase):
             self.assertAlmostEqual(sum(w.values()), 1.0, places=6, msg=mode)
 
 
+class CompanySize(unittest.TestCase):
+    def test_own_then_parent_then_revenue(self):
+        rows = [{"id": "group", "parent": ""}, {"id": "brand", "parent": "group"},
+                {"id": "private", "parent": ""}, {"id": "unknown", "parent": ""}]
+        ex = [{"market_cap_usd_b": 100}, {}, {"revenue_usd_b": 2}, {}]
+        out = P.company_size(rows, ex)
+        self.assertEqual(out[0], (2.0, "own"))
+        self.assertEqual(out[1], (2.0, "parent"))
+        self.assertAlmostEqual(out[2][0], np.log10(3))
+        self.assertEqual(out[2][1], "revenue")
+        self.assertEqual(out[3], (None, None))
+
+    def test_inherited_size_is_softer(self):
+        rows = [{"id": "g", "parent": ""}, {"id": "b", "parent": "g"}]
+        m, has = P.size_block(rows, [{"market_cap_usd_b": 50}, {}])
+        self.assertTrue(has.all())
+        self.assertGreater(m[0, :len(P.SIZE_CENTERS)].max(), m[1, :len(P.SIZE_CENTERS)].max())
+
+
 if __name__ == "__main__":
     unittest.main()

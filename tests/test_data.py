@@ -72,13 +72,18 @@ class Enrichment(unittest.TestCase):
         out = subprocess.run([sys.executable, str(DATA / "enrich" / "check.py")], capture_output=True, text=True)
         self.assertEqual(out.returncode, 0, out.stdout[-2000:])
 
+    def test_check2_script_passes(self):
+        out = subprocess.run([sys.executable, str(DATA / "enrich" / "check2.py")], capture_output=True, text=True)
+        self.assertEqual(out.returncode, 0, out.stdout[-2000:])
+
     def test_every_brand_enriched_once(self):
         ids = [r["id"] for r in read_brands()]
-        got = []
-        for p in sorted((DATA / "enrich" / "out").glob("chunk_*.jsonl")):
-            got += [json.loads(line)["id"] for line in p.read_text().splitlines() if line.strip()]
-        self.assertEqual(len(got), len(set(got)))
-        self.assertEqual(set(got), set(ids))
+        for folder in ("out", "out2"):
+            got = []
+            for p in sorted((DATA / "enrich" / folder).glob("chunk_*.jsonl")):
+                got += [json.loads(line)["id"] for line in p.read_text().splitlines() if line.strip()]
+            self.assertEqual(len(got), len(set(got)), folder)
+            self.assertEqual(set(got), set(ids), folder)
 
     def test_consumer_product_brands_have_price_position(self):
         """가격을 비교할 수 있는 소비자 제품 브랜드는 거의 다 price_pos 가 있어야 한다.

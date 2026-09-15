@@ -4,6 +4,7 @@
 `python3 embed/preview.py` 를 한 번 돌릴 것.
 
 - sanity·position: train·test 전부 맞아야 함 (가중치는 train 으로만 골랐으므로 test 는 일반화 확인)
+- offering: 같은 업종 안 상품 차이. price·size: 업종을 넘는 가격대·규모
 - cross: 업종을 넘는 가까움. 목표 비율 이상이면 통과, 틀린 줄은 출력
 """
 import csv
@@ -21,7 +22,7 @@ CROSS_TARGET = 0.8
 
 
 def cached():
-    return all((P.OUT / f).exists() for f in ("summary_emb.npy",))
+    return all((P.OUT / f).exists() for f in ("summary_emb.npy", "offering_emb.npy"))
 
 
 @unittest.skipUnless(cached(), "임베딩 캐시 없음: embed/preview.py 먼저 실행")
@@ -57,6 +58,23 @@ class Triplets(unittest.TestCase):
     def test_position(self):
         ok, bad = self.judge("position")
         self.assertEqual(bad, [], "\n".join(bad))
+
+    def test_offering(self):
+        """같은 업종에서 파는 상품이 다르면 갈려야 한다. train 은 전부, test 는 85% 이상."""
+        ok, bad = self.judge("offering", "train")
+        self.assertEqual(bad, [], "\n".join(bad))
+        ok, bad = self.judge("offering", "test")
+        print(f"\n[offering test] {ok}/{ok + len(bad)}" + "".join("\n  " + b for b in bad))
+        self.assertGreaterEqual(ok / (ok + len(bad)), 0.85)
+
+    def test_price_and_size_across_industries(self):
+        """업종이 달라도 가격대·규모가 비슷하면 가깝게. 절반 넘게 맞으면 통과."""
+        ok, bad = 0, []
+        for kind in ("price", "size"):
+            o, b = self.judge(kind)
+            ok, bad = ok + o, bad + b
+        print(f"\n[price·size] {ok}/{ok + len(bad)}" + "".join("\n  " + b for b in bad))
+        self.assertGreater(ok / (ok + len(bad)), 0.5)
 
     def test_cross_industry(self):
         for split in ("train", "test"):

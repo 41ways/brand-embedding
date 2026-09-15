@@ -87,3 +87,24 @@ cross,meaning,test,gentle-monster,ader-error,lotteria,국내 디자이너 감성
 cross,meaning,train,john-deere,cargill,netflix,농업
 cross,meaning,test,ducati,ferrari,vespa,이탈리아식 속도 (국적 없이)
 cross,meaning,train,studio-ghibli,nintendo,netflix,아날로그 동심
+offering,all,test,moncler,canada-goose,gucci,패딩 전문 vs 종합 럭셔리
+offering,all,train,goyard,louis-vuitton,moncler,가죽 가방
+offering,all,test,le-labo,byredo,aesop,향수 vs 스킨케어
+offering,all,train,red-bull,monster-beverage,coca-cola,에너지 음료
+offering,all,test,nongshim,samyang-foods,orion,라면 vs 과자
+offering,all,train,netflix,disney-plus,spotify,영상 vs 음악 스트리밍
+offering,all,test,nvidia,amd,asml,칩 설계 vs 장비
+offering,all,train,sk-hynix,samsung-electronics,lg-display,메모리 vs 디스플레이
+offering,all,test,canon,nikon,sony,카메라 전문 vs 종합 전자
+offering,all,train,coway,cuckoo,hanssem,정수기·밥솥 가전 vs 가구
+offering,all,test,s-oil,gs-caltex,lg-chem,정유 vs 화학
+offering,all,train,visa,mastercard,paypal,카드 네트워크 vs 간편결제
+offering,all,test,compose-coffee,mega-coffee,nespresso,저가 테이크아웃 vs 캡슐
+offering,all,train,sk-telecom,kt,netflix,통신
+price,all,test,patek-philippe,lamborghini,casio,업종 달라도 억대 가격
+price,all,train,daiso,mega-coffee,hermes,천원대
+price,all,test,rolex,louis-vuitton,swatch,천만원대 명품
+price,all,train,netflix,spotify,korean-air,월 만원대 구독
+size,all,test,samsung-electronics,apple,teenage-engineering,초대형 시총
+size,all,train,nvidia,tsmc,raspberry-pi,초대형 반도체
+size,all,test,musinsa,kream,amazon,국내 스타트업 규모

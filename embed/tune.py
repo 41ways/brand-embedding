@@ -12,15 +12,20 @@ import numpy as np
 import preview as P
 
 ROOT = Path(__file__).resolve().parents[1]
+HARD = ("sanity", "position", "offering")  # 반드시 맞아야 하는 종류
+SOFT = ("price", "size")                    # 업종을 넘는 가격·규모 문항: 많이 맞을수록 좋음
 GRID = {
-    "summary": [.24, .30, .36],
-    "archetype": [.10, .15, .20],
-    "position": [.10, .15, .20],
-    "category": [.12, .18, .24, .30],
-    "heritage": [.04, .08],
-    "origin": [.03, .06],
-    "family": [.02, .05],
-    "scale": [.02, .05],
+    "summary": [.20, .28],
+    "offering": [.10, .18],
+    "archetype": [.08, .14],
+    "price": [.06, .12],
+    "position": [.04, .08],
+    "category": [.08, .14],
+    "heritage": [.03, .07],
+    "size": [.03, .07],
+    "origin": [.02, .05],
+    "family": [.01, .03],
+    "scale": [.01, .03],
 }
 
 
@@ -40,8 +45,9 @@ def main():
     sec = np.array([r["sector"] for r in rows])
     cos, mask = P.pairwise(P.build_blocks(rows, extra))
     trip = list(csv.DictReader((ROOT / "tests" / "triplets.csv").open(newline="")))
-    hard = [t for t in trip if t["kind"] in ("sanity", "position") and t["mode"] == "all" and t["split"] == "train"]
-    held = [t for t in trip if t["kind"] in ("sanity", "position") and t["mode"] == "all" and t["split"] == "test"]
+    scored = [t for t in trip if t["kind"] in HARD + SOFT and t["mode"] == "all"]
+    hard = [t for t in scored if t["split"] == "train"]
+    held = [t for t in scored if t["split"] == "test"]
     anchors = sorted({idx[t["anchor"]] for t in hard})
     current = P.MODES["all"]
     keys = list(GRID)
@@ -52,7 +58,8 @@ def main():
         w = {k: v / tot for k, v in zip(keys, combo)}
         s = sim_rows(cos, mask, w, anchors)
         fails = [t for t in hard if s[idx[t["anchor"]]][idx[t["near"]]] <= s[idx[t["anchor"]]][idx[t["far"]]]]
-        results.append([len(fails), sum(abs(w[k] - current[k]) for k in keys), w, fails])
+        score = sum(2 if t["kind"] in HARD else 1 for t in fails)
+        results.append([score, sum(abs(w[k] - current[k]) for k in keys), w, fails])
     results.sort(key=lambda r: r[:2])
 
     best = [r for r in results if r[0] == results[0][0]][:40]
@@ -62,11 +69,11 @@ def main():
         r.append(float((sec[nb] != sec[:, None]).mean()))
     best.sort(key=lambda r: (not 0.10 < r[4] < 0.35, r[1]))
 
-    print(f"후보 {len(results)}개, 학습 세트 최소 틀림 {results[0][0]}/{len(hard)}")
+    print(f"후보 {len(results)}개, 학습 최소 점수(HARD 틀림×2 + SOFT 틀림) {results[0][0]}/{len(hard)}")
     for nfail, _, w, fails, share in best[:5]:
         s = P.similarity(cos, mask, w)
-        held_fail = sum(s[idx[t["anchor"]], idx[t["near"]]] <= s[idx[t["anchor"]], idx[t["far"]]] for t in held)
-        print(f"학습 틀림 {nfail}  검증 틀림 {held_fail}/{len(held)}  다른분야 {share:.3f}  "
+        held_fail = [t["anchor"] for t in held if s[idx[t["anchor"]], idx[t["near"]]] <= s[idx[t["anchor"]], idx[t["far"]]]]
+        print(f"학습 점수 {nfail}  검증 틀림 {len(held_fail)}/{len(held)} {held_fail}  다른분야 {share:.3f}  "
               + " ".join(f"{k}={v:.3f}" for k, v in w.items()))
         for t in fails:
             print("   ", t["anchor"], "→", t["near"], "vs", t["far"])

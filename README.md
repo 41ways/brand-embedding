@@ -7,6 +7,7 @@
 ```
 data/parts/*.csv ──merge.py──▶ data/brands.csv            목록 (분류·소속·국가·규모)
 data/enrich/in ──(LLM 보강)──▶ data/enrich/out/*.jsonl    설명글·원형·가격 위치·창업/소유
+                              data/enrich/out2/*.jsonl   상품 종류·대표 가격·상장/티커·시총·매출
                               data/verify/wikidata.py     Wikidata 대조 → report.csv
 embed/preview.py ──▶ embed/out/preview.json               묶음별 벡터, 유사도, t-SNE 좌표
 embed/build_viewer.py ──▶ embed/out/brand-space.html      비교 뷰어
@@ -20,7 +21,10 @@ embed/tune.py                                             정답 세트로 가�
 | 묶음 | 내용 |
 |---|---|
 | summary | 같은 틀로 쓴 한국어 요약(브랜드·모회사 이름 가림, 나라·도시 이름 제거) → bge-m3 |
+| offering | 파는 상품 종류 3~8개 → bge-m3 |
 | archetype | 브랜드 원형 12유형 비중 |
+| price | 대표 상품 한 번 구매 가격(원), log10 구간 소프트 원-핫 |
+| size | 시가총액(없으면 모회사 값을 흐리게, 그것도 없으면 매출×1.5), log10 구간 |
 | position | 같은 업종 안 가격 위치·희소성 (구간 소프트 원-핫) |
 | heritage | 소유 형태, 창업자 이름 여부, 설립 연대 |
 | category / family / origin / scale | 분류 계층, 최상위 소속, 국가·권역, 규모·B2B |
@@ -29,7 +33,7 @@ embed/tune.py                                             정답 세트로 가�
 
 ```bash
 python3 data/merge.py
-python3 data/enrich/check.py
+python3 data/enrich/check.py && python3 data/enrich/check2.py
 python3 embed/preview.py && python3 embed/build_viewer.py
 python3 -m unittest discover -s tests
 ```
@@ -40,4 +44,5 @@ python3 -m unittest discover -s tests
 
 - 목록과 보강 데이터는 LLM 지식 기반 1차본. 2025~26 인수·합병이 걸린 소속·소유 형태는 Wikidata 대조 후 검수가 필요하다.
 - 설명글 이웃 중 같은 나라 비율이 30%(무작위 18%). 나라 이름은 지웠지만 "사케", "K-뷰티" 같은 문화 단서가 남는다.
-- 정답 세트는 90문항(train 58 / test 32)으로 아직 작다.
+- 정답 세트는 109문항으로 아직 작다. offering test 에서 몽클레르(패딩 전문)가 캐나다구스보다 구찌에 가깝게 나온다.
+- 시총·가격은 LLM 기억 기반 대략값(자릿수 수준). 티커가 있으니 시세 API 로 갱신할 수 있다.
