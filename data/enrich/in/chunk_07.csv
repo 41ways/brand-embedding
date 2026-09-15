@@ -1,0 +1,135 @@
+id,name_ko,name_en,aliases,country,sector,category,brand_type,parent,parent_name,tier,b2b
+hyundai-department-store,현대백화점,Hyundai Department Store,더현대|The Hyundai,KR,유통·이커머스,백화점,both,hyundai-department-store-group,Hyundai Department Store Group,major,0
+lotte-department-store,롯데백화점,Lotte Department Store,롯백,KR,유통·이커머스,백화점,both,lotte-group,Lotte Group,major,0
+macys,메이시스,Macy's,메이시스백화점,US,유통·이커머스,백화점,both,,,major,0
+shinsegae-department-store,신세계백화점,Shinsegae Department Store,신세계,KR,유통·이커머스,백화점,both,shinsegae-group,Shinsegae Group,major,0
+11st,11번가,11st,십일번가,KR,유통·이커머스,이커머스,both,,,major,0
+alibaba,알리바바,Alibaba Group,알리바바그룹|阿里巴巴,CN,유통·이커머스,이커머스,corporate,,,mega,0
+aliexpress,알리익스프레스,AliExpress,알리,CN,유통·이커머스,이커머스,product,alibaba,Alibaba Group,major,0
+amazon,아마존,Amazon,Amazon.com,US,유통·이커머스,이커머스,both,,,mega,0
+coupang,쿠팡,Coupang,로켓배송,KR,유통·이커머스,이커머스,both,,,major,0
+ebay,이베이,eBay,,US,유통·이커머스,이커머스,both,,,major,0
+etsy,엣시,Etsy,,US,유통·이커머스,이커머스,both,,,niche,0
+gmarket,G마켓,Gmarket,지마켓|옥션,KR,유통·이커머스,이커머스,both,,,major,0
+jd-com,징둥닷컴,JD.com,징둥|JD|京东,CN,유통·이커머스,이커머스,both,,,major,0
+kurly,컬리,Kurly,마켓컬리|샛별배송,KR,유통·이커머스,이커머스,both,,,major,0
+rakuten,라쿠텐,Rakuten,,JP,유통·이커머스,이커머스,both,,,major,0
+shein,쉬인,Shein,SHEIN,SG,유통·이커머스,이커머스,both,,,major,0
+shopee,쇼피,Shopee,,SG,유통·이커머스,이커머스,product,,,major,0
+ssg-com,SSG닷컴,SSG.COM,쓱닷컴|SSG|쓱,KR,유통·이커머스,이커머스,both,shinsegae-group,Shinsegae Group,major,0
+taobao,타오바오,Taobao,淘宝,CN,유통·이커머스,이커머스,product,alibaba,Alibaba Group,major,0
+temu,테무,Temu,,CN,유통·이커머스,이커머스,product,,,major,0
+cu,CU,CU,씨유|BGF리테일,KR,유통·이커머스,편의점,product,,,major,0
+gs25,GS25,GS25,지에스25,KR,유통·이커머스,편의점,product,gs-group,GS Group,major,0
+seven-eleven,세븐일레븐,7-Eleven,7-일레븐|세븐,JP,유통·이커머스,편의점,both,,,mega,0
+anthropic,앤트로픽,Anthropic,,US,인터넷·플랫폼·게임,AI,corporate,,,major,0
+chatgpt,챗GPT,ChatGPT,챗지피티|GPT,US,인터넷·플랫폼·게임,AI,product,openai,OpenAI,mega,0
+claude,클로드,Claude,,US,인터넷·플랫폼·게임,AI,product,anthropic,Anthropic,major,0
+cohere,코히어,Cohere,,CA,인터넷·플랫폼·게임,AI,both,,,niche,1
+cursor,커서,Cursor,Anysphere,US,인터넷·플랫폼·게임,AI,product,,,niche,0
+deepseek,딥시크,DeepSeek,,CN,인터넷·플랫폼·게임,AI,both,,,major,0
+gemini,제미나이,Gemini,,US,인터넷·플랫폼·게임,AI,product,google,Google,major,0
+google-deepmind,구글 딥마인드,Google DeepMind,딥마인드|DeepMind,GB,인터넷·플랫폼·게임,AI,corporate,google,Google,major,1
+hugging-face,허깅페이스,Hugging Face,,US,인터넷·플랫폼·게임,AI,both,,,niche,1
+midjourney,미드저니,Midjourney,,US,인터넷·플랫폼·게임,AI,both,,,niche,0
+mistral-ai,미스트랄 AI,Mistral AI,미스트랄,FR,인터넷·플랫폼·게임,AI,both,,,niche,0
+openai,오픈AI,OpenAI,,US,인터넷·플랫폼·게임,AI,corporate,,,mega,0
+perplexity,퍼플렉시티,Perplexity,,US,인터넷·플랫폼·게임,AI,both,,,niche,0
+scale-ai,스케일AI,Scale AI,,US,인터넷·플랫폼·게임,AI,corporate,,,niche,1
+upstage,업스테이지,Upstage,솔라|Solar,KR,인터넷·플랫폼·게임,AI,both,,,niche,1
+wrtn,뤼튼,wrtn,,KR,인터넷·플랫폼·게임,AI,both,,,niche,0
+xai,xAI,xAI,그록|Grok,US,인터넷·플랫폼·게임,AI,both,,,major,0
+bytedance,바이트댄스,ByteDance,,CN,인터넷·플랫폼·게임,SNS·메신저,corporate,,,mega,0
+discord,디스코드,Discord,,US,인터넷·플랫폼·게임,SNS·메신저,both,,,major,0
+facebook,페이스북,Facebook,페북,US,인터넷·플랫폼·게임,SNS·메신저,product,meta,Meta Platforms,mega,0
+instagram,인스타그램,Instagram,인스타,US,인터넷·플랫폼·게임,SNS·메신저,product,meta,Meta Platforms,mega,0
+kakao,카카오,Kakao,카카오톡|kakao,KR,인터넷·플랫폼·게임,SNS·메신저,both,,,major,0
+kakaotalk,카카오톡,KakaoTalk,카톡,KR,인터넷·플랫폼·게임,SNS·메신저,product,kakao,Kakao,major,0
+line,라인,LINE,,JP,인터넷·플랫폼·게임,SNS·메신저,product,,,major,0
+linkedin,링크드인,LinkedIn,,US,인터넷·플랫폼·게임,SNS·메신저,product,microsoft,Microsoft,major,0
+meta,메타,Meta Platforms,Meta,US,인터넷·플랫폼·게임,SNS·메신저,corporate,,,mega,0
+naver-band,밴드,BAND,네이버 밴드,KR,인터넷·플랫폼·게임,SNS·메신저,product,naver,NAVER,niche,0
+pinterest,핀터레스트,Pinterest,,US,인터넷·플랫폼·게임,SNS·메신저,both,,,major,0
+reddit,레딧,Reddit,,US,인터넷·플랫폼·게임,SNS·메신저,both,,,major,0
+snapchat,스냅챗,Snapchat,Snap,US,인터넷·플랫폼·게임,SNS·메신저,product,,,major,0
+telegram,텔레그램,Telegram,,AE,인터넷·플랫폼·게임,SNS·메신저,both,,,major,0
+tiktok,틱톡,TikTok,,CN,인터넷·플랫폼·게임,SNS·메신저,product,bytedance,ByteDance,mega,0
+wechat,위챗,WeChat,웨이신,CN,인터넷·플랫폼·게임,SNS·메신저,product,tencent,Tencent,mega,0
+weverse,위버스,Weverse,,KR,인터넷·플랫폼·게임,SNS·메신저,product,hybe,HYBE,niche,0
+whatsapp,왓츠앱,WhatsApp,,US,인터넷·플랫폼·게임,SNS·메신저,product,meta,Meta Platforms,mega,0
+x-twitter,엑스(트위터),X,트위터|Twitter,US,인터넷·플랫폼·게임,SNS·메신저,both,,,mega,0
+zepeto,제페토,ZEPETO,,KR,인터넷·플랫폼·게임,SNS·메신저,product,naver,NAVER,niche,0
+alphabet,알파벳,Alphabet,,US,인터넷·플랫폼·게임,검색·포털,corporate,,,mega,0
+android,안드로이드,Android,,US,인터넷·플랫폼·게임,검색·포털,product,google,Google,mega,0
+baidu,바이두,Baidu,,CN,인터넷·플랫폼·게임,검색·포털,both,,,major,0
+bing,빙,Microsoft Bing,Bing,US,인터넷·플랫폼·게임,검색·포털,product,microsoft,Microsoft,major,0
+daum,다음,Daum,,KR,인터넷·플랫폼·게임,검색·포털,product,,,major,0
+google,구글,Google,,US,인터넷·플랫폼·게임,검색·포털,both,alphabet,Alphabet,mega,0
+naver,네이버,NAVER,NAVER|naver,KR,인터넷·플랫폼·게임,검색·포털,both,,,major,0
+yahoo,야후,Yahoo,,US,인터넷·플랫폼·게임,검색·포털,both,,,major,0
+bandai-namco,반다이남코,Bandai Namco,,JP,인터넷·플랫폼·게임,게임사,both,,,major,0
+blizzard,블리자드,Blizzard Entertainment,블리자드 엔터테인먼트,US,인터넷·플랫폼·게임,게임사,both,microsoft,Microsoft,major,0
+capcom,캡콤,Capcom,,JP,인터넷·플랫폼·게임,게임사,both,,,major,0
+cd-projekt,CD 프로젝트,CD Projekt,CDPR|사이버펑크,PL,인터넷·플랫폼·게임,게임사,both,,,niche,0
+devsisters,데브시스터즈,Devsisters,쿠키런,KR,인터넷·플랫폼·게임,게임사,both,,,niche,0
+electronic-arts,EA,Electronic Arts,일렉트로닉 아츠,US,인터넷·플랫폼·게임,게임사,both,,,major,0
+epic-games,에픽게임즈,Epic Games,포트나이트|Fortnite,US,인터넷·플랫폼·게임,게임사,both,,,major,0
+fromsoftware,프롬소프트웨어,FromSoftware,프롬,JP,인터넷·플랫폼·게임,게임사,both,kadokawa,Kadokawa,niche,0
+kakao-games,카카오게임즈,Kakao Games,,KR,인터넷·플랫폼·게임,게임사,both,kakao,Kakao,major,0
+konami,코나미,Konami,,JP,인터넷·플랫폼·게임,게임사,both,,,major,0
+krafton,크래프톤,KRAFTON,,KR,인터넷·플랫폼·게임,게임사,both,,,major,0
+mihoyo,미호요,miHoYo,호요버스|HoYoverse|원신,CN,인터넷·플랫폼·게임,게임사,both,,,major,0
+minecraft,마인크래프트,Minecraft,마크,SE,인터넷·플랫폼·게임,게임사,product,microsoft,Microsoft,mega,0
+ncsoft,엔씨소프트,NCSOFT,엔씨|NC,KR,인터넷·플랫폼·게임,게임사,both,,,major,0
+neowiz,네오위즈,NEOWIZ,,KR,인터넷·플랫폼·게임,게임사,both,,,niche,0
+netease,넷이즈,NetEase,,CN,인터넷·플랫폼·게임,게임사,both,,,major,0
+netmarble,넷마블,Netmarble,,KR,인터넷·플랫폼·게임,게임사,both,,,major,0
+nexon,넥슨,NEXON,,KR,인터넷·플랫폼·게임,게임사,both,,,major,0
+nintendo,닌텐도,Nintendo,,JP,인터넷·플랫폼·게임,게임사,both,,,mega,0
+pearl-abyss,펄어비스,Pearl Abyss,검은사막,KR,인터넷·플랫폼·게임,게임사,both,,,niche,0
+playstation,플레이스테이션,PlayStation,플스|PS5,JP,인터넷·플랫폼·게임,게임사,product,sony,Sony,mega,0
+pubg,배틀그라운드,PUBG: Battlegrounds,배그|PUBG,KR,인터넷·플랫폼·게임,게임사,product,krafton,KRAFTON,major,0
+riot-games,라이엇 게임즈,Riot Games,라이엇|롤|League of Legends,US,인터넷·플랫폼·게임,게임사,both,tencent,Tencent,major,0
+roblox,로블록스,Roblox,,US,인터넷·플랫폼·게임,게임사,both,,,major,0
+rockstar-games,락스타 게임즈,Rockstar Games,락스타|GTA,US,인터넷·플랫폼·게임,게임사,both,take-two,Take-Two Interactive,major,0
+sega,세가,SEGA,,JP,인터넷·플랫폼·게임,게임사,both,,,major,0
+shift-up,시프트업,SHIFT UP,,KR,인터넷·플랫폼·게임,게임사,both,,,niche,0
+smilegate,스마일게이트,Smilegate,로스트아크,KR,인터넷·플랫폼·게임,게임사,both,,,major,0
+square-enix,스퀘어 에닉스,Square Enix,,JP,인터넷·플랫폼·게임,게임사,both,,,major,0
+steam,스팀,Steam,,US,인터넷·플랫폼·게임,게임사,product,valve,Valve,mega,0
+supercell,슈퍼셀,Supercell,클래시 오브 클랜,FI,인터넷·플랫폼·게임,게임사,both,tencent,Tencent,niche,0
+take-two,테이크투,Take-Two Interactive,,US,인터넷·플랫폼·게임,게임사,corporate,,,major,0
+tencent,텐센트,Tencent,,CN,인터넷·플랫폼·게임,게임사,corporate,,,mega,0
+ubisoft,유비소프트,Ubisoft,,FR,인터넷·플랫폼·게임,게임사,both,,,major,0
+valve,밸브,Valve,,US,인터넷·플랫폼·게임,게임사,both,,,major,0
+xbox,엑스박스,Xbox,,US,인터넷·플랫폼·게임,게임사,product,microsoft,Microsoft,mega,0
+daangn,당근,Daangn,당근마켓|Karrot,KR,인터넷·플랫폼·게임,공유경제·O2O,both,,,major,0
+soomgo,숨고,Soomgo,숨은고수,KR,인터넷·플랫폼·게임,공유경제·O2O,both,,,niche,0
+zigbang,직방,Zigbang,,KR,인터넷·플랫폼·게임,공유경제·O2O,both,,,niche,0
+chzzk,치지직,CHZZK,,KR,인터넷·플랫폼·게임,콘텐츠스트리밍,product,naver,NAVER,niche,0
+coupang-play,쿠팡플레이,Coupang Play,,KR,인터넷·플랫폼·게임,콘텐츠스트리밍,product,coupang,Coupang,major,0
+crunchyroll,크런치롤,Crunchyroll,,US,인터넷·플랫폼·게임,콘텐츠스트리밍,product,sony,Sony,niche,0
+disney-plus,디즈니플러스,Disney+,디즈니+,US,인터넷·플랫폼·게임,콘텐츠스트리밍,product,disney,The Walt Disney Company,mega,0
+genie-music,지니뮤직,Genie Music,지니,KR,인터넷·플랫폼·게임,콘텐츠스트리밍,both,kt,KT,niche,0
+hbo-max,HBO 맥스,HBO Max,Max|HBO,US,인터넷·플랫폼·게임,콘텐츠스트리밍,product,,,major,0
+kakao-page,카카오페이지,KakaoPage,,KR,인터넷·플랫폼·게임,콘텐츠스트리밍,product,kakao-entertainment,Kakao Entertainment,major,0
+melon,멜론,Melon,,KR,인터넷·플랫폼·게임,콘텐츠스트리밍,product,kakao,Kakao,major,0
+naver-webtoon,네이버웹툰,NAVER WEBTOON,웹툰|WEBTOON,KR,인터넷·플랫폼·게임,콘텐츠스트리밍,product,naver,NAVER,major,0
+netflix,넷플릭스,Netflix,넷플,US,인터넷·플랫폼·게임,콘텐츠스트리밍,both,,,mega,0
+prime-video,프라임 비디오,Prime Video,아마존 프라임 비디오,US,인터넷·플랫폼·게임,콘텐츠스트리밍,product,amazon,Amazon,major,0
+ridi,리디,RIDI,리디북스,KR,인터넷·플랫폼·게임,콘텐츠스트리밍,both,,,niche,0
+soop,SOOP,SOOP,숲|아프리카TV|AfreecaTV,KR,인터넷·플랫폼·게임,콘텐츠스트리밍,both,,,major,0
+spotify,스포티파이,Spotify,,SE,인터넷·플랫폼·게임,콘텐츠스트리밍,both,,,mega,0
+tving,티빙,TVING,,KR,인터넷·플랫폼·게임,콘텐츠스트리밍,product,cj-enm,CJ ENM,major,0
+twitch,트위치,Twitch,,US,인터넷·플랫폼·게임,콘텐츠스트리밍,product,amazon,Amazon,major,0
+watcha,왓챠,WATCHA,왓챠피디아,KR,인터넷·플랫폼·게임,콘텐츠스트리밍,both,,,niche,0
+wavve,웨이브,wavve,,KR,인터넷·플랫폼·게임,콘텐츠스트리밍,product,,,major,0
+youtube,유튜브,YouTube,유튭,US,인터넷·플랫폼·게임,콘텐츠스트리밍,product,alphabet,Alphabet,mega,0
+naver-pay,네이버페이,Naver Pay,네이버파이낸셜,KR,인터넷·플랫폼·게임,핀테크앱,product,naver,NAVER,major,0
+toss,토스,Toss,비바리퍼블리카|Viva Republica,KR,인터넷·플랫폼·게임,핀테크앱,both,,,major,0
+alpine,알핀,Alpine,알피느,FR,자동차·모빌리티,럭셔리·슈퍼카,product,renault-group,Renault Group,niche,0
+aston-martin,애스턴마틴,Aston Martin,,GB,자동차·모빌리티,럭셔리·슈퍼카,both,,,major,0
+bentley,벤틀리,Bentley Motors,,GB,자동차·모빌리티,럭셔리·슈퍼카,both,volkswagen-group,Volkswagen Group,major,0
+bugatti,부가티,Bugatti,,FR,자동차·모빌리티,럭셔리·슈퍼카,both,,,major,0
+ferrari,페라리,Ferrari,,IT,자동차·모빌리티,럭셔리·슈퍼카,both,,,mega,0
+koenigsegg,코닉세그,Koenigsegg,쾨니그세그,SE,자동차·모빌리티,럭셔리·슈퍼카,both,,,niche,0

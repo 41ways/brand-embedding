@@ -1,0 +1,135 @@
+id,name_ko,name_en,aliases,country,sector,category,brand_type,parent,parent_name,tier,b2b
+the-ordinary,디 오디너리,The Ordinary,DECIEM|디오디너리,CA,뷰티·퍼스널케어,스킨케어,product,estee-lauder,The Estée Lauder Companies,niche,0
+torriden,토리든,Torriden,,KR,뷰티·퍼스널케어,스킨케어,both,,,niche,0
+byredo,바이레도,Byredo,,SE,뷰티·퍼스널케어,향수·니치향수,product,puig,Puig,niche,0
+coty,코티,Coty,,US,뷰티·퍼스널케어,향수·니치향수,corporate,,,major,0
+diptyque,딥티크,Diptyque,,FR,뷰티·퍼스널케어,향수·니치향수,both,,,niche,0
+jo-malone,조 말론 런던,Jo Malone London,조말론,GB,뷰티·퍼스널케어,향수·니치향수,product,estee-lauder,The Estée Lauder Companies,major,0
+le-labo,르 라보,Le Labo,르라보,US,뷰티·퍼스널케어,향수·니치향수,product,estee-lauder,The Estée Lauder Companies,niche,0
+maison-francis-kurkdjian,메종 프란시스 커정,Maison Francis Kurkdjian,MFK,FR,뷰티·퍼스널케어,향수·니치향수,product,lvmh,LVMH Moët Hennessy Louis Vuitton,niche,0
+nonfiction,논픽션,Nonfiction,,KR,뷰티·퍼스널케어,향수·니치향수,both,,,niche,0
+puig,푸이그,Puig,,ES,뷰티·퍼스널케어,향수·니치향수,corporate,,,major,0
+tamburins,탬버린즈,Tamburins,,KR,뷰티·퍼스널케어,향수·니치향수,product,,,niche,0
+aekyung,애경산업,Aekyung Industrial,애경,KR,뷰티·퍼스널케어,헤어·바디,corporate,,,major,0
+dove,도브,Dove,,US,뷰티·퍼스널케어,헤어·바디,product,unilever,Unilever,mega,0
+kerasys,케라시스,Kerasys,,KR,뷰티·퍼스널케어,헤어·바디,product,aekyung,Aekyung Industrial,major,0
+lush,러쉬,Lush,,GB,뷰티·퍼스널케어,헤어·바디,both,,,major,0
+pantene,팬틴,Pantene,,US,뷰티·퍼스널케어,헤어·바디,product,pg,Procter & Gamble,major,0
+ryo,려,Ryo,呂,KR,뷰티·퍼스널케어,헤어·바디,product,amorepacific,Amorepacific,major,0
+the-body-shop,더바디샵,The Body Shop,바디샵,GB,뷰티·퍼스널케어,헤어·바디,both,,,major,0
+vaseline,바세린,Vaseline,,US,뷰티·퍼스널케어,헤어·바디,product,unilever,Unilever,major,0
+bechtel,벡텔,Bechtel,,US,산업재·중공업,건설,both,,,major,1
+daewoo-enc,대우건설,Daewoo Engineering & Construction,,KR,산업재·중공업,건설,both,,,major,1
+dl-enc,DL이앤씨,DL E&C,대림산업,KR,산업재·중공업,건설,both,,,major,1
+e-pyeonhan-sesang,e편한세상,e-Pyeonhan Sesang,이편한세상|아크로|ACRO,KR,산업재·중공업,건설,product,dl-enc,DL E&C,major,0
+gs-enc,GS건설,GS Engineering & Construction,GS E&C,KR,산업재·중공업,건설,both,gs-group,GS Group,major,1
+hdc-hyundai-development,HDC현대산업개발,HDC Hyundai Development,현대산업개발,KR,산업재·중공업,건설,both,,,major,1
+hillstate,힐스테이트,Hillstate,디에이치|THE H,KR,산업재·중공업,건설,product,hyundai-enc,Hyundai Engineering & Construction,major,0
+hyundai-enc,현대건설,Hyundai Engineering & Construction,현대E&C,KR,산업재·중공업,건설,both,hyundai-motor-group,Hyundai Motor Group,major,1
+ipark,아이파크,IPARK,,KR,산업재·중공업,건설,product,hdc-hyundai-development,HDC Hyundai Development,major,0
+lotte-castle,롯데캐슬,Lotte Castle,롯데건설,KR,산업재·중공업,건설,product,lotte-group,Lotte Group,major,0
+posco-enc,포스코이앤씨,POSCO E&C,포스코건설,KR,산업재·중공업,건설,both,posco-group,POSCO Group,major,1
+prugio,푸르지오,Prugio,,KR,산업재·중공업,건설,product,daewoo-enc,Daewoo Engineering & Construction,major,0
+raemian,래미안,Raemian,,KR,산업재·중공업,건설,product,samsung-ct,Samsung C&T,major,0
+samsung-ct,삼성물산,Samsung C&T,,KR,산업재·중공업,건설,corporate,samsung-group,Samsung Group,major,1
+the-sharp,더샵,The Sharp,,KR,산업재·중공업,건설,product,posco-enc,POSCO E&C,major,0
+vinci,뱅시,Vinci,방시,FR,산업재·중공업,건설,both,,,major,1
+xi,자이,Xi,,KR,산업재·중공업,건설,product,gs-enc,GS Engineering & Construction,major,0
+caterpillar,캐터필러,Caterpillar,CAT|캐터필라,US,산업재·중공업,건설기계·장비,both,,,mega,1
+daedong,대동,Daedong,대동공업|카이오티|KIOTI,KR,산업재·중공업,건설기계·장비,both,,,niche,1
+doosan-bobcat,두산밥캣,Doosan Bobcat,밥캣|Bobcat,KR,산업재·중공업,건설기계·장비,both,doosan-group,Doosan Group,major,1
+hd-hyundai-xitesolution,HD현대사이트솔루션,HD Hyundai XiteSolution,HD현대건설기계|HD현대인프라코어|현대건설기계|두산인프라코어,KR,산업재·중공업,건설기계·장비,corporate,hd-hyundai,HD Hyundai,major,1
+hyundai-elevator,현대엘리베이터,Hyundai Elevator,,KR,산업재·중공업,건설기계·장비,both,,,major,1
+jcb,JCB,JCB,,GB,산업재·중공업,건설기계·장비,both,,,niche,1
+john-deere,존디어,John Deere,디어앤컴퍼니|Deere & Company,US,산업재·중공업,건설기계·장비,both,,,mega,1
+komatsu,코마츠,Komatsu,고마쓰,JP,산업재·중공업,건설기계·장비,both,,,major,1
+kubota,구보다,Kubota,쿠보타,JP,산업재·중공업,건설기계·장비,both,,,major,1
+liebherr,리프헤르,Liebherr,리버,DE,산업재·중공업,건설기계·장비,both,,,niche,1
+otis,오티스,Otis,오티스엘리베이터,US,산업재·중공업,건설기계·장비,both,,,major,1
+sany,싼이중공업,SANY,산이|SANY Heavy Industry,CN,산업재·중공업,건설기계·장비,both,,,major,1
+dewalt,디월트,DEWALT,,US,산업재·중공업,공구,product,stanley-black-decker,Stanley Black & Decker,major,0
+festool,페스툴,Festool,,DE,산업재·중공업,공구,both,,,niche,0
+hilti,힐티,Hilti,,LI,산업재·중공업,공구,both,,,major,1
+keyang,계양전기,Keyang Electric Machinery,계양,KR,산업재·중공업,공구,both,,,niche,0
+knipex,크니펙스,Knipex,,DE,산업재·중공업,공구,both,,,niche,0
+makita,마끼다,Makita,마키타,JP,산업재·중공업,공구,both,,,major,0
+milwaukee-tool,밀워키,Milwaukee Tool,밀워키툴,US,산업재·중공업,공구,product,techtronic-industries,Techtronic Industries,major,0
+ryobi,료비,Ryobi,,JP,산업재·중공업,공구,product,techtronic-industries,Techtronic Industries,niche,0
+snap-on,스냅온,Snap-on,,US,산업재·중공업,공구,both,,,niche,1
+stanley-black-decker,스탠리블랙앤데커,Stanley Black & Decker,스탠리|블랙앤데커,US,산업재·중공업,공구,corporate,,,major,0
+techtronic-industries,TTI,Techtronic Industries,테크트로닉인더스트리,HK,산업재·중공업,공구,corporate,,,niche,1
+wera,베라,Wera,,DE,산업재·중공업,공구,both,,,niche,0
+abb,ABB,ABB,,CH,산업재·중공업,산업자동화,both,,,major,1
+boston-dynamics,보스턴다이내믹스,Boston Dynamics,,US,산업재·중공업,산업자동화,both,hyundai-motor-group,Hyundai Motor Group,major,1
+doosan-robotics,두산로보틱스,Doosan Robotics,,KR,산업재·중공업,산업자동화,both,doosan-group,Doosan Group,niche,1
+fanuc,화낙,FANUC,파낙,JP,산업재·중공업,산업자동화,both,,,major,1
+keyence,키엔스,Keyence,,JP,산업재·중공업,산업자동화,both,,,major,1
+kuka,쿠카,KUKA,,DE,산업재·중공업,산업자동화,both,,,niche,1
+yaskawa,야스카와전기,Yaskawa Electric,야스카와,JP,산업재·중공업,산업자동화,both,,,niche,1
+doosan-enerbility,두산에너빌리티,Doosan Enerbility,두산중공업,KR,산업재·중공업,조선·중공업,both,doosan-group,Doosan Group,major,1
+hanwha-ocean,한화오션,Hanwha Ocean,대우조선해양|대우조선,KR,산업재·중공업,조선·중공업,both,hanwha-group,Hanwha Group,major,1
+hd-hyundai-heavy,HD현대중공업,HD Hyundai Heavy Industries,현대중공업|HHI,KR,산업재·중공업,조선·중공업,both,hd-ksoe,HD Korea Shipbuilding & Offshore Engineering,major,1
+hd-hyundai-samho,HD현대삼호,HD Hyundai Samho,현대삼호중공업,KR,산업재·중공업,조선·중공업,both,hd-ksoe,HD Korea Shipbuilding & Offshore Engineering,niche,1
+hd-ksoe,HD한국조선해양,HD Korea Shipbuilding & Offshore Engineering,한국조선해양|KSOE,KR,산업재·중공업,조선·중공업,corporate,hd-hyundai,HD Hyundai,major,1
+kawasaki-heavy,가와사키중공업,Kawasaki Heavy Industries,가와사키|KHI,JP,산업재·중공업,조선·중공업,both,,,major,1
+mitsubishi-heavy,미쓰비시중공업,Mitsubishi Heavy Industries,MHI,JP,산업재·중공업,조선·중공업,both,,,major,1
+samsung-heavy,삼성중공업,Samsung Heavy Industries,SHI,KR,산업재·중공업,조선·중공업,both,samsung-group,Samsung Group,major,1
+airbus,에어버스,Airbus,,FR,산업재·중공업,항공우주·방산,both,,,mega,1
+bae-systems,BAE시스템스,BAE Systems,BAE,GB,산업재·중공업,항공우주·방산,both,,,major,1
+blue-origin,블루오리진,Blue Origin,,US,산업재·중공업,항공우주·방산,both,,,major,1
+boeing,보잉,Boeing,,US,산업재·중공업,항공우주·방산,both,,,mega,1
+bombardier,봄바디어,Bombardier,,CA,산업재·중공업,항공우주·방산,both,,,niche,1
+dassault-aviation,다쏘항공,Dassault Aviation,다쏘|라팔,FR,산업재·중공업,항공우주·방산,both,,,niche,1
+embraer,엠브라에르,Embraer,,BR,산업재·중공업,항공우주·방산,both,,,major,1
+ge-aerospace,GE에어로스페이스,GE Aerospace,GE|제너럴일렉트릭,US,산업재·중공업,항공우주·방산,both,,,major,1
+hanwha-aerospace,한화에어로스페이스,Hanwha Aerospace,한화테크윈,KR,산업재·중공업,항공우주·방산,both,hanwha-group,Hanwha Group,major,1
+hanwha-systems,한화시스템,Hanwha Systems,,KR,산업재·중공업,항공우주·방산,both,hanwha-group,Hanwha Group,niche,1
+hyundai-rotem,현대로템,Hyundai Rotem,,KR,산업재·중공업,항공우주·방산,both,hyundai-motor-group,Hyundai Motor Group,major,1
+kai,한국항공우주산업,Korea Aerospace Industries,KAI|카이,KR,산업재·중공업,항공우주·방산,both,,,major,1
+lig-nex1,LIG넥스원,LIG Nex1,넥스원,KR,산업재·중공업,항공우주·방산,both,,,major,1
+lockheed-martin,록히드마틴,Lockheed Martin,록히드,US,산업재·중공업,항공우주·방산,both,,,mega,1
+northrop-grumman,노스롭그루먼,Northrop Grumman,노스럽그러먼,US,산업재·중공업,항공우주·방산,both,,,major,1
+rheinmetall,라인메탈,Rheinmetall,,DE,산업재·중공업,항공우주·방산,both,,,major,1
+rocket-lab,로켓랩,Rocket Lab,,US,산업재·중공업,항공우주·방산,both,,,niche,1
+rolls-royce-holdings,롤스로이스 홀딩스,Rolls-Royce Holdings,롤스로이스 엔진,GB,산업재·중공업,항공우주·방산,both,,,major,1
+rtx,RTX,RTX,레이시온|Raytheon,US,산업재·중공업,항공우주·방산,corporate,,,major,1
+saab,사브,Saab,,SE,산업재·중공업,항공우주·방산,both,,,niche,1
+safran,사프란,Safran,,FR,산업재·중공업,항공우주·방산,both,,,niche,1
+spacex,스페이스X,SpaceX,스페이스엑스,US,산업재·중공업,항공우주·방산,both,,,mega,1
+ace-bed,에이스침대,Ace Bed,에이스,KR,생활·가구·완구,가구·인테리어,both,,,major,0
+casamia,까사미아,Casamia,,KR,생활·가구·완구,가구·인테리어,product,shinsegae-group,Shinsegae Group,niche,0
+fursys,퍼시스,Fursys,,KR,생활·가구·완구,가구·인테리어,both,,,major,1
+hanssem,한샘,Hanssem,,KR,생활·가구·완구,가구·인테리어,both,,,major,0
+hay,헤이,HAY,,DK,생활·가구·완구,가구·인테리어,product,millerknoll,MillerKnoll,niche,0
+herman-miller,허먼밀러,Herman Miller,,US,생활·가구·완구,가구·인테리어,product,millerknoll,MillerKnoll,major,0
+hyundai-livart,현대리바트,Hyundai Livart,리바트,KR,생활·가구·완구,가구·인테리어,both,,,major,0
+ikea,이케아,IKEA,,SE,생활·가구·완구,가구·인테리어,both,,,mega,0
+iloom,일룸,iloom,,KR,생활·가구·완구,가구·인테리어,product,fursys,Fursys,major,0
+millerknoll,밀러놀,MillerKnoll,,US,생활·가구·완구,가구·인테리어,corporate,,,major,1
+muuto,무토,Muuto,,DK,생활·가구·완구,가구·인테리어,product,millerknoll,MillerKnoll,niche,0
+nitori,니토리,Nitori,,JP,생활·가구·완구,가구·인테리어,both,,,major,0
+vitra,비트라,Vitra,,CH,생활·가구·완구,가구·인테리어,both,,,niche,0
+bic,빅,BIC,빅볼펜,FR,생활·가구·완구,문구·필기구,both,,,major,0
+lamy,라미,Lamy,,DE,생활·가구·완구,문구·필기구,product,mitsubishi-pencil,Mitsubishi Pencil,niche,0
+mitsubishi-pencil,미쓰비시연필,Mitsubishi Pencil,uni|유니,JP,생활·가구·완구,문구·필기구,both,,,major,0
+moleskine,몰스킨,Moleskine,,IT,생활·가구·완구,문구·필기구,both,,,niche,0
+monami,모나미,Monami,,KR,생활·가구·완구,문구·필기구,both,,,major,0
+pilot,파이롯트,Pilot,파일럿|Pilot Corporation,JP,생활·가구·완구,문구·필기구,both,,,major,0
+staedtler,스테들러,Staedtler,,DE,생활·가구·완구,문구·필기구,both,,,niche,0
+chewy,츄이,Chewy,,US,생활·가구·완구,반려동물,both,,,major,0
+hills,힐스,Hill's Pet Nutrition,힐스펫,US,생활·가구·완구,반려동물,product,colgate-palmolive,Colgate-Palmolive,niche,0
+petfriends,펫프렌즈,Pet Friends,,KR,생활·가구·완구,반려동물,both,gs-group,GS Group,niche,0
+purina,퓨리나,Purina,,US,생활·가구·완구,반려동물,product,nestle,Nestlé,major,0
+royal-canin,로얄캐닌,Royal Canin,,FR,생활·가구·완구,반려동물,product,mars,"Mars, Incorporated",major,0
+barbie,바비,Barbie,,US,생활·가구·완구,완구·캐릭터,product,mattel,Mattel,mega,0
+hasbro,해즈브로,Hasbro,,US,생활·가구·완구,완구·캐릭터,corporate,,,mega,0
+hello-kitty,헬로키티,Hello Kitty,키티,JP,생활·가구·완구,완구·캐릭터,product,sanrio,Sanrio,mega,0
+jellycat,젤리캣,Jellycat,,GB,생활·가구·완구,완구·캐릭터,both,,,niche,0
+kakao-friends,카카오프렌즈,Kakao Friends,라이언|춘식이,KR,생활·가구·완구,완구·캐릭터,product,,,major,0
+labubu,라부부,Labubu,,CN,생활·가구·완구,완구·캐릭터,product,pop-mart,Pop Mart,major,0
+lego,레고,LEGO,,DK,생활·가구·완구,완구·캐릭터,both,,,mega,0
+mattel,마텔,Mattel,,US,생활·가구·완구,완구·캐릭터,corporate,,,mega,0
+pop-mart,팝마트,Pop Mart,,CN,생활·가구·완구,완구·캐릭터,both,,,major,0
+sanrio,산리오,Sanrio,,JP,생활·가구·완구,완구·캐릭터,both,,,major,0
+sonny-angel,소니엔젤,Sonny Angel,,JP,생활·가구·완구,완구·캐릭터,product,,,niche,0
+young-toys,영실업,Young Toys,,KR,생활·가구·완구,완구·캐릭터,both,,,niche,0

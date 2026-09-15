@@ -1,0 +1,228 @@
+id,name_ko,name_en,aliases,country,sector,category,brand_type,parent,tier,b2b
+volkswagen-group,폭스바겐그룹,Volkswagen Group,VW그룹|폭스바겐 AG,DE,자동차·모빌리티,완성차,corporate,,mega,0
+volkswagen,폭스바겐,Volkswagen,VW|폭바,DE,자동차·모빌리티,완성차,product,volkswagen-group,mega,0
+audi,아우디,Audi,,DE,자동차·모빌리티,완성차,both,volkswagen-group,mega,0
+porsche,포르쉐,Porsche,포르셰,DE,자동차·모빌리티,럭셔리·슈퍼카,both,volkswagen-group,mega,0
+lamborghini,람보르기니,Automobili Lamborghini,람보,IT,자동차·모빌리티,럭셔리·슈퍼카,both,audi,mega,0
+bentley,벤틀리,Bentley Motors,,GB,자동차·모빌리티,럭셔리·슈퍼카,both,volkswagen-group,major,0
+bugatti,부가티,Bugatti,,FR,자동차·모빌리티,럭셔리·슈퍼카,both,,major,0
+skoda,스코다,Škoda Auto,Skoda,CZ,자동차·모빌리티,완성차,both,volkswagen-group,major,0
+cupra,쿠프라,CUPRA,,ES,자동차·모빌리티,완성차,product,volkswagen-group,niche,0
+ducati,두카티,Ducati,,IT,자동차·모빌리티,이륜차,both,audi,major,0
+traton,트라톤,TRATON,,DE,자동차·모빌리티,상용차,corporate,volkswagen-group,niche,1
+scania,스카니아,Scania,,SE,자동차·모빌리티,상용차,both,traton,major,1
+man-truck-bus,만트럭버스,MAN Truck & Bus,MAN|만트럭,DE,자동차·모빌리티,상용차,both,traton,major,1
+toyota,토요타,Toyota Motor,도요타|TMC,JP,자동차·모빌리티,완성차,both,,mega,0
+lexus,렉서스,Lexus,,JP,자동차·모빌리티,완성차,product,toyota,mega,0
+honda,혼다,Honda Motor,,JP,자동차·모빌리티,완성차,both,,mega,0
+acura,어큐라,Acura,아큐라,US,자동차·모빌리티,완성차,product,honda,major,0
+nissan,닛산,Nissan Motor,,JP,자동차·모빌리티,완성차,both,,mega,0
+infiniti,인피니티,Infiniti,,JP,자동차·모빌리티,완성차,product,nissan,major,0
+mazda,마쓰다,Mazda,마즈다,JP,자동차·모빌리티,완성차,both,,major,0
+subaru,스바루,Subaru,,JP,자동차·모빌리티,완성차,both,,major,0
+mitsubishi-motors,미쓰비시자동차,Mitsubishi Motors,미쓰비시,JP,자동차·모빌리티,완성차,both,,major,0
+suzuki,스즈키,Suzuki Motor,,JP,자동차·모빌리티,완성차,both,,major,0
+isuzu,이스즈,Isuzu Motors,이스즈자동차,JP,자동차·모빌리티,상용차,both,,niche,1
+hyundai-motor,현대자동차,Hyundai Motor,현대차|HMC,KR,자동차·모빌리티,완성차,both,hyundai-motor-group,mega,0
+kia,기아,Kia,기아차|기아자동차,KR,자동차·모빌리티,완성차,both,hyundai-motor-group,mega,0
+genesis,제네시스,Genesis,,KR,자동차·모빌리티,완성차,product,hyundai-motor,major,0
+hyundai-mobis,현대모비스,Hyundai Mobis,모비스,KR,자동차·모빌리티,자동차부품,both,hyundai-motor-group,major,1
+hyundai-wia,현대위아,Hyundai WIA,,KR,자동차·모빌리티,자동차부품,both,hyundai-motor-group,major,1
+hyundai-transys,현대트랜시스,Hyundai Transys,,KR,자동차·모빌리티,자동차부품,both,hyundai-motor-group,niche,1
+hyundai-kefico,현대케피코,Hyundai Kefico,케피코,KR,자동차·모빌리티,자동차부품,both,hyundai-motor-group,niche,1
+kg-mobility,KG모빌리티,KG Mobility,KGM|쌍용자동차|쌍용차,KR,자동차·모빌리티,완성차,both,,major,0
+renault-group,르노그룹,Renault Group,,FR,자동차·모빌리티,완성차,corporate,,major,0
+renault,르노,Renault,,FR,자동차·모빌리티,완성차,product,renault-group,major,0
+alpine,알핀,Alpine,알피느,FR,자동차·모빌리티,럭셔리·슈퍼카,product,renault-group,niche,0
+renault-korea,르노코리아,Renault Korea,르노삼성|르노삼성자동차,KR,자동차·모빌리티,완성차,both,renault-group,major,0
+general-motors,제너럴모터스,General Motors,GM,US,자동차·모빌리티,완성차,corporate,,mega,0
+chevrolet,쉐보레,Chevrolet,시보레|Chevy,US,자동차·모빌리티,완성차,product,general-motors,mega,0
+cadillac,캐딜락,Cadillac,,US,자동차·모빌리티,완성차,product,general-motors,major,0
+gmc,GMC,GMC,,US,자동차·모빌리티,완성차,product,general-motors,major,0
+gm-korea,한국GM,GM Korea,한국지엠|한국지엠주식회사,KR,자동차·모빌리티,완성차,corporate,general-motors,major,0
+ford,포드,Ford Motor,,US,자동차·모빌리티,완성차,both,,mega,0
+lincoln,링컨,Lincoln,,US,자동차·모빌리티,완성차,product,ford,major,0
+tesla,테슬라,Tesla,,US,자동차·모빌리티,전기차,both,,mega,0
+rivian,리비안,Rivian,,US,자동차·모빌리티,전기차,both,,major,0
+lucid,루시드,Lucid Motors,루시드모터스,US,자동차·모빌리티,전기차,both,,niche,0
+stellantis,스텔란티스,Stellantis,,NL,자동차·모빌리티,완성차,corporate,,mega,0
+jeep,지프,Jeep,,US,자동차·모빌리티,완성차,product,stellantis,mega,0
+ram,램,Ram Trucks,RAM|닷지 램,US,자동차·모빌리티,완성차,product,stellantis,major,0
+dodge,닷지,Dodge,,US,자동차·모빌리티,완성차,product,stellantis,major,0
+chrysler,크라이슬러,Chrysler,,US,자동차·모빌리티,완성차,product,stellantis,major,0
+fiat,피아트,Fiat,,IT,자동차·모빌리티,완성차,product,stellantis,major,0
+alfa-romeo,알파로메오,Alfa Romeo,,IT,자동차·모빌리티,완성차,product,stellantis,major,0
+maserati,마세라티,Maserati,,IT,자동차·모빌리티,럭셔리·슈퍼카,product,stellantis,major,0
+peugeot,푸조,Peugeot,,FR,자동차·모빌리티,완성차,product,stellantis,major,0
+citroen,시트로엥,Citroën,Citroen,FR,자동차·모빌리티,완성차,product,stellantis,major,0
+opel,오펠,Opel,,DE,자동차·모빌리티,완성차,product,stellantis,major,0
+ferrari,페라리,Ferrari,,IT,자동차·모빌리티,럭셔리·슈퍼카,both,,mega,0
+mercedes-benz-group,메르세데스-벤츠 그룹,Mercedes-Benz Group,다임러|Daimler,DE,자동차·모빌리티,완성차,corporate,,mega,0
+mercedes-benz,메르세데스-벤츠,Mercedes-Benz,벤츠|Benz,DE,자동차·모빌리티,완성차,product,mercedes-benz-group,mega,0
+mercedes-amg,메르세데스-AMG,Mercedes-AMG,AMG,DE,자동차·모빌리티,럭셔리·슈퍼카,product,mercedes-benz,major,0
+mercedes-maybach,마이바흐,Mercedes-Maybach,메르세데스-마이바흐|Maybach,DE,자동차·모빌리티,럭셔리·슈퍼카,product,mercedes-benz,major,0
+daimler-truck,다임러트럭,Daimler Truck,,DE,자동차·모빌리티,상용차,both,,major,1
+bmw-group,BMW그룹,BMW Group,,DE,자동차·모빌리티,완성차,corporate,,mega,0
+bmw,BMW,BMW,비엠더블유|비머,DE,자동차·모빌리티,완성차,product,bmw-group,mega,0
+mini,미니,MINI,미니쿠퍼|Mini Cooper,GB,자동차·모빌리티,완성차,product,bmw-group,major,0
+rolls-royce-motor-cars,롤스로이스,Rolls-Royce Motor Cars,롤스로이스 모터카,GB,자동차·모빌리티,럭셔리·슈퍼카,product,bmw-group,mega,0
+jaguar-land-rover,재규어랜드로버,Jaguar Land Rover,JLR,GB,자동차·모빌리티,완성차,corporate,,major,0
+land-rover,랜드로버,Land Rover,레인지로버|Range Rover,GB,자동차·모빌리티,완성차,product,jaguar-land-rover,major,0
+jaguar,재규어,Jaguar,,GB,자동차·모빌리티,완성차,product,jaguar-land-rover,major,0
+tata-motors,타타모터스,Tata Motors,타타,IN,자동차·모빌리티,완성차,both,,major,0
+geely-holding,지리홀딩그룹,Zhejiang Geely Holding Group,지리|길리|Geely,CN,자동차·모빌리티,완성차,corporate,,major,0
+volvo-cars,볼보자동차,Volvo Cars,볼보,SE,자동차·모빌리티,완성차,both,geely-holding,major,0
+polestar,폴스타,Polestar,,SE,자동차·모빌리티,전기차,both,geely-holding,niche,0
+zeekr,지커,Zeekr,,CN,자동차·모빌리티,전기차,product,geely-holding,niche,0
+lotus,로터스,Lotus Cars,,GB,자동차·모빌리티,럭셔리·슈퍼카,both,geely-holding,niche,0
+volvo-group,볼보그룹,AB Volvo,볼보트럭|Volvo Group,SE,자동차·모빌리티,상용차,corporate,,major,1
+byd,BYD,BYD,비야디,CN,자동차·모빌리티,전기차,both,,mega,0
+nio,니오,NIO,웨이라이,CN,자동차·모빌리티,전기차,both,,niche,0
+xpeng,샤오펑,XPeng,엑스펑,CN,자동차·모빌리티,전기차,both,,niche,0
+li-auto,리오토,Li Auto,리샹,CN,자동차·모빌리티,전기차,both,,niche,0
+chery,체리자동차,Chery,치루이,CN,자동차·모빌리티,완성차,both,,major,0
+aston-martin,애스턴마틴,Aston Martin,,GB,자동차·모빌리티,럭셔리·슈퍼카,both,,major,0
+mclaren,맥라렌,McLaren Automotive,,GB,자동차·모빌리티,럭셔리·슈퍼카,both,,major,0
+pagani,파가니,Pagani,,IT,자동차·모빌리티,럭셔리·슈퍼카,both,,niche,0
+koenigsegg,코닉세그,Koenigsegg,쾨니그세그,SE,자동차·모빌리티,럭셔리·슈퍼카,both,,niche,0
+rimac,리막,Rimac Automobili,,HR,자동차·모빌리티,전기차,both,,niche,0
+singer,싱어,Singer Vehicle Design,,US,자동차·모빌리티,럭셔리·슈퍼카,both,,niche,0
+harley-davidson,할리데이비슨,Harley-Davidson,할리,US,자동차·모빌리티,이륜차,both,,major,0
+yamaha-motor,야마하발동기,Yamaha Motor,야마하,JP,자동차·모빌리티,이륜차,both,,major,0
+piaggio,피아지오,Piaggio,,IT,자동차·모빌리티,이륜차,corporate,,niche,0
+vespa,베스파,Vespa,,IT,자동차·모빌리티,이륜차,product,piaggio,major,0
+ktm,KTM,KTM,,AT,자동차·모빌리티,이륜차,both,,niche,0
+triumph,트라이엄프,Triumph Motorcycles,,GB,자동차·모빌리티,이륜차,both,,niche,0
+michelin,미쉐린,Michelin,미슐랭,FR,자동차·모빌리티,타이어,both,,mega,0
+bridgestone,브리지스톤,Bridgestone,,JP,자동차·모빌리티,타이어,both,,mega,0
+goodyear,굿이어,Goodyear,,US,자동차·모빌리티,타이어,both,,major,0
+pirelli,피렐리,Pirelli,,IT,자동차·모빌리티,타이어,both,,major,0
+yokohama-tire,요코하마타이어,Yokohama Rubber,요코하마,JP,자동차·모빌리티,타이어,both,,niche,0
+hankook-tire,한국타이어,Hankook Tire & Technology,한국타이어앤테크놀로지|Hankook,KR,자동차·모빌리티,타이어,both,,major,0
+kumho-tire,금호타이어,Kumho Tire,,KR,자동차·모빌리티,타이어,both,,major,0
+nexen-tire,넥센타이어,Nexen Tire,넥센,KR,자동차·모빌리티,타이어,both,,major,0
+continental,콘티넨탈,Continental,,DE,자동차·모빌리티,자동차부품,both,,mega,1
+bosch,보쉬,Robert Bosch,Bosch,DE,자동차·모빌리티,자동차부품,both,,mega,1
+denso,덴소,Denso,,JP,자동차·모빌리티,자동차부품,both,,major,1
+zf,ZF,ZF Friedrichshafen,ZF프리드리히스하펜,DE,자동차·모빌리티,자동차부품,both,,major,1
+magna,마그나,Magna International,,CA,자동차·모빌리티,자동차부품,both,,major,1
+aisin,아이신,Aisin,,JP,자동차·모빌리티,자동차부품,both,,major,1
+valeo,발레오,Valeo,,FR,자동차·모빌리티,자동차부품,both,,major,1
+brembo,브렘보,Brembo,,IT,자동차·모빌리티,자동차부품,both,,niche,1
+hl-mando,HL만도,HL Mando,만도,KR,자동차·모빌리티,자동차부품,both,,major,1
+hanon-systems,한온시스템,Hanon Systems,,KR,자동차·모빌리티,자동차부품,both,,niche,1
+uber,우버,Uber,,US,자동차·모빌리티,모빌리티서비스,both,,mega,0
+lyft,리프트,Lyft,,US,자동차·모빌리티,모빌리티서비스,both,,major,0
+grab,그랩,Grab,,SG,자동차·모빌리티,모빌리티서비스,both,,major,0
+didi,디디추싱,DiDi,디디|滴滴出行,CN,자동차·모빌리티,모빌리티서비스,both,,major,0
+waymo,웨이모,Waymo,,US,자동차·모빌리티,모빌리티서비스,both,alphabet,major,0
+hertz,허츠,Hertz,허츠렌터카,US,자동차·모빌리티,모빌리티서비스,both,,major,0
+kakao-mobility,카카오모빌리티,Kakao Mobility,카카오T|카카오택시,KR,자동차·모빌리티,모빌리티서비스,both,kakao,major,0
+tmap-mobility,티맵모빌리티,TMAP Mobility,티맵|T맵,KR,자동차·모빌리티,모빌리티서비스,both,sk-group,major,0
+socar,쏘카,SOCAR,,KR,자동차·모빌리티,모빌리티서비스,both,,major,0
+caterpillar,캐터필러,Caterpillar,CAT|캐터필라,US,산업재·중공업,건설기계·장비,both,,mega,1
+komatsu,코마츠,Komatsu,고마쓰,JP,산업재·중공업,건설기계·장비,both,,major,1
+john-deere,존디어,John Deere,디어앤컴퍼니|Deere & Company,US,산업재·중공업,건설기계·장비,both,,mega,1
+kubota,구보다,Kubota,쿠보타,JP,산업재·중공업,건설기계·장비,both,,major,1
+liebherr,리프헤르,Liebherr,리버,DE,산업재·중공업,건설기계·장비,both,,niche,1
+sany,싼이중공업,SANY,산이|SANY Heavy Industry,CN,산업재·중공업,건설기계·장비,both,,major,1
+jcb,JCB,JCB,,GB,산업재·중공업,건설기계·장비,both,,niche,1
+hd-hyundai-xitesolution,HD현대사이트솔루션,HD Hyundai XiteSolution,HD현대건설기계|HD현대인프라코어|현대건설기계|두산인프라코어,KR,산업재·중공업,건설기계·장비,corporate,hd-hyundai,major,1
+doosan-bobcat,두산밥캣,Doosan Bobcat,밥캣|Bobcat,KR,산업재·중공업,건설기계·장비,both,doosan-group,major,1
+daedong,대동,Daedong,대동공업|카이오티|KIOTI,KR,산업재·중공업,건설기계·장비,both,,niche,1
+otis,오티스,Otis,오티스엘리베이터,US,산업재·중공업,건설기계·장비,both,,major,1
+hyundai-elevator,현대엘리베이터,Hyundai Elevator,,KR,산업재·중공업,건설기계·장비,both,,major,1
+hd-ksoe,HD한국조선해양,HD Korea Shipbuilding & Offshore Engineering,한국조선해양|KSOE,KR,산업재·중공업,조선·중공업,corporate,hd-hyundai,major,1
+hd-hyundai-heavy,HD현대중공업,HD Hyundai Heavy Industries,현대중공업|HHI,KR,산업재·중공업,조선·중공업,both,hd-ksoe,major,1
+hd-hyundai-samho,HD현대삼호,HD Hyundai Samho,현대삼호중공업,KR,산업재·중공업,조선·중공업,both,hd-ksoe,niche,1
+samsung-heavy,삼성중공업,Samsung Heavy Industries,SHI,KR,산업재·중공업,조선·중공업,both,samsung-group,major,1
+hanwha-ocean,한화오션,Hanwha Ocean,대우조선해양|대우조선,KR,산업재·중공업,조선·중공업,both,hanwha-group,major,1
+doosan-enerbility,두산에너빌리티,Doosan Enerbility,두산중공업,KR,산업재·중공업,조선·중공업,both,doosan-group,major,1
+mitsubishi-heavy,미쓰비시중공업,Mitsubishi Heavy Industries,MHI,JP,산업재·중공업,조선·중공업,both,,major,1
+kawasaki-heavy,가와사키중공업,Kawasaki Heavy Industries,가와사키|KHI,JP,산업재·중공업,조선·중공업,both,,major,1
+hanwha-aerospace,한화에어로스페이스,Hanwha Aerospace,한화테크윈,KR,산업재·중공업,항공우주·방산,both,hanwha-group,major,1
+hanwha-systems,한화시스템,Hanwha Systems,,KR,산업재·중공업,항공우주·방산,both,hanwha-group,niche,1
+hyundai-rotem,현대로템,Hyundai Rotem,,KR,산업재·중공업,항공우주·방산,both,hyundai-motor-group,major,1
+kai,한국항공우주산업,Korea Aerospace Industries,KAI|카이,KR,산업재·중공업,항공우주·방산,both,,major,1
+lig-nex1,LIG넥스원,LIG Nex1,넥스원,KR,산업재·중공업,항공우주·방산,both,,major,1
+airbus,에어버스,Airbus,,FR,산업재·중공업,항공우주·방산,both,,mega,1
+boeing,보잉,Boeing,,US,산업재·중공업,항공우주·방산,both,,mega,1
+lockheed-martin,록히드마틴,Lockheed Martin,록히드,US,산업재·중공업,항공우주·방산,both,,mega,1
+rtx,RTX,RTX,레이시온|Raytheon,US,산업재·중공업,항공우주·방산,corporate,,major,1
+northrop-grumman,노스롭그루먼,Northrop Grumman,노스럽그러먼,US,산업재·중공업,항공우주·방산,both,,major,1
+bae-systems,BAE시스템스,BAE Systems,BAE,GB,산업재·중공업,항공우주·방산,both,,major,1
+rheinmetall,라인메탈,Rheinmetall,,DE,산업재·중공업,항공우주·방산,both,,major,1
+saab,사브,Saab,,SE,산업재·중공업,항공우주·방산,both,,niche,1
+ge-aerospace,GE에어로스페이스,GE Aerospace,GE|제너럴일렉트릭,US,산업재·중공업,항공우주·방산,both,,major,1
+rolls-royce-holdings,롤스로이스 홀딩스,Rolls-Royce Holdings,롤스로이스 엔진,GB,산업재·중공업,항공우주·방산,both,,major,1
+safran,사프란,Safran,,FR,산업재·중공업,항공우주·방산,both,,niche,1
+dassault-aviation,다쏘항공,Dassault Aviation,다쏘|라팔,FR,산업재·중공업,항공우주·방산,both,,niche,1
+embraer,엠브라에르,Embraer,,BR,산업재·중공업,항공우주·방산,both,,major,1
+bombardier,봄바디어,Bombardier,,CA,산업재·중공업,항공우주·방산,both,,niche,1
+spacex,스페이스X,SpaceX,스페이스엑스,US,산업재·중공업,항공우주·방산,both,,mega,1
+blue-origin,블루오리진,Blue Origin,,US,산업재·중공업,항공우주·방산,both,,major,1
+rocket-lab,로켓랩,Rocket Lab,,US,산업재·중공업,항공우주·방산,both,,niche,1
+samsung-ct,삼성물산,Samsung C&T,,KR,산업재·중공업,건설,corporate,samsung-group,major,1
+raemian,래미안,Raemian,,KR,산업재·중공업,건설,product,samsung-ct,major,0
+hyundai-enc,현대건설,Hyundai Engineering & Construction,현대E&C,KR,산업재·중공업,건설,both,hyundai-motor-group,major,1
+hillstate,힐스테이트,Hillstate,디에이치|THE H,KR,산업재·중공업,건설,product,hyundai-enc,major,0
+gs-enc,GS건설,GS Engineering & Construction,GS E&C,KR,산업재·중공업,건설,both,gs-group,major,1
+xi,자이,Xi,,KR,산업재·중공업,건설,product,gs-enc,major,0
+daewoo-enc,대우건설,Daewoo Engineering & Construction,,KR,산업재·중공업,건설,both,,major,1
+prugio,푸르지오,Prugio,,KR,산업재·중공업,건설,product,daewoo-enc,major,0
+dl-enc,DL이앤씨,DL E&C,대림산업,KR,산업재·중공업,건설,both,,major,1
+e-pyeonhan-sesang,e편한세상,e-Pyeonhan Sesang,이편한세상|아크로|ACRO,KR,산업재·중공업,건설,product,dl-enc,major,0
+hdc-hyundai-development,HDC현대산업개발,HDC Hyundai Development,현대산업개발,KR,산업재·중공업,건설,both,,major,1
+ipark,아이파크,IPARK,,KR,산업재·중공업,건설,product,hdc-hyundai-development,major,0
+posco-enc,포스코이앤씨,POSCO E&C,포스코건설,KR,산업재·중공업,건설,both,posco-group,major,1
+the-sharp,더샵,The Sharp,,KR,산업재·중공업,건설,product,posco-enc,major,0
+lotte-castle,롯데캐슬,Lotte Castle,롯데건설,KR,산업재·중공업,건설,product,lotte-group,major,0
+vinci,뱅시,Vinci,방시,FR,산업재·중공업,건설,both,,major,1
+bechtel,벡텔,Bechtel,,US,산업재·중공업,건설,both,,major,1
+boston-dynamics,보스턴다이내믹스,Boston Dynamics,,US,산업재·중공업,산업자동화,both,hyundai-motor-group,major,1
+doosan-robotics,두산로보틱스,Doosan Robotics,,KR,산업재·중공업,산업자동화,both,doosan-group,niche,1
+abb,ABB,ABB,,CH,산업재·중공업,산업자동화,both,,major,1
+fanuc,화낙,FANUC,파낙,JP,산업재·중공업,산업자동화,both,,major,1
+yaskawa,야스카와전기,Yaskawa Electric,야스카와,JP,산업재·중공업,산업자동화,both,,niche,1
+kuka,쿠카,KUKA,,DE,산업재·중공업,산업자동화,both,,niche,1
+keyence,키엔스,Keyence,,JP,산업재·중공업,산업자동화,both,,major,1
+stanley-black-decker,스탠리블랙앤데커,Stanley Black & Decker,스탠리|블랙앤데커,US,산업재·중공업,공구,corporate,,major,0
+dewalt,디월트,DEWALT,,US,산업재·중공업,공구,product,stanley-black-decker,major,0
+techtronic-industries,TTI,Techtronic Industries,테크트로닉인더스트리,HK,산업재·중공업,공구,corporate,,niche,1
+milwaukee-tool,밀워키,Milwaukee Tool,밀워키툴,US,산업재·중공업,공구,product,techtronic-industries,major,0
+ryobi,료비,Ryobi,,JP,산업재·중공업,공구,product,techtronic-industries,niche,0
+makita,마끼다,Makita,마키타,JP,산업재·중공업,공구,both,,major,0
+hilti,힐티,Hilti,,LI,산업재·중공업,공구,both,,major,1
+snap-on,스냅온,Snap-on,,US,산업재·중공업,공구,both,,niche,1
+festool,페스툴,Festool,,DE,산업재·중공업,공구,both,,niche,0
+knipex,크니펙스,Knipex,,DE,산업재·중공업,공구,both,,niche,0
+wera,베라,Wera,,DE,산업재·중공업,공구,both,,niche,0
+keyang,계양전기,Keyang Electric Machinery,계양,KR,산업재·중공업,공구,both,,niche,0
+dhl,DHL,DHL Group,디에이치엘|도이치포스트,DE,물류,택배·특송,both,,mega,1
+fedex,페덱스,FedEx,,US,물류,택배·특송,both,,mega,1
+ups,UPS,United Parcel Service,유피에스,US,물류,택배·특송,both,,mega,1
+usps,미국우정청,United States Postal Service,USPS,US,물류,택배·특송,both,,major,0
+sf-express,SF익스프레스,SF Express,순펑|순풍택배,CN,물류,택배·특송,both,,major,1
+yamato-transport,야마토운수,Yamato Transport,쿠로네코야마토|야마토,JP,물류,택배·특송,both,,niche,0
+cj-logistics,CJ대한통운,CJ Logistics,대한통운,KR,물류,택배·특송,both,cj-group,major,1
+hanjin,한진,Hanjin,한진택배,KR,물류,택배·특송,both,,major,1
+lotte-global-logistics,롯데글로벌로지스,Lotte Global Logistics,롯데택배,KR,물류,택배·특송,both,lotte-group,major,1
+logen,로젠택배,Logen,로젠,KR,물류,택배·특송,both,,niche,1
+korea-post,우체국,Korea Post,우체국택배|우정사업본부,KR,물류,택배·특송,both,,major,0
+coupang-logistics,쿠팡로지스틱스서비스,Coupang Logistics Services,CLS|쿠팡로지스틱스,KR,물류,택배·특송,both,coupang,niche,1
+barogo,바로고,Barogo,,KR,물류,택배·특송,both,,niche,1
+maersk,머스크,A.P. Moller-Maersk,머스크라인|Maersk,DK,물류,해운,both,,mega,1
+msc,MSC,Mediterranean Shipping Company,엠에스씨,CH,물류,해운,both,,major,1
+cma-cgm,CMA CGM,CMA CGM,,FR,물류,해운,both,,major,1
+cosco-shipping,코스코,COSCO Shipping,COSCO|중국원양해운,CN,물류,해운,both,,major,1
+hapag-lloyd,하팍로이드,Hapag-Lloyd,,DE,물류,해운,both,,major,1
+evergreen-marine,에버그린,Evergreen Marine,에버그린해운,TW,물류,해운,both,,niche,1
+hmm,HMM,HMM,현대상선,KR,물류,해운,both,,major,1
+pan-ocean,팬오션,Pan Ocean,범양상선|STX팬오션,KR,물류,해운,both,,niche,1
+hyundai-glovis,현대글로비스,Hyundai Glovis,글로비스,KR,물류,물류,both,hyundai-motor-group,major,1
+lx-pantos,LX판토스,LX Pantos,판토스|범한판토스,KR,물류,물류,both,,niche,1
+kuehne-nagel,퀴네앤드나겔,Kuehne+Nagel,퀴네나겔,CH,물류,물류,both,,major,1
+dsv,DSV,DSV,,DK,물류,물류,both,,major,1
+db-schenker,DB쉥커,DB Schenker,쉥커|Schenker,DE,물류,물류,both,dsv,major,1
+cainiao,차이냐오,Cainiao,차이냐오네트워크,CN,물류,물류,both,alibaba,major,1
+flexport,플렉스포트,Flexport,,US,물류,물류,both,,niche,1

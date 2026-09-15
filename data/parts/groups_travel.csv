@@ -1,0 +1,194 @@
+id,name_ko,name_en,aliases,country,sector,category,brand_type,parent,tier,b2b
+samsung-group,삼성그룹,Samsung Group,삼성,KR,기업집단,한국재벌,corporate,,mega,0
+hyundai-motor-group,현대자동차그룹,Hyundai Motor Group,현대차그룹|HMG,KR,기업집단,한국재벌,corporate,,mega,0
+sk-group,SK그룹,SK Group,SK|에스케이,KR,기업집단,한국재벌,corporate,,major,0
+lg-group,LG그룹,LG Group,LG|엘지,KR,기업집단,한국재벌,corporate,,mega,0
+lotte-group,롯데그룹,Lotte Group,롯데,KR,기업집단,한국재벌,corporate,,major,0
+cj-group,CJ그룹,CJ Group,CJ|씨제이,KR,기업집단,한국재벌,corporate,,major,0
+hanwha-group,한화그룹,Hanwha Group,한화,KR,기업집단,한국재벌,corporate,,major,1
+gs-group,GS그룹,GS Group,GS,KR,기업집단,한국재벌,corporate,,major,0
+posco-group,포스코그룹,POSCO Group,포스코|POSCO,KR,기업집단,한국재벌,corporate,,major,1
+shinsegae-group,신세계그룹,Shinsegae Group,신세계,KR,기업집단,한국재벌,corporate,,major,0
+hyundai-department-store-group,현대백화점그룹,Hyundai Department Store Group,현대백화점,KR,기업집단,한국재벌,corporate,,major,0
+hd-hyundai,HD현대,HD Hyundai,현대중공업그룹|HD현대그룹,KR,기업집단,한국재벌,corporate,,major,1
+doosan-group,두산그룹,Doosan Group,두산,KR,기업집단,한국재벌,corporate,,major,1
+kolon-group,코오롱그룹,Kolon Group,코오롱,KR,기업집단,한국재벌,corporate,,major,0
+hyosung-group,효성그룹,Hyosung Group,효성,KR,기업집단,한국재벌,corporate,,major,1
+naver,네이버,NAVER,NAVER|naver,KR,인터넷·플랫폼·게임,검색·포털,both,,major,0
+kakao,카카오,Kakao,카카오톡|kakao,KR,인터넷·플랫폼·게임,SNS·메신저,both,,major,0
+softbank-group,소프트뱅크그룹,SoftBank Group,소프트뱅크|SoftBank,JP,기업집단,해외복합기업,corporate,,mega,1
+hanjin-group,한진그룹,Hanjin Group,한진,KR,기업집단,한국재벌,corporate,,major,0
+kumho-asiana-group,금호아시아나그룹,Kumho Asiana Group,금호그룹|금호,KR,기업집단,한국재벌,corporate,,major,0
+nonghyup,농협,NongHyup,NH|농협중앙회|NH농협,KR,기업집단,한국재벌,corporate,,major,0
+booyoung-group,부영그룹,Booyoung Group,부영,KR,기업집단,한국재벌,corporate,,major,0
+youngpoong-group,영풍그룹,Young Poong Group,영풍,KR,기업집단,한국재벌,corporate,,niche,1
+celltrion-group,셀트리온그룹,Celltrion Group,셀트리온,KR,기업집단,한국재벌,corporate,,major,1
+mirae-asset-group,미래에셋그룹,Mirae Asset Group,미래에셋,KR,기업집단,한국재벌,corporate,,major,0
+kyobo-group,교보그룹,Kyobo Group,교보,KR,기업집단,한국재벌,corporate,,major,0
+korea-investment-group,한국투자금융그룹,Korea Investment Holdings,한국투자|한투,KR,기업집단,한국재벌,corporate,,major,0
+dl-group,DL그룹,DL Group,대림그룹|대림|DL,KR,기업집단,한국재벌,corporate,,major,1
+hdc-group,HDC그룹,HDC Group,HDC|현대산업개발그룹,KR,기업집단,한국재벌,corporate,,major,1
+taekwang-group,태광그룹,Taekwang Group,태광,KR,기업집단,한국재벌,corporate,,niche,0
+harim-group,하림그룹,Harim Group,하림,KR,기업집단,한국재벌,corporate,,major,0
+eland-group,이랜드그룹,E-Land Group,이랜드|E-LAND,KR,기업집단,한국재벌,corporate,,major,0
+samyang-group,삼양그룹,Samyang Group,삼양,KR,기업집단,한국재벌,corporate,,niche,1
+daesang-group,대상그룹,Daesang Group,대상,KR,기업집단,한국재벌,corporate,,major,0
+oci-group,OCI그룹,OCI Group,OCI,KR,기업집단,한국재벌,corporate,,niche,1
+kcc-group,KCC그룹,KCC Group,KCC,KR,기업집단,한국재벌,corporate,,major,1
+ls-group,LS그룹,LS Group,LS,KR,기업집단,한국재벌,corporate,,major,1
+lx-group,LX그룹,LX Group,LX,KR,기업집단,한국재벌,corporate,,major,1
+seah-group,세아그룹,SeAH Group,세아,KR,기업집단,한국재벌,corporate,,niche,1
+dongwon-group,동원그룹,Dongwon Group,동원,KR,기업집단,한국재벌,corporate,,major,0
+db-group,DB그룹,DB Group,동부그룹|DB,KR,기업집단,한국재벌,corporate,,major,0
+hansol-group,한솔그룹,Hansol Group,한솔,KR,기업집단,한국재벌,corporate,,niche,1
+hankook-group,한국앤컴퍼니그룹,Hankook & Company Group,한국타이어그룹|한국앤컴퍼니,KR,기업집단,한국재벌,corporate,,major,0
+hoban-group,호반그룹,Hoban Group,호반,KR,기업집단,한국재벌,corporate,,niche,0
+jungheung-group,중흥그룹,Jungheung Group,중흥,KR,기업집단,한국재벌,corporate,,niche,0
+aekyung-group,애경그룹,Aekyung Group,애경|AK,KR,기업집단,한국재벌,corporate,,major,0
+sono-group,소노그룹,Sono Group,대명소노그룹|대명그룹|소노인터내셔널,KR,기업집단,한국재벌,corporate,,major,0
+paradise-group,파라다이스그룹,Paradise Group,파라다이스,KR,기업집단,한국재벌,corporate,,major,0
+kt-group,KT그룹,KT Group,KT,KR,기업집단,한국재벌,corporate,,major,0
+berkshire-hathaway,버크셔 해서웨이,Berkshire Hathaway,버크셔|BRK,US,기업집단,해외복합기업,corporate,,mega,1
+tata-group,타타그룹,Tata Group,타타|Tata,IN,기업집단,해외복합기업,corporate,,mega,0
+reliance,릴라이언스,Reliance Industries,릴라이언스 인더스트리|Reliance,IN,기업집단,해외복합기업,corporate,,major,0
+adani-group,아다니그룹,Adani Group,아다니|Adani,IN,기업집단,해외복합기업,corporate,,major,1
+mahindra-group,마힌드라그룹,Mahindra Group,마힌드라|Mahindra,IN,기업집단,해외복합기업,corporate,,major,0
+aditya-birla-group,아디티야 비를라 그룹,Aditya Birla Group,비를라,IN,기업집단,해외복합기업,corporate,,niche,1
+mitsubishi-group,미쓰비시그룹,Mitsubishi Group,미쓰비시|三菱,JP,기업집단,해외복합기업,corporate,,mega,1
+mitsui-group,미쓰이그룹,Mitsui Group,미쓰이|三井,JP,기업집단,해외복합기업,corporate,,major,1
+sumitomo-group,스미토모그룹,Sumitomo Group,스미토모|住友,JP,기업집단,해외복합기업,corporate,,major,1
+hitachi,히타치,Hitachi,日立,JP,기업집단,해외복합기업,both,,mega,1
+siemens,지멘스,Siemens,Siemens AG,DE,기업집단,해외복합기업,both,,mega,1
+general-electric,GE,General Electric,제너럴 일렉트릭|GE에어로스페이스|GE Aerospace,US,기업집단,해외복합기업,both,,mega,1
+honeywell,하니웰,Honeywell,,US,기업집단,해외복합기업,both,,major,1
+3m,3M,3M,쓰리엠|Minnesota Mining and Manufacturing,US,기업집단,해외복합기업,both,,mega,0
+jardine-matheson,자딘 매디슨,Jardine Matheson,자딘|Jardines,HK,기업집단,해외복합기업,corporate,,major,1
+swire-group,스와이어그룹,Swire Group,스와이어|Swire,GB,기업집단,해외복합기업,corporate,,niche,1
+ck-hutchison,CK허치슨,CK Hutchison,허치슨|CK Hutchison Holdings,HK,기업집단,해외복합기업,corporate,,major,1
+koc-holding,코치그룹,Koç Holding,코치홀딩|Koc,TR,기업집단,해외복합기업,corporate,,niche,1
+virgin-group,버진그룹,Virgin Group,버진|Virgin,GB,기업집단,해외복합기업,corporate,,mega,0
+bollore,볼로레,Bolloré,볼로레그룹|Bollore,FR,기업집단,해외복합기업,corporate,,niche,1
+fosun-group,푸싱그룹,Fosun International,복성그룹|Fosun,CN,기업집단,해외복합기업,corporate,,niche,1
+citic-group,CITIC그룹,CITIC Group,중신그룹|中信,CN,기업집단,해외복합기업,corporate,,major,1
+investor-ab,인베스터 AB,Investor AB,발렌베리그룹|Wallenberg,SE,기업집단,해외복합기업,corporate,,niche,1
+ayala-corporation,아얄라그룹,Ayala Corporation,아얄라|Ayala,PH,기업집단,해외복합기업,corporate,,niche,1
+korean-air,대한항공,Korean Air,KAL|Korean Air Lines,KR,여행·항공·호텔,항공사,both,hanjin-group,major,0
+asiana-airlines,아시아나항공,Asiana Airlines,아시아나|Asiana,KR,여행·항공·호텔,항공사,both,korean-air,major,0
+jin-air,진에어,Jin Air,JIN AIR,KR,여행·항공·호텔,항공사,both,korean-air,major,0
+air-busan,에어부산,Air Busan,,KR,여행·항공·호텔,항공사,both,korean-air,niche,0
+air-seoul,에어서울,Air Seoul,,KR,여행·항공·호텔,항공사,both,korean-air,niche,0
+jeju-air,제주항공,Jeju Air,JEJUair,KR,여행·항공·호텔,항공사,both,aekyung-group,major,0
+tway-air,티웨이항공,T'way Air,티웨이|트리니티항공,KR,여행·항공·호텔,항공사,both,sono-group,major,0
+eastar-jet,이스타항공,Eastar Jet,이스타,KR,여행·항공·호텔,항공사,both,,niche,0
+air-premia,에어프레미아,Air Premia,,KR,여행·항공·호텔,항공사,both,,niche,0
+emirates,에미레이트항공,Emirates,에미레이트|Emirates Airline,AE,여행·항공·호텔,항공사,both,,mega,0
+qatar-airways,카타르항공,Qatar Airways,,QA,여행·항공·호텔,항공사,both,,mega,0
+etihad-airways,에티하드항공,Etihad Airways,에티하드,AE,여행·항공·호텔,항공사,both,,major,0
+singapore-airlines,싱가포르항공,Singapore Airlines,SIA|싱가포르에어라인,SG,여행·항공·호텔,항공사,both,,mega,0
+cathay-pacific,캐세이퍼시픽,Cathay Pacific,캐세이|Cathay,HK,여행·항공·호텔,항공사,both,swire-group,major,0
+delta-air-lines,델타항공,Delta Air Lines,델타|Delta,US,여행·항공·호텔,항공사,both,,mega,0
+united-airlines,유나이티드항공,United Airlines,유나이티드|United,US,여행·항공·호텔,항공사,both,,mega,0
+american-airlines,아메리칸항공,American Airlines,아메리칸에어라인,US,여행·항공·호텔,항공사,both,,mega,0
+southwest-airlines,사우스웨스트항공,Southwest Airlines,사우스웨스트,US,여행·항공·호텔,항공사,both,,major,0
+lufthansa,루프트한자,Lufthansa,Deutsche Lufthansa,DE,여행·항공·호텔,항공사,both,,mega,0
+air-france,에어프랑스,Air France,,FR,여행·항공·호텔,항공사,both,,mega,0
+klm,KLM,KLM Royal Dutch Airlines,KLM 네덜란드항공,NL,여행·항공·호텔,항공사,both,,major,0
+british-airways,영국항공,British Airways,브리티시 에어웨이즈|BA,GB,여행·항공·호텔,항공사,both,,mega,0
+virgin-atlantic,버진애틀랜틱,Virgin Atlantic,,GB,여행·항공·호텔,항공사,both,virgin-group,major,0
+turkish-airlines,터키항공,Turkish Airlines,튀르키예항공,TR,여행·항공·호텔,항공사,both,,major,0
+finnair,핀에어,Finnair,,FI,여행·항공·호텔,항공사,both,,niche,0
+ryanair,라이언에어,Ryanair,,IE,여행·항공·호텔,항공사,both,,major,0
+easyjet,이지젯,easyJet,,GB,여행·항공·호텔,항공사,both,,major,0
+ana,전일본공수,All Nippon Airways,ANA|全日空,JP,여행·항공·호텔,항공사,both,,major,0
+jal,일본항공,Japan Airlines,JAL|日本航空,JP,여행·항공·호텔,항공사,both,,major,0
+peach-aviation,피치항공,Peach Aviation,피치|Peach,JP,여행·항공·호텔,항공사,both,,niche,0
+qantas,콴타스항공,Qantas,콴타스,AU,여행·항공·호텔,항공사,both,,major,0
+air-india,에어인디아,Air India,,IN,여행·항공·호텔,항공사,both,tata-group,major,0
+vietnam-airlines,베트남항공,Vietnam Airlines,,VN,여행·항공·호텔,항공사,both,,niche,0
+vietjet,비엣젯항공,VietJet Air,비엣젯|VietJet,VN,여행·항공·호텔,항공사,both,,niche,0
+airasia,에어아시아,AirAsia,,MY,여행·항공·호텔,항공사,both,,major,0
+eva-air,에바항공,EVA Air,,TW,여행·항공·호텔,항공사,both,,niche,0
+marriott,메리어트,Marriott International,메리어트 인터내셔널|Marriott,US,여행·항공·호텔,호텔·리조트,both,,mega,0
+ritz-carlton,리츠칼튼,The Ritz-Carlton,리츠칼튼 호텔|Ritz-Carlton,US,여행·항공·호텔,호텔·리조트,product,marriott,mega,0
+jw-marriott,JW 메리어트,JW Marriott,JW메리어트,US,여행·항공·호텔,호텔·리조트,product,marriott,major,0
+w-hotels,W 호텔,W Hotels,W호텔,US,여행·항공·호텔,호텔·리조트,product,marriott,major,0
+westin,웨스틴,Westin Hotels & Resorts,웨스틴 호텔,US,여행·항공·호텔,호텔·리조트,product,marriott,major,0
+citizenm,시티즌엠,citizenM,,NL,여행·항공·호텔,호텔·리조트,product,marriott,niche,0
+hilton,힐튼,Hilton,힐튼 호텔|Hilton Worldwide,US,여행·항공·호텔,호텔·리조트,both,,mega,0
+conrad,콘래드,Conrad Hotels & Resorts,콘래드 호텔,US,여행·항공·호텔,호텔·리조트,product,hilton,major,0
+waldorf-astoria,월도프 아스토리아,Waldorf Astoria,월도프아스토리아,US,여행·항공·호텔,호텔·리조트,product,hilton,major,0
+hyatt,하얏트,Hyatt Hotels,하얏트 호텔|Hyatt,US,여행·항공·호텔,호텔·리조트,both,,mega,0
+park-hyatt,파크 하얏트,Park Hyatt,파크하얏트,US,여행·항공·호텔,호텔·리조트,product,hyatt,major,0
+andaz,안다즈,Andaz,,US,여행·항공·호텔,호텔·리조트,product,hyatt,niche,0
+accor,아코르,Accor,아코르 호텔|Accor Hotels,FR,여행·항공·호텔,호텔·리조트,corporate,,major,0
+sofitel,소피텔,Sofitel,,FR,여행·항공·호텔,호텔·리조트,product,accor,major,0
+novotel,노보텔,Novotel,,FR,여행·항공·호텔,호텔·리조트,product,accor,major,0
+ibis,이비스,ibis,이비스 호텔,FR,여행·항공·호텔,호텔·리조트,product,accor,major,0
+fairmont,페어몬트,Fairmont Hotels & Resorts,페어몬트 호텔,CA,여행·항공·호텔,호텔·리조트,product,accor,major,0
+raffles,래플스,Raffles Hotels & Resorts,래플스 호텔,SG,여행·항공·호텔,호텔·리조트,product,accor,major,0
+ihg,IHG,IHG Hotels & Resorts,InterContinental Hotels Group|인터컨티넨탈 호텔 그룹,GB,여행·항공·호텔,호텔·리조트,corporate,,major,0
+intercontinental,인터컨티넨탈,InterContinental Hotels & Resorts,인터컨티넨탈 호텔,GB,여행·항공·호텔,호텔·리조트,product,ihg,major,0
+holiday-inn,홀리데이 인,Holiday Inn,홀리데이인,US,여행·항공·호텔,호텔·리조트,product,ihg,major,0
+six-senses,식스센스,Six Senses,식스센스 리조트,TH,여행·항공·호텔,호텔·리조트,product,ihg,niche,0
+four-seasons,포시즌스,Four Seasons Hotels and Resorts,포시즌스 호텔|포시즌,CA,여행·항공·호텔,호텔·리조트,both,,mega,0
+aman,아만,Aman,아만 리조트|Aman Resorts,CH,여행·항공·호텔,호텔·리조트,both,,major,0
+rosewood,로즈우드,Rosewood Hotels & Resorts,로즈우드 호텔,HK,여행·항공·호텔,호텔·리조트,both,,major,0
+mandarin-oriental,만다린 오리엔탈,Mandarin Oriental,만다린오리엔탈,HK,여행·항공·호텔,호텔·리조트,both,jardine-matheson,major,0
+peninsula-hotels,페닌슐라,The Peninsula Hotels,페닌슐라 호텔,HK,여행·항공·호텔,호텔·리조트,both,,major,0
+shangri-la,샹그릴라,Shangri-La Hotels and Resorts,샹그릴라 호텔,HK,여행·항공·호텔,호텔·리조트,both,,major,0
+banyan-tree,반얀트리,Banyan Tree,반얀트리 호텔,SG,여행·항공·호텔,호텔·리조트,both,,major,0
+ace-hotel,에이스 호텔,Ace Hotel,에이스호텔,US,여행·항공·호텔,호텔·리조트,both,,niche,0
+taj-hotels,타지 호텔,Taj Hotels,타지|IHCL,IN,여행·항공·호텔,호텔·리조트,product,tata-group,major,0
+hoshino-resorts,호시노 리조트,Hoshino Resorts,호시노야|星野リゾート,JP,여행·항공·호텔,호텔·리조트,both,,niche,0
+toyoko-inn,토요코인,Toyoko Inn,東横イン,JP,여행·항공·호텔,호텔·리조트,both,,niche,0
+club-med,클럽메드,Club Med,클럽 메드,FR,여행·항공·호텔,호텔·리조트,both,fosun-group,major,0
+marina-bay-sands,마리나 베이 샌즈,Marina Bay Sands,마리나베이샌즈,SG,여행·항공·호텔,호텔·리조트,both,,major,0
+hotel-shilla,신라호텔,The Shilla,호텔신라|더 신라,KR,여행·항공·호텔,호텔·리조트,both,samsung-group,major,0
+shilla-stay,신라스테이,Shilla Stay,,KR,여행·항공·호텔,호텔·리조트,product,hotel-shilla,niche,0
+lotte-hotel,롯데호텔,Lotte Hotels & Resorts,호텔롯데|롯데호텔앤리조트,KR,여행·항공·호텔,호텔·리조트,both,lotte-group,major,0
+signiel,시그니엘,SIGNIEL,시그니엘 서울,KR,여행·항공·호텔,호텔·리조트,product,lotte-hotel,major,0
+josun-hotels,조선호텔앤리조트,Josun Hotels & Resorts,조선호텔|웨스틴조선|그랜드조선|조선팰리스,KR,여행·항공·호텔,호텔·리조트,both,shinsegae-group,major,0
+walkerhill,워커힐,Walkerhill,그랜드워커힐|워커힐호텔,KR,여행·항공·호텔,호텔·리조트,both,sk-group,major,0
+paradise-hotels,파라다이스호텔,Paradise Hotels & Resorts,파라다이스시티,KR,여행·항공·호텔,호텔·리조트,both,paradise-group,major,0
+glad-hotels,글래드호텔,GLAD Hotels,글래드|GLAD,KR,여행·항공·호텔,호텔·리조트,both,dl-group,niche,0
+kensington-hotels,켄싱턴호텔앤리조트,Kensington Hotels & Resorts,켄싱턴호텔|켄싱턴리조트,KR,여행·항공·호텔,호텔·리조트,both,eland-group,niche,0
+hanwha-resorts,한화리조트,Hanwha Hotels & Resorts,한화호텔앤드리조트|더플라자,KR,여행·항공·호텔,호텔·리조트,both,hanwha-group,major,0
+sono-hotels,소노호텔앤리조트,Sono Hotels & Resorts,소노|대명리조트|비발디파크,KR,여행·항공·호텔,호텔·리조트,both,sono-group,major,0
+booking-holdings,부킹홀딩스,Booking Holdings,Priceline Group,US,여행·항공·호텔,여행플랫폼,corporate,,major,0
+booking-com,부킹닷컴,Booking.com,부킹|Booking,NL,여행·항공·호텔,여행플랫폼,both,booking-holdings,mega,0
+agoda,아고다,Agoda,,SG,여행·항공·호텔,여행플랫폼,both,booking-holdings,major,0
+kayak,카약,KAYAK,,US,여행·항공·호텔,여행플랫폼,both,booking-holdings,niche,0
+expedia,익스피디아,Expedia,익스피디아 그룹|Expedia Group,US,여행·항공·호텔,여행플랫폼,both,,mega,0
+hotels-com,호텔스닷컴,Hotels.com,,US,여행·항공·호텔,여행플랫폼,both,expedia,major,0
+vrbo,브르보,Vrbo,Vacation Rentals by Owner,US,여행·항공·호텔,여행플랫폼,both,expedia,niche,0
+trivago,트리바고,trivago,,DE,여행·항공·호텔,여행플랫폼,both,expedia,major,0
+airbnb,에어비앤비,Airbnb,,US,여행·항공·호텔,여행플랫폼,both,,mega,0
+trip-com,트립닷컴,Trip.com,씨트립|Ctrip|Trip.com Group,CN,여행·항공·호텔,여행플랫폼,both,,major,0
+skyscanner,스카이스캐너,Skyscanner,,GB,여행·항공·호텔,여행플랫폼,both,trip-com,major,0
+tripadvisor,트립어드바이저,Tripadvisor,,US,여행·항공·호텔,여행플랫폼,both,,major,0
+klook,클룩,Klook,,HK,여행·항공·호텔,여행플랫폼,both,,niche,0
+kkday,케이케이데이,KKday,KK데이,TW,여행·항공·호텔,여행플랫폼,both,,niche,0
+yanolja,야놀자,Yanolja,놀유니버스|NOL|놀,KR,여행·항공·호텔,여행플랫폼,both,,major,0
+interpark-triple,인터파크트리플,Interpark Triple,인터파크투어|트리플|NOL 인터파크투어,KR,여행·항공·호텔,여행플랫폼,both,yanolja,major,0
+yeogi-eottae,여기어때,Yeogi Eottae,여기어때컴퍼니|goodchoice,KR,여행·항공·호텔,여행플랫폼,both,,major,0
+myrealtrip,마이리얼트립,MyRealTrip,마리트,KR,여행·항공·호텔,여행플랫폼,both,,major,0
+hanatour,하나투어,Hanatour,,KR,여행·항공·호텔,여행플랫폼,both,,major,0
+modetour,모두투어,Modetour,,KR,여행·항공·호텔,여행플랫폼,both,,major,0
+ybtour,노랑풍선,Yellow Balloon Tour,,KR,여행·항공·호텔,여행플랫폼,both,,niche,0
+verygoodtour,참좋은여행,Very Good Tour,,KR,여행·항공·호텔,여행플랫폼,both,,niche,0
+everland,에버랜드,Everland,에버랜드 리조트,KR,여행·항공·호텔,크루즈·테마파크,both,samsung-group,major,0
+caribbean-bay,캐리비안 베이,Caribbean Bay,캐리비안베이|캐비,KR,여행·항공·호텔,크루즈·테마파크,product,everland,niche,0
+lotte-world,롯데월드,Lotte World,롯데월드 어드벤처,KR,여행·항공·호텔,크루즈·테마파크,both,lotte-group,major,0
+seoul-land,서울랜드,Seoul Land,,KR,여행·항공·호텔,크루즈·테마파크,both,,niche,0
+legoland,레고랜드,Legoland,레고랜드 코리아,GB,여행·항공·호텔,크루즈·테마파크,both,,major,0
+disney-parks,디즈니랜드,Disneyland,디즈니 파크|Disney Parks|디즈니월드,US,여행·항공·호텔,크루즈·테마파크,product,disney,mega,0
+tokyo-disney-resort,도쿄 디즈니 리조트,Tokyo Disney Resort,도쿄디즈니랜드|도쿄디즈니씨,JP,여행·항공·호텔,크루즈·테마파크,product,,major,0
+universal-studios,유니버설 스튜디오,Universal Studios,유니버설 스튜디오 재팬|USJ|Universal Parks & Resorts,US,여행·항공·호텔,크루즈·테마파크,product,nbcuniversal,mega,0
+six-flags,식스 플래그,Six Flags,식스플래그,US,여행·항공·호텔,크루즈·테마파크,both,,major,0
+seaworld,씨월드,SeaWorld,,US,여행·항공·호텔,크루즈·테마파크,both,,niche,0
+royal-caribbean,로열캐리비안,Royal Caribbean,로열 캐리비안 크루즈|Royal Caribbean International,US,여행·항공·호텔,크루즈·테마파크,both,,major,0
+carnival-cruise,카니발 크루즈,Carnival Cruise Line,카니발|Carnival Corporation,US,여행·항공·호텔,크루즈·테마파크,both,,major,0
+princess-cruises,프린세스 크루즈,Princess Cruises,,US,여행·항공·호텔,크루즈·테마파크,product,carnival-cruise,niche,0
+msc-cruises,MSC 크루즈,MSC Cruises,MSC크루즈,CH,여행·항공·호텔,크루즈·테마파크,both,,major,0
+norwegian-cruise-line,노르웨이지안 크루즈 라인,Norwegian Cruise Line,NCL|노르웨이지안,US,여행·항공·호텔,크루즈·테마파크,both,,major,0
+virgin-voyages,버진 보야지스,Virgin Voyages,,GB,여행·항공·호텔,크루즈·테마파크,both,virgin-group,niche,0

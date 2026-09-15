@@ -1,0 +1,135 @@
+id,name_ko,name_en,aliases,country,sector,category,brand_type,parent,parent_name,tier,b2b
+kenvue,켄뷰,Kenvue,,US,제약·헬스케어,일반의약품·소비자헬스,corporate,,,major,0
+listerine,리스테린,Listerine,,US,제약·헬스케어,일반의약품·소비자헬스,product,kenvue,Kenvue,major,0
+sensodyne,센소다인,Sensodyne,,GB,제약·헬스케어,일반의약품·소비자헬스,product,haleon,Haleon,major,0
+tylenol,타이레놀,Tylenol,,US,제약·헬스케어,일반의약품·소비자헬스,product,kenvue,Kenvue,mega,0
+urusa,우루사,URSA,,KR,제약·헬스케어,일반의약품·소비자헬스,product,daewoong,Daewoong Pharmaceutical,major,0
+abbvie,애브비,AbbVie,,US,제약·헬스케어,제약,corporate,,,mega,0
+astrazeneca,아스트라제네카,AstraZeneca,AZ,GB,제약·헬스케어,제약,corporate,,,mega,0
+bayer,바이엘,Bayer,,DE,제약·헬스케어,제약,both,,,mega,0
+boehringer-ingelheim,베링거인겔하임,Boehringer Ingelheim,,DE,제약·헬스케어,제약,corporate,,,major,0
+chong-kun-dang,종근당,Chong Kun Dang,CKD,KR,제약·헬스케어,제약,both,,,major,0
+daewoong,대웅제약,Daewoong Pharmaceutical,대웅,KR,제약·헬스케어,제약,both,,,major,0
+eli-lilly,일라이 릴리,Eli Lilly,릴리,US,제약·헬스케어,제약,corporate,,,mega,0
+galderma,갈더마,Galderma,,CH,제약·헬스케어,제약,corporate,,,major,0
+gc-biopharma,GC녹십자,GC Biopharma,녹십자,KR,제약·헬스케어,제약,both,,,major,0
+gsk,GSK,GSK,글락소스미스클라인|GlaxoSmithKline,GB,제약·헬스케어,제약,corporate,,,mega,0
+hanmi,한미약품,Hanmi Pharmaceutical,한미,KR,제약·헬스케어,제약,both,,,major,0
+johnson-johnson,존슨앤드존슨,Johnson & Johnson,J&J|존슨앤존슨|얀센,US,제약·헬스케어,제약,corporate,,,mega,0
+mounjaro,마운자로,Mounjaro,젭바운드|Zepbound,US,제약·헬스케어,제약,product,eli-lilly,Eli Lilly,major,0
+msd,MSD,Merck & Co.,머크|한국MSD,US,제약·헬스케어,제약,corporate,,,mega,0
+novartis,노바티스,Novartis,,CH,제약·헬스케어,제약,corporate,,,mega,0
+novo-nordisk,노보 노디스크,Novo Nordisk,노보노디스크,DK,제약·헬스케어,제약,corporate,,,mega,0
+ozempic,오젬픽,Ozempic,,DK,제약·헬스케어,제약,product,novo-nordisk,Novo Nordisk,major,0
+pfizer,화이자,Pfizer,,US,제약·헬스케어,제약,both,,,mega,0
+roche,로슈,Roche,한국로슈,CH,제약·헬스케어,제약,corporate,,,mega,0
+sanofi,사노피,Sanofi,,FR,제약·헬스케어,제약,corporate,,,mega,0
+takeda,다케다,Takeda,다케다제약,JP,제약·헬스케어,제약,corporate,,,major,0
+wegovy,위고비,Wegovy,,DK,제약·헬스케어,제약,product,novo-nordisk,Novo Nordisk,major,0
+yuhan,유한양행,Yuhan,,KR,제약·헬스케어,제약,both,,,major,0
+bbc,BBC,British Broadcasting Corporation,,GB,통신·미디어·엔터,방송·신문,both,,,mega,0
+bloomberg,블룸버그,Bloomberg,,US,통신·미디어·엔터,방송·신문,both,,,major,1
+chosun-ilbo,조선일보,The Chosun Ilbo,조선,KR,통신·미디어·엔터,방송·신문,both,,,major,0
+cnn,CNN,Cable News Network,,US,통신·미디어·엔터,방송·신문,both,,,mega,0
+espn,ESPN,ESPN,,US,통신·미디어·엔터,방송·신문,product,disney,The Walt Disney Company,major,0
+joongang-ilbo,중앙일보,JoongAng Ilbo,중앙,KR,통신·미디어·엔터,방송·신문,both,,,major,0
+jtbc,JTBC,JTBC,,KR,통신·미디어·엔터,방송·신문,both,,,major,0
+kbs,KBS,Korean Broadcasting System,한국방송공사,KR,통신·미디어·엔터,방송·신문,both,,,major,0
+mbc,MBC,Munhwa Broadcasting Corporation,문화방송,KR,통신·미디어·엔터,방송·신문,both,,,major,0
+mnet,Mnet,Mnet,엠넷,KR,통신·미디어·엔터,방송·신문,product,cj-enm,CJ ENM,major,0
+new-york-times,뉴욕타임스,The New York Times,NYT|뉴욕타임즈,US,통신·미디어·엔터,방송·신문,both,,,major,0
+nhk,NHK,Japan Broadcasting Corporation,일본방송협회,JP,통신·미디어·엔터,방송·신문,both,,,major,0
+sbs,SBS,Seoul Broadcasting System,,KR,통신·미디어·엔터,방송·신문,both,,,major,0
+the-economist,이코노미스트,The Economist,,GB,통신·미디어·엔터,방송·신문,both,,,major,0
+tvn,tvN,tvN,티비엔,KR,통신·미디어·엔터,방송·신문,product,cj-enm,CJ ENM,major,0
+big-hit-music,빅히트 뮤직,BIGHIT MUSIC,빅히트뮤직,KR,통신·미디어·엔터,엔터테인먼트·음반,corporate,hybe,HYBE,niche,0
+cj-enm,CJ ENM,CJ ENM,씨제이이엔엠,KR,통신·미디어·엔터,엔터테인먼트·음반,corporate,cj-group,CJ Group,major,0
+hybe,하이브,HYBE,빅히트|Big Hit,KR,통신·미디어·엔터,엔터테인먼트·음반,corporate,,,major,0
+jyp-entertainment,JYP엔터테인먼트,JYP Entertainment,JYP|제이와이피,KR,통신·미디어·엔터,엔터테인먼트·음반,corporate,,,major,0
+kakao-entertainment,카카오엔터테인먼트,Kakao Entertainment,카카오엔터,KR,통신·미디어·엔터,엔터테인먼트·음반,corporate,kakao,Kakao,major,0
+live-nation,라이브네이션,Live Nation Entertainment,티켓마스터|Ticketmaster,US,통신·미디어·엔터,엔터테인먼트·음반,corporate,,,major,0
+sm-entertainment,SM엔터테인먼트,SM Entertainment,SM|에스엠,KR,통신·미디어·엔터,엔터테인먼트·음반,corporate,kakao,Kakao,major,0
+sony-music,소니뮤직,Sony Music Entertainment,,US,통신·미디어·엔터,엔터테인먼트·음반,corporate,sony,Sony,major,0
+starship-entertainment,스타쉽엔터테인먼트,Starship Entertainment,스타쉽,KR,통신·미디어·엔터,엔터테인먼트·음반,corporate,kakao-entertainment,Kakao Entertainment,niche,0
+studio-dragon,스튜디오드래곤,Studio Dragon,,KR,통신·미디어·엔터,엔터테인먼트·음반,corporate,cj-enm,CJ ENM,niche,1
+universal-music-group,유니버설뮤직,Universal Music Group,UMG,NL,통신·미디어·엔터,엔터테인먼트·음반,corporate,,,mega,0
+warner-music-group,워너뮤직,Warner Music Group,WMG,US,통신·미디어·엔터,엔터테인먼트·음반,corporate,,,major,0
+yg-entertainment,YG엔터테인먼트,YG Entertainment,YG|와이지,KR,통신·미디어·엔터,엔터테인먼트·음반,corporate,,,major,0
+a24,A24,A24,,US,통신·미디어·엔터,영화·애니메이션,both,,,niche,0
+cgv,CGV,CJ CGV,,KR,통신·미디어·엔터,영화·애니메이션,both,cj-group,CJ Group,major,0
+disney,디즈니,The Walt Disney Company,월트 디즈니|Disney,US,통신·미디어·엔터,영화·애니메이션,both,,,mega,0
+dreamworks-animation,드림웍스,DreamWorks Animation,드림웍스 애니메이션,US,통신·미디어·엔터,영화·애니메이션,both,nbcuniversal,NBCUniversal,major,0
+imax,아이맥스,IMAX,,CA,통신·미디어·엔터,영화·애니메이션,both,,,major,0
+lotte-cinema,롯데시네마,Lotte Cinema,,KR,통신·미디어·엔터,영화·애니메이션,both,lotte-group,Lotte Group,major,0
+marvel-studios,마블 스튜디오,Marvel Studios,마블|Marvel,US,통신·미디어·엔터,영화·애니메이션,both,disney,The Walt Disney Company,mega,0
+megabox,메가박스,Megabox,,KR,통신·미디어·엔터,영화·애니메이션,both,,,major,0
+nbcuniversal,NBC유니버설,NBCUniversal,NBC,US,통신·미디어·엔터,영화·애니메이션,corporate,comcast,Comcast,major,0
+paramount,파라마운트,Paramount Skydance,Paramount Pictures,US,통신·미디어·엔터,영화·애니메이션,both,,,major,0
+pixar,픽사,Pixar Animation Studios,Pixar,US,통신·미디어·엔터,영화·애니메이션,both,disney,The Walt Disney Company,mega,0
+sony-pictures,소니 픽처스,Sony Pictures Entertainment,,US,통신·미디어·엔터,영화·애니메이션,corporate,sony,Sony,major,0
+studio-ghibli,스튜디오 지브리,Studio Ghibli,지브리,JP,통신·미디어·엔터,영화·애니메이션,both,,,major,0
+toei-animation,도에이 애니메이션,Toei Animation,토에이,JP,통신·미디어·엔터,영화·애니메이션,both,,,niche,0
+toho,도호,Toho,토호,JP,통신·미디어·엔터,영화·애니메이션,both,,,niche,0
+universal-pictures,유니버설 픽처스,Universal Pictures,,US,통신·미디어·엔터,영화·애니메이션,both,nbcuniversal,NBCUniversal,major,0
+warner-bros,워너브라더스,Warner Bros.,워너 브라더스,US,통신·미디어·엔터,영화·애니메이션,both,,,mega,0
+elsevier,엘스비어,Elsevier,,NL,통신·미디어·엔터,출판,both,,,niche,1
+kadokawa,가도카와,Kadokawa,카도카와,JP,통신·미디어·엔터,출판,corporate,,,niche,0
+kodansha,고단샤,Kodansha,강담사,JP,통신·미디어·엔터,출판,both,,,niche,0
+minumsa,민음사,Minumsa,,KR,통신·미디어·엔터,출판,both,,,niche,0
+munhakdongne,문학동네,Munhakdongne,,KR,통신·미디어·엔터,출판,both,,,niche,0
+penguin-random-house,펭귄 랜덤하우스,Penguin Random House,펭귄북스|Penguin,US,통신·미디어·엔터,출판,both,,,major,0
+shueisha,슈에이샤,Shueisha,집영사|주간 소년 점프,JP,통신·미디어·엔터,출판,both,,,niche,0
+att,AT&T,AT&T,에이티앤티,US,통신·미디어·엔터,통신사,both,,,major,0
+china-mobile,차이나모바일,China Mobile,중국이동,CN,통신·미디어·엔터,통신사,both,,,major,0
+comcast,컴캐스트,Comcast,Xfinity,US,통신·미디어·엔터,통신사,corporate,,,major,0
+deutsche-telekom,도이치텔레콤,Deutsche Telekom,,DE,통신·미디어·엔터,통신사,both,,,major,0
+kt,KT,KT,케이티|올레,KR,통신·미디어·엔터,통신사,both,,,major,0
+lg-uplus,LG유플러스,LG Uplus,LG U+|엘지유플러스,KR,통신·미디어·엔터,통신사,both,lg-group,LG Group,major,0
+ntt,NTT,Nippon Telegraph and Telephone,일본전신전화,JP,통신·미디어·엔터,통신사,corporate,,,major,0
+ntt-docomo,NTT도코모,NTT Docomo,도코모,JP,통신·미디어·엔터,통신사,both,ntt,Nippon Telegraph and Telephone,major,0
+sk-broadband,SK브로드밴드,SK Broadband,B tv,KR,통신·미디어·엔터,통신사,both,sk-telecom,SK Telecom,niche,0
+sk-telecom,SK텔레콤,SK Telecom,SKT|에스케이텔레콤,KR,통신·미디어·엔터,통신사,both,sk-group,SK Group,major,0
+softbank-corp,소프트뱅크(통신),SoftBank Corp.,,JP,통신·미디어·엔터,통신사,both,softbank-group,SoftBank Group,major,0
+starlink,스타링크,Starlink,,US,통신·미디어·엔터,통신사,product,,,major,0
+t-mobile,T모바일,T-Mobile US,T-Mobile,US,통신·미디어·엔터,통신사,both,deutsche-telekom,Deutsche Telekom,major,0
+verizon,버라이즌,Verizon,,US,통신·미디어·엔터,통신사,both,,,major,0
+vodafone,보다폰,Vodafone,,GB,통신·미디어·엔터,통신사,both,,,major,0
+8seconds,에잇세컨즈,8seconds,에잇 세컨즈,KR,패션·럭셔리,SPA·캐주얼,product,samsung-cnt-fashion,Samsung C&T Fashion Group,major,0
+and-other-stories,앤아더스토리즈,& Other Stories,,SE,패션·럭셔리,SPA·캐주얼,product,hm-group,H&M Group,niche,0
+arket,아르켓,Arket,,SE,패션·럭셔리,SPA·캐주얼,product,hm-group,H&M Group,niche,0
+banana-republic,바나나 리퍼블릭,Banana Republic,,US,패션·럭셔리,SPA·캐주얼,product,gap-inc,Gap Inc.,niche,0
+bershka,버쉬카,Bershka,,ES,패션·럭셔리,SPA·캐주얼,product,inditex,Inditex,niche,0
+cos,코스,COS,,GB,패션·럭셔리,SPA·캐주얼,product,hm-group,H&M Group,major,0
+eland-world,이랜드월드,E-Land World,이랜드,KR,패션·럭셔리,SPA·캐주얼,corporate,,,major,0
+fast-retailing,패스트리테일링,Fast Retailing,,JP,패션·럭셔리,SPA·캐주얼,corporate,,,major,0
+fnf,F&F,F&F,에프앤에프,KR,패션·럭셔리,SPA·캐주얼,corporate,,,major,0
+gap,갭,Gap,GAP,US,패션·럭셔리,SPA·캐주얼,product,gap-inc,Gap Inc.,major,0
+gap-inc,갭 주식회사,Gap Inc.,,US,패션·럭셔리,SPA·캐주얼,corporate,,,major,0
+gu,지유,GU,,JP,패션·럭셔리,SPA·캐주얼,product,fast-retailing,Fast Retailing,niche,0
+hm,H&M,H&M,에이치앤엠,SE,패션·럭셔리,SPA·캐주얼,product,hm-group,H&M Group,mega,0
+hm-group,H&M 그룹,H&M Group,H & M Hennes & Mauritz,SE,패션·럭셔리,SPA·캐주얼,corporate,,,major,0
+inditex,인디텍스,Inditex,,ES,패션·럭셔리,SPA·캐주얼,corporate,,,major,0
+levis,리바이스,Levi's,Levi Strauss & Co.,US,패션·럭셔리,SPA·캐주얼,both,,,mega,0
+massimo-dutti,마시모두띠,Massimo Dutti,,ES,패션·럭셔리,SPA·캐주얼,product,inditex,Inditex,major,0
+mixxo,미쏘,MIXXO,,KR,패션·럭셔리,SPA·캐주얼,product,eland-world,E-Land World,niche,0
+mlb-fnf,MLB,MLB,엠엘비,KR,패션·럭셔리,SPA·캐주얼,product,fnf,F&F,major,0
+musinsa-standard,무신사 스탠다드,Musinsa Standard,무탠다드,KR,패션·럭셔리,SPA·캐주얼,product,musinsa,Musinsa,major,0
+old-navy,올드네이비,Old Navy,,US,패션·럭셔리,SPA·캐주얼,product,gap-inc,Gap Inc.,niche,0
+pull-and-bear,풀앤베어,Pull&Bear,,ES,패션·럭셔리,SPA·캐주얼,product,inditex,Inditex,niche,0
+shinsung-tongsang,신성통상,Shinsung Tongsang,,KR,패션·럭셔리,SPA·캐주얼,corporate,,,niche,0
+spao,스파오,SPAO,,KR,패션·럭셔리,SPA·캐주얼,product,eland-world,E-Land World,major,0
+topten,탑텐,TOPTEN10,탑텐10,KR,패션·럭셔리,SPA·캐주얼,product,shinsung-tongsang,Shinsung Tongsang,major,0
+uniqlo,유니클로,Uniqlo,,JP,패션·럭셔리,SPA·캐주얼,product,fast-retailing,Fast Retailing,mega,0
+zara,자라,Zara,,ES,패션·럭셔리,SPA·캐주얼,product,inditex,Inditex,mega,0
+capri-holdings,카프리 홀딩스,Capri Holdings,,US,패션·럭셔리,가방·잡화,corporate,,,niche,0
+charles-keith,찰스앤키스,Charles & Keith,,SG,패션·럭셔리,가방·잡화,both,,,niche,0
+coach,코치,Coach,,US,패션·럭셔리,가방·잡화,product,tapestry,Tapestry,major,0
+delvaux,델보,Delvaux,,BE,패션·럭셔리,가방·잡화,product,richemont,Compagnie Financière Richemont,niche,0
+goyard,고야드,Goyard,,FR,패션·럭셔리,가방·잡화,both,,,niche,0
+kate-spade,케이트 스페이드,Kate Spade New York,케이트스페이드,US,패션·럭셔리,가방·잡화,product,tapestry,Tapestry,major,0
+longchamp,롱샴,Longchamp,,FR,패션·럭셔리,가방·잡화,both,,,major,0
+mcm,MCM,MCM,엠씨엠,DE,패션·럭셔리,가방·잡화,both,,,major,0
+michael-kors,마이클 코어스,Michael Kors,마이클코어스|MK,US,패션·럭셔리,가방·잡화,product,capri-holdings,Capri Holdings,major,0
+montblanc,몽블랑,Montblanc,,DE,패션·럭셔리,가방·잡화,product,richemont,Compagnie Financière Richemont,major,0
+polene,폴렌느,Polène,Polene,FR,패션·럭셔리,가방·잡화,both,,,niche,0
+rimowa,리모와,Rimowa,,DE,패션·럭셔리,가방·잡화,product,lvmh,LVMH Moët Hennessy Louis Vuitton,major,0

@@ -1,0 +1,172 @@
+id,name_ko,name_en,aliases,country,sector,category,brand_type,parent,tier,b2b
+kb-financial-group,KB금융그룹,KB Financial Group,KB금융|KB금융지주,KR,금융,은행,corporate,,major,0
+kb-kookmin-bank,KB국민은행,KB Kookmin Bank,국민은행|KB,KR,금융,은행,both,kb-financial-group,major,0
+kb-kookmin-card,KB국민카드,KB Kookmin Card,국민카드,KR,금융,카드·결제,both,kb-financial-group,major,0
+shinhan-financial-group,신한금융그룹,Shinhan Financial Group,신한금융|신한금융지주,KR,금융,은행,corporate,,major,0
+shinhan-bank,신한은행,Shinhan Bank,신한|SOL,KR,금융,은행,both,shinhan-financial-group,major,0
+shinhan-card,신한카드,Shinhan Card,,KR,금융,카드·결제,both,shinhan-financial-group,major,0
+hana-financial-group,하나금융그룹,Hana Financial Group,하나금융|하나금융지주,KR,금융,은행,corporate,,major,0
+hana-bank,하나은행,Hana Bank,KEB하나은행|하나원큐,KR,금융,은행,both,hana-financial-group,major,0
+woori-financial-group,우리금융그룹,Woori Financial Group,우리금융|우리금융지주,KR,금융,은행,corporate,,major,0
+woori-bank,우리은행,Woori Bank,,KR,금융,은행,both,woori-financial-group,major,0
+nh-nonghyup-bank,NH농협은행,NongHyup Bank,농협은행|농협|NH,KR,금융,은행,both,nonghyup,major,0
+ibk,IBK기업은행,Industrial Bank of Korea,기업은행|IBK,KR,금융,은행,both,,major,0
+kakaobank,카카오뱅크,KakaoBank,카뱅,KR,금융,은행,both,kakao,major,0
+toss-bank,토스뱅크,Toss Bank,토뱅,KR,금융,은행,both,,major,0
+samsung-life,삼성생명,Samsung Life Insurance,,KR,금융,보험,both,samsung-group,major,0
+samsung-fire,삼성화재,Samsung Fire & Marine Insurance,,KR,금융,보험,both,samsung-group,major,0
+samsung-card,삼성카드,Samsung Card,,KR,금융,카드·결제,both,samsung-group,major,0
+samsung-securities,삼성증권,Samsung Securities,,KR,금융,증권·투자,both,samsung-group,major,0
+hanwha-life,한화생명,Hanwha Life,,KR,금융,보험,both,hanwha-group,major,0
+kyobo-life,교보생명,Kyobo Life Insurance,교보,KR,금융,보험,both,,major,0
+hyundai-marine,현대해상,Hyundai Marine & Fire Insurance,하이카,KR,금융,보험,both,,major,0
+hyundai-card,현대카드,Hyundai Card,,KR,금융,카드·결제,both,hyundai-motor-group,major,0
+lotte-card,롯데카드,Lotte Card,,KR,금융,카드·결제,both,,niche,0
+kakaopay,카카오페이,Kakao Pay,카카오페이머니,KR,금융,카드·결제,both,kakao,major,0
+mirae-asset-securities,미래에셋증권,Mirae Asset Securities,,KR,금융,증권·투자,both,mirae-asset-group,major,0
+mirae-asset-global-investments,미래에셋자산운용,Mirae Asset Global Investments,TIGER ETF|글로벌엑스|Global X,KR,금융,자산운용,both,mirae-asset-group,major,0
+kiwoom-securities,키움증권,Kiwoom Securities,키움|영웅문,KR,금융,증권·투자,both,,major,0
+korea-investment-securities,한국투자증권,Korea Investment & Securities,한투|한국투자,KR,금융,증권·투자,both,,major,0
+upbit,업비트,Upbit,두나무|Dunamu,KR,금융,암호화폐,both,,major,0
+bithumb,빗썸,Bithumb,,KR,금융,암호화폐,both,,major,0
+jpmorgan-chase,JP모건체이스,JPMorgan Chase,JP모건|체이스|Chase|J.P. Morgan,US,금융,은행,both,,mega,0
+bank-of-america,뱅크오브아메리카,Bank of America,BofA|뱅오아,US,금융,은행,both,,mega,0
+citi,씨티,Citigroup,씨티은행|씨티그룹|Citibank,US,금융,은행,both,,mega,0
+wells-fargo,웰스파고,Wells Fargo,,US,금융,은행,both,,major,0
+goldman-sachs,골드만삭스,Goldman Sachs,골드만,US,금융,증권·투자,both,,mega,1
+morgan-stanley,모건스탠리,Morgan Stanley,,US,금융,증권·투자,both,,mega,1
+hsbc,HSBC,HSBC Holdings,홍콩상하이은행,GB,금융,은행,both,,mega,0
+barclays,바클레이즈,Barclays,,GB,금융,은행,both,,major,0
+bnp-paribas,BNP파리바,BNP Paribas,,FR,금융,은행,both,,major,0
+deutsche-bank,도이치뱅크,Deutsche Bank,도이체방크,DE,금융,은행,both,,major,0
+ubs,UBS,UBS Group,,CH,금융,은행,both,,major,0
+icbc,중국공상은행,Industrial and Commercial Bank of China,공상은행|ICBC,CN,금융,은행,both,,major,0
+mufg,미쓰비시UFJ파이낸셜그룹,Mitsubishi UFJ Financial Group,MUFG|미쓰비시UFJ,JP,금융,은행,both,,major,0
+nubank,누뱅크,Nubank,Nu Holdings|누,BR,금융,은행,both,,niche,0
+revolut,레볼루트,Revolut,,GB,금융,은행,both,,niche,0
+monzo,몬조,Monzo,,GB,금융,은행,both,,niche,0
+visa,비자,Visa,VISA,US,금융,카드·결제,both,,mega,0
+mastercard,마스터카드,Mastercard,마스터,US,금융,카드·결제,both,,mega,0
+american-express,아메리칸익스프레스,American Express,아멕스|Amex,US,금융,카드·결제,both,,mega,0
+paypal,페이팔,PayPal,,US,금융,카드·결제,both,,mega,0
+stripe,스트라이프,Stripe,,US,금융,카드·결제,both,,major,1
+klarna,클라나,Klarna,클라르나,SE,금융,카드·결제,both,,niche,0
+wise,와이즈,Wise,TransferWise|트랜스퍼와이즈,GB,금융,카드·결제,both,,niche,0
+alipay,알리페이,Alipay,支付宝|즈푸바오,CN,금융,카드·결제,product,,major,0
+unionpay,유니온페이,UnionPay,은련|银联,CN,금융,카드·결제,both,,major,0
+allianz,알리안츠,Allianz,,DE,금융,보험,both,,mega,0
+axa,악사,AXA,AXA손해보험,FR,금융,보험,both,,mega,0
+ping-an,핑안보험,Ping An Insurance,중국평안|平安,CN,금융,보험,both,,major,0
+charles-schwab,찰스슈왑,Charles Schwab,슈왑|Schwab,US,금융,증권·투자,both,,major,0
+robinhood,로빈후드,Robinhood,,US,금융,증권·투자,both,,niche,0
+fidelity,피델리티,Fidelity Investments,피델리티인베스트먼트,US,금융,자산운용,both,,major,0
+blackrock,블랙록,BlackRock,아이셰어즈|iShares,US,금융,자산운용,both,,mega,1
+vanguard,뱅가드,Vanguard,,US,금융,자산운용,both,,major,0
+binance,바이낸스,Binance,,KY,금융,암호화폐,both,,major,0
+coinbase,코인베이스,Coinbase,,US,금융,암호화폐,both,,major,0
+tether,테더,Tether,USDT,SV,금융,암호화폐,both,,major,1
+exxonmobil,엑슨모빌,ExxonMobil,엑손모빌|Exxon|Mobil|모빌,US,에너지·화학·소재,석유·가스,both,,mega,0
+chevron,셰브론,Chevron,쉐브론|Texaco,US,에너지·화학·소재,석유·가스,both,,mega,0
+shell,셸,Shell,쉘|Royal Dutch Shell,GB,에너지·화학·소재,석유·가스,both,,mega,0
+bp,BP,BP,브리티시페트롤리엄|British Petroleum,GB,에너지·화학·소재,석유·가스,both,,mega,0
+totalenergies,토탈에너지스,TotalEnergies,토탈|Total,FR,에너지·화학·소재,석유·가스,both,,major,0
+saudi-aramco,사우디아람코,Saudi Aramco,아람코|Aramco,SA,에너지·화학·소재,석유·가스,both,,mega,1
+sinopec,시노펙,Sinopec,중국석유화공|中国石化,CN,에너지·화학·소재,석유·가스,both,,major,1
+adnoc,아드녹,ADNOC,아부다비국영석유공사,AE,에너지·화학·소재,석유·가스,both,,major,1
+sk-innovation,SK이노베이션,SK Innovation,SK이노,KR,에너지·화학·소재,석유·가스,corporate,sk-group,major,1
+sk-energy,SK에너지,SK Energy,SK주유소,KR,에너지·화학·소재,석유·가스,both,sk-innovation,major,0
+s-oil,S-OIL,S-OIL,에쓰오일|에스오일|구도일,KR,에너지·화학·소재,석유·가스,both,saudi-aramco,major,0
+gs-caltex,GS칼텍스,GS Caltex,칼텍스,KR,에너지·화학·소재,석유·가스,both,gs-group,major,0
+hd-hyundai-oilbank,HD현대오일뱅크,HD Hyundai Oilbank,현대오일뱅크|오일뱅크,KR,에너지·화학·소재,석유·가스,both,hd-hyundai,major,0
+kogas,한국가스공사,Korea Gas Corporation,가스공사|KOGAS,KR,에너지·화학·소재,석유·가스,corporate,,major,1
+kepco,한국전력,Korea Electric Power Corporation,한전|KEPCO|한국전력공사,KR,에너지·화학·소재,전력·신재생,corporate,,major,0
+khnp,한국수력원자력,Korea Hydro & Nuclear Power,한수원|KHNP,KR,에너지·화학·소재,전력·신재생,corporate,kepco,major,1
+nextera-energy,넥스트에라에너지,NextEra Energy,넥스테라,US,에너지·화학·소재,전력·신재생,corporate,,major,1
+orsted,외르스테드,Ørsted,오스테드|Orsted,DK,에너지·화학·소재,전력·신재생,both,,niche,1
+vestas,베스타스,Vestas,,DK,에너지·화학·소재,전력·신재생,both,,niche,1
+edf,EDF,Électricité de France,프랑스전력공사,FR,에너지·화학·소재,전력·신재생,both,,major,0
+hanwha-qcells,한화큐셀,Hanwha Qcells,큐셀|Qcells,KR,에너지·화학·소재,전력·신재생,product,hanwha-solutions,major,0
+siemens-energy,지멘스에너지,Siemens Energy,,DE,에너지·화학·소재,전력·신재생,both,,major,1
+basf,바스프,BASF,,DE,에너지·화학·소재,화학,both,,mega,1
+dow,다우,Dow,다우케미칼|Dow Chemical,US,에너지·화학·소재,화학,both,,major,1
+dupont,듀폰,DuPont,,US,에너지·화학·소재,화학,both,,major,1
+sabic,사빅,SABIC,사우디기초산업공사,SA,에너지·화학·소재,화학,both,saudi-aramco,major,1
+linde,린데,Linde,,GB,에너지·화학·소재,화학,both,,major,1
+air-liquide,에어리퀴드,Air Liquide,,FR,에너지·화학·소재,화학,both,,major,1
+lg-chem,LG화학,LG Chem,,KR,에너지·화학·소재,화학,both,lg-group,major,1
+lotte-chemical,롯데케미칼,Lotte Chemical,,KR,에너지·화학·소재,화학,both,lotte-group,major,1
+hanwha-solutions,한화솔루션,Hanwha Solutions,,KR,에너지·화학·소재,화학,corporate,hanwha-group,major,1
+kumho-petrochemical,금호석유화학,Kumho Petrochemical,금호석화,KR,에너지·화학·소재,화학,both,,niche,1
+posco,포스코,POSCO,포항제철,KR,에너지·화학·소재,철강·금속,both,posco-group,major,1
+hyundai-steel,현대제철,Hyundai Steel,,KR,에너지·화학·소재,철강·금속,both,hyundai-motor-group,major,1
+korea-zinc,고려아연,Korea Zinc,,KR,에너지·화학·소재,철강·금속,both,,major,1
+arcelormittal,아르셀로미탈,ArcelorMittal,,LU,에너지·화학·소재,철강·금속,both,,major,1
+nippon-steel,일본제철,Nippon Steel,신일본제철|닛폰스틸,JP,에너지·화학·소재,철강·금속,both,,major,1
+baowu,중국바오우강철,China Baowu Steel Group,바오우|바오스틸|宝武,CN,에너지·화학·소재,철강·금속,both,,major,1
+rio-tinto,리오틴토,Rio Tinto,,GB,에너지·화학·소재,철강·금속,both,,major,1
+bhp,BHP,BHP,BHP빌리턴|BHP Billiton,AU,에너지·화학·소재,철강·금속,both,,major,1
+glencore,글렌코어,Glencore,,CH,에너지·화학·소재,철강·금속,both,,major,1
+catl,CATL,Contemporary Amperex Technology,닝더스다이|宁德时代,CN,에너지·화학·소재,배터리,both,,mega,1
+lg-energy-solution,LG에너지솔루션,LG Energy Solution,LG엔솔|엘지엔솔|LGES,KR,에너지·화학·소재,배터리,both,lg-chem,major,1
+samsung-sdi,삼성SDI,Samsung SDI,,KR,에너지·화학·소재,배터리,both,samsung-group,major,1
+sk-on,SK온,SK On,,KR,에너지·화학·소재,배터리,both,sk-innovation,major,1
+ecopro,에코프로,EcoPro,,KR,에너지·화학·소재,배터리,corporate,,major,1
+ecopro-bm,에코프로비엠,EcoPro BM,,KR,에너지·화학·소재,배터리,both,ecopro,niche,1
+lnf,엘앤에프,L&F,,KR,에너지·화학·소재,배터리,both,,niche,1
+posco-future-m,포스코퓨처엠,POSCO Future M,포스코케미칼,KR,에너지·화학·소재,배터리,both,posco-group,niche,1
+duracell,듀라셀,Duracell,,US,에너지·화학·소재,배터리,both,,major,0
+toray,도레이,Toray Industries,,JP,에너지·화학·소재,소재,both,,major,1
+shin-etsu,신에츠화학,Shin-Etsu Chemical,신에쓰|신에츠,JP,에너지·화학·소재,소재,both,,major,1
+hyosung-tnc,효성티앤씨,Hyosung TNC,크레오라|creora,KR,에너지·화학·소재,소재,both,hyosung-group,niche,1
+kolon-industries,코오롱인더스트리,Kolon Industries,코오롱인더,KR,에너지·화학·소재,소재,both,kolon-group,major,1
+corning,코닝,Corning,고릴라글래스|Gorilla Glass,US,에너지·화학·소재,소재,both,,major,1
+saint-gobain,생고뱅,Saint-Gobain,,FR,에너지·화학·소재,소재,both,,major,1
+lotte-department-store,롯데백화점,Lotte Department Store,롯백,KR,유통·이커머스,백화점,both,lotte-group,major,0
+shinsegae-department-store,신세계백화점,Shinsegae Department Store,신세계,KR,유통·이커머스,백화점,both,shinsegae-group,major,0
+hyundai-department-store,현대백화점,Hyundai Department Store,더현대|The Hyundai,KR,유통·이커머스,백화점,both,hyundai-department-store-group,major,0
+galleria,갤러리아백화점,Galleria Department Store,갤러리아|한화갤러리아,KR,유통·이커머스,백화점,both,hanwha-group,niche,0
+macys,메이시스,Macy's,메이시스백화점,US,유통·이커머스,백화점,both,,major,0
+harrods,해러즈,Harrods,해롯|해롯백화점,GB,유통·이커머스,백화점,both,,major,0
+walmart,월마트,Walmart,,US,유통·이커머스,대형마트·창고형,both,,mega,0
+costco,코스트코,Costco,코스트코 홀세일|Costco Wholesale,US,유통·이커머스,대형마트·창고형,both,,mega,0
+target,타깃,Target,타겟,US,유통·이커머스,대형마트·창고형,both,,major,0
+carrefour,까르푸,Carrefour,,FR,유통·이커머스,대형마트·창고형,both,,major,0
+tesco,테스코,Tesco,,GB,유통·이커머스,대형마트·창고형,both,,major,0
+aldi,알디,Aldi,,DE,유통·이커머스,대형마트·창고형,both,,major,0
+emart,이마트,Emart,E-MART,KR,유통·이커머스,대형마트·창고형,both,shinsegae-group,major,0
+emart-traders,트레이더스,Emart Traders,이마트 트레이더스|트레이더스 홀세일 클럽,KR,유통·이커머스,대형마트·창고형,product,emart,major,0
+homeplus,홈플러스,Homeplus,,KR,유통·이커머스,대형마트·창고형,both,,major,0
+lotte-mart,롯데마트,Lotte Mart,,KR,유통·이커머스,대형마트·창고형,both,lotte-group,major,0
+don-quijote,돈키호테,Don Quijote,돈키|驚安の殿堂,JP,유통·이커머스,대형마트·창고형,both,,niche,0
+whole-foods,홀푸드마켓,Whole Foods Market,홀푸드|Whole Foods,US,유통·이커머스,대형마트·창고형,both,amazon,niche,0
+seven-eleven,세븐일레븐,7-Eleven,7-일레븐|세븐,JP,유통·이커머스,편의점,both,,mega,0
+gs25,GS25,GS25,지에스25,KR,유통·이커머스,편의점,product,gs-group,major,0
+cu,CU,CU,씨유|BGF리테일,KR,유통·이커머스,편의점,product,,major,0
+amazon,아마존,Amazon,Amazon.com,US,유통·이커머스,이커머스,both,,mega,0
+alibaba,알리바바,Alibaba Group,알리바바그룹|阿里巴巴,CN,유통·이커머스,이커머스,corporate,,mega,0
+taobao,타오바오,Taobao,淘宝,CN,유통·이커머스,이커머스,product,alibaba,major,0
+aliexpress,알리익스프레스,AliExpress,알리,CN,유통·이커머스,이커머스,product,alibaba,major,0
+jd-com,징둥닷컴,JD.com,징둥|JD|京东,CN,유통·이커머스,이커머스,both,,major,0
+temu,테무,Temu,,CN,유통·이커머스,이커머스,product,,major,0
+shein,쉬인,Shein,SHEIN,SG,유통·이커머스,이커머스,both,,major,0
+ebay,이베이,eBay,,US,유통·이커머스,이커머스,both,,major,0
+etsy,엣시,Etsy,,US,유통·이커머스,이커머스,both,,niche,0
+rakuten,라쿠텐,Rakuten,,JP,유통·이커머스,이커머스,both,,major,0
+shopee,쇼피,Shopee,,SG,유통·이커머스,이커머스,product,,major,0
+coupang,쿠팡,Coupang,로켓배송,KR,유통·이커머스,이커머스,both,,major,0
+11st,11번가,11st,십일번가,KR,유통·이커머스,이커머스,both,,major,0
+gmarket,G마켓,Gmarket,지마켓|옥션,KR,유통·이커머스,이커머스,both,,major,0
+ssg-com,SSG닷컴,SSG.COM,쓱닷컴|SSG|쓱,KR,유통·이커머스,이커머스,both,shinsegae-group,major,0
+kurly,컬리,Kurly,마켓컬리|샛별배송,KR,유통·이커머스,이커머스,both,,major,0
+musinsa,무신사,Musinsa,,KR,유통·이커머스,명품·패션플랫폼,both,,major,0
+29cm,29CM,29CM,이구,KR,유통·이커머스,명품·패션플랫폼,product,musinsa,niche,0
+w-concept,W컨셉,W Concept,더블유컨셉,KR,유통·이커머스,명품·패션플랫폼,both,ssg-com,niche,0
+zigzag,지그재그,Zigzag,카카오스타일,KR,유통·이커머스,명품·패션플랫폼,product,kakao,niche,0
+kream,크림,KREAM,,KR,유통·이커머스,명품·패션플랫폼,both,naver,niche,0
+farfetch,파페치,Farfetch,,GB,유통·이커머스,명품·패션플랫폼,both,coupang,major,0
+ssense,센스,SSENSE,에센스,CA,유통·이커머스,명품·패션플랫폼,both,,niche,0
+mytheresa,마이테레사,Mytheresa,LuxExperience,DE,유통·이커머스,명품·패션플랫폼,both,,niche,0
+daiso,다이소,Daiso,아성다이소,KR,유통·이커머스,가구·생활유통,both,,major,0
+muji,무인양품,MUJI,무지|良品計画|료힌케이카쿠,JP,유통·이커머스,가구·생활유통,both,,major,0
+ohouse,오늘의집,Ohouse,오집|버킷플레이스,KR,유통·이커머스,가구·생활유통,both,,niche,0
+home-depot,홈디포,The Home Depot,Home Depot,US,유통·이커머스,가구·생활유통,both,,major,0

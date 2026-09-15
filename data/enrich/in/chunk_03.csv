@@ -1,0 +1,135 @@
+id,name_ko,name_en,aliases,country,sector,category,brand_type,parent,parent_name,tier,b2b
+corelle,코렐,Corelle,,US,생활·가구·완구,주방·생활용품,product,,,major,0
+groupe-seb,그룹 세브,Groupe SEB,SEB,FR,생활·가구·완구,주방·생활용품,corporate,,,major,0
+le-creuset,르크루제,Le Creuset,르쿠르제,FR,생활·가구·완구,주방·생활용품,both,,,niche,0
+locknlock,락앤락,LocknLock,Lock&Lock,KR,생활·가구·완구,주방·생활용품,both,,,major,0
+stanley,스탠리,Stanley,스탠리 텀블러|Stanley 1913,US,생활·가구·완구,주방·생활용품,product,,,major,0
+tefal,테팔,Tefal,,FR,생활·가구·완구,주방·생활용품,product,groupe-seb,Groupe SEB,major,0
+thermos,써모스,Thermos,,JP,생활·가구·완구,주방·생활용품,both,,,major,0
+tupperware,타파웨어,Tupperware,,US,생활·가구·완구,주방·생활용품,both,,,major,0
+zwilling,즈윌링,Zwilling J.A. Henckels,헹켈|쌍둥이칼,DE,생활·가구·완구,주방·생활용품,both,,,major,0
+acushnet,아쿠쉬네트,Acushnet,,US,스포츠·아웃도어,골프,corporate,,,niche,0
+callaway,캘러웨이,Callaway,캘러웨이골프|Topgolf Callaway Brands,US,스포츠·아웃도어,골프,both,,,major,0
+g-fore,지포어,G/FORE,,US,스포츠·아웃도어,골프,both,,,niche,0
+honma,혼마,Honma Golf,,JP,스포츠·아웃도어,골프,both,,,niche,0
+j-lindeberg,제이린드버그,J.Lindeberg,,SE,스포츠·아웃도어,골프,both,,,niche,0
+malbon-golf,말본골프,Malbon Golf,말본,US,스포츠·아웃도어,골프,both,,,niche,0
+mark-and-lona,마크앤로나,Mark & Lona,,JP,스포츠·아웃도어,골프,both,,,niche,0
+pearly-gates,파리게이츠,Pearly Gates,,JP,스포츠·아웃도어,골프,both,,,niche,0
+ping,핑,PING,,US,스포츠·아웃도어,골프,both,,,major,0
+pxg,PXG,PXG,피엑스지,US,스포츠·아웃도어,골프,both,,,niche,0
+taylormade,테일러메이드,TaylorMade,,US,스포츠·아웃도어,골프,both,,,major,0
+titleist,타이틀리스트,Titleist,,US,스포츠·아웃도어,골프,product,acushnet,Acushnet,major,0
+volvik,볼빅,Volvik,,KR,스포츠·아웃도어,골프,both,,,niche,0
+waac,왁,WAAC,,KR,스포츠·아웃도어,골프,product,kolon-industries-fnc,Kolon Industries FnC,niche,0
+amer-sports,아머스포츠,Amer Sports,,FI,스포츠·아웃도어,스포츠용품,corporate,,,major,0
+arena,아레나,Arena,,IT,스포츠·아웃도어,스포츠용품,both,,,niche,0
+babolat,바볼랏,Babolat,,FR,스포츠·아웃도어,스포츠용품,both,,,niche,0
+decathlon,데카트론,Decathlon,,FR,스포츠·아웃도어,스포츠용품,both,,,major,0
+giant,자이언트,Giant Bicycles,자이언트 자전거,TW,스포츠·아웃도어,스포츠용품,both,,,major,0
+head,헤드,HEAD,,AT,스포츠·아웃도어,스포츠용품,both,,,niche,0
+mizuno,미즈노,Mizuno,,JP,스포츠·아웃도어,스포츠용품,both,,,major,0
+shimano,시마노,Shimano,,JP,스포츠·아웃도어,스포츠용품,both,,,major,1
+specialized,스페셜라이즈드,Specialized,,US,스포츠·아웃도어,스포츠용품,both,,,niche,0
+speedo,스피도,Speedo,,GB,스포츠·아웃도어,스포츠용품,both,,,major,0
+wilson,윌슨,Wilson,,US,스포츠·아웃도어,스포츠용품,product,amer-sports,Amer Sports,major,0
+yonex,요넥스,Yonex,,JP,스포츠·아웃도어,스포츠용품,both,,,major,0
+adidas,아디다스,Adidas,,DE,스포츠·아웃도어,스포츠웨어,both,,,mega,0
+alo-yoga,알로 요가,Alo Yoga,알로,US,스포츠·아웃도어,스포츠웨어,both,,,niche,0
+andar,안다르,Andar,,KR,스포츠·아웃도어,스포츠웨어,both,,,niche,0
+anta-sports,안타스포츠,Anta Sports,안타,CN,스포츠·아웃도어,스포츠웨어,both,,,major,0
+asics,아식스,ASICS,,JP,스포츠·아웃도어,스포츠웨어,both,,,major,0
+barrel,배럴,Barrel,,KR,스포츠·아웃도어,스포츠웨어,both,,,niche,0
+descente,데상트,Descente,,JP,스포츠·아웃도어,스포츠웨어,both,,,major,0
+fila,휠라,FILA,,KR,스포츠·아웃도어,스포츠웨어,product,fila-holdings,FILA Holdings,major,0
+fila-holdings,휠라홀딩스,FILA Holdings,,KR,스포츠·아웃도어,스포츠웨어,corporate,,,major,0
+gymshark,짐샤크,Gymshark,,GB,스포츠·아웃도어,스포츠웨어,both,,,niche,0
+hoka,호카,HOKA,호카 오네오네,US,스포츠·아웃도어,스포츠웨어,product,deckers,Deckers Brands,major,0
+jordan,조던,Jordan Brand,에어 조던|Air Jordan,US,스포츠·아웃도어,스포츠웨어,product,nike,Nike,mega,0
+kappa,카파,Kappa,,IT,스포츠·아웃도어,스포츠웨어,both,,,niche,0
+le-coq-sportif,르꼬끄 스포르티브,Le Coq Sportif,르꼬끄,FR,스포츠·아웃도어,스포츠웨어,both,,,niche,0
+li-ning,리닝,Li-Ning,,CN,스포츠·아웃도어,스포츠웨어,both,,,major,0
+lululemon,룰루레몬,Lululemon,,CA,스포츠·아웃도어,스포츠웨어,both,,,major,0
+new-balance,뉴발란스,New Balance,뉴발|NB,US,스포츠·아웃도어,스포츠웨어,both,,,mega,0
+nike,나이키,Nike,,US,스포츠·아웃도어,스포츠웨어,both,,,mega,0
+on-running,온,On,온러닝|On Running,CH,스포츠·아웃도어,스포츠웨어,both,,,major,0
+prospecs,프로스펙스,Prospecs,,KR,스포츠·아웃도어,스포츠웨어,both,,,niche,0
+puma,푸마,Puma,,DE,스포츠·아웃도어,스포츠웨어,both,,,mega,0
+rapha,라파,Rapha,,GB,스포츠·아웃도어,스포츠웨어,both,,,niche,0
+reebok,리복,Reebok,,US,스포츠·아웃도어,스포츠웨어,both,,,major,0
+satisfy,새티스파이,Satisfy,Satisfy Running,FR,스포츠·아웃도어,스포츠웨어,both,,,niche,0
+umbro,엄브로,Umbro,,GB,스포츠·아웃도어,스포츠웨어,both,,,niche,0
+under-armour,언더아머,Under Armour,,US,스포츠·아웃도어,스포츠웨어,both,,,major,0
+xexymix,젝시믹스,Xexymix,,KR,스포츠·아웃도어,스포츠웨어,both,,,niche,0
+arcteryx,아크테릭스,Arc'teryx,아크,CA,스포츠·아웃도어,아웃도어,product,amer-sports,Amer Sports,major,0
+black-yak,블랙야크,Black Yak,BYN블랙야크,KR,스포츠·아웃도어,아웃도어,both,,,major,0
+canada-goose,캐나다구스,Canada Goose,,CA,스포츠·아웃도어,아웃도어,both,,,major,0
+columbia,컬럼비아,Columbia Sportswear,컬럼비아스포츠웨어,US,스포츠·아웃도어,아웃도어,both,,,major,0
+discovery-expedition,디스커버리 익스페디션,Discovery Expedition,디스커버리,KR,스포츠·아웃도어,아웃도어,product,fnf,F&F,major,0
+eider,아이더,Eider,,KR,스포츠·아웃도어,아웃도어,product,k2-korea,K2,major,0
+fjallraven,피엘라벤,Fjällräven,Fjallraven,SE,스포츠·아웃도어,아웃도어,both,,,niche,0
+goldwin,골드윈,Goldwin,,JP,스포츠·아웃도어,아웃도어,both,,,niche,0
+helinox,헬리녹스,Helinox,,KR,스포츠·아웃도어,아웃도어,both,,,niche,0
+jack-wolfskin,잭울프스킨,Jack Wolfskin,,DE,스포츠·아웃도어,아웃도어,product,anta-sports,Anta Sports,niche,0
+k2-korea,케이투,K2,K2코리아,KR,스포츠·아웃도어,아웃도어,both,,,major,0
+kolon-sport,코오롱스포츠,Kolon Sport,,KR,스포츠·아웃도어,아웃도어,product,kolon-industries-fnc,Kolon Industries FnC,major,0
+mammut,마무트,Mammut,,CH,스포츠·아웃도어,아웃도어,both,,,niche,0
+millet,밀레,Millet,,FR,스포츠·아웃도어,아웃도어,both,,,niche,0
+montbell,몽벨,Montbell,,JP,스포츠·아웃도어,아웃도어,both,,,niche,0
+national-geographic-apparel,내셔널지오그래픽,National Geographic Apparel,내셔널지오그래픽 어패럴,KR,스포츠·아웃도어,아웃도어,product,,,niche,0
+nepa,네파,NEPA,,KR,스포츠·아웃도어,아웃도어,both,,,major,0
+patagonia,파타고니아,Patagonia,,US,스포츠·아웃도어,아웃도어,both,,,major,0
+peak-performance,피크퍼포먼스,Peak Performance,,SE,스포츠·아웃도어,아웃도어,product,amer-sports,Amer Sports,niche,0
+salomon,살로몬,Salomon,,FR,스포츠·아웃도어,아웃도어,product,amer-sports,Amer Sports,major,0
+snow-peak,스노우피크,Snow Peak,,JP,스포츠·아웃도어,아웃도어,both,,,niche,0
+the-north-face,노스페이스,The North Face,TNF,US,스포츠·아웃도어,아웃도어,product,vf-corp,VF Corporation,mega,0
+vf-corp,VF 코퍼레이션,VF Corporation,VF Corp,US,스포츠·아웃도어,아웃도어,corporate,,,major,0
+casio,카시오,Casio,,JP,시계·주얼리,대중시계,both,,,major,0
+citizen,시티즌,Citizen,,JP,시계·주얼리,대중시계,both,,,major,0
+daniel-wellington,다니엘 웰링턴,Daniel Wellington,DW,SE,시계·주얼리,대중시계,both,,,niche,0
+fossil,파슬,Fossil,,US,시계·주얼리,대중시계,both,,,major,0
+g-shock,지샥,G-SHOCK,G샥|지쇼크,JP,시계·주얼리,대중시계,product,casio,Casio,major,0
+hamilton,해밀턴,Hamilton,,US,시계·주얼리,대중시계,product,swatch-group,The Swatch Group,major,0
+mido,미도,Mido,,CH,시계·주얼리,대중시계,product,swatch-group,The Swatch Group,niche,0
+rado,라도,Rado,,CH,시계·주얼리,대중시계,product,swatch-group,The Swatch Group,niche,0
+seiko,세이코,Seiko,,JP,시계·주얼리,대중시계,both,,,major,0
+swatch,스와치,Swatch,,CH,시계·주얼리,대중시계,product,swatch-group,The Swatch Group,major,0
+swatch-group,스와치 그룹,The Swatch Group,Swatch Group,CH,시계·주얼리,대중시계,corporate,,,major,0
+tissot,티쏘,Tissot,,CH,시계·주얼리,대중시계,product,swatch-group,The Swatch Group,major,0
+apm-monaco,에이피엠 모나코,APM Monaco,APM,MC,시계·주얼리,주얼리,both,,,niche,0
+boucheron,부쉐론,Boucheron,,FR,시계·주얼리,주얼리,product,kering,Kering,major,0
+buccellati,부첼라티,Buccellati,,IT,시계·주얼리,주얼리,product,richemont,Compagnie Financière Richemont,niche,0
+bulgari,불가리,Bulgari,BVLGARI,IT,시계·주얼리,주얼리,product,lvmh,LVMH Moët Hennessy Louis Vuitton,mega,0
+cartier,까르띠에,Cartier,카르티에,FR,시계·주얼리,주얼리,product,richemont,Compagnie Financière Richemont,mega,0
+chaumet,쇼메,Chaumet,,FR,시계·주얼리,주얼리,product,lvmh,LVMH Moët Hennessy Louis Vuitton,major,0
+chopard,쇼파드,Chopard,,CH,시계·주얼리,주얼리,both,,,major,0
+chow-tai-fook,주대복,Chow Tai Fook,저우다푸,HK,시계·주얼리,주얼리,both,,,major,0
+didier-dubot,디디에 두보,Didier Dubot,,KR,시계·주얼리,주얼리,both,,,niche,0
+fred,프레드,Fred,FRED,FR,시계·주얼리,주얼리,product,lvmh,LVMH Moët Hennessy Louis Vuitton,niche,0
+goldendew,골든듀,Goldendew,,KR,시계·주얼리,주얼리,both,,,niche,0
+graff,그라프,Graff,,GB,시계·주얼리,주얼리,both,,,niche,0
+harry-winston,해리 윈스턴,Harry Winston,,US,시계·주얼리,주얼리,product,swatch-group,The Swatch Group,major,0
+jestina,제이에스티나,J.ESTINA,,KR,시계·주얼리,주얼리,both,,,major,0
+messika,메시카,Messika,,FR,시계·주얼리,주얼리,both,,,niche,0
+mikimoto,미키모토,Mikimoto,,JP,시계·주얼리,주얼리,both,,,niche,0
+pandora,판도라,Pandora,,DK,시계·주얼리,주얼리,both,,,major,0
+pomellato,포멜라토,Pomellato,,IT,시계·주얼리,주얼리,product,kering,Kering,niche,0
+qeelin,키린,Qeelin,,HK,시계·주얼리,주얼리,product,kering,Kering,niche,0
+richemont,리치몬트,Compagnie Financière Richemont,Richemont,CH,시계·주얼리,주얼리,corporate,,,major,0
+stonehenge,스톤헨지,Stonehenge,,KR,시계·주얼리,주얼리,both,,,niche,0
+swarovski,스와로브스키,Swarovski,,AT,시계·주얼리,주얼리,both,,,major,0
+tiffany,티파니,Tiffany & Co.,티파니앤코,US,시계·주얼리,주얼리,product,lvmh,LVMH Moët Hennessy Louis Vuitton,mega,0
+van-cleef-arpels,반클리프 아펠,Van Cleef & Arpels,반클리프|VCA,FR,시계·주얼리,주얼리,product,richemont,Compagnie Financière Richemont,major,0
+a-lange-sohne,랑에 운트 죄네,A. Lange & Söhne,랑에|A. Lange & Sohne,DE,시계·주얼리,하이엔드시계,product,richemont,Compagnie Financière Richemont,niche,0
+audemars-piguet,오데마 피게,Audemars Piguet,AP|오데마피게,CH,시계·주얼리,하이엔드시계,both,,,major,0
+blancpain,블랑팡,Blancpain,,CH,시계·주얼리,하이엔드시계,product,swatch-group,The Swatch Group,niche,0
+breguet,브레게,Breguet,,CH,시계·주얼리,하이엔드시계,product,swatch-group,The Swatch Group,niche,0
+breitling,브라이틀링,Breitling,,CH,시계·주얼리,하이엔드시계,both,,,major,0
+grand-seiko,그랜드 세이코,Grand Seiko,,JP,시계·주얼리,하이엔드시계,product,seiko,Seiko,niche,0
+hublot,위블로,Hublot,,CH,시계·주얼리,하이엔드시계,product,lvmh,LVMH Moët Hennessy Louis Vuitton,major,0
+iwc,IWC,IWC Schaffhausen,아이더블유씨,CH,시계·주얼리,하이엔드시계,product,richemont,Compagnie Financière Richemont,major,0
+jaeger-lecoultre,예거 르쿨트르,Jaeger-LeCoultre,예거|JLC,CH,시계·주얼리,하이엔드시계,product,richemont,Compagnie Financière Richemont,major,0
+longines,론진,Longines,,CH,시계·주얼리,하이엔드시계,product,swatch-group,The Swatch Group,major,0
+nomos-glashutte,노모스,NOMOS Glashütte,노모스 글라슈테,DE,시계·주얼리,하이엔드시계,both,,,niche,0
+omega,오메가,Omega,,CH,시계·주얼리,하이엔드시계,product,swatch-group,The Swatch Group,mega,0
+panerai,파네라이,Panerai,,IT,시계·주얼리,하이엔드시계,product,richemont,Compagnie Financière Richemont,major,0

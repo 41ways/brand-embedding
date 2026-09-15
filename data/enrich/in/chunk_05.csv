@@ -1,0 +1,135 @@
+id,name_ko,name_en,aliases,country,sector,category,brand_type,parent,parent_name,tier,b2b
+dongsuh-foods,동서식품,Dongsuh Foods,,KR,식음료,커피·차,both,,,major,0
+nescafe,네스카페,Nescafé,Nescafe,CH,식음료,커피·차,product,nestle,Nestlé,mega,0
+nespresso,네스프레소,Nespresso,,CH,식음료,커피·차,product,nestle,Nestlé,major,0
+catl,CATL,Contemporary Amperex Technology,닝더스다이|宁德时代,CN,에너지·화학·소재,배터리,both,,,mega,1
+duracell,듀라셀,Duracell,,US,에너지·화학·소재,배터리,both,,,major,0
+ecopro,에코프로,EcoPro,,KR,에너지·화학·소재,배터리,corporate,,,major,1
+ecopro-bm,에코프로비엠,EcoPro BM,,KR,에너지·화학·소재,배터리,both,ecopro,EcoPro,niche,1
+lg-energy-solution,LG에너지솔루션,LG Energy Solution,LG엔솔|엘지엔솔|LGES,KR,에너지·화학·소재,배터리,both,lg-chem,LG Chem,major,1
+lnf,엘앤에프,L&F,,KR,에너지·화학·소재,배터리,both,,,niche,1
+posco-future-m,포스코퓨처엠,POSCO Future M,포스코케미칼,KR,에너지·화학·소재,배터리,both,posco-group,POSCO Group,niche,1
+samsung-sdi,삼성SDI,Samsung SDI,,KR,에너지·화학·소재,배터리,both,samsung-group,Samsung Group,major,1
+sk-on,SK온,SK On,,KR,에너지·화학·소재,배터리,both,sk-innovation,SK Innovation,major,1
+adnoc,아드녹,ADNOC,아부다비국영석유공사,AE,에너지·화학·소재,석유·가스,both,,,major,1
+bp,BP,BP,브리티시페트롤리엄|British Petroleum,GB,에너지·화학·소재,석유·가스,both,,,mega,0
+chevron,셰브론,Chevron,쉐브론|Texaco,US,에너지·화학·소재,석유·가스,both,,,mega,0
+exxonmobil,엑슨모빌,ExxonMobil,엑손모빌|Exxon|Mobil|모빌,US,에너지·화학·소재,석유·가스,both,,,mega,0
+gs-caltex,GS칼텍스,GS Caltex,칼텍스,KR,에너지·화학·소재,석유·가스,both,gs-group,GS Group,major,0
+hd-hyundai-oilbank,HD현대오일뱅크,HD Hyundai Oilbank,현대오일뱅크|오일뱅크,KR,에너지·화학·소재,석유·가스,both,hd-hyundai,HD Hyundai,major,0
+kogas,한국가스공사,Korea Gas Corporation,가스공사|KOGAS,KR,에너지·화학·소재,석유·가스,corporate,,,major,1
+s-oil,S-OIL,S-OIL,에쓰오일|에스오일|구도일,KR,에너지·화학·소재,석유·가스,both,saudi-aramco,Saudi Aramco,major,0
+saudi-aramco,사우디아람코,Saudi Aramco,아람코|Aramco,SA,에너지·화학·소재,석유·가스,both,,,mega,1
+shell,셸,Shell,쉘|Royal Dutch Shell,GB,에너지·화학·소재,석유·가스,both,,,mega,0
+sinopec,시노펙,Sinopec,중국석유화공|中国石化,CN,에너지·화학·소재,석유·가스,both,,,major,1
+sk-energy,SK에너지,SK Energy,SK주유소,KR,에너지·화학·소재,석유·가스,both,sk-innovation,SK Innovation,major,0
+sk-innovation,SK이노베이션,SK Innovation,SK이노,KR,에너지·화학·소재,석유·가스,corporate,sk-group,SK Group,major,1
+totalenergies,토탈에너지스,TotalEnergies,토탈|Total,FR,에너지·화학·소재,석유·가스,both,,,major,0
+corning,코닝,Corning,고릴라글래스|Gorilla Glass,US,에너지·화학·소재,소재,both,,,major,1
+hyosung-tnc,효성티앤씨,Hyosung TNC,크레오라|creora,KR,에너지·화학·소재,소재,both,hyosung-group,Hyosung Group,niche,1
+kolon-industries,코오롱인더스트리,Kolon Industries,코오롱인더,KR,에너지·화학·소재,소재,both,kolon-group,Kolon Group,major,1
+saint-gobain,생고뱅,Saint-Gobain,,FR,에너지·화학·소재,소재,both,,,major,1
+shin-etsu,신에츠화학,Shin-Etsu Chemical,신에쓰|신에츠,JP,에너지·화학·소재,소재,both,,,major,1
+toray,도레이,Toray Industries,,JP,에너지·화학·소재,소재,both,,,major,1
+edf,EDF,Électricité de France,프랑스전력공사,FR,에너지·화학·소재,전력·신재생,both,,,major,0
+hanwha-qcells,한화큐셀,Hanwha Qcells,큐셀|Qcells,KR,에너지·화학·소재,전력·신재생,product,hanwha-solutions,Hanwha Solutions,major,0
+kepco,한국전력,Korea Electric Power Corporation,한전|KEPCO|한국전력공사,KR,에너지·화학·소재,전력·신재생,corporate,,,major,0
+khnp,한국수력원자력,Korea Hydro & Nuclear Power,한수원|KHNP,KR,에너지·화학·소재,전력·신재생,corporate,kepco,Korea Electric Power Corporation,major,1
+nextera-energy,넥스트에라에너지,NextEra Energy,넥스테라,US,에너지·화학·소재,전력·신재생,corporate,,,major,1
+orsted,외르스테드,Ørsted,오스테드|Orsted,DK,에너지·화학·소재,전력·신재생,both,,,niche,1
+siemens-energy,지멘스에너지,Siemens Energy,,DE,에너지·화학·소재,전력·신재생,both,,,major,1
+vestas,베스타스,Vestas,,DK,에너지·화학·소재,전력·신재생,both,,,niche,1
+arcelormittal,아르셀로미탈,ArcelorMittal,,LU,에너지·화학·소재,철강·금속,both,,,major,1
+baowu,중국바오우강철,China Baowu Steel Group,바오우|바오스틸|宝武,CN,에너지·화학·소재,철강·금속,both,,,major,1
+bhp,BHP,BHP,BHP빌리턴|BHP Billiton,AU,에너지·화학·소재,철강·금속,both,,,major,1
+glencore,글렌코어,Glencore,,CH,에너지·화학·소재,철강·금속,both,,,major,1
+hyundai-steel,현대제철,Hyundai Steel,,KR,에너지·화학·소재,철강·금속,both,hyundai-motor-group,Hyundai Motor Group,major,1
+korea-zinc,고려아연,Korea Zinc,,KR,에너지·화학·소재,철강·금속,both,,,major,1
+nippon-steel,일본제철,Nippon Steel,신일본제철|닛폰스틸,JP,에너지·화학·소재,철강·금속,both,,,major,1
+posco,포스코,POSCO,포항제철,KR,에너지·화학·소재,철강·금속,both,posco-group,POSCO Group,major,1
+rio-tinto,리오틴토,Rio Tinto,,GB,에너지·화학·소재,철강·금속,both,,,major,1
+air-liquide,에어리퀴드,Air Liquide,,FR,에너지·화학·소재,화학,both,,,major,1
+basf,바스프,BASF,,DE,에너지·화학·소재,화학,both,,,mega,1
+dow,다우,Dow,다우케미칼|Dow Chemical,US,에너지·화학·소재,화학,both,,,major,1
+dupont,듀폰,DuPont,,US,에너지·화학·소재,화학,both,,,major,1
+hanwha-solutions,한화솔루션,Hanwha Solutions,,KR,에너지·화학·소재,화학,corporate,hanwha-group,Hanwha Group,major,1
+kumho-petrochemical,금호석유화학,Kumho Petrochemical,금호석화,KR,에너지·화학·소재,화학,both,,,niche,1
+lg-chem,LG화학,LG Chem,,KR,에너지·화학·소재,화학,both,lg-group,LG Group,major,1
+linde,린데,Linde,,GB,에너지·화학·소재,화학,both,,,major,1
+lotte-chemical,롯데케미칼,Lotte Chemical,,KR,에너지·화학·소재,화학,both,lotte-group,Lotte Group,major,1
+sabic,사빅,SABIC,사우디기초산업공사,SA,에너지·화학·소재,화학,both,saudi-aramco,Saudi Aramco,major,1
+agoda,아고다,Agoda,,SG,여행·항공·호텔,여행플랫폼,both,booking-holdings,Booking Holdings,major,0
+airbnb,에어비앤비,Airbnb,,US,여행·항공·호텔,여행플랫폼,both,,,mega,0
+booking-com,부킹닷컴,Booking.com,부킹|Booking,NL,여행·항공·호텔,여행플랫폼,both,booking-holdings,Booking Holdings,mega,0
+booking-holdings,부킹홀딩스,Booking Holdings,Priceline Group,US,여행·항공·호텔,여행플랫폼,corporate,,,major,0
+expedia,익스피디아,Expedia,익스피디아 그룹|Expedia Group,US,여행·항공·호텔,여행플랫폼,both,,,mega,0
+hanatour,하나투어,Hanatour,,KR,여행·항공·호텔,여행플랫폼,both,,,major,0
+hotels-com,호텔스닷컴,Hotels.com,,US,여행·항공·호텔,여행플랫폼,both,expedia,Expedia,major,0
+interpark-triple,인터파크트리플,Interpark Triple,인터파크투어|트리플|NOL 인터파크투어,KR,여행·항공·호텔,여행플랫폼,both,yanolja,Yanolja,major,0
+kayak,카약,KAYAK,,US,여행·항공·호텔,여행플랫폼,both,booking-holdings,Booking Holdings,niche,0
+kkday,케이케이데이,KKday,KK데이,TW,여행·항공·호텔,여행플랫폼,both,,,niche,0
+klook,클룩,Klook,,HK,여행·항공·호텔,여행플랫폼,both,,,niche,0
+modetour,모두투어,Modetour,,KR,여행·항공·호텔,여행플랫폼,both,,,major,0
+myrealtrip,마이리얼트립,MyRealTrip,마리트,KR,여행·항공·호텔,여행플랫폼,both,,,major,0
+skyscanner,스카이스캐너,Skyscanner,,GB,여행·항공·호텔,여행플랫폼,both,trip-com,Trip.com,major,0
+trip-com,트립닷컴,Trip.com,씨트립|Ctrip|Trip.com Group,CN,여행·항공·호텔,여행플랫폼,both,,,major,0
+tripadvisor,트립어드바이저,Tripadvisor,,US,여행·항공·호텔,여행플랫폼,both,,,major,0
+trivago,트리바고,trivago,,DE,여행·항공·호텔,여행플랫폼,both,expedia,Expedia,major,0
+verygoodtour,참좋은여행,Very Good Tour,,KR,여행·항공·호텔,여행플랫폼,both,,,niche,0
+vrbo,브르보,Vrbo,Vacation Rentals by Owner,US,여행·항공·호텔,여행플랫폼,both,expedia,Expedia,niche,0
+yanolja,야놀자,Yanolja,놀유니버스|NOL|놀,KR,여행·항공·호텔,여행플랫폼,both,,,major,0
+ybtour,노랑풍선,Yellow Balloon Tour,,KR,여행·항공·호텔,여행플랫폼,both,,,niche,0
+yeogi-eottae,여기어때,Yeogi Eottae,여기어때컴퍼니|goodchoice,KR,여행·항공·호텔,여행플랫폼,both,,,major,0
+caribbean-bay,캐리비안 베이,Caribbean Bay,캐리비안베이|캐비,KR,여행·항공·호텔,크루즈·테마파크,product,everland,Everland,niche,0
+carnival-cruise,카니발 크루즈,Carnival Cruise Line,카니발|Carnival Corporation,US,여행·항공·호텔,크루즈·테마파크,both,,,major,0
+disney-parks,디즈니랜드,Disneyland,디즈니 파크|Disney Parks|디즈니월드,US,여행·항공·호텔,크루즈·테마파크,product,disney,The Walt Disney Company,mega,0
+everland,에버랜드,Everland,에버랜드 리조트,KR,여행·항공·호텔,크루즈·테마파크,both,samsung-group,Samsung Group,major,0
+legoland,레고랜드,Legoland,레고랜드 코리아,GB,여행·항공·호텔,크루즈·테마파크,both,,,major,0
+lotte-world,롯데월드,Lotte World,롯데월드 어드벤처,KR,여행·항공·호텔,크루즈·테마파크,both,lotte-group,Lotte Group,major,0
+msc-cruises,MSC 크루즈,MSC Cruises,MSC크루즈,CH,여행·항공·호텔,크루즈·테마파크,both,,,major,0
+norwegian-cruise-line,노르웨이지안 크루즈 라인,Norwegian Cruise Line,NCL|노르웨이지안,US,여행·항공·호텔,크루즈·테마파크,both,,,major,0
+princess-cruises,프린세스 크루즈,Princess Cruises,,US,여행·항공·호텔,크루즈·테마파크,product,carnival-cruise,Carnival Cruise Line,niche,0
+royal-caribbean,로열캐리비안,Royal Caribbean,로열 캐리비안 크루즈|Royal Caribbean International,US,여행·항공·호텔,크루즈·테마파크,both,,,major,0
+seaworld,씨월드,SeaWorld,,US,여행·항공·호텔,크루즈·테마파크,both,,,niche,0
+seoul-land,서울랜드,Seoul Land,,KR,여행·항공·호텔,크루즈·테마파크,both,,,niche,0
+six-flags,식스 플래그,Six Flags,식스플래그,US,여행·항공·호텔,크루즈·테마파크,both,,,major,0
+tokyo-disney-resort,도쿄 디즈니 리조트,Tokyo Disney Resort,도쿄디즈니랜드|도쿄디즈니씨,JP,여행·항공·호텔,크루즈·테마파크,product,,,major,0
+universal-studios,유니버설 스튜디오,Universal Studios,유니버설 스튜디오 재팬|USJ|Universal Parks & Resorts,US,여행·항공·호텔,크루즈·테마파크,product,nbcuniversal,NBCUniversal,mega,0
+virgin-voyages,버진 보야지스,Virgin Voyages,,GB,여행·항공·호텔,크루즈·테마파크,both,virgin-group,Virgin Group,niche,0
+air-busan,에어부산,Air Busan,,KR,여행·항공·호텔,항공사,both,korean-air,Korean Air,niche,0
+air-france,에어프랑스,Air France,,FR,여행·항공·호텔,항공사,both,,,mega,0
+air-india,에어인디아,Air India,,IN,여행·항공·호텔,항공사,both,tata-group,Tata Group,major,0
+air-premia,에어프레미아,Air Premia,,KR,여행·항공·호텔,항공사,both,,,niche,0
+air-seoul,에어서울,Air Seoul,,KR,여행·항공·호텔,항공사,both,korean-air,Korean Air,niche,0
+airasia,에어아시아,AirAsia,,MY,여행·항공·호텔,항공사,both,,,major,0
+american-airlines,아메리칸항공,American Airlines,아메리칸에어라인,US,여행·항공·호텔,항공사,both,,,mega,0
+ana,전일본공수,All Nippon Airways,ANA|全日空,JP,여행·항공·호텔,항공사,both,,,major,0
+asiana-airlines,아시아나항공,Asiana Airlines,아시아나|Asiana,KR,여행·항공·호텔,항공사,both,korean-air,Korean Air,major,0
+british-airways,영국항공,British Airways,브리티시 에어웨이즈|BA,GB,여행·항공·호텔,항공사,both,,,mega,0
+cathay-pacific,캐세이퍼시픽,Cathay Pacific,캐세이|Cathay,HK,여행·항공·호텔,항공사,both,swire-group,Swire Group,major,0
+delta-air-lines,델타항공,Delta Air Lines,델타|Delta,US,여행·항공·호텔,항공사,both,,,mega,0
+eastar-jet,이스타항공,Eastar Jet,이스타,KR,여행·항공·호텔,항공사,both,,,niche,0
+easyjet,이지젯,easyJet,,GB,여행·항공·호텔,항공사,both,,,major,0
+emirates,에미레이트항공,Emirates,에미레이트|Emirates Airline,AE,여행·항공·호텔,항공사,both,,,mega,0
+etihad-airways,에티하드항공,Etihad Airways,에티하드,AE,여행·항공·호텔,항공사,both,,,major,0
+eva-air,에바항공,EVA Air,,TW,여행·항공·호텔,항공사,both,,,niche,0
+finnair,핀에어,Finnair,,FI,여행·항공·호텔,항공사,both,,,niche,0
+jal,일본항공,Japan Airlines,JAL|日本航空,JP,여행·항공·호텔,항공사,both,,,major,0
+jeju-air,제주항공,Jeju Air,JEJUair,KR,여행·항공·호텔,항공사,both,aekyung-group,Aekyung Group,major,0
+jin-air,진에어,Jin Air,JIN AIR,KR,여행·항공·호텔,항공사,both,korean-air,Korean Air,major,0
+klm,KLM,KLM Royal Dutch Airlines,KLM 네덜란드항공,NL,여행·항공·호텔,항공사,both,,,major,0
+korean-air,대한항공,Korean Air,KAL|Korean Air Lines,KR,여행·항공·호텔,항공사,both,hanjin-group,Hanjin Group,major,0
+lufthansa,루프트한자,Lufthansa,Deutsche Lufthansa,DE,여행·항공·호텔,항공사,both,,,mega,0
+peach-aviation,피치항공,Peach Aviation,피치|Peach,JP,여행·항공·호텔,항공사,both,,,niche,0
+qantas,콴타스항공,Qantas,콴타스,AU,여행·항공·호텔,항공사,both,,,major,0
+qatar-airways,카타르항공,Qatar Airways,,QA,여행·항공·호텔,항공사,both,,,mega,0
+ryanair,라이언에어,Ryanair,,IE,여행·항공·호텔,항공사,both,,,major,0
+singapore-airlines,싱가포르항공,Singapore Airlines,SIA|싱가포르에어라인,SG,여행·항공·호텔,항공사,both,,,mega,0
+southwest-airlines,사우스웨스트항공,Southwest Airlines,사우스웨스트,US,여행·항공·호텔,항공사,both,,,major,0
+turkish-airlines,터키항공,Turkish Airlines,튀르키예항공,TR,여행·항공·호텔,항공사,both,,,major,0
+tway-air,티웨이항공,T'way Air,티웨이|트리니티항공,KR,여행·항공·호텔,항공사,both,sono-group,Sono Group,major,0
+united-airlines,유나이티드항공,United Airlines,유나이티드|United,US,여행·항공·호텔,항공사,both,,,mega,0
+vietjet,비엣젯항공,VietJet Air,비엣젯|VietJet,VN,여행·항공·호텔,항공사,both,,,niche,0
+vietnam-airlines,베트남항공,Vietnam Airlines,,VN,여행·항공·호텔,항공사,both,,,niche,0
+virgin-atlantic,버진애틀랜틱,Virgin Atlantic,,GB,여행·항공·호텔,항공사,both,virgin-group,Virgin Group,major,0
+accor,아코르,Accor,아코르 호텔|Accor Hotels,FR,여행·항공·호텔,호텔·리조트,corporate,,,major,0

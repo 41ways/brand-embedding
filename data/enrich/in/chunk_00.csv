@@ -1,0 +1,135 @@
+id,name_ko,name_en,aliases,country,sector,category,brand_type,parent,parent_name,tier,b2b
+allianz,알리안츠,Allianz,,DE,금융,보험,both,,,mega,0
+axa,악사,AXA,AXA손해보험,FR,금융,보험,both,,,mega,0
+hanwha-life,한화생명,Hanwha Life,,KR,금융,보험,both,hanwha-group,Hanwha Group,major,0
+hyundai-marine,현대해상,Hyundai Marine & Fire Insurance,하이카,KR,금융,보험,both,,,major,0
+kyobo-life,교보생명,Kyobo Life Insurance,교보,KR,금융,보험,both,,,major,0
+ping-an,핑안보험,Ping An Insurance,중국평안|平安,CN,금융,보험,both,,,major,0
+samsung-fire,삼성화재,Samsung Fire & Marine Insurance,,KR,금융,보험,both,samsung-group,Samsung Group,major,0
+samsung-life,삼성생명,Samsung Life Insurance,,KR,금융,보험,both,samsung-group,Samsung Group,major,0
+binance,바이낸스,Binance,,KY,금융,암호화폐,both,,,major,0
+bithumb,빗썸,Bithumb,,KR,금융,암호화폐,both,,,major,0
+coinbase,코인베이스,Coinbase,,US,금융,암호화폐,both,,,major,0
+tether,테더,Tether,USDT,SV,금융,암호화폐,both,,,major,1
+upbit,업비트,Upbit,두나무|Dunamu,KR,금융,암호화폐,both,,,major,0
+bank-of-america,뱅크오브아메리카,Bank of America,BofA|뱅오아,US,금융,은행,both,,,mega,0
+barclays,바클레이즈,Barclays,,GB,금융,은행,both,,,major,0
+bnp-paribas,BNP파리바,BNP Paribas,,FR,금융,은행,both,,,major,0
+citi,씨티,Citigroup,씨티은행|씨티그룹|Citibank,US,금융,은행,both,,,mega,0
+deutsche-bank,도이치뱅크,Deutsche Bank,도이체방크,DE,금융,은행,both,,,major,0
+hana-bank,하나은행,Hana Bank,KEB하나은행|하나원큐,KR,금융,은행,both,hana-financial-group,Hana Financial Group,major,0
+hana-financial-group,하나금융그룹,Hana Financial Group,하나금융|하나금융지주,KR,금융,은행,corporate,,,major,0
+hsbc,HSBC,HSBC Holdings,홍콩상하이은행,GB,금융,은행,both,,,mega,0
+ibk,IBK기업은행,Industrial Bank of Korea,기업은행|IBK,KR,금융,은행,both,,,major,0
+icbc,중국공상은행,Industrial and Commercial Bank of China,공상은행|ICBC,CN,금융,은행,both,,,major,0
+jpmorgan-chase,JP모건체이스,JPMorgan Chase,JP모건|체이스|Chase|J.P. Morgan,US,금융,은행,both,,,mega,0
+kakaobank,카카오뱅크,KakaoBank,카뱅,KR,금융,은행,both,kakao,Kakao,major,0
+kb-financial-group,KB금융그룹,KB Financial Group,KB금융|KB금융지주,KR,금융,은행,corporate,,,major,0
+kb-kookmin-bank,KB국민은행,KB Kookmin Bank,국민은행|KB,KR,금융,은행,both,kb-financial-group,KB Financial Group,major,0
+monzo,몬조,Monzo,,GB,금융,은행,both,,,niche,0
+mufg,미쓰비시UFJ파이낸셜그룹,Mitsubishi UFJ Financial Group,MUFG|미쓰비시UFJ,JP,금융,은행,both,,,major,0
+nh-nonghyup-bank,NH농협은행,NongHyup Bank,농협은행|농협|NH,KR,금융,은행,both,nonghyup,NongHyup,major,0
+nubank,누뱅크,Nubank,Nu Holdings|누,BR,금융,은행,both,,,niche,0
+revolut,레볼루트,Revolut,,GB,금융,은행,both,,,niche,0
+shinhan-bank,신한은행,Shinhan Bank,신한|SOL,KR,금융,은행,both,shinhan-financial-group,Shinhan Financial Group,major,0
+shinhan-financial-group,신한금융그룹,Shinhan Financial Group,신한금융|신한금융지주,KR,금융,은행,corporate,,,major,0
+toss-bank,토스뱅크,Toss Bank,토뱅,KR,금융,은행,both,,,major,0
+ubs,UBS,UBS Group,,CH,금융,은행,both,,,major,0
+wells-fargo,웰스파고,Wells Fargo,,US,금융,은행,both,,,major,0
+woori-bank,우리은행,Woori Bank,,KR,금융,은행,both,woori-financial-group,Woori Financial Group,major,0
+woori-financial-group,우리금융그룹,Woori Financial Group,우리금융|우리금융지주,KR,금융,은행,corporate,,,major,0
+blackrock,블랙록,BlackRock,아이셰어즈|iShares,US,금융,자산운용,both,,,mega,1
+fidelity,피델리티,Fidelity Investments,피델리티인베스트먼트,US,금융,자산운용,both,,,major,0
+mirae-asset-global-investments,미래에셋자산운용,Mirae Asset Global Investments,TIGER ETF|글로벌엑스|Global X,KR,금융,자산운용,both,mirae-asset-group,Mirae Asset Group,major,0
+vanguard,뱅가드,Vanguard,,US,금융,자산운용,both,,,major,0
+charles-schwab,찰스슈왑,Charles Schwab,슈왑|Schwab,US,금융,증권·투자,both,,,major,0
+goldman-sachs,골드만삭스,Goldman Sachs,골드만,US,금융,증권·투자,both,,,mega,1
+kiwoom-securities,키움증권,Kiwoom Securities,키움|영웅문,KR,금융,증권·투자,both,,,major,0
+korea-investment-securities,한국투자증권,Korea Investment & Securities,한투|한국투자,KR,금융,증권·투자,both,,,major,0
+mirae-asset-securities,미래에셋증권,Mirae Asset Securities,,KR,금융,증권·투자,both,mirae-asset-group,Mirae Asset Group,major,0
+morgan-stanley,모건스탠리,Morgan Stanley,,US,금융,증권·투자,both,,,mega,1
+robinhood,로빈후드,Robinhood,,US,금융,증권·투자,both,,,niche,0
+samsung-securities,삼성증권,Samsung Securities,,KR,금융,증권·투자,both,samsung-group,Samsung Group,major,0
+alipay,알리페이,Alipay,支付宝|즈푸바오,CN,금융,카드·결제,product,,,major,0
+american-express,아메리칸익스프레스,American Express,아멕스|Amex,US,금융,카드·결제,both,,,mega,0
+hyundai-card,현대카드,Hyundai Card,,KR,금융,카드·결제,both,hyundai-motor-group,Hyundai Motor Group,major,0
+kakaopay,카카오페이,Kakao Pay,카카오페이머니,KR,금융,카드·결제,both,kakao,Kakao,major,0
+kb-kookmin-card,KB국민카드,KB Kookmin Card,국민카드,KR,금융,카드·결제,both,kb-financial-group,KB Financial Group,major,0
+klarna,클라나,Klarna,클라르나,SE,금융,카드·결제,both,,,niche,0
+lotte-card,롯데카드,Lotte Card,,KR,금융,카드·결제,both,,,niche,0
+mastercard,마스터카드,Mastercard,마스터,US,금융,카드·결제,both,,,mega,0
+paypal,페이팔,PayPal,,US,금융,카드·결제,both,,,mega,0
+samsung-card,삼성카드,Samsung Card,,KR,금융,카드·결제,both,samsung-group,Samsung Group,major,0
+shinhan-card,신한카드,Shinhan Card,,KR,금융,카드·결제,both,shinhan-financial-group,Shinhan Financial Group,major,0
+stripe,스트라이프,Stripe,,US,금융,카드·결제,both,,,major,1
+unionpay,유니온페이,UnionPay,은련|银联,CN,금융,카드·결제,both,,,major,0
+visa,비자,Visa,VISA,US,금융,카드·결제,both,,,mega,0
+wise,와이즈,Wise,TransferWise|트랜스퍼와이즈,GB,금융,카드·결제,both,,,niche,0
+aekyung-group,애경그룹,Aekyung Group,애경|AK,KR,기업집단,한국재벌,corporate,,,major,0
+booyoung-group,부영그룹,Booyoung Group,부영,KR,기업집단,한국재벌,corporate,,,major,0
+celltrion-group,셀트리온그룹,Celltrion Group,셀트리온,KR,기업집단,한국재벌,corporate,,,major,1
+cj-group,CJ그룹,CJ Group,CJ|씨제이,KR,기업집단,한국재벌,corporate,,,major,0
+daesang-group,대상그룹,Daesang Group,대상,KR,기업집단,한국재벌,corporate,,,major,0
+db-group,DB그룹,DB Group,동부그룹|DB,KR,기업집단,한국재벌,corporate,,,major,0
+dl-group,DL그룹,DL Group,대림그룹|대림|DL,KR,기업집단,한국재벌,corporate,,,major,1
+dongwon-group,동원그룹,Dongwon Group,동원,KR,기업집단,한국재벌,corporate,,,major,0
+doosan-group,두산그룹,Doosan Group,두산,KR,기업집단,한국재벌,corporate,,,major,1
+eland-group,이랜드그룹,E-Land Group,이랜드|E-LAND,KR,기업집단,한국재벌,corporate,,,major,0
+gs-group,GS그룹,GS Group,GS,KR,기업집단,한국재벌,corporate,,,major,0
+hanjin-group,한진그룹,Hanjin Group,한진,KR,기업집단,한국재벌,corporate,,,major,0
+hankook-group,한국앤컴퍼니그룹,Hankook & Company Group,한국타이어그룹|한국앤컴퍼니,KR,기업집단,한국재벌,corporate,,,major,0
+hansol-group,한솔그룹,Hansol Group,한솔,KR,기업집단,한국재벌,corporate,,,niche,1
+hanwha-group,한화그룹,Hanwha Group,한화,KR,기업집단,한국재벌,corporate,,,major,1
+harim-group,하림그룹,Harim Group,하림,KR,기업집단,한국재벌,corporate,,,major,0
+hd-hyundai,HD현대,HD Hyundai,현대중공업그룹|HD현대그룹,KR,기업집단,한국재벌,corporate,,,major,1
+hdc-group,HDC그룹,HDC Group,HDC|현대산업개발그룹,KR,기업집단,한국재벌,corporate,,,major,1
+hoban-group,호반그룹,Hoban Group,호반,KR,기업집단,한국재벌,corporate,,,niche,0
+hyosung-group,효성그룹,Hyosung Group,효성,KR,기업집단,한국재벌,corporate,,,major,1
+hyundai-department-store-group,현대백화점그룹,Hyundai Department Store Group,현대백화점,KR,기업집단,한국재벌,corporate,,,major,0
+hyundai-motor-group,현대자동차그룹,Hyundai Motor Group,현대차그룹|HMG,KR,기업집단,한국재벌,corporate,,,mega,0
+jungheung-group,중흥그룹,Jungheung Group,중흥,KR,기업집단,한국재벌,corporate,,,niche,0
+kcc-group,KCC그룹,KCC Group,KCC,KR,기업집단,한국재벌,corporate,,,major,1
+kolon-group,코오롱그룹,Kolon Group,코오롱,KR,기업집단,한국재벌,corporate,,,major,0
+korea-investment-group,한국투자금융그룹,Korea Investment Holdings,한국투자|한투,KR,기업집단,한국재벌,corporate,,,major,0
+kt-group,KT그룹,KT Group,KT,KR,기업집단,한국재벌,corporate,,,major,0
+kumho-asiana-group,금호아시아나그룹,Kumho Asiana Group,금호그룹|금호,KR,기업집단,한국재벌,corporate,,,major,0
+kyobo-group,교보그룹,Kyobo Group,교보,KR,기업집단,한국재벌,corporate,,,major,0
+lg-group,LG그룹,LG Group,LG|엘지,KR,기업집단,한국재벌,corporate,,,mega,0
+lotte-group,롯데그룹,Lotte Group,롯데,KR,기업집단,한국재벌,corporate,,,major,0
+ls-group,LS그룹,LS Group,LS,KR,기업집단,한국재벌,corporate,,,major,1
+lx-group,LX그룹,LX Group,LX,KR,기업집단,한국재벌,corporate,,,major,1
+mirae-asset-group,미래에셋그룹,Mirae Asset Group,미래에셋,KR,기업집단,한국재벌,corporate,,,major,0
+nonghyup,농협,NongHyup,NH|농협중앙회|NH농협,KR,기업집단,한국재벌,corporate,,,major,0
+oci-group,OCI그룹,OCI Group,OCI,KR,기업집단,한국재벌,corporate,,,niche,1
+paradise-group,파라다이스그룹,Paradise Group,파라다이스,KR,기업집단,한국재벌,corporate,,,major,0
+posco-group,포스코그룹,POSCO Group,포스코|POSCO,KR,기업집단,한국재벌,corporate,,,major,1
+samsung-group,삼성그룹,Samsung Group,삼성,KR,기업집단,한국재벌,corporate,,,mega,0
+samyang-group,삼양그룹,Samyang Group,삼양,KR,기업집단,한국재벌,corporate,,,niche,1
+seah-group,세아그룹,SeAH Group,세아,KR,기업집단,한국재벌,corporate,,,niche,1
+shinsegae-group,신세계그룹,Shinsegae Group,신세계,KR,기업집단,한국재벌,corporate,,,major,0
+sk-group,SK그룹,SK Group,SK|에스케이,KR,기업집단,한국재벌,corporate,,,major,0
+sono-group,소노그룹,Sono Group,대명소노그룹|대명그룹|소노인터내셔널,KR,기업집단,한국재벌,corporate,,,major,0
+taekwang-group,태광그룹,Taekwang Group,태광,KR,기업집단,한국재벌,corporate,,,niche,0
+youngpoong-group,영풍그룹,Young Poong Group,영풍,KR,기업집단,한국재벌,corporate,,,niche,1
+3m,3M,3M,쓰리엠|Minnesota Mining and Manufacturing,US,기업집단,해외복합기업,both,,,mega,0
+adani-group,아다니그룹,Adani Group,아다니|Adani,IN,기업집단,해외복합기업,corporate,,,major,1
+aditya-birla-group,아디티야 비를라 그룹,Aditya Birla Group,비를라,IN,기업집단,해외복합기업,corporate,,,niche,1
+ayala-corporation,아얄라그룹,Ayala Corporation,아얄라|Ayala,PH,기업집단,해외복합기업,corporate,,,niche,1
+berkshire-hathaway,버크셔 해서웨이,Berkshire Hathaway,버크셔|BRK,US,기업집단,해외복합기업,corporate,,,mega,1
+bollore,볼로레,Bolloré,볼로레그룹|Bollore,FR,기업집단,해외복합기업,corporate,,,niche,1
+citic-group,CITIC그룹,CITIC Group,중신그룹|中信,CN,기업집단,해외복합기업,corporate,,,major,1
+ck-hutchison,CK허치슨,CK Hutchison,허치슨|CK Hutchison Holdings,HK,기업집단,해외복합기업,corporate,,,major,1
+fosun-group,푸싱그룹,Fosun International,복성그룹|Fosun,CN,기업집단,해외복합기업,corporate,,,niche,1
+general-electric,GE,General Electric,제너럴 일렉트릭|GE에어로스페이스|GE Aerospace,US,기업집단,해외복합기업,both,,,mega,1
+hitachi,히타치,Hitachi,日立,JP,기업집단,해외복합기업,both,,,mega,1
+honeywell,하니웰,Honeywell,,US,기업집단,해외복합기업,both,,,major,1
+investor-ab,인베스터 AB,Investor AB,발렌베리그룹|Wallenberg,SE,기업집단,해외복합기업,corporate,,,niche,1
+jardine-matheson,자딘 매디슨,Jardine Matheson,자딘|Jardines,HK,기업집단,해외복합기업,corporate,,,major,1
+koc-holding,코치그룹,Koç Holding,코치홀딩|Koc,TR,기업집단,해외복합기업,corporate,,,niche,1
+mahindra-group,마힌드라그룹,Mahindra Group,마힌드라|Mahindra,IN,기업집단,해외복합기업,corporate,,,major,0
+mitsubishi-group,미쓰비시그룹,Mitsubishi Group,미쓰비시|三菱,JP,기업집단,해외복합기업,corporate,,,mega,1
+mitsui-group,미쓰이그룹,Mitsui Group,미쓰이|三井,JP,기업집단,해외복합기업,corporate,,,major,1
+reliance,릴라이언스,Reliance Industries,릴라이언스 인더스트리|Reliance,IN,기업집단,해외복합기업,corporate,,,major,0
+siemens,지멘스,Siemens,Siemens AG,DE,기업집단,해외복합기업,both,,,mega,1
+softbank-group,소프트뱅크그룹,SoftBank Group,소프트뱅크|SoftBank,JP,기업집단,해외복합기업,corporate,,,mega,1
+sumitomo-group,스미토모그룹,Sumitomo Group,스미토모|住友,JP,기업집단,해외복합기업,corporate,,,major,1

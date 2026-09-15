@@ -1,0 +1,135 @@
+id,name_ko,name_en,aliases,country,sector,category,brand_type,parent,parent_name,tier,b2b
+macbook,맥북,MacBook,맥|Mac,US,전자·IT,PC·주변기기,product,apple,Apple,mega,0
+msi,MSI,Micro-Star International,,TW,전자·IT,PC·주변기기,both,,,major,0
+raspberry-pi,라즈베리 파이,Raspberry Pi,라즈베리파이,GB,전자·IT,PC·주변기기,both,,,niche,0
+razer,레이저,Razer,,SG,전자·IT,PC·주변기기,both,,,major,0
+steelseries,스틸시리즈,SteelSeries,,DK,전자·IT,PC·주변기기,both,,,niche,0
+wacom,와콤,Wacom,,JP,전자·IT,PC·주변기기,both,,,niche,0
+boe,BOE,BOE Technology,징둥팡,CN,전자·IT,디스플레이·부품,corporate,,,major,1
+foxconn,폭스콘,Foxconn,훙하이|Hon Hai,TW,전자·IT,디스플레이·부품,corporate,,,mega,1
+lg-display,LG디스플레이,LG Display,LGD,KR,전자·IT,디스플레이·부품,corporate,lg-electronics,LG Electronics,major,1
+lg-innotek,LG이노텍,LG Innotek,,KR,전자·IT,디스플레이·부품,corporate,lg-electronics,LG Electronics,major,1
+murata,무라타,Murata Manufacturing,무라타제작소,JP,전자·IT,디스플레이·부품,corporate,,,major,1
+samsung-display,삼성디스플레이,Samsung Display,삼디,KR,전자·IT,디스플레이·부품,corporate,samsung-electronics,Samsung Electronics,major,1
+samsung-electro-mechanics,삼성전기,Samsung Electro-Mechanics,SEMCO,KR,전자·IT,디스플레이·부품,corporate,samsung-group,Samsung Group,major,1
+amd,AMD,Advanced Micro Devices,라이젠|Ryzen,US,전자·IT,반도체,both,,,mega,1
+applied-materials,어플라이드 머티어리얼즈,Applied Materials,AMAT,US,전자·IT,반도체,corporate,,,major,1
+arm,Arm,Arm Holdings,ARM|암,GB,전자·IT,반도체,corporate,softbank-group,SoftBank Group,major,1
+asml,ASML,ASML,,NL,전자·IT,반도체,corporate,,,mega,1
+broadcom,브로드컴,Broadcom,,US,전자·IT,반도체,corporate,,,mega,1
+furiosaai,퓨리오사AI,FuriosaAI,퓨리오사,KR,전자·IT,반도체,corporate,,,niche,1
+hanmi-semiconductor,한미반도체,Hanmi Semiconductor,,KR,전자·IT,반도체,corporate,,,niche,1
+infineon,인피니언,Infineon Technologies,,DE,전자·IT,반도체,corporate,,,major,1
+intel,인텔,Intel,,US,전자·IT,반도체,both,,,mega,1
+mediatek,미디어텍,MediaTek,,TW,전자·IT,반도체,corporate,,,major,1
+micron,마이크론,Micron Technology,,US,전자·IT,반도체,corporate,,,major,1
+nvidia,엔비디아,NVIDIA,,US,전자·IT,반도체,both,,,mega,1
+qualcomm,퀄컴,Qualcomm,스냅드래곤|Snapdragon,US,전자·IT,반도체,both,,,mega,1
+rebellions,리벨리온,Rebellions,,KR,전자·IT,반도체,corporate,,,niche,1
+sk-hynix,SK하이닉스,SK hynix,하이닉스,KR,전자·IT,반도체,corporate,sk-group,SK Group,mega,1
+texas-instruments,텍사스 인스트루먼트,Texas Instruments,TI,US,전자·IT,반도체,corporate,,,major,1
+tokyo-electron,도쿄일렉트론,Tokyo Electron,TEL,JP,전자·IT,반도체,corporate,,,major,1
+tsmc,TSMC,Taiwan Semiconductor Manufacturing Company,대만 TSMC,TW,전자·IT,반도체,corporate,,,mega,1
+adobe,어도비,Adobe,포토샵|Photoshop,US,전자·IT,소프트웨어·클라우드,both,,,mega,0
+atlassian,아틀라시안,Atlassian,지라|Jira,AU,전자·IT,소프트웨어·클라우드,both,,,major,1
+autodesk,오토데스크,Autodesk,오토캐드|AutoCAD,US,전자·IT,소프트웨어·클라우드,both,,,major,1
+aws,AWS,Amazon Web Services,아마존 웹 서비스,US,전자·IT,소프트웨어·클라우드,product,amazon,Amazon,mega,1
+canva,캔바,Canva,,AU,전자·IT,소프트웨어·클라우드,both,,,major,0
+cloudflare,클라우드플레어,Cloudflare,,US,전자·IT,소프트웨어·클라우드,both,,,major,1
+databricks,데이터브릭스,Databricks,,US,전자·IT,소프트웨어·클라우드,both,,,major,1
+douzone-bizon,더존비즈온,Douzone Bizon,더존,KR,전자·IT,소프트웨어·클라우드,both,,,niche,1
+dropbox,드롭박스,Dropbox,,US,전자·IT,소프트웨어·클라우드,both,,,major,0
+figma,피그마,Figma,,US,전자·IT,소프트웨어·클라우드,both,,,niche,1
+framer,프레이머,Framer,,NL,전자·IT,소프트웨어·클라우드,both,,,niche,1
+github,깃허브,GitHub,,US,전자·IT,소프트웨어·클라우드,product,microsoft,Microsoft,major,1
+hancom,한글과컴퓨터,Hancom,한컴|한글,KR,전자·IT,소프트웨어·클라우드,both,,,major,0
+linear,리니어,Linear,,US,전자·IT,소프트웨어·클라우드,both,,,niche,1
+microsoft,마이크로소프트,Microsoft,MS|윈도우|Windows,US,전자·IT,소프트웨어·클라우드,both,,,mega,0
+naver-cloud,네이버클라우드,NAVER Cloud,,KR,전자·IT,소프트웨어·클라우드,corporate,naver,NAVER,niche,1
+notion,노션,Notion,,US,전자·IT,소프트웨어·클라우드,both,,,niche,0
+oracle,오라클,Oracle,,US,전자·IT,소프트웨어·클라우드,both,,,mega,1
+palantir,팔란티어,Palantir Technologies,Palantir,US,전자·IT,소프트웨어·클라우드,both,,,major,1
+salesforce,세일즈포스,Salesforce,,US,전자·IT,소프트웨어·클라우드,both,,,mega,1
+sap,SAP,SAP,에스에이피,DE,전자·IT,소프트웨어·클라우드,both,,,mega,1
+servicenow,서비스나우,ServiceNow,,US,전자·IT,소프트웨어·클라우드,both,,,major,1
+shopify,쇼피파이,Shopify,,CA,전자·IT,소프트웨어·클라우드,both,,,major,1
+slack,슬랙,Slack,,US,전자·IT,소프트웨어·클라우드,product,salesforce,Salesforce,major,1
+snowflake,스노우플레이크,Snowflake,,US,전자·IT,소프트웨어·클라우드,both,,,major,1
+unity,유니티,Unity Technologies,Unity,US,전자·IT,소프트웨어·클라우드,both,,,major,1
+vmware,VM웨어,VMware,브이엠웨어,US,전자·IT,소프트웨어·클라우드,both,broadcom,Broadcom,major,1
+zoom,줌,Zoom Communications,Zoom,US,전자·IT,소프트웨어·클라우드,both,,,major,0
+apple,애플,Apple,,US,전자·IT,스마트폰·가전,both,,,mega,0
+balmuda,발뮤다,BALMUDA,,JP,전자·IT,스마트폰·가전,both,,,niche,0
+coway,코웨이,Coway,웅진코웨이,KR,전자·IT,스마트폰·가전,both,netmarble,Netmarble,major,0
+cuckoo,쿠쿠,Cuckoo,쿠쿠전자,KR,전자·IT,스마트폰·가전,both,,,major,0
+dyson,다이슨,Dyson,,GB,전자·IT,스마트폰·가전,both,,,major,0
+electrolux,일렉트로룩스,Electrolux,,SE,전자·IT,스마트폰·가전,both,,,major,0
+galaxy,갤럭시,Samsung Galaxy,갤럭시S|갤럭시Z,KR,전자·IT,스마트폰·가전,product,samsung-electronics,Samsung Electronics,mega,0
+google-pixel,구글 픽셀,Google Pixel,픽셀,US,전자·IT,스마트폰·가전,product,google,Google,major,0
+haier,하이얼,Haier,,CN,전자·IT,스마트폰·가전,both,,,major,0
+hisense,하이센스,Hisense,,CN,전자·IT,스마트폰·가전,both,,,major,0
+huawei,화웨이,Huawei,,CN,전자·IT,스마트폰·가전,both,,,mega,0
+iphone,아이폰,iPhone,,US,전자·IT,스마트폰·가전,product,apple,Apple,mega,0
+lg-electronics,LG전자,LG Electronics,엘지전자|LG,KR,전자·IT,스마트폰·가전,both,lg-group,LG Group,mega,0
+miele,밀레,Miele,,DE,전자·IT,스마트폰·가전,both,,,major,0
+motorola,모토로라,Motorola,모토로라 모빌리티,US,전자·IT,스마트폰·가전,both,lenovo,Lenovo,major,0
+nothing,낫싱,Nothing,Nothing Phone,GB,전자·IT,스마트폰·가전,both,,,niche,0
+oneplus,원플러스,OnePlus,,CN,전자·IT,스마트폰·가전,both,oppo,OPPO,niche,0
+oppo,오포,OPPO,,CN,전자·IT,스마트폰·가전,both,,,major,0
+panasonic,파나소닉,Panasonic,,JP,전자·IT,스마트폰·가전,both,,,major,0
+philips,필립스,Philips,,NL,전자·IT,스마트폰·가전,both,,,major,0
+samsung-electronics,삼성전자,Samsung Electronics,삼성|Samsung,KR,전자·IT,스마트폰·가전,both,samsung-group,Samsung Group,mega,0
+sharp,샤프,Sharp,,JP,전자·IT,스마트폰·가전,both,foxconn,Foxconn,major,0
+tcl,TCL,TCL,,CN,전자·IT,스마트폰·가전,both,,,major,0
+whirlpool,월풀,Whirlpool,,US,전자·IT,스마트폰·가전,both,,,major,0
+xiaomi,샤오미,Xiaomi,,CN,전자·IT,스마트폰·가전,both,,,mega,0
+airpods,에어팟,AirPods,,US,전자·IT,음향·카메라,product,apple,Apple,mega,0
+audio-technica,오디오테크니카,Audio-Technica,,JP,전자·IT,음향·카메라,both,,,niche,0
+bang-olufsen,뱅앤올룹슨,Bang & Olufsen,B&O|뱅앤올룹센,DK,전자·IT,음향·카메라,both,,,niche,0
+beats,비츠,Beats by Dre,비츠 바이 닥터드레,US,전자·IT,음향·카메라,product,apple,Apple,major,0
+bose,보스,Bose,,US,전자·IT,음향·카메라,both,,,major,0
+canon,캐논,Canon,,JP,전자·IT,음향·카메라,both,,,mega,0
+dji,DJI,DJI,디제이아이,CN,전자·IT,음향·카메라,both,,,major,0
+fujifilm,후지필름,Fujifilm,후지,JP,전자·IT,음향·카메라,both,,,major,0
+fujifilm-x,후지필름 X,Fujifilm X Series,후지 X|X100,JP,전자·IT,음향·카메라,product,fujifilm,Fujifilm,niche,0
+gopro,고프로,GoPro,,US,전자·IT,음향·카메라,both,,,major,0
+hanwha-vision,한화비전,Hanwha Vision,한화테크윈,KR,전자·IT,음향·카메라,corporate,hanwha-group,Hanwha Group,niche,1
+harman,하만,Harman International,하만카돈|Harman Kardon,US,전자·IT,음향·카메라,both,samsung-electronics,Samsung Electronics,major,0
+hasselblad,핫셀블라드,Hasselblad,,SE,전자·IT,음향·카메라,both,dji,DJI,niche,0
+insta360,인스타360,Insta360,,CN,전자·IT,음향·카메라,both,,,niche,0
+jbl,JBL,JBL,제이비엘,US,전자·IT,음향·카메라,product,harman,Harman International,major,0
+leica,라이카,Leica Camera,Leica,DE,전자·IT,음향·카메라,both,,,major,0
+marshall,마샬,Marshall,,GB,전자·IT,음향·카메라,both,,,niche,0
+nikon,니콘,Nikon,,JP,전자·IT,음향·카메라,both,,,major,0
+sennheiser,젠하이저,Sennheiser,,DE,전자·IT,음향·카메라,both,,,major,0
+sonos,소노스,Sonos,,US,전자·IT,음향·카메라,both,,,niche,0
+sony,소니,Sony,소니그룹|Sony Group,JP,전자·IT,음향·카메라,both,,,mega,0
+teenage-engineering,틴에이지 엔지니어링,Teenage Engineering,OP-1,SE,전자·IT,음향·카메라,both,,,niche,0
+alteogen,알테오젠,Alteogen,,KR,제약·헬스케어,바이오,corporate,,,niche,1
+amgen,암젠,Amgen,,US,제약·헬스케어,바이오,corporate,,,major,0
+biontech,바이오엔텍,BioNTech,,DE,제약·헬스케어,바이오,corporate,,,major,0
+celltrion,셀트리온,Celltrion,,KR,제약·헬스케어,바이오,both,,,major,0
+lonza,론자,Lonza,,CH,제약·헬스케어,바이오,corporate,,,major,1
+lotte-biologics,롯데바이오로직스,Lotte Biologics,,KR,제약·헬스케어,바이오,corporate,lotte-group,Lotte Group,niche,1
+moderna,모더나,Moderna,,US,제약·헬스케어,바이오,both,,,major,0
+samsung-bioepis,삼성바이오에피스,Samsung Bioepis,,KR,제약·헬스케어,바이오,corporate,samsung-group,Samsung Group,niche,1
+samsung-biologics,삼성바이오로직스,Samsung Biologics,삼바,KR,제약·헬스케어,바이오,corporate,samsung-group,Samsung Group,major,1
+sk-bioscience,SK바이오사이언스,SK bioscience,,KR,제약·헬스케어,바이오,corporate,sk-group,SK Group,niche,0
+abbott,애보트,Abbott,애벗,US,제약·헬스케어,의료기기,both,,,mega,0
+boston-scientific,보스턴사이언티픽,Boston Scientific,,US,제약·헬스케어,의료기기,corporate,,,major,1
+dexcom,덱스콤,Dexcom,,US,제약·헬스케어,의료기기,both,,,niche,0
+ge-healthcare,GE헬스케어,GE HealthCare,,US,제약·헬스케어,의료기기,corporate,,,major,1
+intuitive-surgical,인튜이티브 서지컬,Intuitive Surgical,다빈치|da Vinci,US,제약·헬스케어,의료기기,corporate,,,major,1
+lunit,루닛,Lunit,,KR,제약·헬스케어,의료기기,corporate,,,niche,1
+medtronic,메드트로닉,Medtronic,,IE,제약·헬스케어,의료기기,corporate,,,mega,1
+olympus,올림푸스,Olympus,,JP,제약·헬스케어,의료기기,corporate,,,major,1
+osstem,오스템임플란트,Osstem Implant,오스템,KR,제약·헬스케어,의료기기,both,,,major,1
+siemens-healthineers,지멘스 헬시니어스,Siemens Healthineers,,DE,제약·헬스케어,의료기기,corporate,,,major,1
+stryker,스트라이커,Stryker,,US,제약·헬스케어,의료기기,corporate,,,major,1
+bacchus,박카스,Bacchus,박카스D|박카스F,KR,제약·헬스케어,일반의약품·소비자헬스,product,dong-a-pharm,Dong-A Pharmaceutical,major,0
+band-aid,밴드에이드,Band-Aid,,US,제약·헬스케어,일반의약품·소비자헬스,product,kenvue,Kenvue,major,0
+centrum,센트룸,Centrum,,US,제약·헬스케어,일반의약품·소비자헬스,product,haleon,Haleon,major,0
+dong-a-pharm,동아제약,Dong-A Pharmaceutical,,KR,제약·헬스케어,일반의약품·소비자헬스,both,,,major,0
+dongwha-pharm,동화약품,Dongwha Pharm,,KR,제약·헬스케어,일반의약품·소비자헬스,both,,,niche,0
+haleon,헤일리온,Haleon,,GB,제약·헬스케어,일반의약품·소비자헬스,corporate,,,major,0
+hwalmyungsu,까스활명수,Gas Hwalmyungsu,활명수,KR,제약·헬스케어,일반의약품·소비자헬스,product,dongwha-pharm,Dongwha Pharm,major,0

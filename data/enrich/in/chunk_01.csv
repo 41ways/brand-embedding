@@ -1,0 +1,135 @@
+id,name_ko,name_en,aliases,country,sector,category,brand_type,parent,parent_name,tier,b2b
+swire-group,스와이어그룹,Swire Group,스와이어|Swire,GB,기업집단,해외복합기업,corporate,,,niche,1
+tata-group,타타그룹,Tata Group,타타|Tata,IN,기업집단,해외복합기업,corporate,,,mega,0
+virgin-group,버진그룹,Virgin Group,버진|Virgin,GB,기업집단,해외복합기업,corporate,,,mega,0
+adm,ADM,Archer-Daniels-Midland,Archer Daniels Midland,US,농업·식품원료,곡물·원료무역,both,,,mega,1
+bunge,번지,Bunge,,US,농업·식품원료,곡물·원료무역,both,,,mega,1
+cargill,카길,Cargill,,US,농업·식품원료,곡물·원료무역,both,,,mega,1
+cofco,중량그룹,COFCO,중국량유식품,CN,농업·식품원료,곡물·원료무역,both,,,major,1
+louis-dreyfus,루이드레퓌스,Louis Dreyfus Company,LDC,NL,농업·식품원료,곡물·원료무역,both,,,major,1
+olam,올람,Olam Group,,SG,농업·식품원료,곡물·원료무역,corporate,,,major,1
+wilmar,윌마,Wilmar International,Wilmar,SG,농업·식품원료,곡물·원료무역,both,,,major,1
+barry-callebaut,배리칼레보,Barry Callebaut,칼리바우트,CH,농업·식품원료,식품원료,both,,,major,1
+cj-bio,CJ제일제당 바이오,CJ CheilJedang Bio,CJ바이오,KR,농업·식품원료,식품원료,product,cj-cheiljedang,CJ CheilJedang,major,1
+dsm-firmenich,dsm-피르메니히,dsm-firmenich,DSM|Firmenich,CH,농업·식품원료,식품원료,both,,,major,1
+givaudan,지보단,Givaudan,,CH,농업·식품원료,식품원료,both,,,major,1
+iff,IFF,International Flavors & Fragrances,,US,농업·식품원료,식품원료,both,,,major,1
+ingredion,인그리디언,Ingredion,,US,농업·식품원료,식품원료,both,,,niche,1
+kerry-group,케리그룹,Kerry Group,,IE,농업·식품원료,식품원료,both,,,major,1
+novonesis,노보네시스,Novonesis,Novozymes|Chr. Hansen,DK,농업·식품원료,식품원료,both,,,niche,1
+ofi,오에프아이,ofi,olam food ingredients,SG,농업·식품원료,식품원료,both,olam,Olam Group,niche,1
+symrise,심라이즈,Symrise,,DE,농업·식품원료,식품원료,both,,,niche,1
+tate-lyle,테이트앤라일,Tate & Lyle,,GB,농업·식품원료,식품원료,both,,,niche,1
+harim,하림,Harim,,KR,농업·식품원료,육가공·축산,both,,,major,0
+hormel,호멜,Hormel Foods,,US,농업·식품원료,육가공·축산,both,,,major,0
+jbs,JBS,JBS,,BR,농업·식품원료,육가공·축산,both,,,mega,1
+pilgrims-pride,필그림스프라이드,Pilgrim's Pride,,US,농업·식품원료,육가공·축산,both,jbs,JBS,major,1
+smithfield,스미스필드,Smithfield Foods,,US,농업·식품원료,육가공·축산,both,wh-group,WH Group,major,0
+tyson,타이슨푸드,Tyson Foods,타이슨,US,농업·식품원료,육가공·축산,both,,,mega,0
+wh-group,WH그룹,WH Group,萬洲國際,HK,농업·식품원료,육가공·축산,corporate,,,major,1
+bayer-crop-science,바이엘 크롭사이언스,Bayer Crop Science,,DE,농업·식품원료,종자·농화학,product,bayer,Bayer,major,1
+corteva,코르테바,Corteva Agriscience,Corteva,US,농업·식품원료,종자·농화학,both,,,major,1
+farm-hannong,팜한농,Farm Hannong,,KR,농업·식품원료,종자·농화학,both,lg-group,LG Group,niche,1
+kws,KWS,KWS Saat,,DE,농업·식품원료,종자·농화학,both,,,niche,1
+mosaic,모자이크,The Mosaic Company,Mosaic,US,농업·식품원료,종자·농화학,both,,,niche,1
+nongwoo-bio,농우바이오,Nongwoo Bio,,KR,농업·식품원료,종자·농화학,both,,,niche,1
+nutrien,뉴트리엔,Nutrien,,CA,농업·식품원료,종자·농화학,both,,,major,1
+syngenta,신젠타,Syngenta,Syngenta Group,CH,농업·식품원료,종자·농화학,both,,,major,1
+yara,야라,Yara International,Yara,NO,농업·식품원료,종자·농화학,both,,,niche,1
+cainiao,차이냐오,Cainiao,차이냐오네트워크,CN,물류,물류,both,alibaba,Alibaba Group,major,1
+db-schenker,DB쉥커,DB Schenker,쉥커|Schenker,DE,물류,물류,both,dsv,DSV,major,1
+dsv,DSV,DSV,,DK,물류,물류,both,,,major,1
+flexport,플렉스포트,Flexport,,US,물류,물류,both,,,niche,1
+hyundai-glovis,현대글로비스,Hyundai Glovis,글로비스,KR,물류,물류,both,hyundai-motor-group,Hyundai Motor Group,major,1
+kuehne-nagel,퀴네앤드나겔,Kuehne+Nagel,퀴네나겔,CH,물류,물류,both,,,major,1
+lx-pantos,LX판토스,LX Pantos,판토스|범한판토스,KR,물류,물류,both,,,niche,1
+barogo,바로고,Barogo,,KR,물류,택배·특송,both,,,niche,1
+cj-logistics,CJ대한통운,CJ Logistics,대한통운,KR,물류,택배·특송,both,cj-group,CJ Group,major,1
+coupang-logistics,쿠팡로지스틱스서비스,Coupang Logistics Services,CLS|쿠팡로지스틱스,KR,물류,택배·특송,both,coupang,Coupang,niche,1
+dhl,DHL,DHL Group,디에이치엘|도이치포스트,DE,물류,택배·특송,both,,,mega,1
+fedex,페덱스,FedEx,,US,물류,택배·특송,both,,,mega,1
+hanjin,한진,Hanjin,한진택배,KR,물류,택배·특송,both,,,major,1
+korea-post,우체국,Korea Post,우체국택배|우정사업본부,KR,물류,택배·특송,both,,,major,0
+logen,로젠택배,Logen,로젠,KR,물류,택배·특송,both,,,niche,1
+lotte-global-logistics,롯데글로벌로지스,Lotte Global Logistics,롯데택배,KR,물류,택배·특송,both,lotte-group,Lotte Group,major,1
+sf-express,SF익스프레스,SF Express,순펑|순풍택배,CN,물류,택배·특송,both,,,major,1
+ups,UPS,United Parcel Service,유피에스,US,물류,택배·특송,both,,,mega,1
+usps,미국우정청,United States Postal Service,USPS,US,물류,택배·특송,both,,,major,0
+yamato-transport,야마토운수,Yamato Transport,쿠로네코야마토|야마토,JP,물류,택배·특송,both,,,niche,0
+cma-cgm,CMA CGM,CMA CGM,,FR,물류,해운,both,,,major,1
+cosco-shipping,코스코,COSCO Shipping,COSCO|중국원양해운,CN,물류,해운,both,,,major,1
+evergreen-marine,에버그린,Evergreen Marine,에버그린해운,TW,물류,해운,both,,,niche,1
+hapag-lloyd,하팍로이드,Hapag-Lloyd,,DE,물류,해운,both,,,major,1
+hmm,HMM,HMM,현대상선,KR,물류,해운,both,,,major,1
+maersk,머스크,A.P. Moller-Maersk,머스크라인|Maersk,DK,물류,해운,both,,,mega,1
+msc,MSC,Mediterranean Shipping Company,엠에스씨,CH,물류,해운,both,,,major,1
+pan-ocean,팬오션,Pan Ocean,범양상선|STX팬오션,KR,물류,해운,both,,,niche,1
+clarins,클라랑스,Clarins,,FR,뷰티·퍼스널케어,럭셔리뷰티,both,,,major,0
+dior-beauty,디올 뷰티,Dior Beauty,Parfums Christian Dior|크리스찬 디올 뷰티,FR,뷰티·퍼스널케어,럭셔리뷰티,product,lvmh,LVMH Moët Hennessy Louis Vuitton,mega,0
+estee-lauder,에스티 로더,The Estée Lauder Companies,에스티로더|Estee Lauder|ELC,US,뷰티·퍼스널케어,럭셔리뷰티,both,,,mega,0
+guerlain,겔랑,Guerlain,,FR,뷰티·퍼스널케어,럭셔리뷰티,product,lvmh,LVMH Moët Hennessy Louis Vuitton,major,0
+la-mer,라 메르,La Mer,Crème de la Mer|라메르,US,뷰티·퍼스널케어,럭셔리뷰티,product,estee-lauder,The Estée Lauder Companies,major,0
+la-prairie,라프레리,La Prairie,,CH,뷰티·퍼스널케어,럭셔리뷰티,product,beiersdorf,Beiersdorf,niche,0
+lancome,랑콤,Lancôme,Lancome,FR,뷰티·퍼스널케어,럭셔리뷰티,product,loreal,L'Oréal,mega,0
+sk-ii,SK-II,SK-II,에스케이투|피테라,JP,뷰티·퍼스널케어,럭셔리뷰티,product,pg,Procter & Gamble,major,0
+sulwhasoo,설화수,Sulwhasoo,,KR,뷰티·퍼스널케어,럭셔리뷰티,product,amorepacific,Amorepacific,major,0
+the-whoo,후,The History of Whoo,더 히스토리 오브 후|더후,KR,뷰티·퍼스널케어,럭셔리뷰티,product,lg-hh,LG H&H,major,0
+tom-ford-beauty,톰 포드 뷰티,Tom Ford Beauty,톰포드 뷰티,US,뷰티·퍼스널케어,럭셔리뷰티,product,estee-lauder,The Estée Lauder Companies,major,0
+ysl-beaute,입생로랑 뷰티,YSL Beauté,입생로랑|YSL Beauty,FR,뷰티·퍼스널케어,럭셔리뷰티,product,loreal,L'Oréal,major,0
+3ce,쓰리씨이,3CE,3 Concept Eyes|스타일난다,KR,뷰티·퍼스널케어,메이크업,product,loreal,L'Oréal,niche,0
+bobbi-brown,바비 브라운,Bobbi Brown,바비브라운,US,뷰티·퍼스널케어,메이크업,product,estee-lauder,The Estée Lauder Companies,major,0
+charlotte-tilbury,샬롯 틸버리,Charlotte Tilbury,샬롯틸버리,GB,뷰티·퍼스널케어,메이크업,product,puig,Puig,niche,0
+etude,에뛰드,Etude,에뛰드하우스,KR,뷰티·퍼스널케어,메이크업,product,amorepacific,Amorepacific,major,0
+fenty-beauty,펜티 뷰티,Fenty Beauty,펜티뷰티,US,뷰티·퍼스널케어,메이크업,product,lvmh,LVMH Moët Hennessy Louis Vuitton,major,0
+glossier,글로시에,Glossier,,US,뷰티·퍼스널케어,메이크업,both,,,niche,0
+hera,헤라,Hera,,KR,뷰티·퍼스널케어,메이크업,product,amorepacific,Amorepacific,major,0
+loreal-paris,로레알 파리,L'Oréal Paris,,FR,뷰티·퍼스널케어,메이크업,product,loreal,L'Oréal,mega,0
+mac-cosmetics,맥,MAC Cosmetics,M·A·C|맥 코스메틱,CA,뷰티·퍼스널케어,메이크업,product,estee-lauder,The Estée Lauder Companies,major,0
+maybelline,메이블린,Maybelline New York,메이블린 뉴욕,US,뷰티·퍼스널케어,메이크업,product,loreal,L'Oréal,mega,0
+nars,나스,NARS Cosmetics,NARS,US,뷰티·퍼스널케어,메이크업,product,shiseido,Shiseido,major,0
+rare-beauty,레어 뷰티,Rare Beauty,레어뷰티,US,뷰티·퍼스널케어,메이크업,both,,,niche,0
+romand,롬앤,rom&nd,롬엔,KR,뷰티·퍼스널케어,메이크업,product,,,niche,0
+chicor,시코르,Chicor,,KR,뷰티·퍼스널케어,뷰티편집숍,product,shinsegae-group,Shinsegae Group,niche,0
+olive-young,올리브영,CJ Olive Young,올영,KR,뷰티·퍼스널케어,뷰티편집숍,both,cj-group,CJ Group,major,0
+sephora,세포라,Sephora,,FR,뷰티·퍼스널케어,뷰티편집숍,both,lvmh,LVMH Moët Hennessy Louis Vuitton,mega,0
+ulta-beauty,얼타 뷰티,Ulta Beauty,,US,뷰티·퍼스널케어,뷰티편집숍,both,,,major,0
+colgate-palmolive,콜게이트팜올리브,Colgate-Palmolive,콜게이트,US,뷰티·퍼스널케어,생활위생,both,,,mega,0
+dettol,데톨,Dettol,,GB,뷰티·퍼스널케어,생활위생,product,reckitt,Reckitt,major,0
+durex,듀렉스,Durex,,GB,뷰티·퍼스널케어,생활위생,product,reckitt,Reckitt,major,0
+gillette,질레트,Gillette,,US,뷰티·퍼스널케어,생활위생,product,pg,Procter & Gamble,mega,0
+kao,카오,Kao,화왕,JP,뷰티·퍼스널케어,생활위생,corporate,,,major,0
+kimberly-clark,킴벌리클라크,Kimberly-Clark,,US,뷰티·퍼스널케어,생활위생,corporate,,,major,0
+kleenex,크리넥스,Kleenex,,US,뷰티·퍼스널케어,생활위생,product,kimberly-clark,Kimberly-Clark,mega,0
+pampers,팸퍼스,Pampers,,US,뷰티·퍼스널케어,생활위생,product,pg,Procter & Gamble,mega,0
+pg,P&G,Procter & Gamble,피앤지|프록터 앤드 갬블|한국P&G,US,뷰티·퍼스널케어,생활위생,corporate,,,mega,0
+reckitt,레킷,Reckitt,레킷벤키저|Reckitt Benckiser,GB,뷰티·퍼스널케어,생활위생,corporate,,,major,0
+unilever,유니레버,Unilever,,GB,뷰티·퍼스널케어,생활위생,corporate,,,mega,0
+yuhan-kimberly,유한킴벌리,Yuhan-Kimberly,,KR,뷰티·퍼스널케어,생활위생,corporate,,,major,0
+aesop,이솝,Aesop,,AU,뷰티·퍼스널케어,스킨케어,product,loreal,L'Oréal,niche,0
+amorepacific,아모레퍼시픽,Amorepacific,아모레|아모레퍼시픽그룹,KR,뷰티·퍼스널케어,스킨케어,corporate,,,major,0
+anua,아누아,Anua,,KR,뷰티·퍼스널케어,스킨케어,product,,,niche,0
+apr,에이피알,APR,,KR,뷰티·퍼스널케어,스킨케어,corporate,,,major,0
+beauty-of-joseon,조선미녀,Beauty of Joseon,,KR,뷰티·퍼스널케어,스킨케어,product,goodai-global,Goodai Global,niche,0
+beiersdorf,바이어스도르프,Beiersdorf,,DE,뷰티·퍼스널케어,스킨케어,corporate,,,major,0
+biore,비오레,Bioré,Biore,JP,뷰티·퍼스널케어,스킨케어,product,kao,Kao,major,0
+cerave,세라비,CeraVe,,US,뷰티·퍼스널케어,스킨케어,product,loreal,L'Oréal,major,0
+cetaphil,세타필,Cetaphil,,CA,뷰티·퍼스널케어,스킨케어,product,galderma,Galderma,major,0
+clinique,크리니크,Clinique,,US,뷰티·퍼스널케어,스킨케어,product,estee-lauder,The Estée Lauder Companies,major,0
+cosmax,코스맥스,Cosmax,,KR,뷰티·퍼스널케어,스킨케어,corporate,,,major,1
+cosrx,코스알엑스,COSRX,,KR,뷰티·퍼스널케어,스킨케어,product,amorepacific,Amorepacific,major,0
+dr-jart,닥터자르트,Dr.Jart+,Dr. Jart,KR,뷰티·퍼스널케어,스킨케어,product,estee-lauder,The Estée Lauder Companies,major,0
+goodai-global,구다이글로벌,Goodai Global,,KR,뷰티·퍼스널케어,스킨케어,corporate,,,niche,0
+innisfree,이니스프리,Innisfree,,KR,뷰티·퍼스널케어,스킨케어,product,amorepacific,Amorepacific,major,0
+kiehls,키엘,Kiehl's,Kiehls,US,뷰티·퍼스널케어,스킨케어,product,loreal,L'Oréal,major,0
+kolmar-korea,한국콜마,Kolmar Korea,콜마,KR,뷰티·퍼스널케어,스킨케어,corporate,,,major,1
+la-roche-posay,라로슈포제,La Roche-Posay,라로슈 포제,FR,뷰티·퍼스널케어,스킨케어,product,loreal,L'Oréal,major,0
+laneige,라네즈,Laneige,,KR,뷰티·퍼스널케어,스킨케어,product,amorepacific,Amorepacific,major,0
+lg-hh,LG생활건강,LG H&H,엘지생활건강|LG Household & Health Care,KR,뷰티·퍼스널케어,스킨케어,corporate,lg-group,LG Group,major,0
+loreal,로레알,L'Oréal,로레알 그룹|L'Oreal,FR,뷰티·퍼스널케어,스킨케어,corporate,,,mega,0
+medicube,메디큐브,Medicube,,KR,뷰티·퍼스널케어,스킨케어,product,apr,APR,major,0
+mediheal,메디힐,Mediheal,,KR,뷰티·퍼스널케어,스킨케어,both,,,major,0
+neutrogena,뉴트로지나,Neutrogena,,US,뷰티·퍼스널케어,스킨케어,product,kenvue,Kenvue,major,0
+nivea,니베아,Nivea,,DE,뷰티·퍼스널케어,스킨케어,product,beiersdorf,Beiersdorf,mega,0
+round-lab,라운드랩,Round Lab,,KR,뷰티·퍼스널케어,스킨케어,both,,,niche,0
+shiseido,시세이도,Shiseido,자생당,JP,뷰티·퍼스널케어,스킨케어,both,,,mega,0
+the-face-shop,더페이스샵,The Face Shop,페이스샵,KR,뷰티·퍼스널케어,스킨케어,product,lg-hh,LG H&H,major,0

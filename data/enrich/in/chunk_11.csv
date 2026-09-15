@@ -1,0 +1,130 @@
+id,name_ko,name_en,aliases,country,sector,category,brand_type,parent,parent_name,tier,b2b
+samsonite,쌤소나이트,Samsonite,샘소나이트,US,패션·럭셔리,가방·잡화,both,,,major,0
+stand-oil,스탠드오일,Stand Oil,,KR,패션·럭셔리,가방·잡화,both,,,niche,0
+tapestry,태피스트리,Tapestry,,US,패션·럭셔리,가방·잡화,corporate,,,niche,0
+tory-burch,토리버치,Tory Burch,,US,패션·럭셔리,가방·잡화,both,,,major,0
+tumi,투미,Tumi,,US,패션·럭셔리,가방·잡화,product,samsonite,Samsonite,major,0
+acne-studios,아크네 스튜디오,Acne Studios,아크네,SE,패션·럭셔리,디자이너·스트리트,both,,,major,0
+ader-error,아더에러,ADER error,,KR,패션·럭셔리,디자이너·스트리트,both,,,niche,0
+aime-leon-dore,에임 레온 도르,Aimé Leon Dore,ALD|에메 레온 도르,US,패션·럭셔리,디자이너·스트리트,both,,,niche,0
+ami-paris,아미,AMI Paris,아미 파리스,FR,패션·럭셔리,디자이너·스트리트,both,,,major,0
+andersson-bell,앤더슨벨,Andersson Bell,,KR,패션·럭셔리,디자이너·스트리트,both,,,niche,0
+auralee,오라리,Auralee,,JP,패션·럭셔리,디자이너·스트리트,both,,,niche,0
+bape,베이프,A Bathing Ape,BAPE,JP,패션·럭셔리,디자이너·스트리트,both,,,niche,0
+carhartt,칼하트,Carhartt,칼하트 WIP|Carhartt WIP,US,패션·럭셔리,디자이너·스트리트,both,,,major,0
+comme-des-garcons,꼼데가르송,Comme des Garçons,꼼데|CDG|꼼데 가르송,JP,패션·럭셔리,디자이너·스트리트,both,,,major,0
+covernat,커버낫,Covernat,,KR,패션·럭셔리,디자이너·스트리트,both,,,niche,0
+fear-of-god,피어 오브 갓,Fear of God,FOG|에센셜,US,패션·럭셔리,디자이너·스트리트,both,,,niche,0
+issey-miyake,이세이 미야케,Issey Miyake,플리츠플리즈|이세이미야케,JP,패션·럭셔리,디자이너·스트리트,both,,,major,0
+jacquemus,자크뮈스,Jacquemus,,FR,패션·럭셔리,디자이너·스트리트,both,,,niche,0
+jil-sander,질 샌더,Jil Sander,질샌더,DE,패션·럭셔리,디자이너·스트리트,product,otb-group,OTB Group,niche,0
+juun-j,준지,Juun.J,,KR,패션·럭셔리,디자이너·스트리트,product,samsung-cnt-fashion,Samsung C&T Fashion Group,niche,0
+kenzo,겐조,Kenzo,,FR,패션·럭셔리,디자이너·스트리트,product,lvmh,LVMH Moët Hennessy Louis Vuitton,major,0
+kith,키스,Kith,,US,패션·럭셔리,디자이너·스트리트,both,,,niche,0
+lemaire,르메르,Lemaire,,FR,패션·럭셔리,디자이너·스트리트,both,,,niche,0
+low-classic,로우클래식,Low Classic,,KR,패션·럭셔리,디자이너·스트리트,both,,,niche,0
+maison-kitsune,메종 키츠네,Maison Kitsuné,키츠네,FR,패션·럭셔리,디자이너·스트리트,both,,,niche,0
+maison-margiela,메종 마르지엘라,Maison Margiela,마르지엘라,FR,패션·럭셔리,디자이너·스트리트,product,otb-group,OTB Group,major,0
+mardi-mercredi,마르디 메크르디,Mardi Mercredi,마르디,KR,패션·럭셔리,디자이너·스트리트,both,,,niche,0
+marithe-francois-girbaud,마리떼 프랑소와 저버,Marithé + François Girbaud,마리떼,FR,패션·럭셔리,디자이너·스트리트,both,,,niche,0
+marni,마르니,Marni,,IT,패션·럭셔리,디자이너·스트리트,product,otb-group,OTB Group,niche,0
+matin-kim,마뗑킴,Matin Kim,마땡킴,KR,패션·럭셔리,디자이너·스트리트,both,,,niche,0
+off-white,오프화이트,Off-White,,IT,패션·럭셔리,디자이너·스트리트,both,,,major,0
+otb-group,OTB 그룹,OTB Group,Only The Brave,IT,패션·럭셔리,디자이너·스트리트,corporate,,,niche,0
+our-legacy,아워레가시,Our Legacy,,SE,패션·럭셔리,디자이너·스트리트,both,,,niche,0
+palace,팔라스,Palace Skateboards,팔라스 스케이트보드,GB,패션·럭셔리,디자이너·스트리트,both,,,niche,0
+rick-owens,릭 오웬스,Rick Owens,릭오웬스,US,패션·럭셔리,디자이너·스트리트,both,,,niche,0
+sacai,사카이,Sacai,,JP,패션·럭셔리,디자이너·스트리트,both,,,niche,0
+stone-island,스톤아일랜드,Stone Island,스톤,IT,패션·럭셔리,디자이너·스트리트,product,moncler,Moncler,major,0
+stussy,스투시,Stüssy,Stussy,US,패션·럭셔리,디자이너·스트리트,both,,,major,0
+supreme,슈프림,Supreme,,US,패션·럭셔리,디자이너·스트리트,product,essilorluxottica,EssilorLuxottica,major,0
+thisisneverthat,디스이즈네버댓,thisisneverthat,TINT,KR,패션·럭셔리,디자이너·스트리트,both,,,niche,0
+thom-browne,톰 브라운,Thom Browne,톰브라운,US,패션·럭셔리,디자이너·스트리트,product,zegna-group,Ermenegildo Zegna Group,major,0
+vivienne-westwood,비비안 웨스트우드,Vivienne Westwood,비비안웨스트우드,GB,패션·럭셔리,디자이너·스트리트,both,,,major,0
+wooyoungmi,우영미,Wooyoungmi,,KR,패션·럭셔리,디자이너·스트리트,both,,,niche,0
+alexander-mcqueen,알렉산더 맥퀸,Alexander McQueen,맥퀸,GB,패션·럭셔리,럭셔리하우스,product,kering,Kering,major,0
+armani,아르마니,Giorgio Armani,조르지오 아르마니|엠포리오 아르마니,IT,패션·럭셔리,럭셔리하우스,both,,,mega,0
+balenciaga,발렌시아가,Balenciaga,,FR,패션·럭셔리,럭셔리하우스,product,kering,Kering,mega,0
+balmain,발망,Balmain,,FR,패션·럭셔리,럭셔리하우스,both,,,niche,0
+bottega-veneta,보테가 베네타,Bottega Veneta,보테가,IT,패션·럭셔리,럭셔리하우스,product,kering,Kering,major,0
+brioni,브리오니,Brioni,,IT,패션·럭셔리,럭셔리하우스,product,kering,Kering,niche,0
+burberry,버버리,Burberry,,GB,패션·럭셔리,럭셔리하우스,both,,,mega,0
+celine,셀린느,Celine,셀린|Céline,FR,패션·럭셔리,럭셔리하우스,product,lvmh,LVMH Moët Hennessy Louis Vuitton,mega,0
+chanel,샤넬,Chanel,,FR,패션·럭셔리,럭셔리하우스,both,,,mega,0
+chloe,끌로에,Chloé,Chloe,FR,패션·럭셔리,럭셔리하우스,product,richemont,Compagnie Financière Richemont,major,0
+dior,디올,Dior,크리스찬 디올|Christian Dior,FR,패션·럭셔리,럭셔리하우스,product,lvmh,LVMH Moët Hennessy Louis Vuitton,mega,0
+dolce-gabbana,돌체앤가바나,Dolce & Gabbana,돌체앤가바나|D&G,IT,패션·럭셔리,럭셔리하우스,both,,,major,0
+fendi,펜디,Fendi,,IT,패션·럭셔리,럭셔리하우스,product,lvmh,LVMH Moët Hennessy Louis Vuitton,mega,0
+ferragamo,페라가모,Ferragamo,살바토레 페라가모,IT,패션·럭셔리,럭셔리하우스,both,,,major,0
+givenchy,지방시,Givenchy,,FR,패션·럭셔리,럭셔리하우스,product,lvmh,LVMH Moët Hennessy Louis Vuitton,major,0
+gucci,구찌,Gucci,,IT,패션·럭셔리,럭셔리하우스,product,kering,Kering,mega,0
+hermes,에르메스,Hermès,Hermes,FR,패션·럭셔리,럭셔리하우스,both,,,mega,0
+kering,케링,Kering,,FR,패션·럭셔리,럭셔리하우스,corporate,,,mega,0
+loewe,로에베,Loewe,,ES,패션·럭셔리,럭셔리하우스,product,lvmh,LVMH Moët Hennessy Louis Vuitton,major,0
+loro-piana,로로피아나,Loro Piana,,IT,패션·럭셔리,럭셔리하우스,product,lvmh,LVMH Moët Hennessy Louis Vuitton,major,0
+louis-vuitton,루이비통,Louis Vuitton,LV|루이뷔통,FR,패션·럭셔리,럭셔리하우스,product,lvmh,LVMH Moët Hennessy Louis Vuitton,mega,0
+lvmh,LVMH,LVMH Moët Hennessy Louis Vuitton,루이비통모에헤네시|엘브이엠에이치,FR,패션·럭셔리,럭셔리하우스,corporate,,,mega,0
+miu-miu,미우미우,Miu Miu,,IT,패션·럭셔리,럭셔리하우스,product,prada-group,Prada Group,major,0
+moncler,몽클레르,Moncler,몽클레어,IT,패션·럭셔리,럭셔리하우스,both,,,major,0
+prada,프라다,Prada,,IT,패션·럭셔리,럭셔리하우스,product,prada-group,Prada Group,mega,0
+prada-group,프라다 그룹,Prada Group,Prada S.p.A.,IT,패션·럭셔리,럭셔리하우스,corporate,,,major,0
+saint-laurent,생로랑,Saint Laurent,입생로랑|YSL,FR,패션·럭셔리,럭셔리하우스,product,kering,Kering,mega,0
+valentino,발렌티노,Valentino,,IT,패션·럭셔리,럭셔리하우스,both,,,major,0
+versace,베르사체,Versace,,IT,패션·럭셔리,럭셔리하우스,product,prada-group,Prada Group,mega,0
+zegna,제냐,Zegna,에르메네질도 제냐,IT,패션·럭셔리,럭셔리하우스,product,zegna-group,Ermenegildo Zegna Group,major,0
+zegna-group,제냐 그룹,Ermenegildo Zegna Group,,IT,패션·럭셔리,럭셔리하우스,corporate,,,niche,0
+berluti,벨루티,Berluti,,FR,패션·럭셔리,신발,product,lvmh,LVMH Moët Hennessy Louis Vuitton,niche,0
+birkenstock,버켄스탁,Birkenstock,,DE,패션·럭셔리,신발,both,,,major,0
+christian-louboutin,크리스찬 루부탱,Christian Louboutin,루부탱,FR,패션·럭셔리,신발,both,,,major,0
+churchs,처치스,Church's,,GB,패션·럭셔리,신발,product,prada-group,Prada Group,niche,0
+clarks,클락스,Clarks,,GB,패션·럭셔리,신발,both,,,niche,0
+converse,컨버스,Converse,,US,패션·럭셔리,신발,product,nike,Nike,major,0
+crocs,크록스,Crocs,,US,패션·럭셔리,신발,both,,,major,0
+deckers,데커스 브랜즈,Deckers Brands,,US,패션·럭셔리,신발,corporate,,,niche,0
+dr-martens,닥터마틴,Dr. Martens,닥마,GB,패션·럭셔리,신발,both,,,major,0
+ecco,에코,ECCO,,DK,패션·럭셔리,신발,both,,,niche,0
+jimmy-choo,지미추,Jimmy Choo,,GB,패션·럭셔리,신발,product,capri-holdings,Capri Holdings,major,0
+onitsuka-tiger,오니츠카 타이거,Onitsuka Tiger,오니츠카,JP,패션·럭셔리,신발,product,asics,ASICS,major,0
+skechers,스케쳐스,Skechers,,US,패션·럭셔리,신발,both,,,major,0
+timberland,팀버랜드,Timberland,,US,패션·럭셔리,신발,product,vf-corp,VF Corporation,major,0
+tods,토즈,Tod's,,IT,패션·럭셔리,신발,both,,,niche,0
+ugg,어그,UGG,,US,패션·럭셔리,신발,product,deckers,Deckers Brands,major,0
+vans,반스,Vans,,US,패션·럭셔리,신발,product,vf-corp,VF Corporation,major,0
+carin,카린,CARIN,,KR,패션·럭셔리,안경·아이웨어,both,,,niche,0
+essilorluxottica,에실로룩소티카,EssilorLuxottica,룩소티카,FR,패션·럭셔리,안경·아이웨어,corporate,,,major,0
+gentle-monster,젠틀몬스터,Gentle Monster,젠몬,KR,패션·럭셔리,안경·아이웨어,product,iicombined,IICOMBINED,major,0
+iicombined,아이아이컴바인드,IICOMBINED,,KR,패션·럭셔리,안경·아이웨어,corporate,,,niche,0
+oakley,오클리,Oakley,,US,패션·럭셔리,안경·아이웨어,product,essilorluxottica,EssilorLuxottica,major,0
+ray-ban,레이밴,Ray-Ban,,IT,패션·럭셔리,안경·아이웨어,product,essilorluxottica,EssilorLuxottica,mega,0
+warby-parker,와비 파커,Warby Parker,,US,패션·럭셔리,안경·아이웨어,both,,,niche,0
+byc,BYC,BYC,비와이씨,KR,패션·럭셔리,언더웨어·라운지,both,,,major,0
+skims,스킴스,Skims,,US,패션·럭셔리,언더웨어·라운지,both,,,niche,0
+victorias-secret,빅토리아 시크릿,Victoria's Secret,빅시,US,패션·럭셔리,언더웨어·라운지,both,,,major,0
+wacoal,와코루,Wacoal,,JP,패션·럭셔리,언더웨어·라운지,both,,,niche,0
+allsaints,올세인츠,AllSaints,,GB,패션·럭셔리,컨템포러리,both,,,niche,0
+apc,아페쎄,A.P.C.,APC,FR,패션·럭셔리,컨템포러리,both,,,niche,0
+beanpole,빈폴,Beanpole,,KR,패션·럭셔리,컨템포러리,product,samsung-cnt-fashion,Samsung C&T Fashion Group,major,0
+calvin-klein,캘빈클라인,Calvin Klein,CK,US,패션·럭셔리,컨템포러리,product,pvh,PVH Corp.,mega,0
+diesel,디젤,Diesel,,IT,패션·럭셔리,컨템포러리,product,otb-group,OTB Group,major,0
+ganni,가니,Ganni,,DK,패션·럭셔리,컨템포러리,both,,,niche,0
+handsome,한섬,Handsome,,KR,패션·럭셔리,컨템포러리,corporate,hyundai-department-store-group,Hyundai Department Store Group,major,0
+hazzys,헤지스,Hazzys,,KR,패션·럭셔리,컨템포러리,product,lf,LF Corp.,major,0
+hugo-boss,휴고 보스,Hugo Boss,보스|BOSS,DE,패션·럭셔리,컨템포러리,both,,,major,0
+kolon-industries-fnc,코오롱인더스트리FnC,Kolon Industries FnC,코오롱FnC,KR,패션·럭셔리,컨템포러리,corporate,kolon-group,Kolon Group,major,0
+kuho,구호,KUHO,,KR,패션·럭셔리,컨템포러리,product,samsung-cnt-fashion,Samsung C&T Fashion Group,niche,0
+lacoste,라코스테,Lacoste,,FR,패션·럭셔리,컨템포러리,both,,,major,0
+lf,LF,LF Corp.,엘에프|LG패션,KR,패션·럭셔리,컨템포러리,corporate,,,major,0
+maje,마쥬,Maje,,FR,패션·럭셔리,컨템포러리,product,smcp,SMCP,niche,0
+max-mara,막스마라,Max Mara,,IT,패션·럭셔리,컨템포러리,both,,,major,0
+pvh,PVH,PVH Corp.,,US,패션·럭셔리,컨템포러리,corporate,,,niche,0
+ralph-lauren,랄프 로렌,Ralph Lauren,폴로|폴로 랄프로렌,US,패션·럭셔리,컨템포러리,both,,,mega,0
+samsung-cnt-fashion,삼성물산 패션부문,Samsung C&T Fashion Group,,KR,패션·럭셔리,컨템포러리,corporate,samsung-group,Samsung Group,major,0
+sandro,산드로,Sandro,,FR,패션·럭셔리,컨템포러리,product,smcp,SMCP,niche,0
+shinsegae-international,신세계인터내셔날,Shinsegae International,SI|신세계인터,KR,패션·럭셔리,컨템포러리,corporate,shinsegae-group,Shinsegae Group,major,0
+smcp,SMCP,SMCP,,FR,패션·럭셔리,컨템포러리,corporate,,,niche,0
+studio-tomboy,스튜디오 톰보이,Studio Tomboy,톰보이,KR,패션·럭셔리,컨템포러리,product,shinsegae-international,Shinsegae International,niche,0
+system,시스템,SYSTEM,,KR,패션·럭셔리,컨템포러리,product,handsome,Handsome,niche,0
+theory,띠어리,Theory,,US,패션·럭셔리,컨템포러리,product,fast-retailing,Fast Retailing,major,0
+time,타임,TIME,,KR,패션·럭셔리,컨템포러리,product,handsome,Handsome,major,0
+tommy-hilfiger,타미힐피거,Tommy Hilfiger,타미,US,패션·럭셔리,컨템포러리,product,pvh,PVH Corp.,major,0
+toteme,토템,Toteme,,SE,패션·럭셔리,컨템포러리,both,,,niche,0

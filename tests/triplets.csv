@@ -1,0 +1,35 @@
+kind,mode,anchor,near,far,note
+sanity,all,lamborghini,ferrari,kia,슈퍼카끼리
+sanity,all,hermes,chanel,zara,럭셔리하우스 vs SPA
+sanity,all,starbucks,blue-bottle,mcdonalds,커피 체인
+sanity,all,cargill,adm,nestle,곡물 무역 vs 식품 브랜드
+sanity,all,nvidia,amd,apple,반도체
+sanity,all,coupang,amazon,naver,이커머스 vs 포털
+sanity,all,hyundai-motor,kia,hyundai-mobis,완성차 vs 부품
+debatable,all,emirates,ryanair,marriott,항공사끼리(가격대가 달라도)
+sanity,all,hybe,sm-entertainment,netflix,기획사
+sanity,all,patagonia,the-north-face,zara,아웃도어
+sanity,all,toss,kakao,goldman-sachs,한국 핀테크·플랫폼
+sanity,all,lego,mattel,ikea,완구
+sanity,all,oatly,liquid-death,coca-cola,신생 음료 브랜드끼리
+debatable,all,shake-shack,in-n-out,mcdonalds,프리미엄 버거
+sanity,structure,genesis,hyundai-motor,lexus,같은 그룹 소속
+position,all,hermes,louis-vuitton,uniqlo,가격 위치
+position,all,aman,four-seasons,ryanair,최고급 숙박
+position,all,rolls-royce-motor-cars,bentley,toyota,초고가 자동차
+position,all,costco,walmart,louis-vuitton,대중 유통
+position,all,daiso,muji,hermes,저가 생활
+cross,meaning,lamborghini,rolex,hyundai-motor,업종 넘는 과시·최상위
+cross,meaning,tamburins,gentle-monster,cargill,같은 감성 브랜드
+cross,meaning,red-bull,gopro,nestle,익스트림·모험
+cross,meaning,harley-davidson,triumph,toyota,반항아
+cross,meaning,apple,dyson,samsung-electronics,디자인 중심 기술
+cross,meaning,patagonia,the-north-face,shein,가치 소비 vs 패스트패션
+cross,meaning,lego,mattel,goldman-sachs,창조자·놀이
+cross,meaning,supreme,stussy,costco,스트리트
+cross,meaning,muji,ikea,rolex,실용·조용함
+cross,meaning,audemars-piguet,ferrari,uniqlo,최고급 장인
+cross,meaning,tesla,apple,toyota,혁신 이미지
+cross,meaning,nike,adidas,nestle,영웅
+cross,meaning,disney-plus,netflix,cargill,스트리밍
+cross,meaning,four-seasons,rolex,daiso,최고급

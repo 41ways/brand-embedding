@@ -1,0 +1,191 @@
+id,name_ko,name_en,aliases,country,sector,category,brand_type,parent,tier,b2b
+loreal,로레알,L'Oréal,로레알 그룹|L'Oreal,FR,뷰티·퍼스널케어,스킨케어,corporate,,mega,0
+loreal-paris,로레알 파리,L'Oréal Paris,,FR,뷰티·퍼스널케어,메이크업,product,loreal,mega,0
+lancome,랑콤,Lancôme,Lancome,FR,뷰티·퍼스널케어,럭셔리뷰티,product,loreal,mega,0
+ysl-beaute,입생로랑 뷰티,YSL Beauté,입생로랑|YSL Beauty,FR,뷰티·퍼스널케어,럭셔리뷰티,product,loreal,major,0
+kiehls,키엘,Kiehl's,Kiehls,US,뷰티·퍼스널케어,스킨케어,product,loreal,major,0
+maybelline,메이블린,Maybelline New York,메이블린 뉴욕,US,뷰티·퍼스널케어,메이크업,product,loreal,mega,0
+la-roche-posay,라로슈포제,La Roche-Posay,라로슈 포제,FR,뷰티·퍼스널케어,스킨케어,product,loreal,major,0
+cerave,세라비,CeraVe,,US,뷰티·퍼스널케어,스킨케어,product,loreal,major,0
+aesop,이솝,Aesop,,AU,뷰티·퍼스널케어,스킨케어,product,loreal,niche,0
+3ce,쓰리씨이,3CE,3 Concept Eyes|스타일난다,KR,뷰티·퍼스널케어,메이크업,product,loreal,niche,0
+estee-lauder,에스티 로더,The Estée Lauder Companies,에스티로더|Estee Lauder|ELC,US,뷰티·퍼스널케어,럭셔리뷰티,both,,mega,0
+clinique,크리니크,Clinique,,US,뷰티·퍼스널케어,스킨케어,product,estee-lauder,major,0
+mac-cosmetics,맥,MAC Cosmetics,M·A·C|맥 코스메틱,CA,뷰티·퍼스널케어,메이크업,product,estee-lauder,major,0
+la-mer,라 메르,La Mer,Crème de la Mer|라메르,US,뷰티·퍼스널케어,럭셔리뷰티,product,estee-lauder,major,0
+jo-malone,조 말론 런던,Jo Malone London,조말론,GB,뷰티·퍼스널케어,향수·니치향수,product,estee-lauder,major,0
+le-labo,르 라보,Le Labo,르라보,US,뷰티·퍼스널케어,향수·니치향수,product,estee-lauder,niche,0
+tom-ford-beauty,톰 포드 뷰티,Tom Ford Beauty,톰포드 뷰티,US,뷰티·퍼스널케어,럭셔리뷰티,product,estee-lauder,major,0
+bobbi-brown,바비 브라운,Bobbi Brown,바비브라운,US,뷰티·퍼스널케어,메이크업,product,estee-lauder,major,0
+dr-jart,닥터자르트,Dr.Jart+,Dr. Jart,KR,뷰티·퍼스널케어,스킨케어,product,estee-lauder,major,0
+the-ordinary,디 오디너리,The Ordinary,DECIEM|디오디너리,CA,뷰티·퍼스널케어,스킨케어,product,estee-lauder,niche,0
+dior-beauty,디올 뷰티,Dior Beauty,Parfums Christian Dior|크리스찬 디올 뷰티,FR,뷰티·퍼스널케어,럭셔리뷰티,product,lvmh,mega,0
+guerlain,겔랑,Guerlain,,FR,뷰티·퍼스널케어,럭셔리뷰티,product,lvmh,major,0
+fenty-beauty,펜티 뷰티,Fenty Beauty,펜티뷰티,US,뷰티·퍼스널케어,메이크업,product,lvmh,major,0
+maison-francis-kurkdjian,메종 프란시스 커정,Maison Francis Kurkdjian,MFK,FR,뷰티·퍼스널케어,향수·니치향수,product,lvmh,niche,0
+sephora,세포라,Sephora,,FR,뷰티·퍼스널케어,뷰티편집숍,both,lvmh,mega,0
+shiseido,시세이도,Shiseido,자생당,JP,뷰티·퍼스널케어,스킨케어,both,,mega,0
+nars,나스,NARS Cosmetics,NARS,US,뷰티·퍼스널케어,메이크업,product,shiseido,major,0
+kao,카오,Kao,화왕,JP,뷰티·퍼스널케어,생활위생,corporate,,major,0
+biore,비오레,Bioré,Biore,JP,뷰티·퍼스널케어,스킨케어,product,kao,major,0
+pg,P&G,Procter & Gamble,피앤지|프록터 앤드 갬블|한국P&G,US,뷰티·퍼스널케어,생활위생,corporate,,mega,0
+sk-ii,SK-II,SK-II,에스케이투|피테라,JP,뷰티·퍼스널케어,럭셔리뷰티,product,pg,major,0
+pantene,팬틴,Pantene,,US,뷰티·퍼스널케어,헤어·바디,product,pg,major,0
+gillette,질레트,Gillette,,US,뷰티·퍼스널케어,생활위생,product,pg,mega,0
+pampers,팸퍼스,Pampers,,US,뷰티·퍼스널케어,생활위생,product,pg,mega,0
+unilever,유니레버,Unilever,,GB,뷰티·퍼스널케어,생활위생,corporate,,mega,0
+dove,도브,Dove,,US,뷰티·퍼스널케어,헤어·바디,product,unilever,mega,0
+vaseline,바세린,Vaseline,,US,뷰티·퍼스널케어,헤어·바디,product,unilever,major,0
+beiersdorf,바이어스도르프,Beiersdorf,,DE,뷰티·퍼스널케어,스킨케어,corporate,,major,0
+nivea,니베아,Nivea,,DE,뷰티·퍼스널케어,스킨케어,product,beiersdorf,mega,0
+la-prairie,라프레리,La Prairie,,CH,뷰티·퍼스널케어,럭셔리뷰티,product,beiersdorf,niche,0
+puig,푸이그,Puig,,ES,뷰티·퍼스널케어,향수·니치향수,corporate,,major,0
+byredo,바이레도,Byredo,,SE,뷰티·퍼스널케어,향수·니치향수,product,puig,niche,0
+charlotte-tilbury,샬롯 틸버리,Charlotte Tilbury,샬롯틸버리,GB,뷰티·퍼스널케어,메이크업,product,puig,niche,0
+coty,코티,Coty,,US,뷰티·퍼스널케어,향수·니치향수,corporate,,major,0
+diptyque,딥티크,Diptyque,,FR,뷰티·퍼스널케어,향수·니치향수,both,,niche,0
+clarins,클라랑스,Clarins,,FR,뷰티·퍼스널케어,럭셔리뷰티,both,,major,0
+glossier,글로시에,Glossier,,US,뷰티·퍼스널케어,메이크업,both,,niche,0
+rare-beauty,레어 뷰티,Rare Beauty,레어뷰티,US,뷰티·퍼스널케어,메이크업,both,,niche,0
+lush,러쉬,Lush,,GB,뷰티·퍼스널케어,헤어·바디,both,,major,0
+the-body-shop,더바디샵,The Body Shop,바디샵,GB,뷰티·퍼스널케어,헤어·바디,both,,major,0
+ulta-beauty,얼타 뷰티,Ulta Beauty,,US,뷰티·퍼스널케어,뷰티편집숍,both,,major,0
+cetaphil,세타필,Cetaphil,,CA,뷰티·퍼스널케어,스킨케어,product,galderma,major,0
+amorepacific,아모레퍼시픽,Amorepacific,아모레|아모레퍼시픽그룹,KR,뷰티·퍼스널케어,스킨케어,corporate,,major,0
+sulwhasoo,설화수,Sulwhasoo,,KR,뷰티·퍼스널케어,럭셔리뷰티,product,amorepacific,major,0
+innisfree,이니스프리,Innisfree,,KR,뷰티·퍼스널케어,스킨케어,product,amorepacific,major,0
+laneige,라네즈,Laneige,,KR,뷰티·퍼스널케어,스킨케어,product,amorepacific,major,0
+hera,헤라,Hera,,KR,뷰티·퍼스널케어,메이크업,product,amorepacific,major,0
+etude,에뛰드,Etude,에뛰드하우스,KR,뷰티·퍼스널케어,메이크업,product,amorepacific,major,0
+ryo,려,Ryo,呂,KR,뷰티·퍼스널케어,헤어·바디,product,amorepacific,major,0
+cosrx,코스알엑스,COSRX,,KR,뷰티·퍼스널케어,스킨케어,product,amorepacific,major,0
+lg-hh,LG생활건강,LG H&H,엘지생활건강|LG Household & Health Care,KR,뷰티·퍼스널케어,스킨케어,corporate,lg-group,major,0
+the-whoo,후,The History of Whoo,더 히스토리 오브 후|더후,KR,뷰티·퍼스널케어,럭셔리뷰티,product,lg-hh,major,0
+the-face-shop,더페이스샵,The Face Shop,페이스샵,KR,뷰티·퍼스널케어,스킨케어,product,lg-hh,major,0
+aekyung,애경산업,Aekyung Industrial,애경,KR,뷰티·퍼스널케어,헤어·바디,corporate,,major,0
+kerasys,케라시스,Kerasys,,KR,뷰티·퍼스널케어,헤어·바디,product,aekyung,major,0
+mediheal,메디힐,Mediheal,,KR,뷰티·퍼스널케어,스킨케어,both,,major,0
+round-lab,라운드랩,Round Lab,,KR,뷰티·퍼스널케어,스킨케어,both,,niche,0
+goodai-global,구다이글로벌,Goodai Global,,KR,뷰티·퍼스널케어,스킨케어,corporate,,niche,0
+beauty-of-joseon,조선미녀,Beauty of Joseon,,KR,뷰티·퍼스널케어,스킨케어,product,goodai-global,niche,0
+torriden,토리든,Torriden,,KR,뷰티·퍼스널케어,스킨케어,both,,niche,0
+anua,아누아,Anua,,KR,뷰티·퍼스널케어,스킨케어,product,,niche,0
+romand,롬앤,rom&nd,롬엔,KR,뷰티·퍼스널케어,메이크업,product,,niche,0
+apr,에이피알,APR,,KR,뷰티·퍼스널케어,스킨케어,corporate,,major,0
+medicube,메디큐브,Medicube,,KR,뷰티·퍼스널케어,스킨케어,product,apr,major,0
+kolmar-korea,한국콜마,Kolmar Korea,콜마,KR,뷰티·퍼스널케어,스킨케어,corporate,,major,1
+cosmax,코스맥스,Cosmax,,KR,뷰티·퍼스널케어,스킨케어,corporate,,major,1
+tamburins,탬버린즈,Tamburins,,KR,뷰티·퍼스널케어,향수·니치향수,product,,niche,0
+nonfiction,논픽션,Nonfiction,,KR,뷰티·퍼스널케어,향수·니치향수,both,,niche,0
+olive-young,올리브영,CJ Olive Young,올영,KR,뷰티·퍼스널케어,뷰티편집숍,both,cj-group,major,0
+chicor,시코르,Chicor,,KR,뷰티·퍼스널케어,뷰티편집숍,product,shinsegae-group,niche,0
+kimberly-clark,킴벌리클라크,Kimberly-Clark,,US,뷰티·퍼스널케어,생활위생,corporate,,major,0
+kleenex,크리넥스,Kleenex,,US,뷰티·퍼스널케어,생활위생,product,kimberly-clark,mega,0
+yuhan-kimberly,유한킴벌리,Yuhan-Kimberly,,KR,뷰티·퍼스널케어,생활위생,corporate,,major,0
+reckitt,레킷,Reckitt,레킷벤키저|Reckitt Benckiser,GB,뷰티·퍼스널케어,생활위생,corporate,,major,0
+dettol,데톨,Dettol,,GB,뷰티·퍼스널케어,생활위생,product,reckitt,major,0
+durex,듀렉스,Durex,,GB,뷰티·퍼스널케어,생활위생,product,reckitt,major,0
+colgate-palmolive,콜게이트팜올리브,Colgate-Palmolive,콜게이트,US,뷰티·퍼스널케어,생활위생,both,,mega,0
+ikea,이케아,IKEA,,SE,생활·가구·완구,가구·인테리어,both,,mega,0
+millerknoll,밀러놀,MillerKnoll,,US,생활·가구·완구,가구·인테리어,corporate,,major,1
+herman-miller,허먼밀러,Herman Miller,,US,생활·가구·완구,가구·인테리어,product,millerknoll,major,0
+hay,헤이,HAY,,DK,생활·가구·완구,가구·인테리어,product,millerknoll,niche,0
+muuto,무토,Muuto,,DK,생활·가구·완구,가구·인테리어,product,millerknoll,niche,0
+vitra,비트라,Vitra,,CH,생활·가구·완구,가구·인테리어,both,,niche,0
+nitori,니토리,Nitori,,JP,생활·가구·완구,가구·인테리어,both,,major,0
+hanssem,한샘,Hanssem,,KR,생활·가구·완구,가구·인테리어,both,,major,0
+hyundai-livart,현대리바트,Hyundai Livart,리바트,KR,생활·가구·완구,가구·인테리어,both,,major,0
+fursys,퍼시스,Fursys,,KR,생활·가구·완구,가구·인테리어,both,,major,1
+iloom,일룸,iloom,,KR,생활·가구·완구,가구·인테리어,product,fursys,major,0
+ace-bed,에이스침대,Ace Bed,에이스,KR,생활·가구·완구,가구·인테리어,both,,major,0
+casamia,까사미아,Casamia,,KR,생활·가구·완구,가구·인테리어,product,shinsegae-group,niche,0
+locknlock,락앤락,LocknLock,Lock&Lock,KR,생활·가구·완구,주방·생활용품,both,,major,0
+tupperware,타파웨어,Tupperware,,US,생활·가구·완구,주방·생활용품,both,,major,0
+stanley,스탠리,Stanley,스탠리 텀블러|Stanley 1913,US,생활·가구·완구,주방·생활용품,product,,major,0
+zwilling,즈윌링,Zwilling J.A. Henckels,헹켈|쌍둥이칼,DE,생활·가구·완구,주방·생활용품,both,,major,0
+groupe-seb,그룹 세브,Groupe SEB,SEB,FR,생활·가구·완구,주방·생활용품,corporate,,major,0
+tefal,테팔,Tefal,,FR,생활·가구·완구,주방·생활용품,product,groupe-seb,major,0
+le-creuset,르크루제,Le Creuset,르쿠르제,FR,생활·가구·완구,주방·생활용품,both,,niche,0
+thermos,써모스,Thermos,,JP,생활·가구·완구,주방·생활용품,both,,major,0
+corelle,코렐,Corelle,,US,생활·가구·완구,주방·생활용품,product,,major,0
+lego,레고,LEGO,,DK,생활·가구·완구,완구·캐릭터,both,,mega,0
+mattel,마텔,Mattel,,US,생활·가구·완구,완구·캐릭터,corporate,,mega,0
+barbie,바비,Barbie,,US,생활·가구·완구,완구·캐릭터,product,mattel,mega,0
+hasbro,해즈브로,Hasbro,,US,생활·가구·완구,완구·캐릭터,corporate,,mega,0
+sanrio,산리오,Sanrio,,JP,생활·가구·완구,완구·캐릭터,both,,major,0
+hello-kitty,헬로키티,Hello Kitty,키티,JP,생활·가구·완구,완구·캐릭터,product,sanrio,mega,0
+pop-mart,팝마트,Pop Mart,,CN,생활·가구·완구,완구·캐릭터,both,,major,0
+labubu,라부부,Labubu,,CN,생활·가구·완구,완구·캐릭터,product,pop-mart,major,0
+sonny-angel,소니엔젤,Sonny Angel,,JP,생활·가구·완구,완구·캐릭터,product,,niche,0
+jellycat,젤리캣,Jellycat,,GB,생활·가구·완구,완구·캐릭터,both,,niche,0
+young-toys,영실업,Young Toys,,KR,생활·가구·완구,완구·캐릭터,both,,niche,0
+kakao-friends,카카오프렌즈,Kakao Friends,라이언|춘식이,KR,생활·가구·완구,완구·캐릭터,product,,major,0
+moleskine,몰스킨,Moleskine,,IT,생활·가구·완구,문구·필기구,both,,niche,0
+monami,모나미,Monami,,KR,생활·가구·완구,문구·필기구,both,,major,0
+pilot,파이롯트,Pilot,파일럿|Pilot Corporation,JP,생활·가구·완구,문구·필기구,both,,major,0
+mitsubishi-pencil,미쓰비시연필,Mitsubishi Pencil,uni|유니,JP,생활·가구·완구,문구·필기구,both,,major,0
+lamy,라미,Lamy,,DE,생활·가구·완구,문구·필기구,product,mitsubishi-pencil,niche,0
+staedtler,스테들러,Staedtler,,DE,생활·가구·완구,문구·필기구,both,,niche,0
+bic,빅,BIC,빅볼펜,FR,생활·가구·완구,문구·필기구,both,,major,0
+royal-canin,로얄캐닌,Royal Canin,,FR,생활·가구·완구,반려동물,product,mars,major,0
+purina,퓨리나,Purina,,US,생활·가구·완구,반려동물,product,nestle,major,0
+hills,힐스,Hill's Pet Nutrition,힐스펫,US,생활·가구·완구,반려동물,product,colgate-palmolive,niche,0
+chewy,츄이,Chewy,,US,생활·가구·완구,반려동물,both,,major,0
+petfriends,펫프렌즈,Pet Friends,,KR,생활·가구·완구,반려동물,both,gs-group,niche,0
+pfizer,화이자,Pfizer,,US,제약·헬스케어,제약,both,,mega,0
+johnson-johnson,존슨앤드존슨,Johnson & Johnson,J&J|존슨앤존슨|얀센,US,제약·헬스케어,제약,corporate,,mega,0
+msd,MSD,Merck & Co.,머크|한국MSD,US,제약·헬스케어,제약,corporate,,mega,0
+novartis,노바티스,Novartis,,CH,제약·헬스케어,제약,corporate,,mega,0
+roche,로슈,Roche,한국로슈,CH,제약·헬스케어,제약,corporate,,mega,0
+astrazeneca,아스트라제네카,AstraZeneca,AZ,GB,제약·헬스케어,제약,corporate,,mega,0
+sanofi,사노피,Sanofi,,FR,제약·헬스케어,제약,corporate,,mega,0
+gsk,GSK,GSK,글락소스미스클라인|GlaxoSmithKline,GB,제약·헬스케어,제약,corporate,,mega,0
+novo-nordisk,노보 노디스크,Novo Nordisk,노보노디스크,DK,제약·헬스케어,제약,corporate,,mega,0
+wegovy,위고비,Wegovy,,DK,제약·헬스케어,제약,product,novo-nordisk,major,0
+ozempic,오젬픽,Ozempic,,DK,제약·헬스케어,제약,product,novo-nordisk,major,0
+eli-lilly,일라이 릴리,Eli Lilly,릴리,US,제약·헬스케어,제약,corporate,,mega,0
+mounjaro,마운자로,Mounjaro,젭바운드|Zepbound,US,제약·헬스케어,제약,product,eli-lilly,major,0
+abbvie,애브비,AbbVie,,US,제약·헬스케어,제약,corporate,,mega,0
+bayer,바이엘,Bayer,,DE,제약·헬스케어,제약,both,,mega,0
+takeda,다케다,Takeda,다케다제약,JP,제약·헬스케어,제약,corporate,,major,0
+boehringer-ingelheim,베링거인겔하임,Boehringer Ingelheim,,DE,제약·헬스케어,제약,corporate,,major,0
+galderma,갈더마,Galderma,,CH,제약·헬스케어,제약,corporate,,major,0
+yuhan,유한양행,Yuhan,,KR,제약·헬스케어,제약,both,,major,0
+hanmi,한미약품,Hanmi Pharmaceutical,한미,KR,제약·헬스케어,제약,both,,major,0
+daewoong,대웅제약,Daewoong Pharmaceutical,대웅,KR,제약·헬스케어,제약,both,,major,0
+urusa,우루사,URSA,,KR,제약·헬스케어,일반의약품·소비자헬스,product,daewoong,major,0
+chong-kun-dang,종근당,Chong Kun Dang,CKD,KR,제약·헬스케어,제약,both,,major,0
+gc-biopharma,GC녹십자,GC Biopharma,녹십자,KR,제약·헬스케어,제약,both,,major,0
+dong-a-pharm,동아제약,Dong-A Pharmaceutical,,KR,제약·헬스케어,일반의약품·소비자헬스,both,,major,0
+bacchus,박카스,Bacchus,박카스D|박카스F,KR,제약·헬스케어,일반의약품·소비자헬스,product,dong-a-pharm,major,0
+dongwha-pharm,동화약품,Dongwha Pharm,,KR,제약·헬스케어,일반의약품·소비자헬스,both,,niche,0
+hwalmyungsu,까스활명수,Gas Hwalmyungsu,활명수,KR,제약·헬스케어,일반의약품·소비자헬스,product,dongwha-pharm,major,0
+celltrion,셀트리온,Celltrion,,KR,제약·헬스케어,바이오,both,,major,0
+samsung-biologics,삼성바이오로직스,Samsung Biologics,삼바,KR,제약·헬스케어,바이오,corporate,samsung-group,major,1
+samsung-bioepis,삼성바이오에피스,Samsung Bioepis,,KR,제약·헬스케어,바이오,corporate,samsung-group,niche,1
+sk-bioscience,SK바이오사이언스,SK bioscience,,KR,제약·헬스케어,바이오,corporate,sk-group,niche,0
+lotte-biologics,롯데바이오로직스,Lotte Biologics,,KR,제약·헬스케어,바이오,corporate,lotte-group,niche,1
+alteogen,알테오젠,Alteogen,,KR,제약·헬스케어,바이오,corporate,,niche,1
+amgen,암젠,Amgen,,US,제약·헬스케어,바이오,corporate,,major,0
+moderna,모더나,Moderna,,US,제약·헬스케어,바이오,both,,major,0
+biontech,바이오엔텍,BioNTech,,DE,제약·헬스케어,바이오,corporate,,major,0
+lonza,론자,Lonza,,CH,제약·헬스케어,바이오,corporate,,major,1
+medtronic,메드트로닉,Medtronic,,IE,제약·헬스케어,의료기기,corporate,,mega,1
+siemens-healthineers,지멘스 헬시니어스,Siemens Healthineers,,DE,제약·헬스케어,의료기기,corporate,,major,1
+ge-healthcare,GE헬스케어,GE HealthCare,,US,제약·헬스케어,의료기기,corporate,,major,1
+abbott,애보트,Abbott,애벗,US,제약·헬스케어,의료기기,both,,mega,0
+stryker,스트라이커,Stryker,,US,제약·헬스케어,의료기기,corporate,,major,1
+boston-scientific,보스턴사이언티픽,Boston Scientific,,US,제약·헬스케어,의료기기,corporate,,major,1
+intuitive-surgical,인튜이티브 서지컬,Intuitive Surgical,다빈치|da Vinci,US,제약·헬스케어,의료기기,corporate,,major,1
+dexcom,덱스콤,Dexcom,,US,제약·헬스케어,의료기기,both,,niche,0
+olympus,올림푸스,Olympus,,JP,제약·헬스케어,의료기기,corporate,,major,1
+osstem,오스템임플란트,Osstem Implant,오스템,KR,제약·헬스케어,의료기기,both,,major,1
+lunit,루닛,Lunit,,KR,제약·헬스케어,의료기기,corporate,,niche,1
+haleon,헤일리온,Haleon,,GB,제약·헬스케어,일반의약품·소비자헬스,corporate,,major,0
+sensodyne,센소다인,Sensodyne,,GB,제약·헬스케어,일반의약품·소비자헬스,product,haleon,major,0
+centrum,센트룸,Centrum,,US,제약·헬스케어,일반의약품·소비자헬스,product,haleon,major,0
+kenvue,켄뷰,Kenvue,,US,제약·헬스케어,일반의약품·소비자헬스,corporate,,major,0
+tylenol,타이레놀,Tylenol,,US,제약·헬스케어,일반의약품·소비자헬스,product,kenvue,mega,0
+listerine,리스테린,Listerine,,US,제약·헬스케어,일반의약품·소비자헬스,product,kenvue,major,0
+band-aid,밴드에이드,Band-Aid,,US,제약·헬스케어,일반의약품·소비자헬스,product,kenvue,major,0
+neutrogena,뉴트로지나,Neutrogena,,US,뷰티·퍼스널케어,스킨케어,product,kenvue,major,0

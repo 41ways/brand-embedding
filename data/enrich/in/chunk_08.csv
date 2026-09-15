@@ -1,0 +1,135 @@
+id,name_ko,name_en,aliases,country,sector,category,brand_type,parent,parent_name,tier,b2b
+lamborghini,람보르기니,Automobili Lamborghini,람보,IT,자동차·모빌리티,럭셔리·슈퍼카,both,audi,Audi,mega,0
+lotus,로터스,Lotus Cars,,GB,자동차·모빌리티,럭셔리·슈퍼카,both,geely-holding,Zhejiang Geely Holding Group,niche,0
+maserati,마세라티,Maserati,,IT,자동차·모빌리티,럭셔리·슈퍼카,product,stellantis,Stellantis,major,0
+mclaren,맥라렌,McLaren Automotive,,GB,자동차·모빌리티,럭셔리·슈퍼카,both,,,major,0
+mercedes-amg,메르세데스-AMG,Mercedes-AMG,AMG,DE,자동차·모빌리티,럭셔리·슈퍼카,product,mercedes-benz,Mercedes-Benz,major,0
+mercedes-maybach,마이바흐,Mercedes-Maybach,메르세데스-마이바흐|Maybach,DE,자동차·모빌리티,럭셔리·슈퍼카,product,mercedes-benz,Mercedes-Benz,major,0
+pagani,파가니,Pagani,,IT,자동차·모빌리티,럭셔리·슈퍼카,both,,,niche,0
+porsche,포르쉐,Porsche,포르셰,DE,자동차·모빌리티,럭셔리·슈퍼카,both,volkswagen-group,Volkswagen Group,mega,0
+rolls-royce-motor-cars,롤스로이스,Rolls-Royce Motor Cars,롤스로이스 모터카,GB,자동차·모빌리티,럭셔리·슈퍼카,product,bmw-group,BMW Group,mega,0
+singer,싱어,Singer Vehicle Design,,US,자동차·모빌리티,럭셔리·슈퍼카,both,,,niche,0
+didi,디디추싱,DiDi,디디|滴滴出行,CN,자동차·모빌리티,모빌리티서비스,both,,,major,0
+grab,그랩,Grab,,SG,자동차·모빌리티,모빌리티서비스,both,,,major,0
+hertz,허츠,Hertz,허츠렌터카,US,자동차·모빌리티,모빌리티서비스,both,,,major,0
+kakao-mobility,카카오모빌리티,Kakao Mobility,카카오T|카카오택시,KR,자동차·모빌리티,모빌리티서비스,both,kakao,Kakao,major,0
+lyft,리프트,Lyft,,US,자동차·모빌리티,모빌리티서비스,both,,,major,0
+socar,쏘카,SOCAR,,KR,자동차·모빌리티,모빌리티서비스,both,,,major,0
+tmap-mobility,티맵모빌리티,TMAP Mobility,티맵|T맵,KR,자동차·모빌리티,모빌리티서비스,both,sk-group,SK Group,major,0
+uber,우버,Uber,,US,자동차·모빌리티,모빌리티서비스,both,,,mega,0
+waymo,웨이모,Waymo,,US,자동차·모빌리티,모빌리티서비스,both,alphabet,Alphabet,major,0
+daimler-truck,다임러트럭,Daimler Truck,,DE,자동차·모빌리티,상용차,both,,,major,1
+isuzu,이스즈,Isuzu Motors,이스즈자동차,JP,자동차·모빌리티,상용차,both,,,niche,1
+man-truck-bus,만트럭버스,MAN Truck & Bus,MAN|만트럭,DE,자동차·모빌리티,상용차,both,traton,TRATON,major,1
+scania,스카니아,Scania,,SE,자동차·모빌리티,상용차,both,traton,TRATON,major,1
+traton,트라톤,TRATON,,DE,자동차·모빌리티,상용차,corporate,volkswagen-group,Volkswagen Group,niche,1
+volvo-group,볼보그룹,AB Volvo,볼보트럭|Volvo Group,SE,자동차·모빌리티,상용차,corporate,,,major,1
+acura,어큐라,Acura,아큐라,US,자동차·모빌리티,완성차,product,honda,Honda Motor,major,0
+alfa-romeo,알파로메오,Alfa Romeo,,IT,자동차·모빌리티,완성차,product,stellantis,Stellantis,major,0
+audi,아우디,Audi,,DE,자동차·모빌리티,완성차,both,volkswagen-group,Volkswagen Group,mega,0
+bmw,BMW,BMW,비엠더블유|비머,DE,자동차·모빌리티,완성차,product,bmw-group,BMW Group,mega,0
+bmw-group,BMW그룹,BMW Group,,DE,자동차·모빌리티,완성차,corporate,,,mega,0
+cadillac,캐딜락,Cadillac,,US,자동차·모빌리티,완성차,product,general-motors,General Motors,major,0
+chery,체리자동차,Chery,치루이,CN,자동차·모빌리티,완성차,both,,,major,0
+chevrolet,쉐보레,Chevrolet,시보레|Chevy,US,자동차·모빌리티,완성차,product,general-motors,General Motors,mega,0
+chrysler,크라이슬러,Chrysler,,US,자동차·모빌리티,완성차,product,stellantis,Stellantis,major,0
+citroen,시트로엥,Citroën,Citroen,FR,자동차·모빌리티,완성차,product,stellantis,Stellantis,major,0
+cupra,쿠프라,CUPRA,,ES,자동차·모빌리티,완성차,product,volkswagen-group,Volkswagen Group,niche,0
+dodge,닷지,Dodge,,US,자동차·모빌리티,완성차,product,stellantis,Stellantis,major,0
+fiat,피아트,Fiat,,IT,자동차·모빌리티,완성차,product,stellantis,Stellantis,major,0
+ford,포드,Ford Motor,,US,자동차·모빌리티,완성차,both,,,mega,0
+geely-holding,지리홀딩그룹,Zhejiang Geely Holding Group,지리|길리|Geely,CN,자동차·모빌리티,완성차,corporate,,,major,0
+general-motors,제너럴모터스,General Motors,GM,US,자동차·모빌리티,완성차,corporate,,,mega,0
+genesis,제네시스,Genesis,,KR,자동차·모빌리티,완성차,product,hyundai-motor,Hyundai Motor,major,0
+gm-korea,한국GM,GM Korea,한국지엠|한국지엠주식회사,KR,자동차·모빌리티,완성차,corporate,general-motors,General Motors,major,0
+gmc,GMC,GMC,,US,자동차·모빌리티,완성차,product,general-motors,General Motors,major,0
+honda,혼다,Honda Motor,,JP,자동차·모빌리티,완성차,both,,,mega,0
+hyundai-motor,현대자동차,Hyundai Motor,현대차|HMC,KR,자동차·모빌리티,완성차,both,hyundai-motor-group,Hyundai Motor Group,mega,0
+infiniti,인피니티,Infiniti,,JP,자동차·모빌리티,완성차,product,nissan,Nissan Motor,major,0
+jaguar,재규어,Jaguar,,GB,자동차·모빌리티,완성차,product,jaguar-land-rover,Jaguar Land Rover,major,0
+jaguar-land-rover,재규어랜드로버,Jaguar Land Rover,JLR,GB,자동차·모빌리티,완성차,corporate,,,major,0
+jeep,지프,Jeep,,US,자동차·모빌리티,완성차,product,stellantis,Stellantis,mega,0
+kg-mobility,KG모빌리티,KG Mobility,KGM|쌍용자동차|쌍용차,KR,자동차·모빌리티,완성차,both,,,major,0
+kia,기아,Kia,기아차|기아자동차,KR,자동차·모빌리티,완성차,both,hyundai-motor-group,Hyundai Motor Group,mega,0
+land-rover,랜드로버,Land Rover,레인지로버|Range Rover,GB,자동차·모빌리티,완성차,product,jaguar-land-rover,Jaguar Land Rover,major,0
+lexus,렉서스,Lexus,,JP,자동차·모빌리티,완성차,product,toyota,Toyota Motor,mega,0
+lincoln,링컨,Lincoln,,US,자동차·모빌리티,완성차,product,ford,Ford Motor,major,0
+mazda,마쓰다,Mazda,마즈다,JP,자동차·모빌리티,완성차,both,,,major,0
+mercedes-benz,메르세데스-벤츠,Mercedes-Benz,벤츠|Benz,DE,자동차·모빌리티,완성차,product,mercedes-benz-group,Mercedes-Benz Group,mega,0
+mercedes-benz-group,메르세데스-벤츠 그룹,Mercedes-Benz Group,다임러|Daimler,DE,자동차·모빌리티,완성차,corporate,,,mega,0
+mini,미니,MINI,미니쿠퍼|Mini Cooper,GB,자동차·모빌리티,완성차,product,bmw-group,BMW Group,major,0
+mitsubishi-motors,미쓰비시자동차,Mitsubishi Motors,미쓰비시,JP,자동차·모빌리티,완성차,both,,,major,0
+nissan,닛산,Nissan Motor,,JP,자동차·모빌리티,완성차,both,,,mega,0
+opel,오펠,Opel,,DE,자동차·모빌리티,완성차,product,stellantis,Stellantis,major,0
+peugeot,푸조,Peugeot,,FR,자동차·모빌리티,완성차,product,stellantis,Stellantis,major,0
+ram,램,Ram Trucks,RAM|닷지 램,US,자동차·모빌리티,완성차,product,stellantis,Stellantis,major,0
+renault,르노,Renault,,FR,자동차·모빌리티,완성차,product,renault-group,Renault Group,major,0
+renault-group,르노그룹,Renault Group,,FR,자동차·모빌리티,완성차,corporate,,,major,0
+renault-korea,르노코리아,Renault Korea,르노삼성|르노삼성자동차,KR,자동차·모빌리티,완성차,both,renault-group,Renault Group,major,0
+skoda,스코다,Škoda Auto,Skoda,CZ,자동차·모빌리티,완성차,both,volkswagen-group,Volkswagen Group,major,0
+stellantis,스텔란티스,Stellantis,,NL,자동차·모빌리티,완성차,corporate,,,mega,0
+subaru,스바루,Subaru,,JP,자동차·모빌리티,완성차,both,,,major,0
+suzuki,스즈키,Suzuki Motor,,JP,자동차·모빌리티,완성차,both,,,major,0
+tata-motors,타타모터스,Tata Motors,타타,IN,자동차·모빌리티,완성차,both,,,major,0
+toyota,토요타,Toyota Motor,도요타|TMC,JP,자동차·모빌리티,완성차,both,,,mega,0
+volkswagen,폭스바겐,Volkswagen,VW|폭바,DE,자동차·모빌리티,완성차,product,volkswagen-group,Volkswagen Group,mega,0
+volkswagen-group,폭스바겐그룹,Volkswagen Group,VW그룹|폭스바겐 AG,DE,자동차·모빌리티,완성차,corporate,,,mega,0
+volvo-cars,볼보자동차,Volvo Cars,볼보,SE,자동차·모빌리티,완성차,both,geely-holding,Zhejiang Geely Holding Group,major,0
+ducati,두카티,Ducati,,IT,자동차·모빌리티,이륜차,both,audi,Audi,major,0
+harley-davidson,할리데이비슨,Harley-Davidson,할리,US,자동차·모빌리티,이륜차,both,,,major,0
+ktm,KTM,KTM,,AT,자동차·모빌리티,이륜차,both,,,niche,0
+piaggio,피아지오,Piaggio,,IT,자동차·모빌리티,이륜차,corporate,,,niche,0
+triumph,트라이엄프,Triumph Motorcycles,,GB,자동차·모빌리티,이륜차,both,,,niche,0
+vespa,베스파,Vespa,,IT,자동차·모빌리티,이륜차,product,piaggio,Piaggio,major,0
+yamaha-motor,야마하발동기,Yamaha Motor,야마하,JP,자동차·모빌리티,이륜차,both,,,major,0
+aisin,아이신,Aisin,,JP,자동차·모빌리티,자동차부품,both,,,major,1
+bosch,보쉬,Robert Bosch,Bosch,DE,자동차·모빌리티,자동차부품,both,,,mega,1
+brembo,브렘보,Brembo,,IT,자동차·모빌리티,자동차부품,both,,,niche,1
+continental,콘티넨탈,Continental,,DE,자동차·모빌리티,자동차부품,both,,,mega,1
+denso,덴소,Denso,,JP,자동차·모빌리티,자동차부품,both,,,major,1
+hanon-systems,한온시스템,Hanon Systems,,KR,자동차·모빌리티,자동차부품,both,,,niche,1
+hl-mando,HL만도,HL Mando,만도,KR,자동차·모빌리티,자동차부품,both,,,major,1
+hyundai-kefico,현대케피코,Hyundai Kefico,케피코,KR,자동차·모빌리티,자동차부품,both,hyundai-motor-group,Hyundai Motor Group,niche,1
+hyundai-mobis,현대모비스,Hyundai Mobis,모비스,KR,자동차·모빌리티,자동차부품,both,hyundai-motor-group,Hyundai Motor Group,major,1
+hyundai-transys,현대트랜시스,Hyundai Transys,,KR,자동차·모빌리티,자동차부품,both,hyundai-motor-group,Hyundai Motor Group,niche,1
+hyundai-wia,현대위아,Hyundai WIA,,KR,자동차·모빌리티,자동차부품,both,hyundai-motor-group,Hyundai Motor Group,major,1
+magna,마그나,Magna International,,CA,자동차·모빌리티,자동차부품,both,,,major,1
+valeo,발레오,Valeo,,FR,자동차·모빌리티,자동차부품,both,,,major,1
+zf,ZF,ZF Friedrichshafen,ZF프리드리히스하펜,DE,자동차·모빌리티,자동차부품,both,,,major,1
+byd,BYD,BYD,비야디,CN,자동차·모빌리티,전기차,both,,,mega,0
+li-auto,리오토,Li Auto,리샹,CN,자동차·모빌리티,전기차,both,,,niche,0
+lucid,루시드,Lucid Motors,루시드모터스,US,자동차·모빌리티,전기차,both,,,niche,0
+nio,니오,NIO,웨이라이,CN,자동차·모빌리티,전기차,both,,,niche,0
+polestar,폴스타,Polestar,,SE,자동차·모빌리티,전기차,both,geely-holding,Zhejiang Geely Holding Group,niche,0
+rimac,리막,Rimac Automobili,,HR,자동차·모빌리티,전기차,both,,,niche,0
+rivian,리비안,Rivian,,US,자동차·모빌리티,전기차,both,,,major,0
+tesla,테슬라,Tesla,,US,자동차·모빌리티,전기차,both,,,mega,0
+xpeng,샤오펑,XPeng,엑스펑,CN,자동차·모빌리티,전기차,both,,,niche,0
+zeekr,지커,Zeekr,,CN,자동차·모빌리티,전기차,product,geely-holding,Zhejiang Geely Holding Group,niche,0
+bridgestone,브리지스톤,Bridgestone,,JP,자동차·모빌리티,타이어,both,,,mega,0
+goodyear,굿이어,Goodyear,,US,자동차·모빌리티,타이어,both,,,major,0
+hankook-tire,한국타이어,Hankook Tire & Technology,한국타이어앤테크놀로지|Hankook,KR,자동차·모빌리티,타이어,both,,,major,0
+kumho-tire,금호타이어,Kumho Tire,,KR,자동차·모빌리티,타이어,both,,,major,0
+michelin,미쉐린,Michelin,미슐랭,FR,자동차·모빌리티,타이어,both,,,mega,0
+nexen-tire,넥센타이어,Nexen Tire,넥센,KR,자동차·모빌리티,타이어,both,,,major,0
+pirelli,피렐리,Pirelli,,IT,자동차·모빌리티,타이어,both,,,major,0
+yokohama-tire,요코하마타이어,Yokohama Rubber,요코하마,JP,자동차·모빌리티,타이어,both,,,niche,0
+accenture,액센츄어,Accenture,,IE,전자·IT,IT서비스,both,,,major,1
+cisco,시스코,Cisco Systems,Cisco,US,전자·IT,IT서비스,both,,,mega,1
+hyundai-autoever,현대오토에버,Hyundai AutoEver,,KR,전자·IT,IT서비스,corporate,hyundai-motor-group,Hyundai Motor Group,niche,1
+ibm,IBM,IBM,아이비엠,US,전자·IT,IT서비스,both,,,mega,1
+infosys,인포시스,Infosys,,IN,전자·IT,IT서비스,both,,,major,1
+lg-cns,LG CNS,LG CNS,엘지씨엔에스,KR,전자·IT,IT서비스,corporate,lg-group,LG Group,major,1
+samsung-sds,삼성SDS,Samsung SDS,삼성에스디에스,KR,전자·IT,IT서비스,corporate,samsung-group,Samsung Group,major,1
+tcs,타타 컨설턴시 서비스,Tata Consultancy Services,TCS,IN,전자·IT,IT서비스,both,,,major,1
+acer,에이서,Acer,,TW,전자·IT,PC·주변기기,both,,,major,0
+asus,에이수스,ASUS,아수스,TW,전자·IT,PC·주변기기,both,,,major,0
+corsair,커세어,Corsair,,US,전자·IT,PC·주변기기,both,,,niche,0
+dell,델,Dell Technologies,Dell,US,전자·IT,PC·주변기기,both,,,mega,0
+framework,프레임워크 랩톱,Framework Computer,Framework Laptop,US,전자·IT,PC·주변기기,both,,,niche,0
+hp,HP,HP Inc.,휴렛팩커드|Hewlett-Packard,US,전자·IT,PC·주변기기,both,,,mega,0
+ipad,아이패드,iPad,,US,전자·IT,PC·주변기기,product,apple,Apple,mega,0
+keychron,키크론,Keychron,,HK,전자·IT,PC·주변기기,both,,,niche,0
+lenovo,레노버,Lenovo,씽크패드|ThinkPad,CN,전자·IT,PC·주변기기,both,,,mega,0
+lg-gram,LG 그램,LG gram,그램,KR,전자·IT,PC·주변기기,product,lg-electronics,LG Electronics,major,0
+logitech,로지텍,Logitech,Logi,CH,전자·IT,PC·주변기기,both,,,major,0

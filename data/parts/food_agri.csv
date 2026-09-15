@@ -1,0 +1,227 @@
+id,name_ko,name_en,aliases,country,sector,category,brand_type,parent,tier,b2b
+coca-cola,코카콜라,Coca-Cola,코크|The Coca-Cola Company|Coke,US,식음료,음료·탄산,both,,mega,0
+sprite,스프라이트,Sprite,,US,식음료,음료·탄산,product,coca-cola,mega,0
+fanta,환타,Fanta,,US,식음료,음료·탄산,product,coca-cola,major,0
+pepsico,펩시코,PepsiCo,,US,식음료,과자·제과,corporate,,mega,0
+pepsi,펩시,Pepsi,펩시콜라,US,식음료,음료·탄산,product,pepsico,mega,0
+gatorade,게토레이,Gatorade,,US,식음료,음료·탄산,product,pepsico,major,0
+lays,레이즈,Lay's,,US,식음료,과자·제과,product,pepsico,mega,0
+doritos,도리토스,Doritos,,US,식음료,과자·제과,product,pepsico,major,0
+cheetos,치토스,Cheetos,,US,식음료,과자·제과,product,pepsico,major,0
+quaker,퀘이커,Quaker Oats,퀘이커오츠,US,식음료,라면·가공식품,product,pepsico,major,0
+poppi,파피,Poppi,,US,식음료,음료·탄산,product,pepsico,niche,0
+red-bull,레드불,Red Bull,,AT,식음료,음료·탄산,both,,mega,0
+monster-beverage,몬스터에너지,Monster Energy,몬스터|Monster Beverage,US,식음료,음료·탄산,both,,major,0
+celsius,셀시어스,Celsius,,US,식음료,음료·탄산,both,,niche,0
+keurig-dr-pepper,큐리그닥터페퍼,Keurig Dr Pepper,KDP,US,식음료,음료·탄산,corporate,,major,0
+dr-pepper,닥터페퍼,Dr Pepper,,US,식음료,음료·탄산,product,keurig-dr-pepper,major,0
+liquid-death,리퀴드데스,Liquid Death,,US,식음료,음료·탄산,both,,niche,0
+olipop,올리팝,Olipop,,US,식음료,음료·탄산,both,,niche,0
+fiji-water,피지워터,Fiji Water,,US,식음료,음료·탄산,product,,niche,0
+nestle,네슬레,Nestlé,Nestle,CH,식음료,라면·가공식품,corporate,,mega,0
+nescafe,네스카페,Nescafé,Nescafe,CH,식음료,커피·차,product,nestle,mega,0
+nespresso,네스프레소,Nespresso,,CH,식음료,커피·차,product,nestle,major,0
+kitkat,킷캣,Kit Kat,KitKat,CH,식음료,과자·제과,product,nestle,mega,0
+maggi,매기,Maggi,,CH,식음료,조미료·소스,product,nestle,major,0
+perrier,페리에,Perrier,,FR,식음료,음료·탄산,product,nestle,major,0
+san-pellegrino,산펠레그리노,S.Pellegrino,San Pellegrino,IT,식음료,음료·탄산,product,nestle,major,0
+blue-bottle,블루보틀,Blue Bottle Coffee,,US,외식,카페체인,both,nestle,niche,0
+danone,다논,Danone,다농,FR,식음료,유제품,corporate,,mega,0
+evian,에비앙,Evian,,FR,식음료,음료·탄산,product,danone,major,0
+lactalis,락탈리스,Lactalis,,FR,식음료,유제품,corporate,,major,0
+yakult,야쿠르트,Yakult,,JP,식음료,유제품,both,,major,0
+chobani,초바니,Chobani,,US,식음료,유제품,both,,niche,0
+oatly,오틀리,Oatly,,SE,식음료,유제품,both,,niche,0
+mondelez,몬델리즈,Mondelez International,,US,식음료,과자·제과,corporate,,mega,0
+oreo,오레오,Oreo,,US,식음료,과자·제과,product,mondelez,mega,0
+cadbury,캐드버리,Cadbury,,GB,식음료,과자·제과,product,mondelez,major,0
+toblerone,토블론,Toblerone,,CH,식음료,과자·제과,product,mondelez,major,0
+mars,마스,"Mars, Incorporated",Mars Inc,US,식음료,과자·제과,corporate,,mega,0
+mms,엠앤엠즈,M&M's,엠엔엠|M&M,US,식음료,과자·제과,product,mars,mega,0
+snickers,스니커즈,Snickers,,US,식음료,과자·제과,product,mars,mega,0
+pringles,프링글스,Pringles,,US,식음료,과자·제과,product,mars,mega,0
+ferrero,페레로,Ferrero,,IT,식음료,과자·제과,corporate,,mega,0
+nutella,누텔라,Nutella,,IT,식음료,조미료·소스,product,ferrero,mega,0
+kinder,킨더,Kinder,킨더조이,IT,식음료,과자·제과,product,ferrero,major,0
+ferrero-rocher,페레로로쉐,Ferrero Rocher,,IT,식음료,과자·제과,product,ferrero,major,0
+hershey,허쉬,Hershey's,The Hershey Company|허쉬초콜릿,US,식음료,과자·제과,both,,major,0
+lindt,린트,Lindt & Sprüngli,Lindt,CH,식음료,과자·제과,both,,major,0
+haribo,하리보,Haribo,,DE,식음료,과자·제과,both,,major,0
+glico,글리코,Ezaki Glico,에자키글리코,JP,식음료,과자·제과,corporate,,major,0
+pocky,포키,Pocky,,JP,식음료,과자·제과,product,glico,major,0
+meiji,메이지,Meiji,,JP,식음료,과자·제과,both,,major,0
+calbee,가루비,Calbee,,JP,식음료,과자·제과,both,,niche,0
+kraft-heinz,크래프트하인즈,Kraft Heinz,,US,식음료,조미료·소스,corporate,,mega,0
+heinz,하인즈,Heinz,,US,식음료,조미료·소스,product,kraft-heinz,mega,0
+general-mills,제너럴밀스,General Mills,,US,식음료,라면·가공식품,corporate,,major,0
+haagen-dazs,하겐다즈,Häagen-Dazs,Haagen-Dazs,US,식음료,유제품,product,general-mills,major,0
+nissin,닛신,Nissin Foods,컵누들|Cup Noodles,JP,식음료,라면·가공식품,both,,major,0
+ajinomoto,아지노모토,Ajinomoto,,JP,식음료,조미료·소스,both,,major,0
+kikkoman,기꼬만,Kikkoman,깃코만,JP,식음료,조미료·소스,both,,major,0
+lee-kum-kee,이금기,Lee Kum Kee,,HK,식음료,조미료·소스,both,,major,0
+kewpie,큐피,Kewpie,,JP,식음료,조미료·소스,both,,niche,0
+herbalife,허벌라이프,Herbalife,,US,식음료,건강식품,both,,major,0
+ab-inbev,AB인베브,Anheuser-Busch InBev,AB InBev|앤하이저부시인베브,BE,식음료,주류,corporate,,mega,0
+budweiser,버드와이저,Budweiser,버드,US,식음료,주류,product,ab-inbev,mega,0
+stella-artois,스텔라아르투아,Stella Artois,스텔라,BE,식음료,주류,product,ab-inbev,major,0
+corona,코로나,Corona,코로나엑스트라,MX,식음료,주류,product,ab-inbev,mega,0
+oriental-brewery,오비맥주,Oriental Brewery,OB맥주|OB,KR,식음료,주류,corporate,ab-inbev,major,0
+cass,카스,Cass,,KR,식음료,주류,product,oriental-brewery,major,0
+heineken,하이네켄,Heineken,,NL,식음료,주류,both,,mega,0
+carlsberg,칼스버그,Carlsberg,,DK,식음료,주류,both,,major,0
+asahi,아사히,Asahi,아사히맥주|Asahi Group|아사히 슈퍼드라이,JP,식음료,주류,both,,major,0
+kirin,기린,Kirin Holdings,기린맥주|Kirin,JP,식음료,주류,both,,major,0
+sapporo,삿포로,Sapporo,삿포로맥주,JP,식음료,주류,both,,niche,0
+tsingtao,칭따오,Tsingtao,칭다오맥주,CN,식음료,주류,both,,major,0
+suntory,산토리,Suntory Holdings,Suntory,JP,식음료,주류,corporate,,major,0
+jim-beam,짐빔,Jim Beam,,US,식음료,주류,product,suntory,major,0
+yamazaki,야마자키,Yamazaki,,JP,식음료,주류,product,suntory,niche,0
+diageo,디아지오,Diageo,,GB,식음료,주류,corporate,,mega,0
+johnnie-walker,조니워커,Johnnie Walker,,GB,식음료,주류,product,diageo,mega,0
+guinness,기네스,Guinness,,IE,식음료,주류,product,diageo,major,0
+smirnoff,스미노프,Smirnoff,,GB,식음료,주류,product,diageo,major,0
+pernod-ricard,페르노리카,Pernod Ricard,,FR,식음료,주류,corporate,,mega,0
+absolut,앱솔루트,Absolut Vodka,Absolut,SE,식음료,주류,product,pernod-ricard,major,0
+jameson,제임슨,Jameson,,IE,식음료,주류,product,pernod-ricard,major,0
+chivas-regal,시바스리갈,Chivas Regal,,GB,식음료,주류,product,pernod-ricard,major,0
+brown-forman,브라운포맨,Brown-Forman,,US,식음료,주류,corporate,,major,0
+jack-daniels,잭다니엘,Jack Daniel's,잭다니엘스,US,식음료,주류,product,brown-forman,mega,0
+hennessy,헤네시,Hennessy,,FR,식음료,주류,product,lvmh,mega,0
+moet-chandon,모엣샹동,Moët & Chandon,Moet,FR,식음료,주류,product,lvmh,major,0
+bacardi,바카디,Bacardi,,BM,식음료,주류,both,,major,0
+macallan,맥캘란,The Macallan,Macallan,GB,식음료,주류,product,,major,0
+kweichow-moutai,마오타이,Kweichow Moutai,구이저우마오타이|모태주,CN,식음료,주류,both,,major,0
+hitejinro,하이트진로,HiteJinro,하이트|진로,KR,식음료,주류,both,,major,0
+chamisul,참이슬,Chamisul,,KR,식음료,주류,product,hitejinro,major,0
+terra,테라,Terra,,KR,식음료,주류,product,hitejinro,major,0
+lotte-chilsung,롯데칠성음료,Lotte Chilsung Beverage,롯데칠성,KR,식음료,음료·탄산,corporate,lotte-group,major,0
+chilsung-cider,칠성사이다,Chilsung Cider,,KR,식음료,음료·탄산,product,lotte-chilsung,major,0
+chum-churum,처음처럼,Chum Churum,,KR,식음료,주류,product,lotte-chilsung,major,0
+lotte-wellfood,롯데웰푸드,Lotte Wellfood,롯데제과,KR,식음료,과자·제과,corporate,lotte-group,major,0
+pepero,빼빼로,Pepero,,KR,식음료,과자·제과,product,lotte-wellfood,major,0
+nongshim,농심,Nongshim,,KR,식음료,라면·가공식품,both,,major,0
+shin-ramyun,신라면,Shin Ramyun,,KR,식음료,라면·가공식품,product,nongshim,major,0
+saeukkang,새우깡,Saeukkang,Shrimp Cracker,KR,식음료,과자·제과,product,nongshim,major,0
+ottogi,오뚜기,Ottogi,,KR,식음료,라면·가공식품,both,,major,0
+jin-ramen,진라면,Jin Ramen,,KR,식음료,라면·가공식품,product,ottogi,major,0
+samyang-foods,삼양식품,Samyang Foods,삼양라면,KR,식음료,라면·가공식품,both,,major,0
+buldak,불닭볶음면,Buldak,불닭|Buldak Ramen,KR,식음료,라면·가공식품,product,samyang-foods,major,0
+orion,오리온,Orion,,KR,식음료,과자·제과,both,,major,0
+choco-pie,초코파이,Choco Pie,오리온 초코파이,KR,식음료,과자·제과,product,orion,major,0
+binggrae,빙그레,Binggrae,,KR,식음료,유제품,both,,major,0
+banana-milk,바나나맛우유,Banana Flavored Milk,뚱바|단지우유,KR,식음료,유제품,product,binggrae,major,0
+haitai,해태제과,Haitai Confectionery,해태,KR,식음료,과자·제과,both,,major,0
+crown,크라운제과,Crown Confectionery,크라운,KR,식음료,과자·제과,both,,niche,0
+maeil-dairies,매일유업,Maeil Dairies,매일우유,KR,식음료,유제품,both,,major,0
+seoul-milk,서울우유,Seoul Milk,서울우유협동조합,KR,식음료,유제품,both,,major,0
+namyang-dairy,남양유업,Namyang Dairy,남양,KR,식음료,유제품,both,,major,0
+pulmuone,풀무원,Pulmuone,,KR,식음료,라면·가공식품,both,,major,0
+dongwon-fnb,동원F&B,Dongwon F&B,동원,KR,식음료,라면·가공식품,both,,major,0
+dongwon-tuna,동원참치,Dongwon Tuna,,KR,식음료,라면·가공식품,product,dongwon-fnb,major,0
+cj-cheiljedang,CJ제일제당,CJ CheilJedang,제일제당,KR,식음료,라면·가공식품,corporate,cj-group,major,0
+bibigo,비비고,Bibigo,,KR,식음료,라면·가공식품,product,cj-cheiljedang,major,0
+hetbahn,햇반,Hetbahn,,KR,식음료,라면·가공식품,product,cj-cheiljedang,major,0
+cj-bio,CJ제일제당 바이오,CJ CheilJedang Bio,CJ바이오,KR,농업·식품원료,식품원료,product,cj-cheiljedang,major,1
+daesang,대상,Daesang,,KR,식음료,조미료·소스,both,,major,0
+chungjungone,청정원,Chungjungone,,KR,식음료,조미료·소스,product,daesang,major,0
+miwon,미원,Miwon,,KR,식음료,조미료·소스,product,daesang,major,0
+dongsuh-foods,동서식품,Dongsuh Foods,,KR,식음료,커피·차,both,,major,0
+jeonggwanjang,정관장,Cheong Kwan Jang,KGC인삼공사|홍삼,KR,식음료,건강식품,product,,major,0
+jeju-samdasoo,제주삼다수,Jeju Samdasoo,삼다수,KR,식음료,음료·탄산,product,,major,0
+starbucks,스타벅스,Starbucks,스벅,US,외식,카페체인,both,,mega,0
+costa-coffee,코스타커피,Costa Coffee,,GB,외식,카페체인,both,,major,0
+rbi,레스토랑브랜즈인터내셔널,Restaurant Brands International,RBI,CA,외식,패스트푸드,corporate,,major,0
+tim-hortons,팀홀튼,Tim Hortons,팀호튼,CA,외식,카페체인,both,rbi,major,0
+burger-king,버거킹,Burger King,,US,외식,패스트푸드,both,rbi,mega,0
+popeyes,파파이스,Popeyes,,US,외식,패스트푸드,both,rbi,major,0
+inspire-brands,인스파이어브랜즈,Inspire Brands,,US,외식,패스트푸드,corporate,,major,0
+dunkin,던킨,Dunkin',던킨도너츠,US,외식,베이커리·디저트,both,inspire-brands,major,0
+baskin-robbins,배스킨라빈스,Baskin-Robbins,베라|31,US,외식,베이커리·디저트,both,inspire-brands,major,0
+luckin-coffee,루이싱커피,Luckin Coffee,瑞幸咖啡,CN,외식,카페체인,both,,major,0
+arabica,% 아라비카,% Arabica,아라비카|응커피,JP,외식,카페체인,both,,niche,0
+gong-cha,공차,Gong cha,,TW,외식,카페체인,both,,major,0
+mixue,미쉐,Mixue,蜜雪冰城|미쉐빙청,CN,외식,카페체인,both,,major,0
+chagee,차지,Chagee,霸王茶姬,CN,외식,카페체인,both,,niche,0
+heytea,헤이티,HeyTea,喜茶,CN,외식,카페체인,both,,niche,0
+krispy-kreme,크리스피크림,Krispy Kreme,크리스피크림도넛,US,외식,베이커리·디저트,both,,major,0
+jollibee,졸리비,Jollibee Foods,Jollibee,PH,외식,패스트푸드,both,,major,0
+compose-coffee,컴포즈커피,Compose Coffee,컴포즈,KR,외식,카페체인,both,jollibee,major,0
+coffee-bean,커피빈,The Coffee Bean & Tea Leaf,,US,외식,카페체인,both,jollibee,major,0
+ediya,이디야커피,Ediya Coffee,이디야,KR,외식,카페체인,both,,major,0
+mega-coffee,메가커피,Mega MGC Coffee,메가MGC커피|메가커피,KR,외식,카페체인,both,,major,0
+twosome-place,투썸플레이스,A Twosome Place,투썸,KR,외식,카페체인,both,,major,0
+hollys,할리스,Hollys Coffee,할리스커피,KR,외식,카페체인,both,,major,0
+paul-bassett,폴바셋,Paul Bassett,,KR,외식,카페체인,both,,niche,0
+theborn-korea,더본코리아,The Born Korea,백종원,KR,외식,레스토랑체인,corporate,,major,0
+paik-dabang,빽다방,Paik's Coffee,,KR,외식,카페체인,both,theborn-korea,major,0
+terarosa,테라로사,Terarosa,,KR,외식,카페체인,both,,niche,0
+fritz-coffee,프릳츠,Fritz Coffee Company,프릳츠커피,KR,외식,카페체인,both,,niche,0
+mcdonalds,맥도날드,McDonald's,맥날|맥도널드,US,외식,패스트푸드,both,,mega,0
+yum-brands,얌브랜즈,Yum! Brands,Yum Brands,US,외식,패스트푸드,corporate,,mega,0
+kfc,KFC,KFC,켄터키프라이드치킨,US,외식,패스트푸드,both,yum-brands,mega,0
+pizza-hut,피자헛,Pizza Hut,,US,외식,배달·프랜차이즈,both,yum-brands,mega,0
+taco-bell,타코벨,Taco Bell,,US,외식,패스트푸드,both,yum-brands,major,0
+subway,서브웨이,Subway,,US,외식,패스트푸드,both,,mega,0
+dominos,도미노피자,Domino's,도미노,US,외식,배달·프랜차이즈,both,,mega,0
+papa-johns,파파존스,Papa John's,,US,외식,배달·프랜차이즈,both,,major,0
+chick-fil-a,칙필레,Chick-fil-A,,US,외식,패스트푸드,both,,major,0
+wendys,웬디스,Wendy's,,US,외식,패스트푸드,both,,major,0
+chipotle,치폴레,Chipotle Mexican Grill,Chipotle,US,외식,패스트푸드,both,,major,0
+shake-shack,쉐이크쉑,Shake Shack,쉑쉑,US,외식,패스트푸드,both,,niche,0
+five-guys,파이브가이즈,Five Guys,,US,외식,패스트푸드,both,,niche,0
+in-n-out,인앤아웃,In-N-Out Burger,인앤아웃버거,US,외식,패스트푸드,both,,niche,0
+wingstop,윙스탑,Wingstop,,US,외식,패스트푸드,both,,niche,0
+lotteria,롯데리아,Lotteria,,KR,외식,패스트푸드,both,lotte-group,major,0
+moms-touch,맘스터치,Mom's Touch,,KR,외식,패스트푸드,both,,major,0
+outback,아웃백,Outback Steakhouse,아웃백스테이크하우스,US,외식,레스토랑체인,both,,major,0
+din-tai-fung,딘타이펑,Din Tai Fung,鼎泰豐,TW,외식,레스토랑체인,both,,major,0
+ichiran,이치란,Ichiran,이치란라멘,JP,외식,레스토랑체인,both,,niche,0
+spc-group,SPC그룹,SPC Group,SPC,KR,외식,베이커리·디저트,corporate,,major,0
+paris-baguette,파리바게뜨,Paris Baguette,파바,KR,외식,베이커리·디저트,both,spc-group,major,0
+spc-samlip,SPC삼립,SPC Samlip,삼립,KR,식음료,과자·제과,both,spc-group,major,0
+cj-foodville,CJ푸드빌,CJ Foodville,,KR,외식,레스토랑체인,corporate,cj-group,major,0
+tous-les-jours,뚜레쥬르,Tous les Jours,,KR,외식,베이커리·디저트,both,cj-foodville,major,0
+vips,빕스,VIPS,,KR,외식,레스토랑체인,both,cj-foodville,major,0
+knotted,노티드,Knotted,노티드도넛,KR,외식,베이커리·디저트,both,,niche,0
+london-bagel-museum,런던베이글뮤지엄,London Bagel Museum,런베뮤,KR,외식,베이커리·디저트,both,,niche,0
+sungsimdang,성심당,Sungsimdang,,KR,외식,베이커리·디저트,both,,niche,0
+sulbing,설빙,Sulbing,,KR,외식,베이커리·디저트,both,,niche,0
+kyochon,교촌치킨,Kyochon Chicken,교촌|교촌에프앤비,KR,외식,배달·프랜차이즈,both,,major,0
+bbq,BBQ,Genesis BBQ,비비큐|제너시스BBQ,KR,외식,배달·프랜차이즈,both,,major,0
+bhc,bhc치킨,bhc Chicken,bhc,KR,외식,배달·프랜차이즈,both,,major,0
+goobne,굽네치킨,Goobne Chicken,굽네,KR,외식,배달·프랜차이즈,both,,major,0
+bonjuk,본죽,Bonjuk,,KR,외식,배달·프랜차이즈,both,,major,0
+cargill,카길,Cargill,,US,농업·식품원료,곡물·원료무역,both,,mega,1
+adm,ADM,Archer-Daniels-Midland,Archer Daniels Midland,US,농업·식품원료,곡물·원료무역,both,,mega,1
+bunge,번지,Bunge,,US,농업·식품원료,곡물·원료무역,both,,mega,1
+louis-dreyfus,루이드레퓌스,Louis Dreyfus Company,LDC,NL,농업·식품원료,곡물·원료무역,both,,major,1
+cofco,중량그룹,COFCO,중국량유식품,CN,농업·식품원료,곡물·원료무역,both,,major,1
+wilmar,윌마,Wilmar International,Wilmar,SG,농업·식품원료,곡물·원료무역,both,,major,1
+olam,올람,Olam Group,,SG,농업·식품원료,곡물·원료무역,corporate,,major,1
+ofi,오에프아이,ofi,olam food ingredients,SG,농업·식품원료,식품원료,both,olam,niche,1
+tyson,타이슨푸드,Tyson Foods,타이슨,US,농업·식품원료,육가공·축산,both,,mega,0
+jbs,JBS,JBS,,BR,농업·식품원료,육가공·축산,both,,mega,1
+pilgrims-pride,필그림스프라이드,Pilgrim's Pride,,US,농업·식품원료,육가공·축산,both,jbs,major,1
+wh-group,WH그룹,WH Group,萬洲國際,HK,농업·식품원료,육가공·축산,corporate,,major,1
+smithfield,스미스필드,Smithfield Foods,,US,농업·식품원료,육가공·축산,both,wh-group,major,0
+hormel,호멜,Hormel Foods,,US,농업·식품원료,육가공·축산,both,,major,0
+spam,스팸,Spam,,US,식음료,라면·가공식품,product,hormel,mega,0
+harim,하림,Harim,,KR,농업·식품원료,육가공·축산,both,,major,0
+corteva,코르테바,Corteva Agriscience,Corteva,US,농업·식품원료,종자·농화학,both,,major,1
+bayer-crop-science,바이엘 크롭사이언스,Bayer Crop Science,,DE,농업·식품원료,종자·농화학,product,bayer,major,1
+syngenta,신젠타,Syngenta,Syngenta Group,CH,농업·식품원료,종자·농화학,both,,major,1
+nutrien,뉴트리엔,Nutrien,,CA,농업·식품원료,종자·농화학,both,,major,1
+mosaic,모자이크,The Mosaic Company,Mosaic,US,농업·식품원료,종자·농화학,both,,niche,1
+yara,야라,Yara International,Yara,NO,농업·식품원료,종자·농화학,both,,niche,1
+kws,KWS,KWS Saat,,DE,농업·식품원료,종자·농화학,both,,niche,1
+farm-hannong,팜한농,Farm Hannong,,KR,농업·식품원료,종자·농화학,both,lg-group,niche,1
+nongwoo-bio,농우바이오,Nongwoo Bio,,KR,농업·식품원료,종자·농화학,both,,niche,1
+givaudan,지보단,Givaudan,,CH,농업·식품원료,식품원료,both,,major,1
+iff,IFF,International Flavors & Fragrances,,US,농업·식품원료,식품원료,both,,major,1
+dsm-firmenich,dsm-피르메니히,dsm-firmenich,DSM|Firmenich,CH,농업·식품원료,식품원료,both,,major,1
+symrise,심라이즈,Symrise,,DE,농업·식품원료,식품원료,both,,niche,1
+kerry-group,케리그룹,Kerry Group,,IE,농업·식품원료,식품원료,both,,major,1
+ingredion,인그리디언,Ingredion,,US,농업·식품원료,식품원료,both,,niche,1
+tate-lyle,테이트앤라일,Tate & Lyle,,GB,농업·식품원료,식품원료,both,,niche,1
+novonesis,노보네시스,Novonesis,Novozymes|Chr. Hansen,DK,농업·식품원료,식품원료,both,,niche,1
+barry-callebaut,배리칼레보,Barry Callebaut,칼리바우트,CH,농업·식품원료,식품원료,both,,major,1

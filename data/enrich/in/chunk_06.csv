@@ -1,0 +1,135 @@
+id,name_ko,name_en,aliases,country,sector,category,brand_type,parent,parent_name,tier,b2b
+ace-hotel,에이스 호텔,Ace Hotel,에이스호텔,US,여행·항공·호텔,호텔·리조트,both,,,niche,0
+aman,아만,Aman,아만 리조트|Aman Resorts,CH,여행·항공·호텔,호텔·리조트,both,,,major,0
+andaz,안다즈,Andaz,,US,여행·항공·호텔,호텔·리조트,product,hyatt,Hyatt Hotels,niche,0
+banyan-tree,반얀트리,Banyan Tree,반얀트리 호텔,SG,여행·항공·호텔,호텔·리조트,both,,,major,0
+citizenm,시티즌엠,citizenM,,NL,여행·항공·호텔,호텔·리조트,product,marriott,Marriott International,niche,0
+club-med,클럽메드,Club Med,클럽 메드,FR,여행·항공·호텔,호텔·리조트,both,fosun-group,Fosun International,major,0
+conrad,콘래드,Conrad Hotels & Resorts,콘래드 호텔,US,여행·항공·호텔,호텔·리조트,product,hilton,Hilton,major,0
+fairmont,페어몬트,Fairmont Hotels & Resorts,페어몬트 호텔,CA,여행·항공·호텔,호텔·리조트,product,accor,Accor,major,0
+four-seasons,포시즌스,Four Seasons Hotels and Resorts,포시즌스 호텔|포시즌,CA,여행·항공·호텔,호텔·리조트,both,,,mega,0
+glad-hotels,글래드호텔,GLAD Hotels,글래드|GLAD,KR,여행·항공·호텔,호텔·리조트,both,dl-group,DL Group,niche,0
+hanwha-resorts,한화리조트,Hanwha Hotels & Resorts,한화호텔앤드리조트|더플라자,KR,여행·항공·호텔,호텔·리조트,both,hanwha-group,Hanwha Group,major,0
+hilton,힐튼,Hilton,힐튼 호텔|Hilton Worldwide,US,여행·항공·호텔,호텔·리조트,both,,,mega,0
+holiday-inn,홀리데이 인,Holiday Inn,홀리데이인,US,여행·항공·호텔,호텔·리조트,product,ihg,IHG Hotels & Resorts,major,0
+hoshino-resorts,호시노 리조트,Hoshino Resorts,호시노야|星野リゾート,JP,여행·항공·호텔,호텔·리조트,both,,,niche,0
+hotel-shilla,신라호텔,The Shilla,호텔신라|더 신라,KR,여행·항공·호텔,호텔·리조트,both,samsung-group,Samsung Group,major,0
+hyatt,하얏트,Hyatt Hotels,하얏트 호텔|Hyatt,US,여행·항공·호텔,호텔·리조트,both,,,mega,0
+ibis,이비스,ibis,이비스 호텔,FR,여행·항공·호텔,호텔·리조트,product,accor,Accor,major,0
+ihg,IHG,IHG Hotels & Resorts,InterContinental Hotels Group|인터컨티넨탈 호텔 그룹,GB,여행·항공·호텔,호텔·리조트,corporate,,,major,0
+intercontinental,인터컨티넨탈,InterContinental Hotels & Resorts,인터컨티넨탈 호텔,GB,여행·항공·호텔,호텔·리조트,product,ihg,IHG Hotels & Resorts,major,0
+josun-hotels,조선호텔앤리조트,Josun Hotels & Resorts,조선호텔|웨스틴조선|그랜드조선|조선팰리스,KR,여행·항공·호텔,호텔·리조트,both,shinsegae-group,Shinsegae Group,major,0
+jw-marriott,JW 메리어트,JW Marriott,JW메리어트,US,여행·항공·호텔,호텔·리조트,product,marriott,Marriott International,major,0
+kensington-hotels,켄싱턴호텔앤리조트,Kensington Hotels & Resorts,켄싱턴호텔|켄싱턴리조트,KR,여행·항공·호텔,호텔·리조트,both,eland-group,E-Land Group,niche,0
+lotte-hotel,롯데호텔,Lotte Hotels & Resorts,호텔롯데|롯데호텔앤리조트,KR,여행·항공·호텔,호텔·리조트,both,lotte-group,Lotte Group,major,0
+mandarin-oriental,만다린 오리엔탈,Mandarin Oriental,만다린오리엔탈,HK,여행·항공·호텔,호텔·리조트,both,jardine-matheson,Jardine Matheson,major,0
+marina-bay-sands,마리나 베이 샌즈,Marina Bay Sands,마리나베이샌즈,SG,여행·항공·호텔,호텔·리조트,both,,,major,0
+marriott,메리어트,Marriott International,메리어트 인터내셔널|Marriott,US,여행·항공·호텔,호텔·리조트,both,,,mega,0
+novotel,노보텔,Novotel,,FR,여행·항공·호텔,호텔·리조트,product,accor,Accor,major,0
+paradise-hotels,파라다이스호텔,Paradise Hotels & Resorts,파라다이스시티,KR,여행·항공·호텔,호텔·리조트,both,paradise-group,Paradise Group,major,0
+park-hyatt,파크 하얏트,Park Hyatt,파크하얏트,US,여행·항공·호텔,호텔·리조트,product,hyatt,Hyatt Hotels,major,0
+peninsula-hotels,페닌슐라,The Peninsula Hotels,페닌슐라 호텔,HK,여행·항공·호텔,호텔·리조트,both,,,major,0
+raffles,래플스,Raffles Hotels & Resorts,래플스 호텔,SG,여행·항공·호텔,호텔·리조트,product,accor,Accor,major,0
+ritz-carlton,리츠칼튼,The Ritz-Carlton,리츠칼튼 호텔|Ritz-Carlton,US,여행·항공·호텔,호텔·리조트,product,marriott,Marriott International,mega,0
+rosewood,로즈우드,Rosewood Hotels & Resorts,로즈우드 호텔,HK,여행·항공·호텔,호텔·리조트,both,,,major,0
+shangri-la,샹그릴라,Shangri-La Hotels and Resorts,샹그릴라 호텔,HK,여행·항공·호텔,호텔·리조트,both,,,major,0
+shilla-stay,신라스테이,Shilla Stay,,KR,여행·항공·호텔,호텔·리조트,product,hotel-shilla,The Shilla,niche,0
+signiel,시그니엘,SIGNIEL,시그니엘 서울,KR,여행·항공·호텔,호텔·리조트,product,lotte-hotel,Lotte Hotels & Resorts,major,0
+six-senses,식스센스,Six Senses,식스센스 리조트,TH,여행·항공·호텔,호텔·리조트,product,ihg,IHG Hotels & Resorts,niche,0
+sofitel,소피텔,Sofitel,,FR,여행·항공·호텔,호텔·리조트,product,accor,Accor,major,0
+sono-hotels,소노호텔앤리조트,Sono Hotels & Resorts,소노|대명리조트|비발디파크,KR,여행·항공·호텔,호텔·리조트,both,sono-group,Sono Group,major,0
+taj-hotels,타지 호텔,Taj Hotels,타지|IHCL,IN,여행·항공·호텔,호텔·리조트,product,tata-group,Tata Group,major,0
+toyoko-inn,토요코인,Toyoko Inn,東横イン,JP,여행·항공·호텔,호텔·리조트,both,,,niche,0
+w-hotels,W 호텔,W Hotels,W호텔,US,여행·항공·호텔,호텔·리조트,product,marriott,Marriott International,major,0
+waldorf-astoria,월도프 아스토리아,Waldorf Astoria,월도프아스토리아,US,여행·항공·호텔,호텔·리조트,product,hilton,Hilton,major,0
+walkerhill,워커힐,Walkerhill,그랜드워커힐|워커힐호텔,KR,여행·항공·호텔,호텔·리조트,both,sk-group,SK Group,major,0
+westin,웨스틴,Westin Hotels & Resorts,웨스틴 호텔,US,여행·항공·호텔,호텔·리조트,product,marriott,Marriott International,major,0
+cj-foodville,CJ푸드빌,CJ Foodville,,KR,외식,레스토랑체인,corporate,cj-group,CJ Group,major,0
+din-tai-fung,딘타이펑,Din Tai Fung,鼎泰豐,TW,외식,레스토랑체인,both,,,major,0
+ichiran,이치란,Ichiran,이치란라멘,JP,외식,레스토랑체인,both,,,niche,0
+outback,아웃백,Outback Steakhouse,아웃백스테이크하우스,US,외식,레스토랑체인,both,,,major,0
+theborn-korea,더본코리아,The Born Korea,백종원,KR,외식,레스토랑체인,corporate,,,major,0
+vips,빕스,VIPS,,KR,외식,레스토랑체인,both,cj-foodville,CJ Foodville,major,0
+bbq,BBQ,Genesis BBQ,비비큐|제너시스BBQ,KR,외식,배달·프랜차이즈,both,,,major,0
+bhc,bhc치킨,bhc Chicken,bhc,KR,외식,배달·프랜차이즈,both,,,major,0
+bonjuk,본죽,Bonjuk,,KR,외식,배달·프랜차이즈,both,,,major,0
+dominos,도미노피자,Domino's,도미노,US,외식,배달·프랜차이즈,both,,,mega,0
+goobne,굽네치킨,Goobne Chicken,굽네,KR,외식,배달·프랜차이즈,both,,,major,0
+kyochon,교촌치킨,Kyochon Chicken,교촌|교촌에프앤비,KR,외식,배달·프랜차이즈,both,,,major,0
+papa-johns,파파존스,Papa John's,,US,외식,배달·프랜차이즈,both,,,major,0
+pizza-hut,피자헛,Pizza Hut,,US,외식,배달·프랜차이즈,both,yum-brands,Yum! Brands,mega,0
+baskin-robbins,배스킨라빈스,Baskin-Robbins,베라|31,US,외식,베이커리·디저트,both,inspire-brands,Inspire Brands,major,0
+dunkin,던킨,Dunkin',던킨도너츠,US,외식,베이커리·디저트,both,inspire-brands,Inspire Brands,major,0
+knotted,노티드,Knotted,노티드도넛,KR,외식,베이커리·디저트,both,,,niche,0
+krispy-kreme,크리스피크림,Krispy Kreme,크리스피크림도넛,US,외식,베이커리·디저트,both,,,major,0
+london-bagel-museum,런던베이글뮤지엄,London Bagel Museum,런베뮤,KR,외식,베이커리·디저트,both,,,niche,0
+paris-baguette,파리바게뜨,Paris Baguette,파바,KR,외식,베이커리·디저트,both,spc-group,SPC Group,major,0
+spc-group,SPC그룹,SPC Group,SPC,KR,외식,베이커리·디저트,corporate,,,major,0
+sulbing,설빙,Sulbing,,KR,외식,베이커리·디저트,both,,,niche,0
+sungsimdang,성심당,Sungsimdang,,KR,외식,베이커리·디저트,both,,,niche,0
+tous-les-jours,뚜레쥬르,Tous les Jours,,KR,외식,베이커리·디저트,both,cj-foodville,CJ Foodville,major,0
+arabica,% 아라비카,% Arabica,아라비카|응커피,JP,외식,카페체인,both,,,niche,0
+blue-bottle,블루보틀,Blue Bottle Coffee,,US,외식,카페체인,both,nestle,Nestlé,niche,0
+chagee,차지,Chagee,霸王茶姬,CN,외식,카페체인,both,,,niche,0
+coffee-bean,커피빈,The Coffee Bean & Tea Leaf,,US,외식,카페체인,both,jollibee,Jollibee Foods,major,0
+compose-coffee,컴포즈커피,Compose Coffee,컴포즈,KR,외식,카페체인,both,jollibee,Jollibee Foods,major,0
+costa-coffee,코스타커피,Costa Coffee,,GB,외식,카페체인,both,,,major,0
+ediya,이디야커피,Ediya Coffee,이디야,KR,외식,카페체인,both,,,major,0
+fritz-coffee,프릳츠,Fritz Coffee Company,프릳츠커피,KR,외식,카페체인,both,,,niche,0
+gong-cha,공차,Gong cha,,TW,외식,카페체인,both,,,major,0
+heytea,헤이티,HeyTea,喜茶,CN,외식,카페체인,both,,,niche,0
+hollys,할리스,Hollys Coffee,할리스커피,KR,외식,카페체인,both,,,major,0
+luckin-coffee,루이싱커피,Luckin Coffee,瑞幸咖啡,CN,외식,카페체인,both,,,major,0
+mega-coffee,메가커피,Mega MGC Coffee,메가MGC커피|메가커피,KR,외식,카페체인,both,,,major,0
+mixue,미쉐,Mixue,蜜雪冰城|미쉐빙청,CN,외식,카페체인,both,,,major,0
+paik-dabang,빽다방,Paik's Coffee,,KR,외식,카페체인,both,theborn-korea,The Born Korea,major,0
+paul-bassett,폴바셋,Paul Bassett,,KR,외식,카페체인,both,,,niche,0
+starbucks,스타벅스,Starbucks,스벅,US,외식,카페체인,both,,,mega,0
+terarosa,테라로사,Terarosa,,KR,외식,카페체인,both,,,niche,0
+tim-hortons,팀홀튼,Tim Hortons,팀호튼,CA,외식,카페체인,both,rbi,Restaurant Brands International,major,0
+twosome-place,투썸플레이스,A Twosome Place,투썸,KR,외식,카페체인,both,,,major,0
+burger-king,버거킹,Burger King,,US,외식,패스트푸드,both,rbi,Restaurant Brands International,mega,0
+chick-fil-a,칙필레,Chick-fil-A,,US,외식,패스트푸드,both,,,major,0
+chipotle,치폴레,Chipotle Mexican Grill,Chipotle,US,외식,패스트푸드,both,,,major,0
+five-guys,파이브가이즈,Five Guys,,US,외식,패스트푸드,both,,,niche,0
+in-n-out,인앤아웃,In-N-Out Burger,인앤아웃버거,US,외식,패스트푸드,both,,,niche,0
+inspire-brands,인스파이어브랜즈,Inspire Brands,,US,외식,패스트푸드,corporate,,,major,0
+jollibee,졸리비,Jollibee Foods,Jollibee,PH,외식,패스트푸드,both,,,major,0
+kfc,KFC,KFC,켄터키프라이드치킨,US,외식,패스트푸드,both,yum-brands,Yum! Brands,mega,0
+lotteria,롯데리아,Lotteria,,KR,외식,패스트푸드,both,lotte-group,Lotte Group,major,0
+mcdonalds,맥도날드,McDonald's,맥날|맥도널드,US,외식,패스트푸드,both,,,mega,0
+moms-touch,맘스터치,Mom's Touch,,KR,외식,패스트푸드,both,,,major,0
+popeyes,파파이스,Popeyes,,US,외식,패스트푸드,both,rbi,Restaurant Brands International,major,0
+rbi,레스토랑브랜즈인터내셔널,Restaurant Brands International,RBI,CA,외식,패스트푸드,corporate,,,major,0
+shake-shack,쉐이크쉑,Shake Shack,쉑쉑,US,외식,패스트푸드,both,,,niche,0
+subway,서브웨이,Subway,,US,외식,패스트푸드,both,,,mega,0
+taco-bell,타코벨,Taco Bell,,US,외식,패스트푸드,both,yum-brands,Yum! Brands,major,0
+wendys,웬디스,Wendy's,,US,외식,패스트푸드,both,,,major,0
+wingstop,윙스탑,Wingstop,,US,외식,패스트푸드,both,,,niche,0
+yum-brands,얌브랜즈,Yum! Brands,Yum Brands,US,외식,패스트푸드,corporate,,,mega,0
+daiso,다이소,Daiso,아성다이소,KR,유통·이커머스,가구·생활유통,both,,,major,0
+home-depot,홈디포,The Home Depot,Home Depot,US,유통·이커머스,가구·생활유통,both,,,major,0
+muji,무인양품,MUJI,무지|良品計画|료힌케이카쿠,JP,유통·이커머스,가구·생활유통,both,,,major,0
+ohouse,오늘의집,Ohouse,오집|버킷플레이스,KR,유통·이커머스,가구·생활유통,both,,,niche,0
+aldi,알디,Aldi,,DE,유통·이커머스,대형마트·창고형,both,,,major,0
+carrefour,까르푸,Carrefour,,FR,유통·이커머스,대형마트·창고형,both,,,major,0
+costco,코스트코,Costco,코스트코 홀세일|Costco Wholesale,US,유통·이커머스,대형마트·창고형,both,,,mega,0
+don-quijote,돈키호테,Don Quijote,돈키|驚安の殿堂,JP,유통·이커머스,대형마트·창고형,both,,,niche,0
+emart,이마트,Emart,E-MART,KR,유통·이커머스,대형마트·창고형,both,shinsegae-group,Shinsegae Group,major,0
+emart-traders,트레이더스,Emart Traders,이마트 트레이더스|트레이더스 홀세일 클럽,KR,유통·이커머스,대형마트·창고형,product,emart,Emart,major,0
+homeplus,홈플러스,Homeplus,,KR,유통·이커머스,대형마트·창고형,both,,,major,0
+lotte-mart,롯데마트,Lotte Mart,,KR,유통·이커머스,대형마트·창고형,both,lotte-group,Lotte Group,major,0
+target,타깃,Target,타겟,US,유통·이커머스,대형마트·창고형,both,,,major,0
+tesco,테스코,Tesco,,GB,유통·이커머스,대형마트·창고형,both,,,major,0
+walmart,월마트,Walmart,,US,유통·이커머스,대형마트·창고형,both,,,mega,0
+whole-foods,홀푸드마켓,Whole Foods Market,홀푸드|Whole Foods,US,유통·이커머스,대형마트·창고형,both,amazon,Amazon,niche,0
+29cm,29CM,29CM,이구,KR,유통·이커머스,명품·패션플랫폼,product,musinsa,Musinsa,niche,0
+farfetch,파페치,Farfetch,,GB,유통·이커머스,명품·패션플랫폼,both,coupang,Coupang,major,0
+kream,크림,KREAM,,KR,유통·이커머스,명품·패션플랫폼,both,naver,NAVER,niche,0
+musinsa,무신사,Musinsa,,KR,유통·이커머스,명품·패션플랫폼,both,,,major,0
+mytheresa,마이테레사,Mytheresa,LuxExperience,DE,유통·이커머스,명품·패션플랫폼,both,,,niche,0
+ssense,센스,SSENSE,에센스,CA,유통·이커머스,명품·패션플랫폼,both,,,niche,0
+w-concept,W컨셉,W Concept,더블유컨셉,KR,유통·이커머스,명품·패션플랫폼,both,ssg-com,SSG.COM,niche,0
+zigzag,지그재그,Zigzag,카카오스타일,KR,유통·이커머스,명품·패션플랫폼,product,kakao,Kakao,niche,0
+galleria,갤러리아백화점,Galleria Department Store,갤러리아|한화갤러리아,KR,유통·이커머스,백화점,both,hanwha-group,Hanwha Group,niche,0
+harrods,해러즈,Harrods,해롯|해롯백화점,GB,유통·이커머스,백화점,both,,,major,0

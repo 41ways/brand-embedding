@@ -1,0 +1,1604 @@
+id,name_ko,name_en,aliases,country,sector,category,brand_type,parent,tier,b2b
+allianz,알리안츠,Allianz,,DE,금융,보험,both,,mega,0
+axa,악사,AXA,AXA손해보험,FR,금융,보험,both,,mega,0
+hanwha-life,한화생명,Hanwha Life,,KR,금융,보험,both,hanwha-group,major,0
+hyundai-marine,현대해상,Hyundai Marine & Fire Insurance,하이카,KR,금융,보험,both,,major,0
+kyobo-life,교보생명,Kyobo Life Insurance,교보,KR,금융,보험,both,,major,0
+ping-an,핑안보험,Ping An Insurance,중국평안|平安,CN,금융,보험,both,,major,0
+samsung-fire,삼성화재,Samsung Fire & Marine Insurance,,KR,금융,보험,both,samsung-group,major,0
+samsung-life,삼성생명,Samsung Life Insurance,,KR,금융,보험,both,samsung-group,major,0
+binance,바이낸스,Binance,,KY,금융,암호화폐,both,,major,0
+bithumb,빗썸,Bithumb,,KR,금융,암호화폐,both,,major,0
+coinbase,코인베이스,Coinbase,,US,금융,암호화폐,both,,major,0
+tether,테더,Tether,USDT,SV,금융,암호화폐,both,,major,1
+upbit,업비트,Upbit,두나무|Dunamu,KR,금융,암호화폐,both,,major,0
+bank-of-america,뱅크오브아메리카,Bank of America,BofA|뱅오아,US,금융,은행,both,,mega,0
+barclays,바클레이즈,Barclays,,GB,금융,은행,both,,major,0
+bnp-paribas,BNP파리바,BNP Paribas,,FR,금융,은행,both,,major,0
+citi,씨티,Citigroup,씨티은행|씨티그룹|Citibank,US,금융,은행,both,,mega,0
+deutsche-bank,도이치뱅크,Deutsche Bank,도이체방크,DE,금융,은행,both,,major,0
+hana-bank,하나은행,Hana Bank,KEB하나은행|하나원큐,KR,금융,은행,both,hana-financial-group,major,0
+hana-financial-group,하나금융그룹,Hana Financial Group,하나금융|하나금융지주,KR,금융,은행,corporate,,major,0
+hsbc,HSBC,HSBC Holdings,홍콩상하이은행,GB,금융,은행,both,,mega,0
+ibk,IBK기업은행,Industrial Bank of Korea,기업은행|IBK,KR,금융,은행,both,,major,0
+icbc,중국공상은행,Industrial and Commercial Bank of China,공상은행|ICBC,CN,금융,은행,both,,major,0
+jpmorgan-chase,JP모건체이스,JPMorgan Chase,JP모건|체이스|Chase|J.P. Morgan,US,금융,은행,both,,mega,0
+kakaobank,카카오뱅크,KakaoBank,카뱅,KR,금융,은행,both,kakao,major,0
+kb-financial-group,KB금융그룹,KB Financial Group,KB금융|KB금융지주,KR,금융,은행,corporate,,major,0
+kb-kookmin-bank,KB국민은행,KB Kookmin Bank,국민은행|KB,KR,금융,은행,both,kb-financial-group,major,0
+monzo,몬조,Monzo,,GB,금융,은행,both,,niche,0
+mufg,미쓰비시UFJ파이낸셜그룹,Mitsubishi UFJ Financial Group,MUFG|미쓰비시UFJ,JP,금융,은행,both,,major,0
+nh-nonghyup-bank,NH농협은행,NongHyup Bank,농협은행|농협|NH,KR,금융,은행,both,nonghyup,major,0
+nubank,누뱅크,Nubank,Nu Holdings|누,BR,금융,은행,both,,niche,0
+revolut,레볼루트,Revolut,,GB,금융,은행,both,,niche,0
+shinhan-bank,신한은행,Shinhan Bank,신한|SOL,KR,금융,은행,both,shinhan-financial-group,major,0
+shinhan-financial-group,신한금융그룹,Shinhan Financial Group,신한금융|신한금융지주,KR,금융,은행,corporate,,major,0
+toss-bank,토스뱅크,Toss Bank,토뱅,KR,금융,은행,both,,major,0
+ubs,UBS,UBS Group,,CH,금융,은행,both,,major,0
+wells-fargo,웰스파고,Wells Fargo,,US,금융,은행,both,,major,0
+woori-bank,우리은행,Woori Bank,,KR,금융,은행,both,woori-financial-group,major,0
+woori-financial-group,우리금융그룹,Woori Financial Group,우리금융|우리금융지주,KR,금융,은행,corporate,,major,0
+blackrock,블랙록,BlackRock,아이셰어즈|iShares,US,금융,자산운용,both,,mega,1
+fidelity,피델리티,Fidelity Investments,피델리티인베스트먼트,US,금융,자산운용,both,,major,0
+mirae-asset-global-investments,미래에셋자산운용,Mirae Asset Global Investments,TIGER ETF|글로벌엑스|Global X,KR,금융,자산운용,both,mirae-asset-group,major,0
+vanguard,뱅가드,Vanguard,,US,금융,자산운용,both,,major,0
+charles-schwab,찰스슈왑,Charles Schwab,슈왑|Schwab,US,금융,증권·투자,both,,major,0
+goldman-sachs,골드만삭스,Goldman Sachs,골드만,US,금융,증권·투자,both,,mega,1
+kiwoom-securities,키움증권,Kiwoom Securities,키움|영웅문,KR,금융,증권·투자,both,,major,0
+korea-investment-securities,한국투자증권,Korea Investment & Securities,한투|한국투자,KR,금융,증권·투자,both,,major,0
+mirae-asset-securities,미래에셋증권,Mirae Asset Securities,,KR,금융,증권·투자,both,mirae-asset-group,major,0
+morgan-stanley,모건스탠리,Morgan Stanley,,US,금융,증권·투자,both,,mega,1
+robinhood,로빈후드,Robinhood,,US,금융,증권·투자,both,,niche,0
+samsung-securities,삼성증권,Samsung Securities,,KR,금융,증권·투자,both,samsung-group,major,0
+alipay,알리페이,Alipay,支付宝|즈푸바오,CN,금융,카드·결제,product,,major,0
+american-express,아메리칸익스프레스,American Express,아멕스|Amex,US,금융,카드·결제,both,,mega,0
+hyundai-card,현대카드,Hyundai Card,,KR,금융,카드·결제,both,hyundai-motor-group,major,0
+kakaopay,카카오페이,Kakao Pay,카카오페이머니,KR,금융,카드·결제,both,kakao,major,0
+kb-kookmin-card,KB국민카드,KB Kookmin Card,국민카드,KR,금융,카드·결제,both,kb-financial-group,major,0
+klarna,클라나,Klarna,클라르나,SE,금융,카드·결제,both,,niche,0
+lotte-card,롯데카드,Lotte Card,,KR,금융,카드·결제,both,,niche,0
+mastercard,마스터카드,Mastercard,마스터,US,금융,카드·결제,both,,mega,0
+paypal,페이팔,PayPal,,US,금융,카드·결제,both,,mega,0
+samsung-card,삼성카드,Samsung Card,,KR,금융,카드·결제,both,samsung-group,major,0
+shinhan-card,신한카드,Shinhan Card,,KR,금융,카드·결제,both,shinhan-financial-group,major,0
+stripe,스트라이프,Stripe,,US,금융,카드·결제,both,,major,1
+unionpay,유니온페이,UnionPay,은련|银联,CN,금융,카드·결제,both,,major,0
+visa,비자,Visa,VISA,US,금융,카드·결제,both,,mega,0
+wise,와이즈,Wise,TransferWise|트랜스퍼와이즈,GB,금융,카드·결제,both,,niche,0
+aekyung-group,애경그룹,Aekyung Group,애경|AK,KR,기업집단,한국재벌,corporate,,major,0
+booyoung-group,부영그룹,Booyoung Group,부영,KR,기업집단,한국재벌,corporate,,major,0
+celltrion-group,셀트리온그룹,Celltrion Group,셀트리온,KR,기업집단,한국재벌,corporate,,major,1
+cj-group,CJ그룹,CJ Group,CJ|씨제이,KR,기업집단,한국재벌,corporate,,major,0
+daesang-group,대상그룹,Daesang Group,대상,KR,기업집단,한국재벌,corporate,,major,0
+db-group,DB그룹,DB Group,동부그룹|DB,KR,기업집단,한국재벌,corporate,,major,0
+dl-group,DL그룹,DL Group,대림그룹|대림|DL,KR,기업집단,한국재벌,corporate,,major,1
+dongwon-group,동원그룹,Dongwon Group,동원,KR,기업집단,한국재벌,corporate,,major,0
+doosan-group,두산그룹,Doosan Group,두산,KR,기업집단,한국재벌,corporate,,major,1
+eland-group,이랜드그룹,E-Land Group,이랜드|E-LAND,KR,기업집단,한국재벌,corporate,,major,0
+gs-group,GS그룹,GS Group,GS,KR,기업집단,한국재벌,corporate,,major,0
+hanjin-group,한진그룹,Hanjin Group,한진,KR,기업집단,한국재벌,corporate,,major,0
+hankook-group,한국앤컴퍼니그룹,Hankook & Company Group,한국타이어그룹|한국앤컴퍼니,KR,기업집단,한국재벌,corporate,,major,0
+hansol-group,한솔그룹,Hansol Group,한솔,KR,기업집단,한국재벌,corporate,,niche,1
+hanwha-group,한화그룹,Hanwha Group,한화,KR,기업집단,한국재벌,corporate,,major,1
+harim-group,하림그룹,Harim Group,하림,KR,기업집단,한국재벌,corporate,,major,0
+hd-hyundai,HD현대,HD Hyundai,현대중공업그룹|HD현대그룹,KR,기업집단,한국재벌,corporate,,major,1
+hdc-group,HDC그룹,HDC Group,HDC|현대산업개발그룹,KR,기업집단,한국재벌,corporate,,major,1
+hoban-group,호반그룹,Hoban Group,호반,KR,기업집단,한국재벌,corporate,,niche,0
+hyosung-group,효성그룹,Hyosung Group,효성,KR,기업집단,한국재벌,corporate,,major,1
+hyundai-department-store-group,현대백화점그룹,Hyundai Department Store Group,현대백화점,KR,기업집단,한국재벌,corporate,,major,0
+hyundai-motor-group,현대자동차그룹,Hyundai Motor Group,현대차그룹|HMG,KR,기업집단,한국재벌,corporate,,mega,0
+jungheung-group,중흥그룹,Jungheung Group,중흥,KR,기업집단,한국재벌,corporate,,niche,0
+kcc-group,KCC그룹,KCC Group,KCC,KR,기업집단,한국재벌,corporate,,major,1
+kolon-group,코오롱그룹,Kolon Group,코오롱,KR,기업집단,한국재벌,corporate,,major,0
+korea-investment-group,한국투자금융그룹,Korea Investment Holdings,한국투자|한투,KR,기업집단,한국재벌,corporate,,major,0
+kt-group,KT그룹,KT Group,KT,KR,기업집단,한국재벌,corporate,,major,0
+kumho-asiana-group,금호아시아나그룹,Kumho Asiana Group,금호그룹|금호,KR,기업집단,한국재벌,corporate,,major,0
+kyobo-group,교보그룹,Kyobo Group,교보,KR,기업집단,한국재벌,corporate,,major,0
+lg-group,LG그룹,LG Group,LG|엘지,KR,기업집단,한국재벌,corporate,,mega,0
+lotte-group,롯데그룹,Lotte Group,롯데,KR,기업집단,한국재벌,corporate,,major,0
+ls-group,LS그룹,LS Group,LS,KR,기업집단,한국재벌,corporate,,major,1
+lx-group,LX그룹,LX Group,LX,KR,기업집단,한국재벌,corporate,,major,1
+mirae-asset-group,미래에셋그룹,Mirae Asset Group,미래에셋,KR,기업집단,한국재벌,corporate,,major,0
+nonghyup,농협,NongHyup,NH|농협중앙회|NH농협,KR,기업집단,한국재벌,corporate,,major,0
+oci-group,OCI그룹,OCI Group,OCI,KR,기업집단,한국재벌,corporate,,niche,1
+paradise-group,파라다이스그룹,Paradise Group,파라다이스,KR,기업집단,한국재벌,corporate,,major,0
+posco-group,포스코그룹,POSCO Group,포스코|POSCO,KR,기업집단,한국재벌,corporate,,major,1
+samsung-group,삼성그룹,Samsung Group,삼성,KR,기업집단,한국재벌,corporate,,mega,0
+samyang-group,삼양그룹,Samyang Group,삼양,KR,기업집단,한국재벌,corporate,,niche,1
+seah-group,세아그룹,SeAH Group,세아,KR,기업집단,한국재벌,corporate,,niche,1
+shinsegae-group,신세계그룹,Shinsegae Group,신세계,KR,기업집단,한국재벌,corporate,,major,0
+sk-group,SK그룹,SK Group,SK|에스케이,KR,기업집단,한국재벌,corporate,,major,0
+sono-group,소노그룹,Sono Group,대명소노그룹|대명그룹|소노인터내셔널,KR,기업집단,한국재벌,corporate,,major,0
+taekwang-group,태광그룹,Taekwang Group,태광,KR,기업집단,한국재벌,corporate,,niche,0
+youngpoong-group,영풍그룹,Young Poong Group,영풍,KR,기업집단,한국재벌,corporate,,niche,1
+3m,3M,3M,쓰리엠|Minnesota Mining and Manufacturing,US,기업집단,해외복합기업,both,,mega,0
+adani-group,아다니그룹,Adani Group,아다니|Adani,IN,기업집단,해외복합기업,corporate,,major,1
+aditya-birla-group,아디티야 비를라 그룹,Aditya Birla Group,비를라,IN,기업집단,해외복합기업,corporate,,niche,1
+ayala-corporation,아얄라그룹,Ayala Corporation,아얄라|Ayala,PH,기업집단,해외복합기업,corporate,,niche,1
+berkshire-hathaway,버크셔 해서웨이,Berkshire Hathaway,버크셔|BRK,US,기업집단,해외복합기업,corporate,,mega,1
+bollore,볼로레,Bolloré,볼로레그룹|Bollore,FR,기업집단,해외복합기업,corporate,,niche,1
+citic-group,CITIC그룹,CITIC Group,중신그룹|中信,CN,기업집단,해외복합기업,corporate,,major,1
+ck-hutchison,CK허치슨,CK Hutchison,허치슨|CK Hutchison Holdings,HK,기업집단,해외복합기업,corporate,,major,1
+fosun-group,푸싱그룹,Fosun International,복성그룹|Fosun,CN,기업집단,해외복합기업,corporate,,niche,1
+general-electric,GE,General Electric,제너럴 일렉트릭|GE에어로스페이스|GE Aerospace,US,기업집단,해외복합기업,both,,mega,1
+hitachi,히타치,Hitachi,日立,JP,기업집단,해외복합기업,both,,mega,1
+honeywell,하니웰,Honeywell,,US,기업집단,해외복합기업,both,,major,1
+investor-ab,인베스터 AB,Investor AB,발렌베리그룹|Wallenberg,SE,기업집단,해외복합기업,corporate,,niche,1
+jardine-matheson,자딘 매디슨,Jardine Matheson,자딘|Jardines,HK,기업집단,해외복합기업,corporate,,major,1
+koc-holding,코치그룹,Koç Holding,코치홀딩|Koc,TR,기업집단,해외복합기업,corporate,,niche,1
+mahindra-group,마힌드라그룹,Mahindra Group,마힌드라|Mahindra,IN,기업집단,해외복합기업,corporate,,major,0
+mitsubishi-group,미쓰비시그룹,Mitsubishi Group,미쓰비시|三菱,JP,기업집단,해외복합기업,corporate,,mega,1
+mitsui-group,미쓰이그룹,Mitsui Group,미쓰이|三井,JP,기업집단,해외복합기업,corporate,,major,1
+reliance,릴라이언스,Reliance Industries,릴라이언스 인더스트리|Reliance,IN,기업집단,해외복합기업,corporate,,major,0
+siemens,지멘스,Siemens,Siemens AG,DE,기업집단,해외복합기업,both,,mega,1
+softbank-group,소프트뱅크그룹,SoftBank Group,소프트뱅크|SoftBank,JP,기업집단,해외복합기업,corporate,,mega,1
+sumitomo-group,스미토모그룹,Sumitomo Group,스미토모|住友,JP,기업집단,해외복합기업,corporate,,major,1
+swire-group,스와이어그룹,Swire Group,스와이어|Swire,GB,기업집단,해외복합기업,corporate,,niche,1
+tata-group,타타그룹,Tata Group,타타|Tata,IN,기업집단,해외복합기업,corporate,,mega,0
+virgin-group,버진그룹,Virgin Group,버진|Virgin,GB,기업집단,해외복합기업,corporate,,mega,0
+adm,ADM,Archer-Daniels-Midland,Archer Daniels Midland,US,농업·식품원료,곡물·원료무역,both,,mega,1
+bunge,번지,Bunge,,US,농업·식품원료,곡물·원료무역,both,,mega,1
+cargill,카길,Cargill,,US,농업·식품원료,곡물·원료무역,both,,mega,1
+cofco,중량그룹,COFCO,중국량유식품,CN,농업·식품원료,곡물·원료무역,both,,major,1
+louis-dreyfus,루이드레퓌스,Louis Dreyfus Company,LDC,NL,농업·식품원료,곡물·원료무역,both,,major,1
+olam,올람,Olam Group,,SG,농업·식품원료,곡물·원료무역,corporate,,major,1
+wilmar,윌마,Wilmar International,Wilmar,SG,농업·식품원료,곡물·원료무역,both,,major,1
+barry-callebaut,배리칼레보,Barry Callebaut,칼리바우트,CH,농업·식품원료,식품원료,both,,major,1
+cj-bio,CJ제일제당 바이오,CJ CheilJedang Bio,CJ바이오,KR,농업·식품원료,식품원료,product,cj-cheiljedang,major,1
+dsm-firmenich,dsm-피르메니히,dsm-firmenich,DSM|Firmenich,CH,농업·식품원료,식품원료,both,,major,1
+givaudan,지보단,Givaudan,,CH,농업·식품원료,식품원료,both,,major,1
+iff,IFF,International Flavors & Fragrances,,US,농업·식품원료,식품원료,both,,major,1
+ingredion,인그리디언,Ingredion,,US,농업·식품원료,식품원료,both,,niche,1
+kerry-group,케리그룹,Kerry Group,,IE,농업·식품원료,식품원료,both,,major,1
+novonesis,노보네시스,Novonesis,Novozymes|Chr. Hansen,DK,농업·식품원료,식품원료,both,,niche,1
+ofi,오에프아이,ofi,olam food ingredients,SG,농업·식품원료,식품원료,both,olam,niche,1
+symrise,심라이즈,Symrise,,DE,농업·식품원료,식품원료,both,,niche,1
+tate-lyle,테이트앤라일,Tate & Lyle,,GB,농업·식품원료,식품원료,both,,niche,1
+harim,하림,Harim,,KR,농업·식품원료,육가공·축산,both,,major,0
+hormel,호멜,Hormel Foods,,US,농업·식품원료,육가공·축산,both,,major,0
+jbs,JBS,JBS,,BR,농업·식품원료,육가공·축산,both,,mega,1
+pilgrims-pride,필그림스프라이드,Pilgrim's Pride,,US,농업·식품원료,육가공·축산,both,jbs,major,1
+smithfield,스미스필드,Smithfield Foods,,US,농업·식품원료,육가공·축산,both,wh-group,major,0
+tyson,타이슨푸드,Tyson Foods,타이슨,US,농업·식품원료,육가공·축산,both,,mega,0
+wh-group,WH그룹,WH Group,萬洲國際,HK,농업·식품원료,육가공·축산,corporate,,major,1
+bayer-crop-science,바이엘 크롭사이언스,Bayer Crop Science,,DE,농업·식품원료,종자·농화학,product,bayer,major,1
+corteva,코르테바,Corteva Agriscience,Corteva,US,농업·식품원료,종자·농화학,both,,major,1
+farm-hannong,팜한농,Farm Hannong,,KR,농업·식품원료,종자·농화학,both,lg-group,niche,1
+kws,KWS,KWS Saat,,DE,농업·식품원료,종자·농화학,both,,niche,1
+mosaic,모자이크,The Mosaic Company,Mosaic,US,농업·식품원료,종자·농화학,both,,niche,1
+nongwoo-bio,농우바이오,Nongwoo Bio,,KR,농업·식품원료,종자·농화학,both,,niche,1
+nutrien,뉴트리엔,Nutrien,,CA,농업·식품원료,종자·농화학,both,,major,1
+syngenta,신젠타,Syngenta,Syngenta Group,CH,농업·식품원료,종자·농화학,both,,major,1
+yara,야라,Yara International,Yara,NO,농업·식품원료,종자·농화학,both,,niche,1
+cainiao,차이냐오,Cainiao,차이냐오네트워크,CN,물류,물류,both,alibaba,major,1
+db-schenker,DB쉥커,DB Schenker,쉥커|Schenker,DE,물류,물류,both,dsv,major,1
+dsv,DSV,DSV,,DK,물류,물류,both,,major,1
+flexport,플렉스포트,Flexport,,US,물류,물류,both,,niche,1
+hyundai-glovis,현대글로비스,Hyundai Glovis,글로비스,KR,물류,물류,both,hyundai-motor-group,major,1
+kuehne-nagel,퀴네앤드나겔,Kuehne+Nagel,퀴네나겔,CH,물류,물류,both,,major,1
+lx-pantos,LX판토스,LX Pantos,판토스|범한판토스,KR,물류,물류,both,,niche,1
+barogo,바로고,Barogo,,KR,물류,택배·특송,both,,niche,1
+cj-logistics,CJ대한통운,CJ Logistics,대한통운,KR,물류,택배·특송,both,cj-group,major,1
+coupang-logistics,쿠팡로지스틱스서비스,Coupang Logistics Services,CLS|쿠팡로지스틱스,KR,물류,택배·특송,both,coupang,niche,1
+dhl,DHL,DHL Group,디에이치엘|도이치포스트,DE,물류,택배·특송,both,,mega,1
+fedex,페덱스,FedEx,,US,물류,택배·특송,both,,mega,1
+hanjin,한진,Hanjin,한진택배,KR,물류,택배·특송,both,,major,1
+korea-post,우체국,Korea Post,우체국택배|우정사업본부,KR,물류,택배·특송,both,,major,0
+logen,로젠택배,Logen,로젠,KR,물류,택배·특송,both,,niche,1
+lotte-global-logistics,롯데글로벌로지스,Lotte Global Logistics,롯데택배,KR,물류,택배·특송,both,lotte-group,major,1
+sf-express,SF익스프레스,SF Express,순펑|순풍택배,CN,물류,택배·특송,both,,major,1
+ups,UPS,United Parcel Service,유피에스,US,물류,택배·특송,both,,mega,1
+usps,미국우정청,United States Postal Service,USPS,US,물류,택배·특송,both,,major,0
+yamato-transport,야마토운수,Yamato Transport,쿠로네코야마토|야마토,JP,물류,택배·특송,both,,niche,0
+cma-cgm,CMA CGM,CMA CGM,,FR,물류,해운,both,,major,1
+cosco-shipping,코스코,COSCO Shipping,COSCO|중국원양해운,CN,물류,해운,both,,major,1
+evergreen-marine,에버그린,Evergreen Marine,에버그린해운,TW,물류,해운,both,,niche,1
+hapag-lloyd,하팍로이드,Hapag-Lloyd,,DE,물류,해운,both,,major,1
+hmm,HMM,HMM,현대상선,KR,물류,해운,both,,major,1
+maersk,머스크,A.P. Moller-Maersk,머스크라인|Maersk,DK,물류,해운,both,,mega,1
+msc,MSC,Mediterranean Shipping Company,엠에스씨,CH,물류,해운,both,,major,1
+pan-ocean,팬오션,Pan Ocean,범양상선|STX팬오션,KR,물류,해운,both,,niche,1
+clarins,클라랑스,Clarins,,FR,뷰티·퍼스널케어,럭셔리뷰티,both,,major,0
+dior-beauty,디올 뷰티,Dior Beauty,Parfums Christian Dior|크리스찬 디올 뷰티,FR,뷰티·퍼스널케어,럭셔리뷰티,product,lvmh,mega,0
+estee-lauder,에스티 로더,The Estée Lauder Companies,에스티로더|Estee Lauder|ELC,US,뷰티·퍼스널케어,럭셔리뷰티,both,,mega,0
+guerlain,겔랑,Guerlain,,FR,뷰티·퍼스널케어,럭셔리뷰티,product,lvmh,major,0
+la-mer,라 메르,La Mer,Crème de la Mer|라메르,US,뷰티·퍼스널케어,럭셔리뷰티,product,estee-lauder,major,0
+la-prairie,라프레리,La Prairie,,CH,뷰티·퍼스널케어,럭셔리뷰티,product,beiersdorf,niche,0
+lancome,랑콤,Lancôme,Lancome,FR,뷰티·퍼스널케어,럭셔리뷰티,product,loreal,mega,0
+sk-ii,SK-II,SK-II,에스케이투|피테라,JP,뷰티·퍼스널케어,럭셔리뷰티,product,pg,major,0
+sulwhasoo,설화수,Sulwhasoo,,KR,뷰티·퍼스널케어,럭셔리뷰티,product,amorepacific,major,0
+the-whoo,후,The History of Whoo,더 히스토리 오브 후|더후,KR,뷰티·퍼스널케어,럭셔리뷰티,product,lg-hh,major,0
+tom-ford-beauty,톰 포드 뷰티,Tom Ford Beauty,톰포드 뷰티,US,뷰티·퍼스널케어,럭셔리뷰티,product,estee-lauder,major,0
+ysl-beaute,입생로랑 뷰티,YSL Beauté,입생로랑|YSL Beauty,FR,뷰티·퍼스널케어,럭셔리뷰티,product,loreal,major,0
+3ce,쓰리씨이,3CE,3 Concept Eyes|스타일난다,KR,뷰티·퍼스널케어,메이크업,product,loreal,niche,0
+bobbi-brown,바비 브라운,Bobbi Brown,바비브라운,US,뷰티·퍼스널케어,메이크업,product,estee-lauder,major,0
+charlotte-tilbury,샬롯 틸버리,Charlotte Tilbury,샬롯틸버리,GB,뷰티·퍼스널케어,메이크업,product,puig,niche,0
+etude,에뛰드,Etude,에뛰드하우스,KR,뷰티·퍼스널케어,메이크업,product,amorepacific,major,0
+fenty-beauty,펜티 뷰티,Fenty Beauty,펜티뷰티,US,뷰티·퍼스널케어,메이크업,product,lvmh,major,0
+glossier,글로시에,Glossier,,US,뷰티·퍼스널케어,메이크업,both,,niche,0
+hera,헤라,Hera,,KR,뷰티·퍼스널케어,메이크업,product,amorepacific,major,0
+loreal-paris,로레알 파리,L'Oréal Paris,,FR,뷰티·퍼스널케어,메이크업,product,loreal,mega,0
+mac-cosmetics,맥,MAC Cosmetics,M·A·C|맥 코스메틱,CA,뷰티·퍼스널케어,메이크업,product,estee-lauder,major,0
+maybelline,메이블린,Maybelline New York,메이블린 뉴욕,US,뷰티·퍼스널케어,메이크업,product,loreal,mega,0
+nars,나스,NARS Cosmetics,NARS,US,뷰티·퍼스널케어,메이크업,product,shiseido,major,0
+rare-beauty,레어 뷰티,Rare Beauty,레어뷰티,US,뷰티·퍼스널케어,메이크업,both,,niche,0
+romand,롬앤,rom&nd,롬엔,KR,뷰티·퍼스널케어,메이크업,product,,niche,0
+chicor,시코르,Chicor,,KR,뷰티·퍼스널케어,뷰티편집숍,product,shinsegae-group,niche,0
+olive-young,올리브영,CJ Olive Young,올영,KR,뷰티·퍼스널케어,뷰티편집숍,both,cj-group,major,0
+sephora,세포라,Sephora,,FR,뷰티·퍼스널케어,뷰티편집숍,both,lvmh,mega,0
+ulta-beauty,얼타 뷰티,Ulta Beauty,,US,뷰티·퍼스널케어,뷰티편집숍,both,,major,0
+colgate-palmolive,콜게이트팜올리브,Colgate-Palmolive,콜게이트,US,뷰티·퍼스널케어,생활위생,both,,mega,0
+dettol,데톨,Dettol,,GB,뷰티·퍼스널케어,생활위생,product,reckitt,major,0
+durex,듀렉스,Durex,,GB,뷰티·퍼스널케어,생활위생,product,reckitt,major,0
+gillette,질레트,Gillette,,US,뷰티·퍼스널케어,생활위생,product,pg,mega,0
+kao,카오,Kao,화왕,JP,뷰티·퍼스널케어,생활위생,corporate,,major,0
+kimberly-clark,킴벌리클라크,Kimberly-Clark,,US,뷰티·퍼스널케어,생활위생,corporate,,major,0
+kleenex,크리넥스,Kleenex,,US,뷰티·퍼스널케어,생활위생,product,kimberly-clark,mega,0
+pampers,팸퍼스,Pampers,,US,뷰티·퍼스널케어,생활위생,product,pg,mega,0
+pg,P&G,Procter & Gamble,피앤지|프록터 앤드 갬블|한국P&G,US,뷰티·퍼스널케어,생활위생,corporate,,mega,0
+reckitt,레킷,Reckitt,레킷벤키저|Reckitt Benckiser,GB,뷰티·퍼스널케어,생활위생,corporate,,major,0
+unilever,유니레버,Unilever,,GB,뷰티·퍼스널케어,생활위생,corporate,,mega,0
+yuhan-kimberly,유한킴벌리,Yuhan-Kimberly,,KR,뷰티·퍼스널케어,생활위생,corporate,,major,0
+aesop,이솝,Aesop,,AU,뷰티·퍼스널케어,스킨케어,product,loreal,niche,0
+amorepacific,아모레퍼시픽,Amorepacific,아모레|아모레퍼시픽그룹,KR,뷰티·퍼스널케어,스킨케어,corporate,,major,0
+anua,아누아,Anua,,KR,뷰티·퍼스널케어,스킨케어,product,,niche,0
+apr,에이피알,APR,,KR,뷰티·퍼스널케어,스킨케어,corporate,,major,0
+beauty-of-joseon,조선미녀,Beauty of Joseon,,KR,뷰티·퍼스널케어,스킨케어,product,goodai-global,niche,0
+beiersdorf,바이어스도르프,Beiersdorf,,DE,뷰티·퍼스널케어,스킨케어,corporate,,major,0
+biore,비오레,Bioré,Biore,JP,뷰티·퍼스널케어,스킨케어,product,kao,major,0
+cerave,세라비,CeraVe,,US,뷰티·퍼스널케어,스킨케어,product,loreal,major,0
+cetaphil,세타필,Cetaphil,,CA,뷰티·퍼스널케어,스킨케어,product,galderma,major,0
+clinique,크리니크,Clinique,,US,뷰티·퍼스널케어,스킨케어,product,estee-lauder,major,0
+cosmax,코스맥스,Cosmax,,KR,뷰티·퍼스널케어,스킨케어,corporate,,major,1
+cosrx,코스알엑스,COSRX,,KR,뷰티·퍼스널케어,스킨케어,product,amorepacific,major,0
+dr-jart,닥터자르트,Dr.Jart+,Dr. Jart,KR,뷰티·퍼스널케어,스킨케어,product,estee-lauder,major,0
+goodai-global,구다이글로벌,Goodai Global,,KR,뷰티·퍼스널케어,스킨케어,corporate,,niche,0
+innisfree,이니스프리,Innisfree,,KR,뷰티·퍼스널케어,스킨케어,product,amorepacific,major,0
+kiehls,키엘,Kiehl's,Kiehls,US,뷰티·퍼스널케어,스킨케어,product,loreal,major,0
+kolmar-korea,한국콜마,Kolmar Korea,콜마,KR,뷰티·퍼스널케어,스킨케어,corporate,,major,1
+la-roche-posay,라로슈포제,La Roche-Posay,라로슈 포제,FR,뷰티·퍼스널케어,스킨케어,product,loreal,major,0
+laneige,라네즈,Laneige,,KR,뷰티·퍼스널케어,스킨케어,product,amorepacific,major,0
+lg-hh,LG생활건강,LG H&H,엘지생활건강|LG Household & Health Care,KR,뷰티·퍼스널케어,스킨케어,corporate,lg-group,major,0
+loreal,로레알,L'Oréal,로레알 그룹|L'Oreal,FR,뷰티·퍼스널케어,스킨케어,corporate,,mega,0
+medicube,메디큐브,Medicube,,KR,뷰티·퍼스널케어,스킨케어,product,apr,major,0
+mediheal,메디힐,Mediheal,,KR,뷰티·퍼스널케어,스킨케어,both,,major,0
+neutrogena,뉴트로지나,Neutrogena,,US,뷰티·퍼스널케어,스킨케어,product,kenvue,major,0
+nivea,니베아,Nivea,,DE,뷰티·퍼스널케어,스킨케어,product,beiersdorf,mega,0
+round-lab,라운드랩,Round Lab,,KR,뷰티·퍼스널케어,스킨케어,both,,niche,0
+shiseido,시세이도,Shiseido,자생당,JP,뷰티·퍼스널케어,스킨케어,both,,mega,0
+the-face-shop,더페이스샵,The Face Shop,페이스샵,KR,뷰티·퍼스널케어,스킨케어,product,lg-hh,major,0
+the-ordinary,디 오디너리,The Ordinary,DECIEM|디오디너리,CA,뷰티·퍼스널케어,스킨케어,product,estee-lauder,niche,0
+torriden,토리든,Torriden,,KR,뷰티·퍼스널케어,스킨케어,both,,niche,0
+byredo,바이레도,Byredo,,SE,뷰티·퍼스널케어,향수·니치향수,product,puig,niche,0
+coty,코티,Coty,,US,뷰티·퍼스널케어,향수·니치향수,corporate,,major,0
+diptyque,딥티크,Diptyque,,FR,뷰티·퍼스널케어,향수·니치향수,both,,niche,0
+jo-malone,조 말론 런던,Jo Malone London,조말론,GB,뷰티·퍼스널케어,향수·니치향수,product,estee-lauder,major,0
+le-labo,르 라보,Le Labo,르라보,US,뷰티·퍼스널케어,향수·니치향수,product,estee-lauder,niche,0
+maison-francis-kurkdjian,메종 프란시스 커정,Maison Francis Kurkdjian,MFK,FR,뷰티·퍼스널케어,향수·니치향수,product,lvmh,niche,0
+nonfiction,논픽션,Nonfiction,,KR,뷰티·퍼스널케어,향수·니치향수,both,,niche,0
+puig,푸이그,Puig,,ES,뷰티·퍼스널케어,향수·니치향수,corporate,,major,0
+tamburins,탬버린즈,Tamburins,,KR,뷰티·퍼스널케어,향수·니치향수,product,,niche,0
+aekyung,애경산업,Aekyung Industrial,애경,KR,뷰티·퍼스널케어,헤어·바디,corporate,,major,0
+dove,도브,Dove,,US,뷰티·퍼스널케어,헤어·바디,product,unilever,mega,0
+kerasys,케라시스,Kerasys,,KR,뷰티·퍼스널케어,헤어·바디,product,aekyung,major,0
+lush,러쉬,Lush,,GB,뷰티·퍼스널케어,헤어·바디,both,,major,0
+pantene,팬틴,Pantene,,US,뷰티·퍼스널케어,헤어·바디,product,pg,major,0
+ryo,려,Ryo,呂,KR,뷰티·퍼스널케어,헤어·바디,product,amorepacific,major,0
+the-body-shop,더바디샵,The Body Shop,바디샵,GB,뷰티·퍼스널케어,헤어·바디,both,,major,0
+vaseline,바세린,Vaseline,,US,뷰티·퍼스널케어,헤어·바디,product,unilever,major,0
+bechtel,벡텔,Bechtel,,US,산업재·중공업,건설,both,,major,1
+daewoo-enc,대우건설,Daewoo Engineering & Construction,,KR,산업재·중공업,건설,both,,major,1
+dl-enc,DL이앤씨,DL E&C,대림산업,KR,산업재·중공업,건설,both,,major,1
+e-pyeonhan-sesang,e편한세상,e-Pyeonhan Sesang,이편한세상|아크로|ACRO,KR,산업재·중공업,건설,product,dl-enc,major,0
+gs-enc,GS건설,GS Engineering & Construction,GS E&C,KR,산업재·중공업,건설,both,gs-group,major,1
+hdc-hyundai-development,HDC현대산업개발,HDC Hyundai Development,현대산업개발,KR,산업재·중공업,건설,both,,major,1
+hillstate,힐스테이트,Hillstate,디에이치|THE H,KR,산업재·중공업,건설,product,hyundai-enc,major,0
+hyundai-enc,현대건설,Hyundai Engineering & Construction,현대E&C,KR,산업재·중공업,건설,both,hyundai-motor-group,major,1
+ipark,아이파크,IPARK,,KR,산업재·중공업,건설,product,hdc-hyundai-development,major,0
+lotte-castle,롯데캐슬,Lotte Castle,롯데건설,KR,산업재·중공업,건설,product,lotte-group,major,0
+posco-enc,포스코이앤씨,POSCO E&C,포스코건설,KR,산업재·중공업,건설,both,posco-group,major,1
+prugio,푸르지오,Prugio,,KR,산업재·중공업,건설,product,daewoo-enc,major,0
+raemian,래미안,Raemian,,KR,산업재·중공업,건설,product,samsung-ct,major,0
+samsung-ct,삼성물산,Samsung C&T,,KR,산업재·중공업,건설,corporate,samsung-group,major,1
+the-sharp,더샵,The Sharp,,KR,산업재·중공업,건설,product,posco-enc,major,0
+vinci,뱅시,Vinci,방시,FR,산업재·중공업,건설,both,,major,1
+xi,자이,Xi,,KR,산업재·중공업,건설,product,gs-enc,major,0
+caterpillar,캐터필러,Caterpillar,CAT|캐터필라,US,산업재·중공업,건설기계·장비,both,,mega,1
+daedong,대동,Daedong,대동공업|카이오티|KIOTI,KR,산업재·중공업,건설기계·장비,both,,niche,1
+doosan-bobcat,두산밥캣,Doosan Bobcat,밥캣|Bobcat,KR,산업재·중공업,건설기계·장비,both,doosan-group,major,1
+hd-hyundai-xitesolution,HD현대사이트솔루션,HD Hyundai XiteSolution,HD현대건설기계|HD현대인프라코어|현대건설기계|두산인프라코어,KR,산업재·중공업,건설기계·장비,corporate,hd-hyundai,major,1
+hyundai-elevator,현대엘리베이터,Hyundai Elevator,,KR,산업재·중공업,건설기계·장비,both,,major,1
+jcb,JCB,JCB,,GB,산업재·중공업,건설기계·장비,both,,niche,1
+john-deere,존디어,John Deere,디어앤컴퍼니|Deere & Company,US,산업재·중공업,건설기계·장비,both,,mega,1
+komatsu,코마츠,Komatsu,고마쓰,JP,산업재·중공업,건설기계·장비,both,,major,1
+kubota,구보다,Kubota,쿠보타,JP,산업재·중공업,건설기계·장비,both,,major,1
+liebherr,리프헤르,Liebherr,리버,DE,산업재·중공업,건설기계·장비,both,,niche,1
+otis,오티스,Otis,오티스엘리베이터,US,산업재·중공업,건설기계·장비,both,,major,1
+sany,싼이중공업,SANY,산이|SANY Heavy Industry,CN,산업재·중공업,건설기계·장비,both,,major,1
+dewalt,디월트,DEWALT,,US,산업재·중공업,공구,product,stanley-black-decker,major,0
+festool,페스툴,Festool,,DE,산업재·중공업,공구,both,,niche,0
+hilti,힐티,Hilti,,LI,산업재·중공업,공구,both,,major,1
+keyang,계양전기,Keyang Electric Machinery,계양,KR,산업재·중공업,공구,both,,niche,0
+knipex,크니펙스,Knipex,,DE,산업재·중공업,공구,both,,niche,0
+makita,마끼다,Makita,마키타,JP,산업재·중공업,공구,both,,major,0
+milwaukee-tool,밀워키,Milwaukee Tool,밀워키툴,US,산업재·중공업,공구,product,techtronic-industries,major,0
+ryobi,료비,Ryobi,,JP,산업재·중공업,공구,product,techtronic-industries,niche,0
+snap-on,스냅온,Snap-on,,US,산업재·중공업,공구,both,,niche,1
+stanley-black-decker,스탠리블랙앤데커,Stanley Black & Decker,스탠리|블랙앤데커,US,산업재·중공업,공구,corporate,,major,0
+techtronic-industries,TTI,Techtronic Industries,테크트로닉인더스트리,HK,산업재·중공업,공구,corporate,,niche,1
+wera,베라,Wera,,DE,산업재·중공업,공구,both,,niche,0
+abb,ABB,ABB,,CH,산업재·중공업,산업자동화,both,,major,1
+boston-dynamics,보스턴다이내믹스,Boston Dynamics,,US,산업재·중공업,산업자동화,both,hyundai-motor-group,major,1
+doosan-robotics,두산로보틱스,Doosan Robotics,,KR,산업재·중공업,산업자동화,both,doosan-group,niche,1
+fanuc,화낙,FANUC,파낙,JP,산업재·중공업,산업자동화,both,,major,1
+keyence,키엔스,Keyence,,JP,산업재·중공업,산업자동화,both,,major,1
+kuka,쿠카,KUKA,,DE,산업재·중공업,산업자동화,both,,niche,1
+yaskawa,야스카와전기,Yaskawa Electric,야스카와,JP,산업재·중공업,산업자동화,both,,niche,1
+doosan-enerbility,두산에너빌리티,Doosan Enerbility,두산중공업,KR,산업재·중공업,조선·중공업,both,doosan-group,major,1
+hanwha-ocean,한화오션,Hanwha Ocean,대우조선해양|대우조선,KR,산업재·중공업,조선·중공업,both,hanwha-group,major,1
+hd-hyundai-heavy,HD현대중공업,HD Hyundai Heavy Industries,현대중공업|HHI,KR,산업재·중공업,조선·중공업,both,hd-ksoe,major,1
+hd-hyundai-samho,HD현대삼호,HD Hyundai Samho,현대삼호중공업,KR,산업재·중공업,조선·중공업,both,hd-ksoe,niche,1
+hd-ksoe,HD한국조선해양,HD Korea Shipbuilding & Offshore Engineering,한국조선해양|KSOE,KR,산업재·중공업,조선·중공업,corporate,hd-hyundai,major,1
+kawasaki-heavy,가와사키중공업,Kawasaki Heavy Industries,가와사키|KHI,JP,산업재·중공업,조선·중공업,both,,major,1
+mitsubishi-heavy,미쓰비시중공업,Mitsubishi Heavy Industries,MHI,JP,산업재·중공업,조선·중공업,both,,major,1
+samsung-heavy,삼성중공업,Samsung Heavy Industries,SHI,KR,산업재·중공업,조선·중공업,both,samsung-group,major,1
+airbus,에어버스,Airbus,,FR,산업재·중공업,항공우주·방산,both,,mega,1
+bae-systems,BAE시스템스,BAE Systems,BAE,GB,산업재·중공업,항공우주·방산,both,,major,1
+blue-origin,블루오리진,Blue Origin,,US,산업재·중공업,항공우주·방산,both,,major,1
+boeing,보잉,Boeing,,US,산업재·중공업,항공우주·방산,both,,mega,1
+bombardier,봄바디어,Bombardier,,CA,산업재·중공업,항공우주·방산,both,,niche,1
+dassault-aviation,다쏘항공,Dassault Aviation,다쏘|라팔,FR,산업재·중공업,항공우주·방산,both,,niche,1
+embraer,엠브라에르,Embraer,,BR,산업재·중공업,항공우주·방산,both,,major,1
+ge-aerospace,GE에어로스페이스,GE Aerospace,GE|제너럴일렉트릭,US,산업재·중공업,항공우주·방산,both,,major,1
+hanwha-aerospace,한화에어로스페이스,Hanwha Aerospace,한화테크윈,KR,산업재·중공업,항공우주·방산,both,hanwha-group,major,1
+hanwha-systems,한화시스템,Hanwha Systems,,KR,산업재·중공업,항공우주·방산,both,hanwha-group,niche,1
+hyundai-rotem,현대로템,Hyundai Rotem,,KR,산업재·중공업,항공우주·방산,both,hyundai-motor-group,major,1
+kai,한국항공우주산업,Korea Aerospace Industries,KAI|카이,KR,산업재·중공업,항공우주·방산,both,,major,1
+lig-nex1,LIG넥스원,LIG Nex1,넥스원,KR,산업재·중공업,항공우주·방산,both,,major,1
+lockheed-martin,록히드마틴,Lockheed Martin,록히드,US,산업재·중공업,항공우주·방산,both,,mega,1
+northrop-grumman,노스롭그루먼,Northrop Grumman,노스럽그러먼,US,산업재·중공업,항공우주·방산,both,,major,1
+rheinmetall,라인메탈,Rheinmetall,,DE,산업재·중공업,항공우주·방산,both,,major,1
+rocket-lab,로켓랩,Rocket Lab,,US,산업재·중공업,항공우주·방산,both,,niche,1
+rolls-royce-holdings,롤스로이스 홀딩스,Rolls-Royce Holdings,롤스로이스 엔진,GB,산업재·중공업,항공우주·방산,both,,major,1
+rtx,RTX,RTX,레이시온|Raytheon,US,산업재·중공업,항공우주·방산,corporate,,major,1
+saab,사브,Saab,,SE,산업재·중공업,항공우주·방산,both,,niche,1
+safran,사프란,Safran,,FR,산업재·중공업,항공우주·방산,both,,niche,1
+spacex,스페이스X,SpaceX,스페이스엑스,US,산업재·중공업,항공우주·방산,both,,mega,1
+ace-bed,에이스침대,Ace Bed,에이스,KR,생활·가구·완구,가구·인테리어,both,,major,0
+casamia,까사미아,Casamia,,KR,생활·가구·완구,가구·인테리어,product,shinsegae-group,niche,0
+fursys,퍼시스,Fursys,,KR,생활·가구·완구,가구·인테리어,both,,major,1
+hanssem,한샘,Hanssem,,KR,생활·가구·완구,가구·인테리어,both,,major,0
+hay,헤이,HAY,,DK,생활·가구·완구,가구·인테리어,product,millerknoll,niche,0
+herman-miller,허먼밀러,Herman Miller,,US,생활·가구·완구,가구·인테리어,product,millerknoll,major,0
+hyundai-livart,현대리바트,Hyundai Livart,리바트,KR,생활·가구·완구,가구·인테리어,both,,major,0
+ikea,이케아,IKEA,,SE,생활·가구·완구,가구·인테리어,both,,mega,0
+iloom,일룸,iloom,,KR,생활·가구·완구,가구·인테리어,product,fursys,major,0
+millerknoll,밀러놀,MillerKnoll,,US,생활·가구·완구,가구·인테리어,corporate,,major,1
+muuto,무토,Muuto,,DK,생활·가구·완구,가구·인테리어,product,millerknoll,niche,0
+nitori,니토리,Nitori,,JP,생활·가구·완구,가구·인테리어,both,,major,0
+vitra,비트라,Vitra,,CH,생활·가구·완구,가구·인테리어,both,,niche,0
+bic,빅,BIC,빅볼펜,FR,생활·가구·완구,문구·필기구,both,,major,0
+lamy,라미,Lamy,,DE,생활·가구·완구,문구·필기구,product,mitsubishi-pencil,niche,0
+mitsubishi-pencil,미쓰비시연필,Mitsubishi Pencil,uni|유니,JP,생활·가구·완구,문구·필기구,both,,major,0
+moleskine,몰스킨,Moleskine,,IT,생활·가구·완구,문구·필기구,both,,niche,0
+monami,모나미,Monami,,KR,생활·가구·완구,문구·필기구,both,,major,0
+pilot,파이롯트,Pilot,파일럿|Pilot Corporation,JP,생활·가구·완구,문구·필기구,both,,major,0
+staedtler,스테들러,Staedtler,,DE,생활·가구·완구,문구·필기구,both,,niche,0
+chewy,츄이,Chewy,,US,생활·가구·완구,반려동물,both,,major,0
+hills,힐스,Hill's Pet Nutrition,힐스펫,US,생활·가구·완구,반려동물,product,colgate-palmolive,niche,0
+petfriends,펫프렌즈,Pet Friends,,KR,생활·가구·완구,반려동물,both,gs-group,niche,0
+purina,퓨리나,Purina,,US,생활·가구·완구,반려동물,product,nestle,major,0
+royal-canin,로얄캐닌,Royal Canin,,FR,생활·가구·완구,반려동물,product,mars,major,0
+barbie,바비,Barbie,,US,생활·가구·완구,완구·캐릭터,product,mattel,mega,0
+hasbro,해즈브로,Hasbro,,US,생활·가구·완구,완구·캐릭터,corporate,,mega,0
+hello-kitty,헬로키티,Hello Kitty,키티,JP,생활·가구·완구,완구·캐릭터,product,sanrio,mega,0
+jellycat,젤리캣,Jellycat,,GB,생활·가구·완구,완구·캐릭터,both,,niche,0
+kakao-friends,카카오프렌즈,Kakao Friends,라이언|춘식이,KR,생활·가구·완구,완구·캐릭터,product,,major,0
+labubu,라부부,Labubu,,CN,생활·가구·완구,완구·캐릭터,product,pop-mart,major,0
+lego,레고,LEGO,,DK,생활·가구·완구,완구·캐릭터,both,,mega,0
+mattel,마텔,Mattel,,US,생활·가구·완구,완구·캐릭터,corporate,,mega,0
+pop-mart,팝마트,Pop Mart,,CN,생활·가구·완구,완구·캐릭터,both,,major,0
+sanrio,산리오,Sanrio,,JP,생활·가구·완구,완구·캐릭터,both,,major,0
+sonny-angel,소니엔젤,Sonny Angel,,JP,생활·가구·완구,완구·캐릭터,product,,niche,0
+young-toys,영실업,Young Toys,,KR,생활·가구·완구,완구·캐릭터,both,,niche,0
+corelle,코렐,Corelle,,US,생활·가구·완구,주방·생활용품,product,,major,0
+groupe-seb,그룹 세브,Groupe SEB,SEB,FR,생활·가구·완구,주방·생활용품,corporate,,major,0
+le-creuset,르크루제,Le Creuset,르쿠르제,FR,생활·가구·완구,주방·생활용품,both,,niche,0
+locknlock,락앤락,LocknLock,Lock&Lock,KR,생활·가구·완구,주방·생활용품,both,,major,0
+stanley,스탠리,Stanley,스탠리 텀블러|Stanley 1913,US,생활·가구·완구,주방·생활용품,product,,major,0
+tefal,테팔,Tefal,,FR,생활·가구·완구,주방·생활용품,product,groupe-seb,major,0
+thermos,써모스,Thermos,,JP,생활·가구·완구,주방·생활용품,both,,major,0
+tupperware,타파웨어,Tupperware,,US,생활·가구·완구,주방·생활용품,both,,major,0
+zwilling,즈윌링,Zwilling J.A. Henckels,헹켈|쌍둥이칼,DE,생활·가구·완구,주방·생활용품,both,,major,0
+acushnet,아쿠쉬네트,Acushnet,,US,스포츠·아웃도어,골프,corporate,,niche,0
+callaway,캘러웨이,Callaway,캘러웨이골프|Topgolf Callaway Brands,US,스포츠·아웃도어,골프,both,,major,0
+g-fore,지포어,G/FORE,,US,스포츠·아웃도어,골프,both,,niche,0
+honma,혼마,Honma Golf,,JP,스포츠·아웃도어,골프,both,,niche,0
+j-lindeberg,제이린드버그,J.Lindeberg,,SE,스포츠·아웃도어,골프,both,,niche,0
+malbon-golf,말본골프,Malbon Golf,말본,US,스포츠·아웃도어,골프,both,,niche,0
+mark-and-lona,마크앤로나,Mark & Lona,,JP,스포츠·아웃도어,골프,both,,niche,0
+pearly-gates,파리게이츠,Pearly Gates,,JP,스포츠·아웃도어,골프,both,,niche,0
+ping,핑,PING,,US,스포츠·아웃도어,골프,both,,major,0
+pxg,PXG,PXG,피엑스지,US,스포츠·아웃도어,골프,both,,niche,0
+taylormade,테일러메이드,TaylorMade,,US,스포츠·아웃도어,골프,both,,major,0
+titleist,타이틀리스트,Titleist,,US,스포츠·아웃도어,골프,product,acushnet,major,0
+volvik,볼빅,Volvik,,KR,스포츠·아웃도어,골프,both,,niche,0
+waac,왁,WAAC,,KR,스포츠·아웃도어,골프,product,kolon-industries-fnc,niche,0
+amer-sports,아머스포츠,Amer Sports,,FI,스포츠·아웃도어,스포츠용품,corporate,,major,0
+arena,아레나,Arena,,IT,스포츠·아웃도어,스포츠용품,both,,niche,0
+babolat,바볼랏,Babolat,,FR,스포츠·아웃도어,스포츠용품,both,,niche,0
+decathlon,데카트론,Decathlon,,FR,스포츠·아웃도어,스포츠용품,both,,major,0
+giant,자이언트,Giant Bicycles,자이언트 자전거,TW,스포츠·아웃도어,스포츠용품,both,,major,0
+head,헤드,HEAD,,AT,스포츠·아웃도어,스포츠용품,both,,niche,0
+mizuno,미즈노,Mizuno,,JP,스포츠·아웃도어,스포츠용품,both,,major,0
+shimano,시마노,Shimano,,JP,스포츠·아웃도어,스포츠용품,both,,major,1
+specialized,스페셜라이즈드,Specialized,,US,스포츠·아웃도어,스포츠용품,both,,niche,0
+speedo,스피도,Speedo,,GB,스포츠·아웃도어,스포츠용품,both,,major,0
+wilson,윌슨,Wilson,,US,스포츠·아웃도어,스포츠용품,product,amer-sports,major,0
+yonex,요넥스,Yonex,,JP,스포츠·아웃도어,스포츠용품,both,,major,0
+adidas,아디다스,Adidas,,DE,스포츠·아웃도어,스포츠웨어,both,,mega,0
+alo-yoga,알로 요가,Alo Yoga,알로,US,스포츠·아웃도어,스포츠웨어,both,,niche,0
+andar,안다르,Andar,,KR,스포츠·아웃도어,스포츠웨어,both,,niche,0
+anta-sports,안타스포츠,Anta Sports,안타,CN,스포츠·아웃도어,스포츠웨어,both,,major,0
+asics,아식스,ASICS,,JP,스포츠·아웃도어,스포츠웨어,both,,major,0
+barrel,배럴,Barrel,,KR,스포츠·아웃도어,스포츠웨어,both,,niche,0
+descente,데상트,Descente,,JP,스포츠·아웃도어,스포츠웨어,both,,major,0
+fila,휠라,FILA,,KR,스포츠·아웃도어,스포츠웨어,product,fila-holdings,major,0
+fila-holdings,휠라홀딩스,FILA Holdings,,KR,스포츠·아웃도어,스포츠웨어,corporate,,major,0
+gymshark,짐샤크,Gymshark,,GB,스포츠·아웃도어,스포츠웨어,both,,niche,0
+hoka,호카,HOKA,호카 오네오네,US,스포츠·아웃도어,스포츠웨어,product,deckers,major,0
+jordan,조던,Jordan Brand,에어 조던|Air Jordan,US,스포츠·아웃도어,스포츠웨어,product,nike,mega,0
+kappa,카파,Kappa,,IT,스포츠·아웃도어,스포츠웨어,both,,niche,0
+le-coq-sportif,르꼬끄 스포르티브,Le Coq Sportif,르꼬끄,FR,스포츠·아웃도어,스포츠웨어,both,,niche,0
+li-ning,리닝,Li-Ning,,CN,스포츠·아웃도어,스포츠웨어,both,,major,0
+lululemon,룰루레몬,Lululemon,,CA,스포츠·아웃도어,스포츠웨어,both,,major,0
+new-balance,뉴발란스,New Balance,뉴발|NB,US,스포츠·아웃도어,스포츠웨어,both,,mega,0
+nike,나이키,Nike,,US,스포츠·아웃도어,스포츠웨어,both,,mega,0
+on-running,온,On,온러닝|On Running,CH,스포츠·아웃도어,스포츠웨어,both,,major,0
+prospecs,프로스펙스,Prospecs,,KR,스포츠·아웃도어,스포츠웨어,both,,niche,0
+puma,푸마,Puma,,DE,스포츠·아웃도어,스포츠웨어,both,,mega,0
+rapha,라파,Rapha,,GB,스포츠·아웃도어,스포츠웨어,both,,niche,0
+reebok,리복,Reebok,,US,스포츠·아웃도어,스포츠웨어,both,,major,0
+satisfy,새티스파이,Satisfy,Satisfy Running,FR,스포츠·아웃도어,스포츠웨어,both,,niche,0
+umbro,엄브로,Umbro,,GB,스포츠·아웃도어,스포츠웨어,both,,niche,0
+under-armour,언더아머,Under Armour,,US,스포츠·아웃도어,스포츠웨어,both,,major,0
+xexymix,젝시믹스,Xexymix,,KR,스포츠·아웃도어,스포츠웨어,both,,niche,0
+arcteryx,아크테릭스,Arc'teryx,아크,CA,스포츠·아웃도어,아웃도어,product,amer-sports,major,0
+black-yak,블랙야크,Black Yak,BYN블랙야크,KR,스포츠·아웃도어,아웃도어,both,,major,0
+canada-goose,캐나다구스,Canada Goose,,CA,스포츠·아웃도어,아웃도어,both,,major,0
+columbia,컬럼비아,Columbia Sportswear,컬럼비아스포츠웨어,US,스포츠·아웃도어,아웃도어,both,,major,0
+discovery-expedition,디스커버리 익스페디션,Discovery Expedition,디스커버리,KR,스포츠·아웃도어,아웃도어,product,fnf,major,0
+eider,아이더,Eider,,KR,스포츠·아웃도어,아웃도어,product,k2-korea,major,0
+fjallraven,피엘라벤,Fjällräven,Fjallraven,SE,스포츠·아웃도어,아웃도어,both,,niche,0
+goldwin,골드윈,Goldwin,,JP,스포츠·아웃도어,아웃도어,both,,niche,0
+helinox,헬리녹스,Helinox,,KR,스포츠·아웃도어,아웃도어,both,,niche,0
+jack-wolfskin,잭울프스킨,Jack Wolfskin,,DE,스포츠·아웃도어,아웃도어,product,anta-sports,niche,0
+k2-korea,케이투,K2,K2코리아,KR,스포츠·아웃도어,아웃도어,both,,major,0
+kolon-sport,코오롱스포츠,Kolon Sport,,KR,스포츠·아웃도어,아웃도어,product,kolon-industries-fnc,major,0
+mammut,마무트,Mammut,,CH,스포츠·아웃도어,아웃도어,both,,niche,0
+millet,밀레,Millet,,FR,스포츠·아웃도어,아웃도어,both,,niche,0
+montbell,몽벨,Montbell,,JP,스포츠·아웃도어,아웃도어,both,,niche,0
+national-geographic-apparel,내셔널지오그래픽,National Geographic Apparel,내셔널지오그래픽 어패럴,KR,스포츠·아웃도어,아웃도어,product,,niche,0
+nepa,네파,NEPA,,KR,스포츠·아웃도어,아웃도어,both,,major,0
+patagonia,파타고니아,Patagonia,,US,스포츠·아웃도어,아웃도어,both,,major,0
+peak-performance,피크퍼포먼스,Peak Performance,,SE,스포츠·아웃도어,아웃도어,product,amer-sports,niche,0
+salomon,살로몬,Salomon,,FR,스포츠·아웃도어,아웃도어,product,amer-sports,major,0
+snow-peak,스노우피크,Snow Peak,,JP,스포츠·아웃도어,아웃도어,both,,niche,0
+the-north-face,노스페이스,The North Face,TNF,US,스포츠·아웃도어,아웃도어,product,vf-corp,mega,0
+vf-corp,VF 코퍼레이션,VF Corporation,VF Corp,US,스포츠·아웃도어,아웃도어,corporate,,major,0
+casio,카시오,Casio,,JP,시계·주얼리,대중시계,both,,major,0
+citizen,시티즌,Citizen,,JP,시계·주얼리,대중시계,both,,major,0
+daniel-wellington,다니엘 웰링턴,Daniel Wellington,DW,SE,시계·주얼리,대중시계,both,,niche,0
+fossil,파슬,Fossil,,US,시계·주얼리,대중시계,both,,major,0
+g-shock,지샥,G-SHOCK,G샥|지쇼크,JP,시계·주얼리,대중시계,product,casio,major,0
+hamilton,해밀턴,Hamilton,,US,시계·주얼리,대중시계,product,swatch-group,major,0
+mido,미도,Mido,,CH,시계·주얼리,대중시계,product,swatch-group,niche,0
+rado,라도,Rado,,CH,시계·주얼리,대중시계,product,swatch-group,niche,0
+seiko,세이코,Seiko,,JP,시계·주얼리,대중시계,both,,major,0
+swatch,스와치,Swatch,,CH,시계·주얼리,대중시계,product,swatch-group,major,0
+swatch-group,스와치 그룹,The Swatch Group,Swatch Group,CH,시계·주얼리,대중시계,corporate,,major,0
+tissot,티쏘,Tissot,,CH,시계·주얼리,대중시계,product,swatch-group,major,0
+apm-monaco,에이피엠 모나코,APM Monaco,APM,MC,시계·주얼리,주얼리,both,,niche,0
+boucheron,부쉐론,Boucheron,,FR,시계·주얼리,주얼리,product,kering,major,0
+buccellati,부첼라티,Buccellati,,IT,시계·주얼리,주얼리,product,richemont,niche,0
+bulgari,불가리,Bulgari,BVLGARI,IT,시계·주얼리,주얼리,product,lvmh,mega,0
+cartier,까르띠에,Cartier,카르티에,FR,시계·주얼리,주얼리,product,richemont,mega,0
+chaumet,쇼메,Chaumet,,FR,시계·주얼리,주얼리,product,lvmh,major,0
+chopard,쇼파드,Chopard,,CH,시계·주얼리,주얼리,both,,major,0
+chow-tai-fook,주대복,Chow Tai Fook,저우다푸,HK,시계·주얼리,주얼리,both,,major,0
+didier-dubot,디디에 두보,Didier Dubot,,KR,시계·주얼리,주얼리,both,,niche,0
+fred,프레드,Fred,FRED,FR,시계·주얼리,주얼리,product,lvmh,niche,0
+goldendew,골든듀,Goldendew,,KR,시계·주얼리,주얼리,both,,niche,0
+graff,그라프,Graff,,GB,시계·주얼리,주얼리,both,,niche,0
+harry-winston,해리 윈스턴,Harry Winston,,US,시계·주얼리,주얼리,product,swatch-group,major,0
+jestina,제이에스티나,J.ESTINA,,KR,시계·주얼리,주얼리,both,,major,0
+messika,메시카,Messika,,FR,시계·주얼리,주얼리,both,,niche,0
+mikimoto,미키모토,Mikimoto,,JP,시계·주얼리,주얼리,both,,niche,0
+pandora,판도라,Pandora,,DK,시계·주얼리,주얼리,both,,major,0
+pomellato,포멜라토,Pomellato,,IT,시계·주얼리,주얼리,product,kering,niche,0
+qeelin,키린,Qeelin,,HK,시계·주얼리,주얼리,product,kering,niche,0
+richemont,리치몬트,Compagnie Financière Richemont,Richemont,CH,시계·주얼리,주얼리,corporate,,major,0
+stonehenge,스톤헨지,Stonehenge,,KR,시계·주얼리,주얼리,both,,niche,0
+swarovski,스와로브스키,Swarovski,,AT,시계·주얼리,주얼리,both,,major,0
+tiffany,티파니,Tiffany & Co.,티파니앤코,US,시계·주얼리,주얼리,product,lvmh,mega,0
+van-cleef-arpels,반클리프 아펠,Van Cleef & Arpels,반클리프|VCA,FR,시계·주얼리,주얼리,product,richemont,major,0
+a-lange-sohne,랑에 운트 죄네,A. Lange & Söhne,랑에|A. Lange & Sohne,DE,시계·주얼리,하이엔드시계,product,richemont,niche,0
+audemars-piguet,오데마 피게,Audemars Piguet,AP|오데마피게,CH,시계·주얼리,하이엔드시계,both,,major,0
+blancpain,블랑팡,Blancpain,,CH,시계·주얼리,하이엔드시계,product,swatch-group,niche,0
+breguet,브레게,Breguet,,CH,시계·주얼리,하이엔드시계,product,swatch-group,niche,0
+breitling,브라이틀링,Breitling,,CH,시계·주얼리,하이엔드시계,both,,major,0
+grand-seiko,그랜드 세이코,Grand Seiko,,JP,시계·주얼리,하이엔드시계,product,seiko,niche,0
+hublot,위블로,Hublot,,CH,시계·주얼리,하이엔드시계,product,lvmh,major,0
+iwc,IWC,IWC Schaffhausen,아이더블유씨,CH,시계·주얼리,하이엔드시계,product,richemont,major,0
+jaeger-lecoultre,예거 르쿨트르,Jaeger-LeCoultre,예거|JLC,CH,시계·주얼리,하이엔드시계,product,richemont,major,0
+longines,론진,Longines,,CH,시계·주얼리,하이엔드시계,product,swatch-group,major,0
+nomos-glashutte,노모스,NOMOS Glashütte,노모스 글라슈테,DE,시계·주얼리,하이엔드시계,both,,niche,0
+omega,오메가,Omega,,CH,시계·주얼리,하이엔드시계,product,swatch-group,mega,0
+panerai,파네라이,Panerai,,IT,시계·주얼리,하이엔드시계,product,richemont,major,0
+patek-philippe,파텍필립,Patek Philippe,파텍 필립,CH,시계·주얼리,하이엔드시계,both,,mega,0
+piaget,피아제,Piaget,,CH,시계·주얼리,하이엔드시계,product,richemont,niche,0
+richard-mille,리차드 밀,Richard Mille,리처드 밀,CH,시계·주얼리,하이엔드시계,both,,major,0
+rolex,롤렉스,Rolex,,CH,시계·주얼리,하이엔드시계,both,,mega,0
+tag-heuer,태그호이어,TAG Heuer,,CH,시계·주얼리,하이엔드시계,product,lvmh,major,0
+tudor,튜더,Tudor,,CH,시계·주얼리,하이엔드시계,product,rolex,major,0
+vacheron-constantin,바쉐론 콘스탄틴,Vacheron Constantin,바쉐론,CH,시계·주얼리,하이엔드시계,product,richemont,major,0
+zenith,제니스,Zenith,,CH,시계·주얼리,하이엔드시계,product,lvmh,niche,0
+herbalife,허벌라이프,Herbalife,,US,식음료,건강식품,both,,major,0
+jeonggwanjang,정관장,Cheong Kwan Jang,KGC인삼공사|홍삼,KR,식음료,건강식품,product,,major,0
+cadbury,캐드버리,Cadbury,,GB,식음료,과자·제과,product,mondelez,major,0
+calbee,가루비,Calbee,,JP,식음료,과자·제과,both,,niche,0
+cheetos,치토스,Cheetos,,US,식음료,과자·제과,product,pepsico,major,0
+choco-pie,초코파이,Choco Pie,오리온 초코파이,KR,식음료,과자·제과,product,orion,major,0
+crown,크라운제과,Crown Confectionery,크라운,KR,식음료,과자·제과,both,,niche,0
+doritos,도리토스,Doritos,,US,식음료,과자·제과,product,pepsico,major,0
+ferrero,페레로,Ferrero,,IT,식음료,과자·제과,corporate,,mega,0
+ferrero-rocher,페레로로쉐,Ferrero Rocher,,IT,식음료,과자·제과,product,ferrero,major,0
+glico,글리코,Ezaki Glico,에자키글리코,JP,식음료,과자·제과,corporate,,major,0
+haitai,해태제과,Haitai Confectionery,해태,KR,식음료,과자·제과,both,,major,0
+haribo,하리보,Haribo,,DE,식음료,과자·제과,both,,major,0
+hershey,허쉬,Hershey's,The Hershey Company|허쉬초콜릿,US,식음료,과자·제과,both,,major,0
+kinder,킨더,Kinder,킨더조이,IT,식음료,과자·제과,product,ferrero,major,0
+kitkat,킷캣,Kit Kat,KitKat,CH,식음료,과자·제과,product,nestle,mega,0
+lays,레이즈,Lay's,,US,식음료,과자·제과,product,pepsico,mega,0
+lindt,린트,Lindt & Sprüngli,Lindt,CH,식음료,과자·제과,both,,major,0
+lotte-wellfood,롯데웰푸드,Lotte Wellfood,롯데제과,KR,식음료,과자·제과,corporate,lotte-group,major,0
+mars,마스,"Mars, Incorporated",Mars Inc,US,식음료,과자·제과,corporate,,mega,0
+meiji,메이지,Meiji,,JP,식음료,과자·제과,both,,major,0
+mms,엠앤엠즈,M&M's,엠엔엠|M&M,US,식음료,과자·제과,product,mars,mega,0
+mondelez,몬델리즈,Mondelez International,,US,식음료,과자·제과,corporate,,mega,0
+oreo,오레오,Oreo,,US,식음료,과자·제과,product,mondelez,mega,0
+orion,오리온,Orion,,KR,식음료,과자·제과,both,,major,0
+pepero,빼빼로,Pepero,,KR,식음료,과자·제과,product,lotte-wellfood,major,0
+pepsico,펩시코,PepsiCo,,US,식음료,과자·제과,corporate,,mega,0
+pocky,포키,Pocky,,JP,식음료,과자·제과,product,glico,major,0
+pringles,프링글스,Pringles,,US,식음료,과자·제과,product,mars,mega,0
+saeukkang,새우깡,Saeukkang,Shrimp Cracker,KR,식음료,과자·제과,product,nongshim,major,0
+snickers,스니커즈,Snickers,,US,식음료,과자·제과,product,mars,mega,0
+spc-samlip,SPC삼립,SPC Samlip,삼립,KR,식음료,과자·제과,both,spc-group,major,0
+toblerone,토블론,Toblerone,,CH,식음료,과자·제과,product,mondelez,major,0
+bibigo,비비고,Bibigo,,KR,식음료,라면·가공식품,product,cj-cheiljedang,major,0
+buldak,불닭볶음면,Buldak,불닭|Buldak Ramen,KR,식음료,라면·가공식품,product,samyang-foods,major,0
+cj-cheiljedang,CJ제일제당,CJ CheilJedang,제일제당,KR,식음료,라면·가공식품,corporate,cj-group,major,0
+dongwon-fnb,동원F&B,Dongwon F&B,동원,KR,식음료,라면·가공식품,both,,major,0
+dongwon-tuna,동원참치,Dongwon Tuna,,KR,식음료,라면·가공식품,product,dongwon-fnb,major,0
+general-mills,제너럴밀스,General Mills,,US,식음료,라면·가공식품,corporate,,major,0
+hetbahn,햇반,Hetbahn,,KR,식음료,라면·가공식품,product,cj-cheiljedang,major,0
+jin-ramen,진라면,Jin Ramen,,KR,식음료,라면·가공식품,product,ottogi,major,0
+nestle,네슬레,Nestlé,Nestle,CH,식음료,라면·가공식품,corporate,,mega,0
+nissin,닛신,Nissin Foods,컵누들|Cup Noodles,JP,식음료,라면·가공식품,both,,major,0
+nongshim,농심,Nongshim,,KR,식음료,라면·가공식품,both,,major,0
+ottogi,오뚜기,Ottogi,,KR,식음료,라면·가공식품,both,,major,0
+pulmuone,풀무원,Pulmuone,,KR,식음료,라면·가공식품,both,,major,0
+quaker,퀘이커,Quaker Oats,퀘이커오츠,US,식음료,라면·가공식품,product,pepsico,major,0
+samyang-foods,삼양식품,Samyang Foods,삼양라면,KR,식음료,라면·가공식품,both,,major,0
+shin-ramyun,신라면,Shin Ramyun,,KR,식음료,라면·가공식품,product,nongshim,major,0
+spam,스팸,Spam,,US,식음료,라면·가공식품,product,hormel,mega,0
+banana-milk,바나나맛우유,Banana Flavored Milk,뚱바|단지우유,KR,식음료,유제품,product,binggrae,major,0
+binggrae,빙그레,Binggrae,,KR,식음료,유제품,both,,major,0
+chobani,초바니,Chobani,,US,식음료,유제품,both,,niche,0
+danone,다논,Danone,다농,FR,식음료,유제품,corporate,,mega,0
+haagen-dazs,하겐다즈,Häagen-Dazs,Haagen-Dazs,US,식음료,유제품,product,general-mills,major,0
+lactalis,락탈리스,Lactalis,,FR,식음료,유제품,corporate,,major,0
+maeil-dairies,매일유업,Maeil Dairies,매일우유,KR,식음료,유제품,both,,major,0
+namyang-dairy,남양유업,Namyang Dairy,남양,KR,식음료,유제품,both,,major,0
+oatly,오틀리,Oatly,,SE,식음료,유제품,both,,niche,0
+seoul-milk,서울우유,Seoul Milk,서울우유협동조합,KR,식음료,유제품,both,,major,0
+yakult,야쿠르트,Yakult,,JP,식음료,유제품,both,,major,0
+celsius,셀시어스,Celsius,,US,식음료,음료·탄산,both,,niche,0
+chilsung-cider,칠성사이다,Chilsung Cider,,KR,식음료,음료·탄산,product,lotte-chilsung,major,0
+coca-cola,코카콜라,Coca-Cola,코크|The Coca-Cola Company|Coke,US,식음료,음료·탄산,both,,mega,0
+dr-pepper,닥터페퍼,Dr Pepper,,US,식음료,음료·탄산,product,keurig-dr-pepper,major,0
+evian,에비앙,Evian,,FR,식음료,음료·탄산,product,danone,major,0
+fanta,환타,Fanta,,US,식음료,음료·탄산,product,coca-cola,major,0
+fiji-water,피지워터,Fiji Water,,US,식음료,음료·탄산,product,,niche,0
+gatorade,게토레이,Gatorade,,US,식음료,음료·탄산,product,pepsico,major,0
+jeju-samdasoo,제주삼다수,Jeju Samdasoo,삼다수,KR,식음료,음료·탄산,product,,major,0
+keurig-dr-pepper,큐리그닥터페퍼,Keurig Dr Pepper,KDP,US,식음료,음료·탄산,corporate,,major,0
+liquid-death,리퀴드데스,Liquid Death,,US,식음료,음료·탄산,both,,niche,0
+lotte-chilsung,롯데칠성음료,Lotte Chilsung Beverage,롯데칠성,KR,식음료,음료·탄산,corporate,lotte-group,major,0
+monster-beverage,몬스터에너지,Monster Energy,몬스터|Monster Beverage,US,식음료,음료·탄산,both,,major,0
+olipop,올리팝,Olipop,,US,식음료,음료·탄산,both,,niche,0
+pepsi,펩시,Pepsi,펩시콜라,US,식음료,음료·탄산,product,pepsico,mega,0
+perrier,페리에,Perrier,,FR,식음료,음료·탄산,product,nestle,major,0
+poppi,파피,Poppi,,US,식음료,음료·탄산,product,pepsico,niche,0
+red-bull,레드불,Red Bull,,AT,식음료,음료·탄산,both,,mega,0
+san-pellegrino,산펠레그리노,S.Pellegrino,San Pellegrino,IT,식음료,음료·탄산,product,nestle,major,0
+sprite,스프라이트,Sprite,,US,식음료,음료·탄산,product,coca-cola,mega,0
+ajinomoto,아지노모토,Ajinomoto,,JP,식음료,조미료·소스,both,,major,0
+chungjungone,청정원,Chungjungone,,KR,식음료,조미료·소스,product,daesang,major,0
+daesang,대상,Daesang,,KR,식음료,조미료·소스,both,,major,0
+heinz,하인즈,Heinz,,US,식음료,조미료·소스,product,kraft-heinz,mega,0
+kewpie,큐피,Kewpie,,JP,식음료,조미료·소스,both,,niche,0
+kikkoman,기꼬만,Kikkoman,깃코만,JP,식음료,조미료·소스,both,,major,0
+kraft-heinz,크래프트하인즈,Kraft Heinz,,US,식음료,조미료·소스,corporate,,mega,0
+lee-kum-kee,이금기,Lee Kum Kee,,HK,식음료,조미료·소스,both,,major,0
+maggi,매기,Maggi,,CH,식음료,조미료·소스,product,nestle,major,0
+miwon,미원,Miwon,,KR,식음료,조미료·소스,product,daesang,major,0
+nutella,누텔라,Nutella,,IT,식음료,조미료·소스,product,ferrero,mega,0
+ab-inbev,AB인베브,Anheuser-Busch InBev,AB InBev|앤하이저부시인베브,BE,식음료,주류,corporate,,mega,0
+absolut,앱솔루트,Absolut Vodka,Absolut,SE,식음료,주류,product,pernod-ricard,major,0
+asahi,아사히,Asahi,아사히맥주|Asahi Group|아사히 슈퍼드라이,JP,식음료,주류,both,,major,0
+bacardi,바카디,Bacardi,,BM,식음료,주류,both,,major,0
+brown-forman,브라운포맨,Brown-Forman,,US,식음료,주류,corporate,,major,0
+budweiser,버드와이저,Budweiser,버드,US,식음료,주류,product,ab-inbev,mega,0
+carlsberg,칼스버그,Carlsberg,,DK,식음료,주류,both,,major,0
+cass,카스,Cass,,KR,식음료,주류,product,oriental-brewery,major,0
+chamisul,참이슬,Chamisul,,KR,식음료,주류,product,hitejinro,major,0
+chivas-regal,시바스리갈,Chivas Regal,,GB,식음료,주류,product,pernod-ricard,major,0
+chum-churum,처음처럼,Chum Churum,,KR,식음료,주류,product,lotte-chilsung,major,0
+corona,코로나,Corona,코로나엑스트라,MX,식음료,주류,product,ab-inbev,mega,0
+diageo,디아지오,Diageo,,GB,식음료,주류,corporate,,mega,0
+guinness,기네스,Guinness,,IE,식음료,주류,product,diageo,major,0
+heineken,하이네켄,Heineken,,NL,식음료,주류,both,,mega,0
+hennessy,헤네시,Hennessy,,FR,식음료,주류,product,lvmh,mega,0
+hitejinro,하이트진로,HiteJinro,하이트|진로,KR,식음료,주류,both,,major,0
+jack-daniels,잭다니엘,Jack Daniel's,잭다니엘스,US,식음료,주류,product,brown-forman,mega,0
+jameson,제임슨,Jameson,,IE,식음료,주류,product,pernod-ricard,major,0
+jim-beam,짐빔,Jim Beam,,US,식음료,주류,product,suntory,major,0
+johnnie-walker,조니워커,Johnnie Walker,,GB,식음료,주류,product,diageo,mega,0
+kirin,기린,Kirin Holdings,기린맥주|Kirin,JP,식음료,주류,both,,major,0
+kweichow-moutai,마오타이,Kweichow Moutai,구이저우마오타이|모태주,CN,식음료,주류,both,,major,0
+macallan,맥캘란,The Macallan,Macallan,GB,식음료,주류,product,,major,0
+moet-chandon,모엣샹동,Moët & Chandon,Moet,FR,식음료,주류,product,lvmh,major,0
+oriental-brewery,오비맥주,Oriental Brewery,OB맥주|OB,KR,식음료,주류,corporate,ab-inbev,major,0
+pernod-ricard,페르노리카,Pernod Ricard,,FR,식음료,주류,corporate,,mega,0
+sapporo,삿포로,Sapporo,삿포로맥주,JP,식음료,주류,both,,niche,0
+smirnoff,스미노프,Smirnoff,,GB,식음료,주류,product,diageo,major,0
+stella-artois,스텔라아르투아,Stella Artois,스텔라,BE,식음료,주류,product,ab-inbev,major,0
+suntory,산토리,Suntory Holdings,Suntory,JP,식음료,주류,corporate,,major,0
+terra,테라,Terra,,KR,식음료,주류,product,hitejinro,major,0
+tsingtao,칭따오,Tsingtao,칭다오맥주,CN,식음료,주류,both,,major,0
+yamazaki,야마자키,Yamazaki,,JP,식음료,주류,product,suntory,niche,0
+dongsuh-foods,동서식품,Dongsuh Foods,,KR,식음료,커피·차,both,,major,0
+nescafe,네스카페,Nescafé,Nescafe,CH,식음료,커피·차,product,nestle,mega,0
+nespresso,네스프레소,Nespresso,,CH,식음료,커피·차,product,nestle,major,0
+catl,CATL,Contemporary Amperex Technology,닝더스다이|宁德时代,CN,에너지·화학·소재,배터리,both,,mega,1
+duracell,듀라셀,Duracell,,US,에너지·화학·소재,배터리,both,,major,0
+ecopro,에코프로,EcoPro,,KR,에너지·화학·소재,배터리,corporate,,major,1
+ecopro-bm,에코프로비엠,EcoPro BM,,KR,에너지·화학·소재,배터리,both,ecopro,niche,1
+lg-energy-solution,LG에너지솔루션,LG Energy Solution,LG엔솔|엘지엔솔|LGES,KR,에너지·화학·소재,배터리,both,lg-chem,major,1
+lnf,엘앤에프,L&F,,KR,에너지·화학·소재,배터리,both,,niche,1
+posco-future-m,포스코퓨처엠,POSCO Future M,포스코케미칼,KR,에너지·화학·소재,배터리,both,posco-group,niche,1
+samsung-sdi,삼성SDI,Samsung SDI,,KR,에너지·화학·소재,배터리,both,samsung-group,major,1
+sk-on,SK온,SK On,,KR,에너지·화학·소재,배터리,both,sk-innovation,major,1
+adnoc,아드녹,ADNOC,아부다비국영석유공사,AE,에너지·화학·소재,석유·가스,both,,major,1
+bp,BP,BP,브리티시페트롤리엄|British Petroleum,GB,에너지·화학·소재,석유·가스,both,,mega,0
+chevron,셰브론,Chevron,쉐브론|Texaco,US,에너지·화학·소재,석유·가스,both,,mega,0
+exxonmobil,엑슨모빌,ExxonMobil,엑손모빌|Exxon|Mobil|모빌,US,에너지·화학·소재,석유·가스,both,,mega,0
+gs-caltex,GS칼텍스,GS Caltex,칼텍스,KR,에너지·화학·소재,석유·가스,both,gs-group,major,0
+hd-hyundai-oilbank,HD현대오일뱅크,HD Hyundai Oilbank,현대오일뱅크|오일뱅크,KR,에너지·화학·소재,석유·가스,both,hd-hyundai,major,0
+kogas,한국가스공사,Korea Gas Corporation,가스공사|KOGAS,KR,에너지·화학·소재,석유·가스,corporate,,major,1
+s-oil,S-OIL,S-OIL,에쓰오일|에스오일|구도일,KR,에너지·화학·소재,석유·가스,both,saudi-aramco,major,0
+saudi-aramco,사우디아람코,Saudi Aramco,아람코|Aramco,SA,에너지·화학·소재,석유·가스,both,,mega,1
+shell,셸,Shell,쉘|Royal Dutch Shell,GB,에너지·화학·소재,석유·가스,both,,mega,0
+sinopec,시노펙,Sinopec,중국석유화공|中国石化,CN,에너지·화학·소재,석유·가스,both,,major,1
+sk-energy,SK에너지,SK Energy,SK주유소,KR,에너지·화학·소재,석유·가스,both,sk-innovation,major,0
+sk-innovation,SK이노베이션,SK Innovation,SK이노,KR,에너지·화학·소재,석유·가스,corporate,sk-group,major,1
+totalenergies,토탈에너지스,TotalEnergies,토탈|Total,FR,에너지·화학·소재,석유·가스,both,,major,0
+corning,코닝,Corning,고릴라글래스|Gorilla Glass,US,에너지·화학·소재,소재,both,,major,1
+hyosung-tnc,효성티앤씨,Hyosung TNC,크레오라|creora,KR,에너지·화학·소재,소재,both,hyosung-group,niche,1
+kolon-industries,코오롱인더스트리,Kolon Industries,코오롱인더,KR,에너지·화학·소재,소재,both,kolon-group,major,1
+saint-gobain,생고뱅,Saint-Gobain,,FR,에너지·화학·소재,소재,both,,major,1
+shin-etsu,신에츠화학,Shin-Etsu Chemical,신에쓰|신에츠,JP,에너지·화학·소재,소재,both,,major,1
+toray,도레이,Toray Industries,,JP,에너지·화학·소재,소재,both,,major,1
+edf,EDF,Électricité de France,프랑스전력공사,FR,에너지·화학·소재,전력·신재생,both,,major,0
+hanwha-qcells,한화큐셀,Hanwha Qcells,큐셀|Qcells,KR,에너지·화학·소재,전력·신재생,product,hanwha-solutions,major,0
+kepco,한국전력,Korea Electric Power Corporation,한전|KEPCO|한국전력공사,KR,에너지·화학·소재,전력·신재생,corporate,,major,0
+khnp,한국수력원자력,Korea Hydro & Nuclear Power,한수원|KHNP,KR,에너지·화학·소재,전력·신재생,corporate,kepco,major,1
+nextera-energy,넥스트에라에너지,NextEra Energy,넥스테라,US,에너지·화학·소재,전력·신재생,corporate,,major,1
+orsted,외르스테드,Ørsted,오스테드|Orsted,DK,에너지·화학·소재,전력·신재생,both,,niche,1
+siemens-energy,지멘스에너지,Siemens Energy,,DE,에너지·화학·소재,전력·신재생,both,,major,1
+vestas,베스타스,Vestas,,DK,에너지·화학·소재,전력·신재생,both,,niche,1
+arcelormittal,아르셀로미탈,ArcelorMittal,,LU,에너지·화학·소재,철강·금속,both,,major,1
+baowu,중국바오우강철,China Baowu Steel Group,바오우|바오스틸|宝武,CN,에너지·화학·소재,철강·금속,both,,major,1
+bhp,BHP,BHP,BHP빌리턴|BHP Billiton,AU,에너지·화학·소재,철강·금속,both,,major,1
+glencore,글렌코어,Glencore,,CH,에너지·화학·소재,철강·금속,both,,major,1
+hyundai-steel,현대제철,Hyundai Steel,,KR,에너지·화학·소재,철강·금속,both,hyundai-motor-group,major,1
+korea-zinc,고려아연,Korea Zinc,,KR,에너지·화학·소재,철강·금속,both,,major,1
+nippon-steel,일본제철,Nippon Steel,신일본제철|닛폰스틸,JP,에너지·화학·소재,철강·금속,both,,major,1
+posco,포스코,POSCO,포항제철,KR,에너지·화학·소재,철강·금속,both,posco-group,major,1
+rio-tinto,리오틴토,Rio Tinto,,GB,에너지·화학·소재,철강·금속,both,,major,1
+air-liquide,에어리퀴드,Air Liquide,,FR,에너지·화학·소재,화학,both,,major,1
+basf,바스프,BASF,,DE,에너지·화학·소재,화학,both,,mega,1
+dow,다우,Dow,다우케미칼|Dow Chemical,US,에너지·화학·소재,화학,both,,major,1
+dupont,듀폰,DuPont,,US,에너지·화학·소재,화학,both,,major,1
+hanwha-solutions,한화솔루션,Hanwha Solutions,,KR,에너지·화학·소재,화학,corporate,hanwha-group,major,1
+kumho-petrochemical,금호석유화학,Kumho Petrochemical,금호석화,KR,에너지·화학·소재,화학,both,,niche,1
+lg-chem,LG화학,LG Chem,,KR,에너지·화학·소재,화학,both,lg-group,major,1
+linde,린데,Linde,,GB,에너지·화학·소재,화학,both,,major,1
+lotte-chemical,롯데케미칼,Lotte Chemical,,KR,에너지·화학·소재,화학,both,lotte-group,major,1
+sabic,사빅,SABIC,사우디기초산업공사,SA,에너지·화학·소재,화학,both,saudi-aramco,major,1
+agoda,아고다,Agoda,,SG,여행·항공·호텔,여행플랫폼,both,booking-holdings,major,0
+airbnb,에어비앤비,Airbnb,,US,여행·항공·호텔,여행플랫폼,both,,mega,0
+booking-com,부킹닷컴,Booking.com,부킹|Booking,NL,여행·항공·호텔,여행플랫폼,both,booking-holdings,mega,0
+booking-holdings,부킹홀딩스,Booking Holdings,Priceline Group,US,여행·항공·호텔,여행플랫폼,corporate,,major,0
+expedia,익스피디아,Expedia,익스피디아 그룹|Expedia Group,US,여행·항공·호텔,여행플랫폼,both,,mega,0
+hanatour,하나투어,Hanatour,,KR,여행·항공·호텔,여행플랫폼,both,,major,0
+hotels-com,호텔스닷컴,Hotels.com,,US,여행·항공·호텔,여행플랫폼,both,expedia,major,0
+interpark-triple,인터파크트리플,Interpark Triple,인터파크투어|트리플|NOL 인터파크투어,KR,여행·항공·호텔,여행플랫폼,both,yanolja,major,0
+kayak,카약,KAYAK,,US,여행·항공·호텔,여행플랫폼,both,booking-holdings,niche,0
+kkday,케이케이데이,KKday,KK데이,TW,여행·항공·호텔,여행플랫폼,both,,niche,0
+klook,클룩,Klook,,HK,여행·항공·호텔,여행플랫폼,both,,niche,0
+modetour,모두투어,Modetour,,KR,여행·항공·호텔,여행플랫폼,both,,major,0
+myrealtrip,마이리얼트립,MyRealTrip,마리트,KR,여행·항공·호텔,여행플랫폼,both,,major,0
+skyscanner,스카이스캐너,Skyscanner,,GB,여행·항공·호텔,여행플랫폼,both,trip-com,major,0
+trip-com,트립닷컴,Trip.com,씨트립|Ctrip|Trip.com Group,CN,여행·항공·호텔,여행플랫폼,both,,major,0
+tripadvisor,트립어드바이저,Tripadvisor,,US,여행·항공·호텔,여행플랫폼,both,,major,0
+trivago,트리바고,trivago,,DE,여행·항공·호텔,여행플랫폼,both,expedia,major,0
+verygoodtour,참좋은여행,Very Good Tour,,KR,여행·항공·호텔,여행플랫폼,both,,niche,0
+vrbo,브르보,Vrbo,Vacation Rentals by Owner,US,여행·항공·호텔,여행플랫폼,both,expedia,niche,0
+yanolja,야놀자,Yanolja,놀유니버스|NOL|놀,KR,여행·항공·호텔,여행플랫폼,both,,major,0
+ybtour,노랑풍선,Yellow Balloon Tour,,KR,여행·항공·호텔,여행플랫폼,both,,niche,0
+yeogi-eottae,여기어때,Yeogi Eottae,여기어때컴퍼니|goodchoice,KR,여행·항공·호텔,여행플랫폼,both,,major,0
+caribbean-bay,캐리비안 베이,Caribbean Bay,캐리비안베이|캐비,KR,여행·항공·호텔,크루즈·테마파크,product,everland,niche,0
+carnival-cruise,카니발 크루즈,Carnival Cruise Line,카니발|Carnival Corporation,US,여행·항공·호텔,크루즈·테마파크,both,,major,0
+disney-parks,디즈니랜드,Disneyland,디즈니 파크|Disney Parks|디즈니월드,US,여행·항공·호텔,크루즈·테마파크,product,disney,mega,0
+everland,에버랜드,Everland,에버랜드 리조트,KR,여행·항공·호텔,크루즈·테마파크,both,samsung-group,major,0
+legoland,레고랜드,Legoland,레고랜드 코리아,GB,여행·항공·호텔,크루즈·테마파크,both,,major,0
+lotte-world,롯데월드,Lotte World,롯데월드 어드벤처,KR,여행·항공·호텔,크루즈·테마파크,both,lotte-group,major,0
+msc-cruises,MSC 크루즈,MSC Cruises,MSC크루즈,CH,여행·항공·호텔,크루즈·테마파크,both,,major,0
+norwegian-cruise-line,노르웨이지안 크루즈 라인,Norwegian Cruise Line,NCL|노르웨이지안,US,여행·항공·호텔,크루즈·테마파크,both,,major,0
+princess-cruises,프린세스 크루즈,Princess Cruises,,US,여행·항공·호텔,크루즈·테마파크,product,carnival-cruise,niche,0
+royal-caribbean,로열캐리비안,Royal Caribbean,로열 캐리비안 크루즈|Royal Caribbean International,US,여행·항공·호텔,크루즈·테마파크,both,,major,0
+seaworld,씨월드,SeaWorld,,US,여행·항공·호텔,크루즈·테마파크,both,,niche,0
+seoul-land,서울랜드,Seoul Land,,KR,여행·항공·호텔,크루즈·테마파크,both,,niche,0
+six-flags,식스 플래그,Six Flags,식스플래그,US,여행·항공·호텔,크루즈·테마파크,both,,major,0
+tokyo-disney-resort,도쿄 디즈니 리조트,Tokyo Disney Resort,도쿄디즈니랜드|도쿄디즈니씨,JP,여행·항공·호텔,크루즈·테마파크,product,,major,0
+universal-studios,유니버설 스튜디오,Universal Studios,유니버설 스튜디오 재팬|USJ|Universal Parks & Resorts,US,여행·항공·호텔,크루즈·테마파크,product,nbcuniversal,mega,0
+virgin-voyages,버진 보야지스,Virgin Voyages,,GB,여행·항공·호텔,크루즈·테마파크,both,virgin-group,niche,0
+air-busan,에어부산,Air Busan,,KR,여행·항공·호텔,항공사,both,korean-air,niche,0
+air-france,에어프랑스,Air France,,FR,여행·항공·호텔,항공사,both,,mega,0
+air-india,에어인디아,Air India,,IN,여행·항공·호텔,항공사,both,tata-group,major,0
+air-premia,에어프레미아,Air Premia,,KR,여행·항공·호텔,항공사,both,,niche,0
+air-seoul,에어서울,Air Seoul,,KR,여행·항공·호텔,항공사,both,korean-air,niche,0
+airasia,에어아시아,AirAsia,,MY,여행·항공·호텔,항공사,both,,major,0
+american-airlines,아메리칸항공,American Airlines,아메리칸에어라인,US,여행·항공·호텔,항공사,both,,mega,0
+ana,전일본공수,All Nippon Airways,ANA|全日空,JP,여행·항공·호텔,항공사,both,,major,0
+asiana-airlines,아시아나항공,Asiana Airlines,아시아나|Asiana,KR,여행·항공·호텔,항공사,both,korean-air,major,0
+british-airways,영국항공,British Airways,브리티시 에어웨이즈|BA,GB,여행·항공·호텔,항공사,both,,mega,0
+cathay-pacific,캐세이퍼시픽,Cathay Pacific,캐세이|Cathay,HK,여행·항공·호텔,항공사,both,swire-group,major,0
+delta-air-lines,델타항공,Delta Air Lines,델타|Delta,US,여행·항공·호텔,항공사,both,,mega,0
+eastar-jet,이스타항공,Eastar Jet,이스타,KR,여행·항공·호텔,항공사,both,,niche,0
+easyjet,이지젯,easyJet,,GB,여행·항공·호텔,항공사,both,,major,0
+emirates,에미레이트항공,Emirates,에미레이트|Emirates Airline,AE,여행·항공·호텔,항공사,both,,mega,0
+etihad-airways,에티하드항공,Etihad Airways,에티하드,AE,여행·항공·호텔,항공사,both,,major,0
+eva-air,에바항공,EVA Air,,TW,여행·항공·호텔,항공사,both,,niche,0
+finnair,핀에어,Finnair,,FI,여행·항공·호텔,항공사,both,,niche,0
+jal,일본항공,Japan Airlines,JAL|日本航空,JP,여행·항공·호텔,항공사,both,,major,0
+jeju-air,제주항공,Jeju Air,JEJUair,KR,여행·항공·호텔,항공사,both,aekyung-group,major,0
+jin-air,진에어,Jin Air,JIN AIR,KR,여행·항공·호텔,항공사,both,korean-air,major,0
+klm,KLM,KLM Royal Dutch Airlines,KLM 네덜란드항공,NL,여행·항공·호텔,항공사,both,,major,0
+korean-air,대한항공,Korean Air,KAL|Korean Air Lines,KR,여행·항공·호텔,항공사,both,hanjin-group,major,0
+lufthansa,루프트한자,Lufthansa,Deutsche Lufthansa,DE,여행·항공·호텔,항공사,both,,mega,0
+peach-aviation,피치항공,Peach Aviation,피치|Peach,JP,여행·항공·호텔,항공사,both,,niche,0
+qantas,콴타스항공,Qantas,콴타스,AU,여행·항공·호텔,항공사,both,,major,0
+qatar-airways,카타르항공,Qatar Airways,,QA,여행·항공·호텔,항공사,both,,mega,0
+ryanair,라이언에어,Ryanair,,IE,여행·항공·호텔,항공사,both,,major,0
+singapore-airlines,싱가포르항공,Singapore Airlines,SIA|싱가포르에어라인,SG,여행·항공·호텔,항공사,both,,mega,0
+southwest-airlines,사우스웨스트항공,Southwest Airlines,사우스웨스트,US,여행·항공·호텔,항공사,both,,major,0
+turkish-airlines,터키항공,Turkish Airlines,튀르키예항공,TR,여행·항공·호텔,항공사,both,,major,0
+tway-air,티웨이항공,T'way Air,티웨이|트리니티항공,KR,여행·항공·호텔,항공사,both,sono-group,major,0
+united-airlines,유나이티드항공,United Airlines,유나이티드|United,US,여행·항공·호텔,항공사,both,,mega,0
+vietjet,비엣젯항공,VietJet Air,비엣젯|VietJet,VN,여행·항공·호텔,항공사,both,,niche,0
+vietnam-airlines,베트남항공,Vietnam Airlines,,VN,여행·항공·호텔,항공사,both,,niche,0
+virgin-atlantic,버진애틀랜틱,Virgin Atlantic,,GB,여행·항공·호텔,항공사,both,virgin-group,major,0
+accor,아코르,Accor,아코르 호텔|Accor Hotels,FR,여행·항공·호텔,호텔·리조트,corporate,,major,0
+ace-hotel,에이스 호텔,Ace Hotel,에이스호텔,US,여행·항공·호텔,호텔·리조트,both,,niche,0
+aman,아만,Aman,아만 리조트|Aman Resorts,CH,여행·항공·호텔,호텔·리조트,both,,major,0
+andaz,안다즈,Andaz,,US,여행·항공·호텔,호텔·리조트,product,hyatt,niche,0
+banyan-tree,반얀트리,Banyan Tree,반얀트리 호텔,SG,여행·항공·호텔,호텔·리조트,both,,major,0
+citizenm,시티즌엠,citizenM,,NL,여행·항공·호텔,호텔·리조트,product,marriott,niche,0
+club-med,클럽메드,Club Med,클럽 메드,FR,여행·항공·호텔,호텔·리조트,both,fosun-group,major,0
+conrad,콘래드,Conrad Hotels & Resorts,콘래드 호텔,US,여행·항공·호텔,호텔·리조트,product,hilton,major,0
+fairmont,페어몬트,Fairmont Hotels & Resorts,페어몬트 호텔,CA,여행·항공·호텔,호텔·리조트,product,accor,major,0
+four-seasons,포시즌스,Four Seasons Hotels and Resorts,포시즌스 호텔|포시즌,CA,여행·항공·호텔,호텔·리조트,both,,mega,0
+glad-hotels,글래드호텔,GLAD Hotels,글래드|GLAD,KR,여행·항공·호텔,호텔·리조트,both,dl-group,niche,0
+hanwha-resorts,한화리조트,Hanwha Hotels & Resorts,한화호텔앤드리조트|더플라자,KR,여행·항공·호텔,호텔·리조트,both,hanwha-group,major,0
+hilton,힐튼,Hilton,힐튼 호텔|Hilton Worldwide,US,여행·항공·호텔,호텔·리조트,both,,mega,0
+holiday-inn,홀리데이 인,Holiday Inn,홀리데이인,US,여행·항공·호텔,호텔·리조트,product,ihg,major,0
+hoshino-resorts,호시노 리조트,Hoshino Resorts,호시노야|星野リゾート,JP,여행·항공·호텔,호텔·리조트,both,,niche,0
+hotel-shilla,신라호텔,The Shilla,호텔신라|더 신라,KR,여행·항공·호텔,호텔·리조트,both,samsung-group,major,0
+hyatt,하얏트,Hyatt Hotels,하얏트 호텔|Hyatt,US,여행·항공·호텔,호텔·리조트,both,,mega,0
+ibis,이비스,ibis,이비스 호텔,FR,여행·항공·호텔,호텔·리조트,product,accor,major,0
+ihg,IHG,IHG Hotels & Resorts,InterContinental Hotels Group|인터컨티넨탈 호텔 그룹,GB,여행·항공·호텔,호텔·리조트,corporate,,major,0
+intercontinental,인터컨티넨탈,InterContinental Hotels & Resorts,인터컨티넨탈 호텔,GB,여행·항공·호텔,호텔·리조트,product,ihg,major,0
+josun-hotels,조선호텔앤리조트,Josun Hotels & Resorts,조선호텔|웨스틴조선|그랜드조선|조선팰리스,KR,여행·항공·호텔,호텔·리조트,both,shinsegae-group,major,0
+jw-marriott,JW 메리어트,JW Marriott,JW메리어트,US,여행·항공·호텔,호텔·리조트,product,marriott,major,0
+kensington-hotels,켄싱턴호텔앤리조트,Kensington Hotels & Resorts,켄싱턴호텔|켄싱턴리조트,KR,여행·항공·호텔,호텔·리조트,both,eland-group,niche,0
+lotte-hotel,롯데호텔,Lotte Hotels & Resorts,호텔롯데|롯데호텔앤리조트,KR,여행·항공·호텔,호텔·리조트,both,lotte-group,major,0
+mandarin-oriental,만다린 오리엔탈,Mandarin Oriental,만다린오리엔탈,HK,여행·항공·호텔,호텔·리조트,both,jardine-matheson,major,0
+marina-bay-sands,마리나 베이 샌즈,Marina Bay Sands,마리나베이샌즈,SG,여행·항공·호텔,호텔·리조트,both,,major,0
+marriott,메리어트,Marriott International,메리어트 인터내셔널|Marriott,US,여행·항공·호텔,호텔·리조트,both,,mega,0
+novotel,노보텔,Novotel,,FR,여행·항공·호텔,호텔·리조트,product,accor,major,0
+paradise-hotels,파라다이스호텔,Paradise Hotels & Resorts,파라다이스시티,KR,여행·항공·호텔,호텔·리조트,both,paradise-group,major,0
+park-hyatt,파크 하얏트,Park Hyatt,파크하얏트,US,여행·항공·호텔,호텔·리조트,product,hyatt,major,0
+peninsula-hotels,페닌슐라,The Peninsula Hotels,페닌슐라 호텔,HK,여행·항공·호텔,호텔·리조트,both,,major,0
+raffles,래플스,Raffles Hotels & Resorts,래플스 호텔,SG,여행·항공·호텔,호텔·리조트,product,accor,major,0
+ritz-carlton,리츠칼튼,The Ritz-Carlton,리츠칼튼 호텔|Ritz-Carlton,US,여행·항공·호텔,호텔·리조트,product,marriott,mega,0
+rosewood,로즈우드,Rosewood Hotels & Resorts,로즈우드 호텔,HK,여행·항공·호텔,호텔·리조트,both,,major,0
+shangri-la,샹그릴라,Shangri-La Hotels and Resorts,샹그릴라 호텔,HK,여행·항공·호텔,호텔·리조트,both,,major,0
+shilla-stay,신라스테이,Shilla Stay,,KR,여행·항공·호텔,호텔·리조트,product,hotel-shilla,niche,0
+signiel,시그니엘,SIGNIEL,시그니엘 서울,KR,여행·항공·호텔,호텔·리조트,product,lotte-hotel,major,0
+six-senses,식스센스,Six Senses,식스센스 리조트,TH,여행·항공·호텔,호텔·리조트,product,ihg,niche,0
+sofitel,소피텔,Sofitel,,FR,여행·항공·호텔,호텔·리조트,product,accor,major,0
+sono-hotels,소노호텔앤리조트,Sono Hotels & Resorts,소노|대명리조트|비발디파크,KR,여행·항공·호텔,호텔·리조트,both,sono-group,major,0
+taj-hotels,타지 호텔,Taj Hotels,타지|IHCL,IN,여행·항공·호텔,호텔·리조트,product,tata-group,major,0
+toyoko-inn,토요코인,Toyoko Inn,東横イン,JP,여행·항공·호텔,호텔·리조트,both,,niche,0
+w-hotels,W 호텔,W Hotels,W호텔,US,여행·항공·호텔,호텔·리조트,product,marriott,major,0
+waldorf-astoria,월도프 아스토리아,Waldorf Astoria,월도프아스토리아,US,여행·항공·호텔,호텔·리조트,product,hilton,major,0
+walkerhill,워커힐,Walkerhill,그랜드워커힐|워커힐호텔,KR,여행·항공·호텔,호텔·리조트,both,sk-group,major,0
+westin,웨스틴,Westin Hotels & Resorts,웨스틴 호텔,US,여행·항공·호텔,호텔·리조트,product,marriott,major,0
+cj-foodville,CJ푸드빌,CJ Foodville,,KR,외식,레스토랑체인,corporate,cj-group,major,0
+din-tai-fung,딘타이펑,Din Tai Fung,鼎泰豐,TW,외식,레스토랑체인,both,,major,0
+ichiran,이치란,Ichiran,이치란라멘,JP,외식,레스토랑체인,both,,niche,0
+outback,아웃백,Outback Steakhouse,아웃백스테이크하우스,US,외식,레스토랑체인,both,,major,0
+theborn-korea,더본코리아,The Born Korea,백종원,KR,외식,레스토랑체인,corporate,,major,0
+vips,빕스,VIPS,,KR,외식,레스토랑체인,both,cj-foodville,major,0
+bbq,BBQ,Genesis BBQ,비비큐|제너시스BBQ,KR,외식,배달·프랜차이즈,both,,major,0
+bhc,bhc치킨,bhc Chicken,bhc,KR,외식,배달·프랜차이즈,both,,major,0
+bonjuk,본죽,Bonjuk,,KR,외식,배달·프랜차이즈,both,,major,0
+dominos,도미노피자,Domino's,도미노,US,외식,배달·프랜차이즈,both,,mega,0
+goobne,굽네치킨,Goobne Chicken,굽네,KR,외식,배달·프랜차이즈,both,,major,0
+kyochon,교촌치킨,Kyochon Chicken,교촌|교촌에프앤비,KR,외식,배달·프랜차이즈,both,,major,0
+papa-johns,파파존스,Papa John's,,US,외식,배달·프랜차이즈,both,,major,0
+pizza-hut,피자헛,Pizza Hut,,US,외식,배달·프랜차이즈,both,yum-brands,mega,0
+baskin-robbins,배스킨라빈스,Baskin-Robbins,베라|31,US,외식,베이커리·디저트,both,inspire-brands,major,0
+dunkin,던킨,Dunkin',던킨도너츠,US,외식,베이커리·디저트,both,inspire-brands,major,0
+knotted,노티드,Knotted,노티드도넛,KR,외식,베이커리·디저트,both,,niche,0
+krispy-kreme,크리스피크림,Krispy Kreme,크리스피크림도넛,US,외식,베이커리·디저트,both,,major,0
+london-bagel-museum,런던베이글뮤지엄,London Bagel Museum,런베뮤,KR,외식,베이커리·디저트,both,,niche,0
+paris-baguette,파리바게뜨,Paris Baguette,파바,KR,외식,베이커리·디저트,both,spc-group,major,0
+spc-group,SPC그룹,SPC Group,SPC,KR,외식,베이커리·디저트,corporate,,major,0
+sulbing,설빙,Sulbing,,KR,외식,베이커리·디저트,both,,niche,0
+sungsimdang,성심당,Sungsimdang,,KR,외식,베이커리·디저트,both,,niche,0
+tous-les-jours,뚜레쥬르,Tous les Jours,,KR,외식,베이커리·디저트,both,cj-foodville,major,0
+arabica,% 아라비카,% Arabica,아라비카|응커피,JP,외식,카페체인,both,,niche,0
+blue-bottle,블루보틀,Blue Bottle Coffee,,US,외식,카페체인,both,nestle,niche,0
+chagee,차지,Chagee,霸王茶姬,CN,외식,카페체인,both,,niche,0
+coffee-bean,커피빈,The Coffee Bean & Tea Leaf,,US,외식,카페체인,both,jollibee,major,0
+compose-coffee,컴포즈커피,Compose Coffee,컴포즈,KR,외식,카페체인,both,jollibee,major,0
+costa-coffee,코스타커피,Costa Coffee,,GB,외식,카페체인,both,,major,0
+ediya,이디야커피,Ediya Coffee,이디야,KR,외식,카페체인,both,,major,0
+fritz-coffee,프릳츠,Fritz Coffee Company,프릳츠커피,KR,외식,카페체인,both,,niche,0
+gong-cha,공차,Gong cha,,TW,외식,카페체인,both,,major,0
+heytea,헤이티,HeyTea,喜茶,CN,외식,카페체인,both,,niche,0
+hollys,할리스,Hollys Coffee,할리스커피,KR,외식,카페체인,both,,major,0
+luckin-coffee,루이싱커피,Luckin Coffee,瑞幸咖啡,CN,외식,카페체인,both,,major,0
+mega-coffee,메가커피,Mega MGC Coffee,메가MGC커피|메가커피,KR,외식,카페체인,both,,major,0
+mixue,미쉐,Mixue,蜜雪冰城|미쉐빙청,CN,외식,카페체인,both,,major,0
+paik-dabang,빽다방,Paik's Coffee,,KR,외식,카페체인,both,theborn-korea,major,0
+paul-bassett,폴바셋,Paul Bassett,,KR,외식,카페체인,both,,niche,0
+starbucks,스타벅스,Starbucks,스벅,US,외식,카페체인,both,,mega,0
+terarosa,테라로사,Terarosa,,KR,외식,카페체인,both,,niche,0
+tim-hortons,팀홀튼,Tim Hortons,팀호튼,CA,외식,카페체인,both,rbi,major,0
+twosome-place,투썸플레이스,A Twosome Place,투썸,KR,외식,카페체인,both,,major,0
+burger-king,버거킹,Burger King,,US,외식,패스트푸드,both,rbi,mega,0
+chick-fil-a,칙필레,Chick-fil-A,,US,외식,패스트푸드,both,,major,0
+chipotle,치폴레,Chipotle Mexican Grill,Chipotle,US,외식,패스트푸드,both,,major,0
+five-guys,파이브가이즈,Five Guys,,US,외식,패스트푸드,both,,niche,0
+in-n-out,인앤아웃,In-N-Out Burger,인앤아웃버거,US,외식,패스트푸드,both,,niche,0
+inspire-brands,인스파이어브랜즈,Inspire Brands,,US,외식,패스트푸드,corporate,,major,0
+jollibee,졸리비,Jollibee Foods,Jollibee,PH,외식,패스트푸드,both,,major,0
+kfc,KFC,KFC,켄터키프라이드치킨,US,외식,패스트푸드,both,yum-brands,mega,0
+lotteria,롯데리아,Lotteria,,KR,외식,패스트푸드,both,lotte-group,major,0
+mcdonalds,맥도날드,McDonald's,맥날|맥도널드,US,외식,패스트푸드,both,,mega,0
+moms-touch,맘스터치,Mom's Touch,,KR,외식,패스트푸드,both,,major,0
+popeyes,파파이스,Popeyes,,US,외식,패스트푸드,both,rbi,major,0
+rbi,레스토랑브랜즈인터내셔널,Restaurant Brands International,RBI,CA,외식,패스트푸드,corporate,,major,0
+shake-shack,쉐이크쉑,Shake Shack,쉑쉑,US,외식,패스트푸드,both,,niche,0
+subway,서브웨이,Subway,,US,외식,패스트푸드,both,,mega,0
+taco-bell,타코벨,Taco Bell,,US,외식,패스트푸드,both,yum-brands,major,0
+wendys,웬디스,Wendy's,,US,외식,패스트푸드,both,,major,0
+wingstop,윙스탑,Wingstop,,US,외식,패스트푸드,both,,niche,0
+yum-brands,얌브랜즈,Yum! Brands,Yum Brands,US,외식,패스트푸드,corporate,,mega,0
+daiso,다이소,Daiso,아성다이소,KR,유통·이커머스,가구·생활유통,both,,major,0
+home-depot,홈디포,The Home Depot,Home Depot,US,유통·이커머스,가구·생활유통,both,,major,0
+muji,무인양품,MUJI,무지|良品計画|료힌케이카쿠,JP,유통·이커머스,가구·생활유통,both,,major,0
+ohouse,오늘의집,Ohouse,오집|버킷플레이스,KR,유통·이커머스,가구·생활유통,both,,niche,0
+aldi,알디,Aldi,,DE,유통·이커머스,대형마트·창고형,both,,major,0
+carrefour,까르푸,Carrefour,,FR,유통·이커머스,대형마트·창고형,both,,major,0
+costco,코스트코,Costco,코스트코 홀세일|Costco Wholesale,US,유통·이커머스,대형마트·창고형,both,,mega,0
+don-quijote,돈키호테,Don Quijote,돈키|驚安の殿堂,JP,유통·이커머스,대형마트·창고형,both,,niche,0
+emart,이마트,Emart,E-MART,KR,유통·이커머스,대형마트·창고형,both,shinsegae-group,major,0
+emart-traders,트레이더스,Emart Traders,이마트 트레이더스|트레이더스 홀세일 클럽,KR,유통·이커머스,대형마트·창고형,product,emart,major,0
+homeplus,홈플러스,Homeplus,,KR,유통·이커머스,대형마트·창고형,both,,major,0
+lotte-mart,롯데마트,Lotte Mart,,KR,유통·이커머스,대형마트·창고형,both,lotte-group,major,0
+target,타깃,Target,타겟,US,유통·이커머스,대형마트·창고형,both,,major,0
+tesco,테스코,Tesco,,GB,유통·이커머스,대형마트·창고형,both,,major,0
+walmart,월마트,Walmart,,US,유통·이커머스,대형마트·창고형,both,,mega,0
+whole-foods,홀푸드마켓,Whole Foods Market,홀푸드|Whole Foods,US,유통·이커머스,대형마트·창고형,both,amazon,niche,0
+29cm,29CM,29CM,이구,KR,유통·이커머스,명품·패션플랫폼,product,musinsa,niche,0
+farfetch,파페치,Farfetch,,GB,유통·이커머스,명품·패션플랫폼,both,coupang,major,0
+kream,크림,KREAM,,KR,유통·이커머스,명품·패션플랫폼,both,naver,niche,0
+musinsa,무신사,Musinsa,,KR,유통·이커머스,명품·패션플랫폼,both,,major,0
+mytheresa,마이테레사,Mytheresa,LuxExperience,DE,유통·이커머스,명품·패션플랫폼,both,,niche,0
+ssense,센스,SSENSE,에센스,CA,유통·이커머스,명품·패션플랫폼,both,,niche,0
+w-concept,W컨셉,W Concept,더블유컨셉,KR,유통·이커머스,명품·패션플랫폼,both,ssg-com,niche,0
+zigzag,지그재그,Zigzag,카카오스타일,KR,유통·이커머스,명품·패션플랫폼,product,kakao,niche,0
+galleria,갤러리아백화점,Galleria Department Store,갤러리아|한화갤러리아,KR,유통·이커머스,백화점,both,hanwha-group,niche,0
+harrods,해러즈,Harrods,해롯|해롯백화점,GB,유통·이커머스,백화점,both,,major,0
+hyundai-department-store,현대백화점,Hyundai Department Store,더현대|The Hyundai,KR,유통·이커머스,백화점,both,hyundai-department-store-group,major,0
+lotte-department-store,롯데백화점,Lotte Department Store,롯백,KR,유통·이커머스,백화점,both,lotte-group,major,0
+macys,메이시스,Macy's,메이시스백화점,US,유통·이커머스,백화점,both,,major,0
+shinsegae-department-store,신세계백화점,Shinsegae Department Store,신세계,KR,유통·이커머스,백화점,both,shinsegae-group,major,0
+11st,11번가,11st,십일번가,KR,유통·이커머스,이커머스,both,,major,0
+alibaba,알리바바,Alibaba Group,알리바바그룹|阿里巴巴,CN,유통·이커머스,이커머스,corporate,,mega,0
+aliexpress,알리익스프레스,AliExpress,알리,CN,유통·이커머스,이커머스,product,alibaba,major,0
+amazon,아마존,Amazon,Amazon.com,US,유통·이커머스,이커머스,both,,mega,0
+coupang,쿠팡,Coupang,로켓배송,KR,유통·이커머스,이커머스,both,,major,0
+ebay,이베이,eBay,,US,유통·이커머스,이커머스,both,,major,0
+etsy,엣시,Etsy,,US,유통·이커머스,이커머스,both,,niche,0
+gmarket,G마켓,Gmarket,지마켓|옥션,KR,유통·이커머스,이커머스,both,,major,0
+jd-com,징둥닷컴,JD.com,징둥|JD|京东,CN,유통·이커머스,이커머스,both,,major,0
+kurly,컬리,Kurly,마켓컬리|샛별배송,KR,유통·이커머스,이커머스,both,,major,0
+rakuten,라쿠텐,Rakuten,,JP,유통·이커머스,이커머스,both,,major,0
+shein,쉬인,Shein,SHEIN,SG,유통·이커머스,이커머스,both,,major,0
+shopee,쇼피,Shopee,,SG,유통·이커머스,이커머스,product,,major,0
+ssg-com,SSG닷컴,SSG.COM,쓱닷컴|SSG|쓱,KR,유통·이커머스,이커머스,both,shinsegae-group,major,0
+taobao,타오바오,Taobao,淘宝,CN,유통·이커머스,이커머스,product,alibaba,major,0
+temu,테무,Temu,,CN,유통·이커머스,이커머스,product,,major,0
+cu,CU,CU,씨유|BGF리테일,KR,유통·이커머스,편의점,product,,major,0
+gs25,GS25,GS25,지에스25,KR,유통·이커머스,편의점,product,gs-group,major,0
+seven-eleven,세븐일레븐,7-Eleven,7-일레븐|세븐,JP,유통·이커머스,편의점,both,,mega,0
+anthropic,앤트로픽,Anthropic,,US,인터넷·플랫폼·게임,AI,corporate,,major,0
+chatgpt,챗GPT,ChatGPT,챗지피티|GPT,US,인터넷·플랫폼·게임,AI,product,openai,mega,0
+claude,클로드,Claude,,US,인터넷·플랫폼·게임,AI,product,anthropic,major,0
+cohere,코히어,Cohere,,CA,인터넷·플랫폼·게임,AI,both,,niche,1
+cursor,커서,Cursor,Anysphere,US,인터넷·플랫폼·게임,AI,product,,niche,0
+deepseek,딥시크,DeepSeek,,CN,인터넷·플랫폼·게임,AI,both,,major,0
+gemini,제미나이,Gemini,,US,인터넷·플랫폼·게임,AI,product,google,major,0
+google-deepmind,구글 딥마인드,Google DeepMind,딥마인드|DeepMind,GB,인터넷·플랫폼·게임,AI,corporate,google,major,1
+hugging-face,허깅페이스,Hugging Face,,US,인터넷·플랫폼·게임,AI,both,,niche,1
+midjourney,미드저니,Midjourney,,US,인터넷·플랫폼·게임,AI,both,,niche,0
+mistral-ai,미스트랄 AI,Mistral AI,미스트랄,FR,인터넷·플랫폼·게임,AI,both,,niche,0
+openai,오픈AI,OpenAI,,US,인터넷·플랫폼·게임,AI,corporate,,mega,0
+perplexity,퍼플렉시티,Perplexity,,US,인터넷·플랫폼·게임,AI,both,,niche,0
+scale-ai,스케일AI,Scale AI,,US,인터넷·플랫폼·게임,AI,corporate,,niche,1
+upstage,업스테이지,Upstage,솔라|Solar,KR,인터넷·플랫폼·게임,AI,both,,niche,1
+wrtn,뤼튼,wrtn,,KR,인터넷·플랫폼·게임,AI,both,,niche,0
+xai,xAI,xAI,그록|Grok,US,인터넷·플랫폼·게임,AI,both,,major,0
+bytedance,바이트댄스,ByteDance,,CN,인터넷·플랫폼·게임,SNS·메신저,corporate,,mega,0
+discord,디스코드,Discord,,US,인터넷·플랫폼·게임,SNS·메신저,both,,major,0
+facebook,페이스북,Facebook,페북,US,인터넷·플랫폼·게임,SNS·메신저,product,meta,mega,0
+instagram,인스타그램,Instagram,인스타,US,인터넷·플랫폼·게임,SNS·메신저,product,meta,mega,0
+kakao,카카오,Kakao,카카오톡|kakao,KR,인터넷·플랫폼·게임,SNS·메신저,both,,major,0
+kakaotalk,카카오톡,KakaoTalk,카톡,KR,인터넷·플랫폼·게임,SNS·메신저,product,kakao,major,0
+line,라인,LINE,,JP,인터넷·플랫폼·게임,SNS·메신저,product,,major,0
+linkedin,링크드인,LinkedIn,,US,인터넷·플랫폼·게임,SNS·메신저,product,microsoft,major,0
+meta,메타,Meta Platforms,Meta,US,인터넷·플랫폼·게임,SNS·메신저,corporate,,mega,0
+naver-band,밴드,BAND,네이버 밴드,KR,인터넷·플랫폼·게임,SNS·메신저,product,naver,niche,0
+pinterest,핀터레스트,Pinterest,,US,인터넷·플랫폼·게임,SNS·메신저,both,,major,0
+reddit,레딧,Reddit,,US,인터넷·플랫폼·게임,SNS·메신저,both,,major,0
+snapchat,스냅챗,Snapchat,Snap,US,인터넷·플랫폼·게임,SNS·메신저,product,,major,0
+telegram,텔레그램,Telegram,,AE,인터넷·플랫폼·게임,SNS·메신저,both,,major,0
+tiktok,틱톡,TikTok,,CN,인터넷·플랫폼·게임,SNS·메신저,product,bytedance,mega,0
+wechat,위챗,WeChat,웨이신,CN,인터넷·플랫폼·게임,SNS·메신저,product,tencent,mega,0
+weverse,위버스,Weverse,,KR,인터넷·플랫폼·게임,SNS·메신저,product,hybe,niche,0
+whatsapp,왓츠앱,WhatsApp,,US,인터넷·플랫폼·게임,SNS·메신저,product,meta,mega,0
+x-twitter,엑스(트위터),X,트위터|Twitter,US,인터넷·플랫폼·게임,SNS·메신저,both,,mega,0
+zepeto,제페토,ZEPETO,,KR,인터넷·플랫폼·게임,SNS·메신저,product,naver,niche,0
+alphabet,알파벳,Alphabet,,US,인터넷·플랫폼·게임,검색·포털,corporate,,mega,0
+android,안드로이드,Android,,US,인터넷·플랫폼·게임,검색·포털,product,google,mega,0
+baidu,바이두,Baidu,,CN,인터넷·플랫폼·게임,검색·포털,both,,major,0
+bing,빙,Microsoft Bing,Bing,US,인터넷·플랫폼·게임,검색·포털,product,microsoft,major,0
+daum,다음,Daum,,KR,인터넷·플랫폼·게임,검색·포털,product,,major,0
+google,구글,Google,,US,인터넷·플랫폼·게임,검색·포털,both,alphabet,mega,0
+naver,네이버,NAVER,NAVER|naver,KR,인터넷·플랫폼·게임,검색·포털,both,,major,0
+yahoo,야후,Yahoo,,US,인터넷·플랫폼·게임,검색·포털,both,,major,0
+bandai-namco,반다이남코,Bandai Namco,,JP,인터넷·플랫폼·게임,게임사,both,,major,0
+blizzard,블리자드,Blizzard Entertainment,블리자드 엔터테인먼트,US,인터넷·플랫폼·게임,게임사,both,microsoft,major,0
+capcom,캡콤,Capcom,,JP,인터넷·플랫폼·게임,게임사,both,,major,0
+cd-projekt,CD 프로젝트,CD Projekt,CDPR|사이버펑크,PL,인터넷·플랫폼·게임,게임사,both,,niche,0
+devsisters,데브시스터즈,Devsisters,쿠키런,KR,인터넷·플랫폼·게임,게임사,both,,niche,0
+electronic-arts,EA,Electronic Arts,일렉트로닉 아츠,US,인터넷·플랫폼·게임,게임사,both,,major,0
+epic-games,에픽게임즈,Epic Games,포트나이트|Fortnite,US,인터넷·플랫폼·게임,게임사,both,,major,0
+fromsoftware,프롬소프트웨어,FromSoftware,프롬,JP,인터넷·플랫폼·게임,게임사,both,kadokawa,niche,0
+kakao-games,카카오게임즈,Kakao Games,,KR,인터넷·플랫폼·게임,게임사,both,kakao,major,0
+konami,코나미,Konami,,JP,인터넷·플랫폼·게임,게임사,both,,major,0
+krafton,크래프톤,KRAFTON,,KR,인터넷·플랫폼·게임,게임사,both,,major,0
+mihoyo,미호요,miHoYo,호요버스|HoYoverse|원신,CN,인터넷·플랫폼·게임,게임사,both,,major,0
+minecraft,마인크래프트,Minecraft,마크,SE,인터넷·플랫폼·게임,게임사,product,microsoft,mega,0
+ncsoft,엔씨소프트,NCSOFT,엔씨|NC,KR,인터넷·플랫폼·게임,게임사,both,,major,0
+neowiz,네오위즈,NEOWIZ,,KR,인터넷·플랫폼·게임,게임사,both,,niche,0
+netease,넷이즈,NetEase,,CN,인터넷·플랫폼·게임,게임사,both,,major,0
+netmarble,넷마블,Netmarble,,KR,인터넷·플랫폼·게임,게임사,both,,major,0
+nexon,넥슨,NEXON,,KR,인터넷·플랫폼·게임,게임사,both,,major,0
+nintendo,닌텐도,Nintendo,,JP,인터넷·플랫폼·게임,게임사,both,,mega,0
+pearl-abyss,펄어비스,Pearl Abyss,검은사막,KR,인터넷·플랫폼·게임,게임사,both,,niche,0
+playstation,플레이스테이션,PlayStation,플스|PS5,JP,인터넷·플랫폼·게임,게임사,product,sony,mega,0
+pubg,배틀그라운드,PUBG: Battlegrounds,배그|PUBG,KR,인터넷·플랫폼·게임,게임사,product,krafton,major,0
+riot-games,라이엇 게임즈,Riot Games,라이엇|롤|League of Legends,US,인터넷·플랫폼·게임,게임사,both,tencent,major,0
+roblox,로블록스,Roblox,,US,인터넷·플랫폼·게임,게임사,both,,major,0
+rockstar-games,락스타 게임즈,Rockstar Games,락스타|GTA,US,인터넷·플랫폼·게임,게임사,both,take-two,major,0
+sega,세가,SEGA,,JP,인터넷·플랫폼·게임,게임사,both,,major,0
+shift-up,시프트업,SHIFT UP,,KR,인터넷·플랫폼·게임,게임사,both,,niche,0
+smilegate,스마일게이트,Smilegate,로스트아크,KR,인터넷·플랫폼·게임,게임사,both,,major,0
+square-enix,스퀘어 에닉스,Square Enix,,JP,인터넷·플랫폼·게임,게임사,both,,major,0
+steam,스팀,Steam,,US,인터넷·플랫폼·게임,게임사,product,valve,mega,0
+supercell,슈퍼셀,Supercell,클래시 오브 클랜,FI,인터넷·플랫폼·게임,게임사,both,tencent,niche,0
+take-two,테이크투,Take-Two Interactive,,US,인터넷·플랫폼·게임,게임사,corporate,,major,0
+tencent,텐센트,Tencent,,CN,인터넷·플랫폼·게임,게임사,corporate,,mega,0
+ubisoft,유비소프트,Ubisoft,,FR,인터넷·플랫폼·게임,게임사,both,,major,0
+valve,밸브,Valve,,US,인터넷·플랫폼·게임,게임사,both,,major,0
+xbox,엑스박스,Xbox,,US,인터넷·플랫폼·게임,게임사,product,microsoft,mega,0
+daangn,당근,Daangn,당근마켓|Karrot,KR,인터넷·플랫폼·게임,공유경제·O2O,both,,major,0
+soomgo,숨고,Soomgo,숨은고수,KR,인터넷·플랫폼·게임,공유경제·O2O,both,,niche,0
+zigbang,직방,Zigbang,,KR,인터넷·플랫폼·게임,공유경제·O2O,both,,niche,0
+chzzk,치지직,CHZZK,,KR,인터넷·플랫폼·게임,콘텐츠스트리밍,product,naver,niche,0
+coupang-play,쿠팡플레이,Coupang Play,,KR,인터넷·플랫폼·게임,콘텐츠스트리밍,product,coupang,major,0
+crunchyroll,크런치롤,Crunchyroll,,US,인터넷·플랫폼·게임,콘텐츠스트리밍,product,sony,niche,0
+disney-plus,디즈니플러스,Disney+,디즈니+,US,인터넷·플랫폼·게임,콘텐츠스트리밍,product,disney,mega,0
+genie-music,지니뮤직,Genie Music,지니,KR,인터넷·플랫폼·게임,콘텐츠스트리밍,both,kt,niche,0
+hbo-max,HBO 맥스,HBO Max,Max|HBO,US,인터넷·플랫폼·게임,콘텐츠스트리밍,product,,major,0
+kakao-page,카카오페이지,KakaoPage,,KR,인터넷·플랫폼·게임,콘텐츠스트리밍,product,kakao-entertainment,major,0
+melon,멜론,Melon,,KR,인터넷·플랫폼·게임,콘텐츠스트리밍,product,kakao,major,0
+naver-webtoon,네이버웹툰,NAVER WEBTOON,웹툰|WEBTOON,KR,인터넷·플랫폼·게임,콘텐츠스트리밍,product,naver,major,0
+netflix,넷플릭스,Netflix,넷플,US,인터넷·플랫폼·게임,콘텐츠스트리밍,both,,mega,0
+prime-video,프라임 비디오,Prime Video,아마존 프라임 비디오,US,인터넷·플랫폼·게임,콘텐츠스트리밍,product,amazon,major,0
+ridi,리디,RIDI,리디북스,KR,인터넷·플랫폼·게임,콘텐츠스트리밍,both,,niche,0
+soop,SOOP,SOOP,숲|아프리카TV|AfreecaTV,KR,인터넷·플랫폼·게임,콘텐츠스트리밍,both,,major,0
+spotify,스포티파이,Spotify,,SE,인터넷·플랫폼·게임,콘텐츠스트리밍,both,,mega,0
+tving,티빙,TVING,,KR,인터넷·플랫폼·게임,콘텐츠스트리밍,product,cj-enm,major,0
+twitch,트위치,Twitch,,US,인터넷·플랫폼·게임,콘텐츠스트리밍,product,amazon,major,0
+watcha,왓챠,WATCHA,왓챠피디아,KR,인터넷·플랫폼·게임,콘텐츠스트리밍,both,,niche,0
+wavve,웨이브,wavve,,KR,인터넷·플랫폼·게임,콘텐츠스트리밍,product,,major,0
+youtube,유튜브,YouTube,유튭,US,인터넷·플랫폼·게임,콘텐츠스트리밍,product,alphabet,mega,0
+naver-pay,네이버페이,Naver Pay,네이버파이낸셜,KR,인터넷·플랫폼·게임,핀테크앱,product,naver,major,0
+toss,토스,Toss,비바리퍼블리카|Viva Republica,KR,인터넷·플랫폼·게임,핀테크앱,both,,major,0
+alpine,알핀,Alpine,알피느,FR,자동차·모빌리티,럭셔리·슈퍼카,product,renault-group,niche,0
+aston-martin,애스턴마틴,Aston Martin,,GB,자동차·모빌리티,럭셔리·슈퍼카,both,,major,0
+bentley,벤틀리,Bentley Motors,,GB,자동차·모빌리티,럭셔리·슈퍼카,both,volkswagen-group,major,0
+bugatti,부가티,Bugatti,,FR,자동차·모빌리티,럭셔리·슈퍼카,both,,major,0
+ferrari,페라리,Ferrari,,IT,자동차·모빌리티,럭셔리·슈퍼카,both,,mega,0
+koenigsegg,코닉세그,Koenigsegg,쾨니그세그,SE,자동차·모빌리티,럭셔리·슈퍼카,both,,niche,0
+lamborghini,람보르기니,Automobili Lamborghini,람보,IT,자동차·모빌리티,럭셔리·슈퍼카,both,audi,mega,0
+lotus,로터스,Lotus Cars,,GB,자동차·모빌리티,럭셔리·슈퍼카,both,geely-holding,niche,0
+maserati,마세라티,Maserati,,IT,자동차·모빌리티,럭셔리·슈퍼카,product,stellantis,major,0
+mclaren,맥라렌,McLaren Automotive,,GB,자동차·모빌리티,럭셔리·슈퍼카,both,,major,0
+mercedes-amg,메르세데스-AMG,Mercedes-AMG,AMG,DE,자동차·모빌리티,럭셔리·슈퍼카,product,mercedes-benz,major,0
+mercedes-maybach,마이바흐,Mercedes-Maybach,메르세데스-마이바흐|Maybach,DE,자동차·모빌리티,럭셔리·슈퍼카,product,mercedes-benz,major,0
+pagani,파가니,Pagani,,IT,자동차·모빌리티,럭셔리·슈퍼카,both,,niche,0
+porsche,포르쉐,Porsche,포르셰,DE,자동차·모빌리티,럭셔리·슈퍼카,both,volkswagen-group,mega,0
+rolls-royce-motor-cars,롤스로이스,Rolls-Royce Motor Cars,롤스로이스 모터카,GB,자동차·모빌리티,럭셔리·슈퍼카,product,bmw-group,mega,0
+singer,싱어,Singer Vehicle Design,,US,자동차·모빌리티,럭셔리·슈퍼카,both,,niche,0
+didi,디디추싱,DiDi,디디|滴滴出行,CN,자동차·모빌리티,모빌리티서비스,both,,major,0
+grab,그랩,Grab,,SG,자동차·모빌리티,모빌리티서비스,both,,major,0
+hertz,허츠,Hertz,허츠렌터카,US,자동차·모빌리티,모빌리티서비스,both,,major,0
+kakao-mobility,카카오모빌리티,Kakao Mobility,카카오T|카카오택시,KR,자동차·모빌리티,모빌리티서비스,both,kakao,major,0
+lyft,리프트,Lyft,,US,자동차·모빌리티,모빌리티서비스,both,,major,0
+socar,쏘카,SOCAR,,KR,자동차·모빌리티,모빌리티서비스,both,,major,0
+tmap-mobility,티맵모빌리티,TMAP Mobility,티맵|T맵,KR,자동차·모빌리티,모빌리티서비스,both,sk-group,major,0
+uber,우버,Uber,,US,자동차·모빌리티,모빌리티서비스,both,,mega,0
+waymo,웨이모,Waymo,,US,자동차·모빌리티,모빌리티서비스,both,alphabet,major,0
+daimler-truck,다임러트럭,Daimler Truck,,DE,자동차·모빌리티,상용차,both,,major,1
+isuzu,이스즈,Isuzu Motors,이스즈자동차,JP,자동차·모빌리티,상용차,both,,niche,1
+man-truck-bus,만트럭버스,MAN Truck & Bus,MAN|만트럭,DE,자동차·모빌리티,상용차,both,traton,major,1
+scania,스카니아,Scania,,SE,자동차·모빌리티,상용차,both,traton,major,1
+traton,트라톤,TRATON,,DE,자동차·모빌리티,상용차,corporate,volkswagen-group,niche,1
+volvo-group,볼보그룹,AB Volvo,볼보트럭|Volvo Group,SE,자동차·모빌리티,상용차,corporate,,major,1
+acura,어큐라,Acura,아큐라,US,자동차·모빌리티,완성차,product,honda,major,0
+alfa-romeo,알파로메오,Alfa Romeo,,IT,자동차·모빌리티,완성차,product,stellantis,major,0
+audi,아우디,Audi,,DE,자동차·모빌리티,완성차,both,volkswagen-group,mega,0
+bmw,BMW,BMW,비엠더블유|비머,DE,자동차·모빌리티,완성차,product,bmw-group,mega,0
+bmw-group,BMW그룹,BMW Group,,DE,자동차·모빌리티,완성차,corporate,,mega,0
+cadillac,캐딜락,Cadillac,,US,자동차·모빌리티,완성차,product,general-motors,major,0
+chery,체리자동차,Chery,치루이,CN,자동차·모빌리티,완성차,both,,major,0
+chevrolet,쉐보레,Chevrolet,시보레|Chevy,US,자동차·모빌리티,완성차,product,general-motors,mega,0
+chrysler,크라이슬러,Chrysler,,US,자동차·모빌리티,완성차,product,stellantis,major,0
+citroen,시트로엥,Citroën,Citroen,FR,자동차·모빌리티,완성차,product,stellantis,major,0
+cupra,쿠프라,CUPRA,,ES,자동차·모빌리티,완성차,product,volkswagen-group,niche,0
+dodge,닷지,Dodge,,US,자동차·모빌리티,완성차,product,stellantis,major,0
+fiat,피아트,Fiat,,IT,자동차·모빌리티,완성차,product,stellantis,major,0
+ford,포드,Ford Motor,,US,자동차·모빌리티,완성차,both,,mega,0
+geely-holding,지리홀딩그룹,Zhejiang Geely Holding Group,지리|길리|Geely,CN,자동차·모빌리티,완성차,corporate,,major,0
+general-motors,제너럴모터스,General Motors,GM,US,자동차·모빌리티,완성차,corporate,,mega,0
+genesis,제네시스,Genesis,,KR,자동차·모빌리티,완성차,product,hyundai-motor,major,0
+gm-korea,한국GM,GM Korea,한국지엠|한국지엠주식회사,KR,자동차·모빌리티,완성차,corporate,general-motors,major,0
+gmc,GMC,GMC,,US,자동차·모빌리티,완성차,product,general-motors,major,0
+honda,혼다,Honda Motor,,JP,자동차·모빌리티,완성차,both,,mega,0
+hyundai-motor,현대자동차,Hyundai Motor,현대차|HMC,KR,자동차·모빌리티,완성차,both,hyundai-motor-group,mega,0
+infiniti,인피니티,Infiniti,,JP,자동차·모빌리티,완성차,product,nissan,major,0
+jaguar,재규어,Jaguar,,GB,자동차·모빌리티,완성차,product,jaguar-land-rover,major,0
+jaguar-land-rover,재규어랜드로버,Jaguar Land Rover,JLR,GB,자동차·모빌리티,완성차,corporate,,major,0
+jeep,지프,Jeep,,US,자동차·모빌리티,완성차,product,stellantis,mega,0
+kg-mobility,KG모빌리티,KG Mobility,KGM|쌍용자동차|쌍용차,KR,자동차·모빌리티,완성차,both,,major,0
+kia,기아,Kia,기아차|기아자동차,KR,자동차·모빌리티,완성차,both,hyundai-motor-group,mega,0
+land-rover,랜드로버,Land Rover,레인지로버|Range Rover,GB,자동차·모빌리티,완성차,product,jaguar-land-rover,major,0
+lexus,렉서스,Lexus,,JP,자동차·모빌리티,완성차,product,toyota,mega,0
+lincoln,링컨,Lincoln,,US,자동차·모빌리티,완성차,product,ford,major,0
+mazda,마쓰다,Mazda,마즈다,JP,자동차·모빌리티,완성차,both,,major,0
+mercedes-benz,메르세데스-벤츠,Mercedes-Benz,벤츠|Benz,DE,자동차·모빌리티,완성차,product,mercedes-benz-group,mega,0
+mercedes-benz-group,메르세데스-벤츠 그룹,Mercedes-Benz Group,다임러|Daimler,DE,자동차·모빌리티,완성차,corporate,,mega,0
+mini,미니,MINI,미니쿠퍼|Mini Cooper,GB,자동차·모빌리티,완성차,product,bmw-group,major,0
+mitsubishi-motors,미쓰비시자동차,Mitsubishi Motors,미쓰비시,JP,자동차·모빌리티,완성차,both,,major,0
+nissan,닛산,Nissan Motor,,JP,자동차·모빌리티,완성차,both,,mega,0
+opel,오펠,Opel,,DE,자동차·모빌리티,완성차,product,stellantis,major,0
+peugeot,푸조,Peugeot,,FR,자동차·모빌리티,완성차,product,stellantis,major,0
+ram,램,Ram Trucks,RAM|닷지 램,US,자동차·모빌리티,완성차,product,stellantis,major,0
+renault,르노,Renault,,FR,자동차·모빌리티,완성차,product,renault-group,major,0
+renault-group,르노그룹,Renault Group,,FR,자동차·모빌리티,완성차,corporate,,major,0
+renault-korea,르노코리아,Renault Korea,르노삼성|르노삼성자동차,KR,자동차·모빌리티,완성차,both,renault-group,major,0
+skoda,스코다,Škoda Auto,Skoda,CZ,자동차·모빌리티,완성차,both,volkswagen-group,major,0
+stellantis,스텔란티스,Stellantis,,NL,자동차·모빌리티,완성차,corporate,,mega,0
+subaru,스바루,Subaru,,JP,자동차·모빌리티,완성차,both,,major,0
+suzuki,스즈키,Suzuki Motor,,JP,자동차·모빌리티,완성차,both,,major,0
+tata-motors,타타모터스,Tata Motors,타타,IN,자동차·모빌리티,완성차,both,,major,0
+toyota,토요타,Toyota Motor,도요타|TMC,JP,자동차·모빌리티,완성차,both,,mega,0
+volkswagen,폭스바겐,Volkswagen,VW|폭바,DE,자동차·모빌리티,완성차,product,volkswagen-group,mega,0
+volkswagen-group,폭스바겐그룹,Volkswagen Group,VW그룹|폭스바겐 AG,DE,자동차·모빌리티,완성차,corporate,,mega,0
+volvo-cars,볼보자동차,Volvo Cars,볼보,SE,자동차·모빌리티,완성차,both,geely-holding,major,0
+ducati,두카티,Ducati,,IT,자동차·모빌리티,이륜차,both,audi,major,0
+harley-davidson,할리데이비슨,Harley-Davidson,할리,US,자동차·모빌리티,이륜차,both,,major,0
+ktm,KTM,KTM,,AT,자동차·모빌리티,이륜차,both,,niche,0
+piaggio,피아지오,Piaggio,,IT,자동차·모빌리티,이륜차,corporate,,niche,0
+triumph,트라이엄프,Triumph Motorcycles,,GB,자동차·모빌리티,이륜차,both,,niche,0
+vespa,베스파,Vespa,,IT,자동차·모빌리티,이륜차,product,piaggio,major,0
+yamaha-motor,야마하발동기,Yamaha Motor,야마하,JP,자동차·모빌리티,이륜차,both,,major,0
+aisin,아이신,Aisin,,JP,자동차·모빌리티,자동차부품,both,,major,1
+bosch,보쉬,Robert Bosch,Bosch,DE,자동차·모빌리티,자동차부품,both,,mega,1
+brembo,브렘보,Brembo,,IT,자동차·모빌리티,자동차부품,both,,niche,1
+continental,콘티넨탈,Continental,,DE,자동차·모빌리티,자동차부품,both,,mega,1
+denso,덴소,Denso,,JP,자동차·모빌리티,자동차부품,both,,major,1
+hanon-systems,한온시스템,Hanon Systems,,KR,자동차·모빌리티,자동차부품,both,,niche,1
+hl-mando,HL만도,HL Mando,만도,KR,자동차·모빌리티,자동차부품,both,,major,1
+hyundai-kefico,현대케피코,Hyundai Kefico,케피코,KR,자동차·모빌리티,자동차부품,both,hyundai-motor-group,niche,1
+hyundai-mobis,현대모비스,Hyundai Mobis,모비스,KR,자동차·모빌리티,자동차부품,both,hyundai-motor-group,major,1
+hyundai-transys,현대트랜시스,Hyundai Transys,,KR,자동차·모빌리티,자동차부품,both,hyundai-motor-group,niche,1
+hyundai-wia,현대위아,Hyundai WIA,,KR,자동차·모빌리티,자동차부품,both,hyundai-motor-group,major,1
+magna,마그나,Magna International,,CA,자동차·모빌리티,자동차부품,both,,major,1
+valeo,발레오,Valeo,,FR,자동차·모빌리티,자동차부품,both,,major,1
+zf,ZF,ZF Friedrichshafen,ZF프리드리히스하펜,DE,자동차·모빌리티,자동차부품,both,,major,1
+byd,BYD,BYD,비야디,CN,자동차·모빌리티,전기차,both,,mega,0
+li-auto,리오토,Li Auto,리샹,CN,자동차·모빌리티,전기차,both,,niche,0
+lucid,루시드,Lucid Motors,루시드모터스,US,자동차·모빌리티,전기차,both,,niche,0
+nio,니오,NIO,웨이라이,CN,자동차·모빌리티,전기차,both,,niche,0
+polestar,폴스타,Polestar,,SE,자동차·모빌리티,전기차,both,geely-holding,niche,0
+rimac,리막,Rimac Automobili,,HR,자동차·모빌리티,전기차,both,,niche,0
+rivian,리비안,Rivian,,US,자동차·모빌리티,전기차,both,,major,0
+tesla,테슬라,Tesla,,US,자동차·모빌리티,전기차,both,,mega,0
+xpeng,샤오펑,XPeng,엑스펑,CN,자동차·모빌리티,전기차,both,,niche,0
+zeekr,지커,Zeekr,,CN,자동차·모빌리티,전기차,product,geely-holding,niche,0
+bridgestone,브리지스톤,Bridgestone,,JP,자동차·모빌리티,타이어,both,,mega,0
+goodyear,굿이어,Goodyear,,US,자동차·모빌리티,타이어,both,,major,0
+hankook-tire,한국타이어,Hankook Tire & Technology,한국타이어앤테크놀로지|Hankook,KR,자동차·모빌리티,타이어,both,,major,0
+kumho-tire,금호타이어,Kumho Tire,,KR,자동차·모빌리티,타이어,both,,major,0
+michelin,미쉐린,Michelin,미슐랭,FR,자동차·모빌리티,타이어,both,,mega,0
+nexen-tire,넥센타이어,Nexen Tire,넥센,KR,자동차·모빌리티,타이어,both,,major,0
+pirelli,피렐리,Pirelli,,IT,자동차·모빌리티,타이어,both,,major,0
+yokohama-tire,요코하마타이어,Yokohama Rubber,요코하마,JP,자동차·모빌리티,타이어,both,,niche,0
+accenture,액센츄어,Accenture,,IE,전자·IT,IT서비스,both,,major,1
+cisco,시스코,Cisco Systems,Cisco,US,전자·IT,IT서비스,both,,mega,1
+hyundai-autoever,현대오토에버,Hyundai AutoEver,,KR,전자·IT,IT서비스,corporate,hyundai-motor-group,niche,1
+ibm,IBM,IBM,아이비엠,US,전자·IT,IT서비스,both,,mega,1
+infosys,인포시스,Infosys,,IN,전자·IT,IT서비스,both,,major,1
+lg-cns,LG CNS,LG CNS,엘지씨엔에스,KR,전자·IT,IT서비스,corporate,lg-group,major,1
+samsung-sds,삼성SDS,Samsung SDS,삼성에스디에스,KR,전자·IT,IT서비스,corporate,samsung-group,major,1
+tcs,타타 컨설턴시 서비스,Tata Consultancy Services,TCS,IN,전자·IT,IT서비스,both,,major,1
+acer,에이서,Acer,,TW,전자·IT,PC·주변기기,both,,major,0
+asus,에이수스,ASUS,아수스,TW,전자·IT,PC·주변기기,both,,major,0
+corsair,커세어,Corsair,,US,전자·IT,PC·주변기기,both,,niche,0
+dell,델,Dell Technologies,Dell,US,전자·IT,PC·주변기기,both,,mega,0
+framework,프레임워크 랩톱,Framework Computer,Framework Laptop,US,전자·IT,PC·주변기기,both,,niche,0
+hp,HP,HP Inc.,휴렛팩커드|Hewlett-Packard,US,전자·IT,PC·주변기기,both,,mega,0
+ipad,아이패드,iPad,,US,전자·IT,PC·주변기기,product,apple,mega,0
+keychron,키크론,Keychron,,HK,전자·IT,PC·주변기기,both,,niche,0
+lenovo,레노버,Lenovo,씽크패드|ThinkPad,CN,전자·IT,PC·주변기기,both,,mega,0
+lg-gram,LG 그램,LG gram,그램,KR,전자·IT,PC·주변기기,product,lg-electronics,major,0
+logitech,로지텍,Logitech,Logi,CH,전자·IT,PC·주변기기,both,,major,0
+macbook,맥북,MacBook,맥|Mac,US,전자·IT,PC·주변기기,product,apple,mega,0
+msi,MSI,Micro-Star International,,TW,전자·IT,PC·주변기기,both,,major,0
+raspberry-pi,라즈베리 파이,Raspberry Pi,라즈베리파이,GB,전자·IT,PC·주변기기,both,,niche,0
+razer,레이저,Razer,,SG,전자·IT,PC·주변기기,both,,major,0
+steelseries,스틸시리즈,SteelSeries,,DK,전자·IT,PC·주변기기,both,,niche,0
+wacom,와콤,Wacom,,JP,전자·IT,PC·주변기기,both,,niche,0
+boe,BOE,BOE Technology,징둥팡,CN,전자·IT,디스플레이·부품,corporate,,major,1
+foxconn,폭스콘,Foxconn,훙하이|Hon Hai,TW,전자·IT,디스플레이·부품,corporate,,mega,1
+lg-display,LG디스플레이,LG Display,LGD,KR,전자·IT,디스플레이·부품,corporate,lg-electronics,major,1
+lg-innotek,LG이노텍,LG Innotek,,KR,전자·IT,디스플레이·부품,corporate,lg-electronics,major,1
+murata,무라타,Murata Manufacturing,무라타제작소,JP,전자·IT,디스플레이·부품,corporate,,major,1
+samsung-display,삼성디스플레이,Samsung Display,삼디,KR,전자·IT,디스플레이·부품,corporate,samsung-electronics,major,1
+samsung-electro-mechanics,삼성전기,Samsung Electro-Mechanics,SEMCO,KR,전자·IT,디스플레이·부품,corporate,samsung-group,major,1
+amd,AMD,Advanced Micro Devices,라이젠|Ryzen,US,전자·IT,반도체,both,,mega,1
+applied-materials,어플라이드 머티어리얼즈,Applied Materials,AMAT,US,전자·IT,반도체,corporate,,major,1
+arm,Arm,Arm Holdings,ARM|암,GB,전자·IT,반도체,corporate,softbank-group,major,1
+asml,ASML,ASML,,NL,전자·IT,반도체,corporate,,mega,1
+broadcom,브로드컴,Broadcom,,US,전자·IT,반도체,corporate,,mega,1
+furiosaai,퓨리오사AI,FuriosaAI,퓨리오사,KR,전자·IT,반도체,corporate,,niche,1
+hanmi-semiconductor,한미반도체,Hanmi Semiconductor,,KR,전자·IT,반도체,corporate,,niche,1
+infineon,인피니언,Infineon Technologies,,DE,전자·IT,반도체,corporate,,major,1
+intel,인텔,Intel,,US,전자·IT,반도체,both,,mega,1
+mediatek,미디어텍,MediaTek,,TW,전자·IT,반도체,corporate,,major,1
+micron,마이크론,Micron Technology,,US,전자·IT,반도체,corporate,,major,1
+nvidia,엔비디아,NVIDIA,,US,전자·IT,반도체,both,,mega,1
+qualcomm,퀄컴,Qualcomm,스냅드래곤|Snapdragon,US,전자·IT,반도체,both,,mega,1
+rebellions,리벨리온,Rebellions,,KR,전자·IT,반도체,corporate,,niche,1
+sk-hynix,SK하이닉스,SK hynix,하이닉스,KR,전자·IT,반도체,corporate,sk-group,mega,1
+texas-instruments,텍사스 인스트루먼트,Texas Instruments,TI,US,전자·IT,반도체,corporate,,major,1
+tokyo-electron,도쿄일렉트론,Tokyo Electron,TEL,JP,전자·IT,반도체,corporate,,major,1
+tsmc,TSMC,Taiwan Semiconductor Manufacturing Company,대만 TSMC,TW,전자·IT,반도체,corporate,,mega,1
+adobe,어도비,Adobe,포토샵|Photoshop,US,전자·IT,소프트웨어·클라우드,both,,mega,0
+atlassian,아틀라시안,Atlassian,지라|Jira,AU,전자·IT,소프트웨어·클라우드,both,,major,1
+autodesk,오토데스크,Autodesk,오토캐드|AutoCAD,US,전자·IT,소프트웨어·클라우드,both,,major,1
+aws,AWS,Amazon Web Services,아마존 웹 서비스,US,전자·IT,소프트웨어·클라우드,product,amazon,mega,1
+canva,캔바,Canva,,AU,전자·IT,소프트웨어·클라우드,both,,major,0
+cloudflare,클라우드플레어,Cloudflare,,US,전자·IT,소프트웨어·클라우드,both,,major,1
+databricks,데이터브릭스,Databricks,,US,전자·IT,소프트웨어·클라우드,both,,major,1
+douzone-bizon,더존비즈온,Douzone Bizon,더존,KR,전자·IT,소프트웨어·클라우드,both,,niche,1
+dropbox,드롭박스,Dropbox,,US,전자·IT,소프트웨어·클라우드,both,,major,0
+figma,피그마,Figma,,US,전자·IT,소프트웨어·클라우드,both,,niche,1
+framer,프레이머,Framer,,NL,전자·IT,소프트웨어·클라우드,both,,niche,1
+github,깃허브,GitHub,,US,전자·IT,소프트웨어·클라우드,product,microsoft,major,1
+hancom,한글과컴퓨터,Hancom,한컴|한글,KR,전자·IT,소프트웨어·클라우드,both,,major,0
+linear,리니어,Linear,,US,전자·IT,소프트웨어·클라우드,both,,niche,1
+microsoft,마이크로소프트,Microsoft,MS|윈도우|Windows,US,전자·IT,소프트웨어·클라우드,both,,mega,0
+naver-cloud,네이버클라우드,NAVER Cloud,,KR,전자·IT,소프트웨어·클라우드,corporate,naver,niche,1
+notion,노션,Notion,,US,전자·IT,소프트웨어·클라우드,both,,niche,0
+oracle,오라클,Oracle,,US,전자·IT,소프트웨어·클라우드,both,,mega,1
+palantir,팔란티어,Palantir Technologies,Palantir,US,전자·IT,소프트웨어·클라우드,both,,major,1
+salesforce,세일즈포스,Salesforce,,US,전자·IT,소프트웨어·클라우드,both,,mega,1
+sap,SAP,SAP,에스에이피,DE,전자·IT,소프트웨어·클라우드,both,,mega,1
+servicenow,서비스나우,ServiceNow,,US,전자·IT,소프트웨어·클라우드,both,,major,1
+shopify,쇼피파이,Shopify,,CA,전자·IT,소프트웨어·클라우드,both,,major,1
+slack,슬랙,Slack,,US,전자·IT,소프트웨어·클라우드,product,salesforce,major,1
+snowflake,스노우플레이크,Snowflake,,US,전자·IT,소프트웨어·클라우드,both,,major,1
+unity,유니티,Unity Technologies,Unity,US,전자·IT,소프트웨어·클라우드,both,,major,1
+vmware,VM웨어,VMware,브이엠웨어,US,전자·IT,소프트웨어·클라우드,both,broadcom,major,1
+zoom,줌,Zoom Communications,Zoom,US,전자·IT,소프트웨어·클라우드,both,,major,0
+apple,애플,Apple,,US,전자·IT,스마트폰·가전,both,,mega,0
+balmuda,발뮤다,BALMUDA,,JP,전자·IT,스마트폰·가전,both,,niche,0
+coway,코웨이,Coway,웅진코웨이,KR,전자·IT,스마트폰·가전,both,netmarble,major,0
+cuckoo,쿠쿠,Cuckoo,쿠쿠전자,KR,전자·IT,스마트폰·가전,both,,major,0
+dyson,다이슨,Dyson,,GB,전자·IT,스마트폰·가전,both,,major,0
+electrolux,일렉트로룩스,Electrolux,,SE,전자·IT,스마트폰·가전,both,,major,0
+galaxy,갤럭시,Samsung Galaxy,갤럭시S|갤럭시Z,KR,전자·IT,스마트폰·가전,product,samsung-electronics,mega,0
+google-pixel,구글 픽셀,Google Pixel,픽셀,US,전자·IT,스마트폰·가전,product,google,major,0
+haier,하이얼,Haier,,CN,전자·IT,스마트폰·가전,both,,major,0
+hisense,하이센스,Hisense,,CN,전자·IT,스마트폰·가전,both,,major,0
+huawei,화웨이,Huawei,,CN,전자·IT,스마트폰·가전,both,,mega,0
+iphone,아이폰,iPhone,,US,전자·IT,스마트폰·가전,product,apple,mega,0
+lg-electronics,LG전자,LG Electronics,엘지전자|LG,KR,전자·IT,스마트폰·가전,both,lg-group,mega,0
+miele,밀레,Miele,,DE,전자·IT,스마트폰·가전,both,,major,0
+motorola,모토로라,Motorola,모토로라 모빌리티,US,전자·IT,스마트폰·가전,both,lenovo,major,0
+nothing,낫싱,Nothing,Nothing Phone,GB,전자·IT,스마트폰·가전,both,,niche,0
+oneplus,원플러스,OnePlus,,CN,전자·IT,스마트폰·가전,both,oppo,niche,0
+oppo,오포,OPPO,,CN,전자·IT,스마트폰·가전,both,,major,0
+panasonic,파나소닉,Panasonic,,JP,전자·IT,스마트폰·가전,both,,major,0
+philips,필립스,Philips,,NL,전자·IT,스마트폰·가전,both,,major,0
+samsung-electronics,삼성전자,Samsung Electronics,삼성|Samsung,KR,전자·IT,스마트폰·가전,both,samsung-group,mega,0
+sharp,샤프,Sharp,,JP,전자·IT,스마트폰·가전,both,foxconn,major,0
+tcl,TCL,TCL,,CN,전자·IT,스마트폰·가전,both,,major,0
+whirlpool,월풀,Whirlpool,,US,전자·IT,스마트폰·가전,both,,major,0
+xiaomi,샤오미,Xiaomi,,CN,전자·IT,스마트폰·가전,both,,mega,0
+airpods,에어팟,AirPods,,US,전자·IT,음향·카메라,product,apple,mega,0
+audio-technica,오디오테크니카,Audio-Technica,,JP,전자·IT,음향·카메라,both,,niche,0
+bang-olufsen,뱅앤올룹슨,Bang & Olufsen,B&O|뱅앤올룹센,DK,전자·IT,음향·카메라,both,,niche,0
+beats,비츠,Beats by Dre,비츠 바이 닥터드레,US,전자·IT,음향·카메라,product,apple,major,0
+bose,보스,Bose,,US,전자·IT,음향·카메라,both,,major,0
+canon,캐논,Canon,,JP,전자·IT,음향·카메라,both,,mega,0
+dji,DJI,DJI,디제이아이,CN,전자·IT,음향·카메라,both,,major,0
+fujifilm,후지필름,Fujifilm,후지,JP,전자·IT,음향·카메라,both,,major,0
+fujifilm-x,후지필름 X,Fujifilm X Series,후지 X|X100,JP,전자·IT,음향·카메라,product,fujifilm,niche,0
+gopro,고프로,GoPro,,US,전자·IT,음향·카메라,both,,major,0
+hanwha-vision,한화비전,Hanwha Vision,한화테크윈,KR,전자·IT,음향·카메라,corporate,hanwha-group,niche,1
+harman,하만,Harman International,하만카돈|Harman Kardon,US,전자·IT,음향·카메라,both,samsung-electronics,major,0
+hasselblad,핫셀블라드,Hasselblad,,SE,전자·IT,음향·카메라,both,dji,niche,0
+insta360,인스타360,Insta360,,CN,전자·IT,음향·카메라,both,,niche,0
+jbl,JBL,JBL,제이비엘,US,전자·IT,음향·카메라,product,harman,major,0
+leica,라이카,Leica Camera,Leica,DE,전자·IT,음향·카메라,both,,major,0
+marshall,마샬,Marshall,,GB,전자·IT,음향·카메라,both,,niche,0
+nikon,니콘,Nikon,,JP,전자·IT,음향·카메라,both,,major,0
+sennheiser,젠하이저,Sennheiser,,DE,전자·IT,음향·카메라,both,,major,0
+sonos,소노스,Sonos,,US,전자·IT,음향·카메라,both,,niche,0
+sony,소니,Sony,소니그룹|Sony Group,JP,전자·IT,음향·카메라,both,,mega,0
+teenage-engineering,틴에이지 엔지니어링,Teenage Engineering,OP-1,SE,전자·IT,음향·카메라,both,,niche,0
+alteogen,알테오젠,Alteogen,,KR,제약·헬스케어,바이오,corporate,,niche,1
+amgen,암젠,Amgen,,US,제약·헬스케어,바이오,corporate,,major,0
+biontech,바이오엔텍,BioNTech,,DE,제약·헬스케어,바이오,corporate,,major,0
+celltrion,셀트리온,Celltrion,,KR,제약·헬스케어,바이오,both,,major,0
+lonza,론자,Lonza,,CH,제약·헬스케어,바이오,corporate,,major,1
+lotte-biologics,롯데바이오로직스,Lotte Biologics,,KR,제약·헬스케어,바이오,corporate,lotte-group,niche,1
+moderna,모더나,Moderna,,US,제약·헬스케어,바이오,both,,major,0
+samsung-bioepis,삼성바이오에피스,Samsung Bioepis,,KR,제약·헬스케어,바이오,corporate,samsung-group,niche,1
+samsung-biologics,삼성바이오로직스,Samsung Biologics,삼바,KR,제약·헬스케어,바이오,corporate,samsung-group,major,1
+sk-bioscience,SK바이오사이언스,SK bioscience,,KR,제약·헬스케어,바이오,corporate,sk-group,niche,0
+abbott,애보트,Abbott,애벗,US,제약·헬스케어,의료기기,both,,mega,0
+boston-scientific,보스턴사이언티픽,Boston Scientific,,US,제약·헬스케어,의료기기,corporate,,major,1
+dexcom,덱스콤,Dexcom,,US,제약·헬스케어,의료기기,both,,niche,0
+ge-healthcare,GE헬스케어,GE HealthCare,,US,제약·헬스케어,의료기기,corporate,,major,1
+intuitive-surgical,인튜이티브 서지컬,Intuitive Surgical,다빈치|da Vinci,US,제약·헬스케어,의료기기,corporate,,major,1
+lunit,루닛,Lunit,,KR,제약·헬스케어,의료기기,corporate,,niche,1
+medtronic,메드트로닉,Medtronic,,IE,제약·헬스케어,의료기기,corporate,,mega,1
+olympus,올림푸스,Olympus,,JP,제약·헬스케어,의료기기,corporate,,major,1
+osstem,오스템임플란트,Osstem Implant,오스템,KR,제약·헬스케어,의료기기,both,,major,1
+siemens-healthineers,지멘스 헬시니어스,Siemens Healthineers,,DE,제약·헬스케어,의료기기,corporate,,major,1
+stryker,스트라이커,Stryker,,US,제약·헬스케어,의료기기,corporate,,major,1
+bacchus,박카스,Bacchus,박카스D|박카스F,KR,제약·헬스케어,일반의약품·소비자헬스,product,dong-a-pharm,major,0
+band-aid,밴드에이드,Band-Aid,,US,제약·헬스케어,일반의약품·소비자헬스,product,kenvue,major,0
+centrum,센트룸,Centrum,,US,제약·헬스케어,일반의약품·소비자헬스,product,haleon,major,0
+dong-a-pharm,동아제약,Dong-A Pharmaceutical,,KR,제약·헬스케어,일반의약품·소비자헬스,both,,major,0
+dongwha-pharm,동화약품,Dongwha Pharm,,KR,제약·헬스케어,일반의약품·소비자헬스,both,,niche,0
+haleon,헤일리온,Haleon,,GB,제약·헬스케어,일반의약품·소비자헬스,corporate,,major,0
+hwalmyungsu,까스활명수,Gas Hwalmyungsu,활명수,KR,제약·헬스케어,일반의약품·소비자헬스,product,dongwha-pharm,major,0
+kenvue,켄뷰,Kenvue,,US,제약·헬스케어,일반의약품·소비자헬스,corporate,,major,0
+listerine,리스테린,Listerine,,US,제약·헬스케어,일반의약품·소비자헬스,product,kenvue,major,0
+sensodyne,센소다인,Sensodyne,,GB,제약·헬스케어,일반의약품·소비자헬스,product,haleon,major,0
+tylenol,타이레놀,Tylenol,,US,제약·헬스케어,일반의약품·소비자헬스,product,kenvue,mega,0
+urusa,우루사,URSA,,KR,제약·헬스케어,일반의약품·소비자헬스,product,daewoong,major,0
+abbvie,애브비,AbbVie,,US,제약·헬스케어,제약,corporate,,mega,0
+astrazeneca,아스트라제네카,AstraZeneca,AZ,GB,제약·헬스케어,제약,corporate,,mega,0
+bayer,바이엘,Bayer,,DE,제약·헬스케어,제약,both,,mega,0
+boehringer-ingelheim,베링거인겔하임,Boehringer Ingelheim,,DE,제약·헬스케어,제약,corporate,,major,0
+chong-kun-dang,종근당,Chong Kun Dang,CKD,KR,제약·헬스케어,제약,both,,major,0
+daewoong,대웅제약,Daewoong Pharmaceutical,대웅,KR,제약·헬스케어,제약,both,,major,0
+eli-lilly,일라이 릴리,Eli Lilly,릴리,US,제약·헬스케어,제약,corporate,,mega,0
+galderma,갈더마,Galderma,,CH,제약·헬스케어,제약,corporate,,major,0
+gc-biopharma,GC녹십자,GC Biopharma,녹십자,KR,제약·헬스케어,제약,both,,major,0
+gsk,GSK,GSK,글락소스미스클라인|GlaxoSmithKline,GB,제약·헬스케어,제약,corporate,,mega,0
+hanmi,한미약품,Hanmi Pharmaceutical,한미,KR,제약·헬스케어,제약,both,,major,0
+johnson-johnson,존슨앤드존슨,Johnson & Johnson,J&J|존슨앤존슨|얀센,US,제약·헬스케어,제약,corporate,,mega,0
+mounjaro,마운자로,Mounjaro,젭바운드|Zepbound,US,제약·헬스케어,제약,product,eli-lilly,major,0
+msd,MSD,Merck & Co.,머크|한국MSD,US,제약·헬스케어,제약,corporate,,mega,0
+novartis,노바티스,Novartis,,CH,제약·헬스케어,제약,corporate,,mega,0
+novo-nordisk,노보 노디스크,Novo Nordisk,노보노디스크,DK,제약·헬스케어,제약,corporate,,mega,0
+ozempic,오젬픽,Ozempic,,DK,제약·헬스케어,제약,product,novo-nordisk,major,0
+pfizer,화이자,Pfizer,,US,제약·헬스케어,제약,both,,mega,0
+roche,로슈,Roche,한국로슈,CH,제약·헬스케어,제약,corporate,,mega,0
+sanofi,사노피,Sanofi,,FR,제약·헬스케어,제약,corporate,,mega,0
+takeda,다케다,Takeda,다케다제약,JP,제약·헬스케어,제약,corporate,,major,0
+wegovy,위고비,Wegovy,,DK,제약·헬스케어,제약,product,novo-nordisk,major,0
+yuhan,유한양행,Yuhan,,KR,제약·헬스케어,제약,both,,major,0
+bbc,BBC,British Broadcasting Corporation,,GB,통신·미디어·엔터,방송·신문,both,,mega,0
+bloomberg,블룸버그,Bloomberg,,US,통신·미디어·엔터,방송·신문,both,,major,1
+chosun-ilbo,조선일보,The Chosun Ilbo,조선,KR,통신·미디어·엔터,방송·신문,both,,major,0
+cnn,CNN,Cable News Network,,US,통신·미디어·엔터,방송·신문,both,,mega,0
+espn,ESPN,ESPN,,US,통신·미디어·엔터,방송·신문,product,disney,major,0
+joongang-ilbo,중앙일보,JoongAng Ilbo,중앙,KR,통신·미디어·엔터,방송·신문,both,,major,0
+jtbc,JTBC,JTBC,,KR,통신·미디어·엔터,방송·신문,both,,major,0
+kbs,KBS,Korean Broadcasting System,한국방송공사,KR,통신·미디어·엔터,방송·신문,both,,major,0
+mbc,MBC,Munhwa Broadcasting Corporation,문화방송,KR,통신·미디어·엔터,방송·신문,both,,major,0
+mnet,Mnet,Mnet,엠넷,KR,통신·미디어·엔터,방송·신문,product,cj-enm,major,0
+new-york-times,뉴욕타임스,The New York Times,NYT|뉴욕타임즈,US,통신·미디어·엔터,방송·신문,both,,major,0
+nhk,NHK,Japan Broadcasting Corporation,일본방송협회,JP,통신·미디어·엔터,방송·신문,both,,major,0
+sbs,SBS,Seoul Broadcasting System,,KR,통신·미디어·엔터,방송·신문,both,,major,0
+the-economist,이코노미스트,The Economist,,GB,통신·미디어·엔터,방송·신문,both,,major,0
+tvn,tvN,tvN,티비엔,KR,통신·미디어·엔터,방송·신문,product,cj-enm,major,0
+big-hit-music,빅히트 뮤직,BIGHIT MUSIC,빅히트뮤직,KR,통신·미디어·엔터,엔터테인먼트·음반,corporate,hybe,niche,0
+cj-enm,CJ ENM,CJ ENM,씨제이이엔엠,KR,통신·미디어·엔터,엔터테인먼트·음반,corporate,cj-group,major,0
+hybe,하이브,HYBE,빅히트|Big Hit,KR,통신·미디어·엔터,엔터테인먼트·음반,corporate,,major,0
+jyp-entertainment,JYP엔터테인먼트,JYP Entertainment,JYP|제이와이피,KR,통신·미디어·엔터,엔터테인먼트·음반,corporate,,major,0
+kakao-entertainment,카카오엔터테인먼트,Kakao Entertainment,카카오엔터,KR,통신·미디어·엔터,엔터테인먼트·음반,corporate,kakao,major,0
+live-nation,라이브네이션,Live Nation Entertainment,티켓마스터|Ticketmaster,US,통신·미디어·엔터,엔터테인먼트·음반,corporate,,major,0
+sm-entertainment,SM엔터테인먼트,SM Entertainment,SM|에스엠,KR,통신·미디어·엔터,엔터테인먼트·음반,corporate,kakao,major,0
+sony-music,소니뮤직,Sony Music Entertainment,,US,통신·미디어·엔터,엔터테인먼트·음반,corporate,sony,major,0
+starship-entertainment,스타쉽엔터테인먼트,Starship Entertainment,스타쉽,KR,통신·미디어·엔터,엔터테인먼트·음반,corporate,kakao-entertainment,niche,0
+studio-dragon,스튜디오드래곤,Studio Dragon,,KR,통신·미디어·엔터,엔터테인먼트·음반,corporate,cj-enm,niche,1
+universal-music-group,유니버설뮤직,Universal Music Group,UMG,NL,통신·미디어·엔터,엔터테인먼트·음반,corporate,,mega,0
+warner-music-group,워너뮤직,Warner Music Group,WMG,US,통신·미디어·엔터,엔터테인먼트·음반,corporate,,major,0
+yg-entertainment,YG엔터테인먼트,YG Entertainment,YG|와이지,KR,통신·미디어·엔터,엔터테인먼트·음반,corporate,,major,0
+a24,A24,A24,,US,통신·미디어·엔터,영화·애니메이션,both,,niche,0
+cgv,CGV,CJ CGV,,KR,통신·미디어·엔터,영화·애니메이션,both,cj-group,major,0
+disney,디즈니,The Walt Disney Company,월트 디즈니|Disney,US,통신·미디어·엔터,영화·애니메이션,both,,mega,0
+dreamworks-animation,드림웍스,DreamWorks Animation,드림웍스 애니메이션,US,통신·미디어·엔터,영화·애니메이션,both,nbcuniversal,major,0
+imax,아이맥스,IMAX,,CA,통신·미디어·엔터,영화·애니메이션,both,,major,0
+lotte-cinema,롯데시네마,Lotte Cinema,,KR,통신·미디어·엔터,영화·애니메이션,both,lotte-group,major,0
+marvel-studios,마블 스튜디오,Marvel Studios,마블|Marvel,US,통신·미디어·엔터,영화·애니메이션,both,disney,mega,0
+megabox,메가박스,Megabox,,KR,통신·미디어·엔터,영화·애니메이션,both,,major,0
+nbcuniversal,NBC유니버설,NBCUniversal,NBC,US,통신·미디어·엔터,영화·애니메이션,corporate,comcast,major,0
+paramount,파라마운트,Paramount Skydance,Paramount Pictures,US,통신·미디어·엔터,영화·애니메이션,both,,major,0
+pixar,픽사,Pixar Animation Studios,Pixar,US,통신·미디어·엔터,영화·애니메이션,both,disney,mega,0
+sony-pictures,소니 픽처스,Sony Pictures Entertainment,,US,통신·미디어·엔터,영화·애니메이션,corporate,sony,major,0
+studio-ghibli,스튜디오 지브리,Studio Ghibli,지브리,JP,통신·미디어·엔터,영화·애니메이션,both,,major,0
+toei-animation,도에이 애니메이션,Toei Animation,토에이,JP,통신·미디어·엔터,영화·애니메이션,both,,niche,0
+toho,도호,Toho,토호,JP,통신·미디어·엔터,영화·애니메이션,both,,niche,0
+universal-pictures,유니버설 픽처스,Universal Pictures,,US,통신·미디어·엔터,영화·애니메이션,both,nbcuniversal,major,0
+warner-bros,워너브라더스,Warner Bros.,워너 브라더스,US,통신·미디어·엔터,영화·애니메이션,both,,mega,0
+elsevier,엘스비어,Elsevier,,NL,통신·미디어·엔터,출판,both,,niche,1
+kadokawa,가도카와,Kadokawa,카도카와,JP,통신·미디어·엔터,출판,corporate,,niche,0
+kodansha,고단샤,Kodansha,강담사,JP,통신·미디어·엔터,출판,both,,niche,0
+minumsa,민음사,Minumsa,,KR,통신·미디어·엔터,출판,both,,niche,0
+munhakdongne,문학동네,Munhakdongne,,KR,통신·미디어·엔터,출판,both,,niche,0
+penguin-random-house,펭귄 랜덤하우스,Penguin Random House,펭귄북스|Penguin,US,통신·미디어·엔터,출판,both,,major,0
+shueisha,슈에이샤,Shueisha,집영사|주간 소년 점프,JP,통신·미디어·엔터,출판,both,,niche,0
+att,AT&T,AT&T,에이티앤티,US,통신·미디어·엔터,통신사,both,,major,0
+china-mobile,차이나모바일,China Mobile,중국이동,CN,통신·미디어·엔터,통신사,both,,major,0
+comcast,컴캐스트,Comcast,Xfinity,US,통신·미디어·엔터,통신사,corporate,,major,0
+deutsche-telekom,도이치텔레콤,Deutsche Telekom,,DE,통신·미디어·엔터,통신사,both,,major,0
+kt,KT,KT,케이티|올레,KR,통신·미디어·엔터,통신사,both,,major,0
+lg-uplus,LG유플러스,LG Uplus,LG U+|엘지유플러스,KR,통신·미디어·엔터,통신사,both,lg-group,major,0
+ntt,NTT,Nippon Telegraph and Telephone,일본전신전화,JP,통신·미디어·엔터,통신사,corporate,,major,0
+ntt-docomo,NTT도코모,NTT Docomo,도코모,JP,통신·미디어·엔터,통신사,both,ntt,major,0
+sk-broadband,SK브로드밴드,SK Broadband,B tv,KR,통신·미디어·엔터,통신사,both,sk-telecom,niche,0
+sk-telecom,SK텔레콤,SK Telecom,SKT|에스케이텔레콤,KR,통신·미디어·엔터,통신사,both,sk-group,major,0
+softbank-corp,소프트뱅크(통신),SoftBank Corp.,,JP,통신·미디어·엔터,통신사,both,softbank-group,major,0
+starlink,스타링크,Starlink,,US,통신·미디어·엔터,통신사,product,,major,0
+t-mobile,T모바일,T-Mobile US,T-Mobile,US,통신·미디어·엔터,통신사,both,deutsche-telekom,major,0
+verizon,버라이즌,Verizon,,US,통신·미디어·엔터,통신사,both,,major,0
+vodafone,보다폰,Vodafone,,GB,통신·미디어·엔터,통신사,both,,major,0
+8seconds,에잇세컨즈,8seconds,에잇 세컨즈,KR,패션·럭셔리,SPA·캐주얼,product,samsung-cnt-fashion,major,0
+and-other-stories,앤아더스토리즈,& Other Stories,,SE,패션·럭셔리,SPA·캐주얼,product,hm-group,niche,0
+arket,아르켓,Arket,,SE,패션·럭셔리,SPA·캐주얼,product,hm-group,niche,0
+banana-republic,바나나 리퍼블릭,Banana Republic,,US,패션·럭셔리,SPA·캐주얼,product,gap-inc,niche,0
+bershka,버쉬카,Bershka,,ES,패션·럭셔리,SPA·캐주얼,product,inditex,niche,0
+cos,코스,COS,,GB,패션·럭셔리,SPA·캐주얼,product,hm-group,major,0
+eland-world,이랜드월드,E-Land World,이랜드,KR,패션·럭셔리,SPA·캐주얼,corporate,,major,0
+fast-retailing,패스트리테일링,Fast Retailing,,JP,패션·럭셔리,SPA·캐주얼,corporate,,major,0
+fnf,F&F,F&F,에프앤에프,KR,패션·럭셔리,SPA·캐주얼,corporate,,major,0
+gap,갭,Gap,GAP,US,패션·럭셔리,SPA·캐주얼,product,gap-inc,major,0
+gap-inc,갭 주식회사,Gap Inc.,,US,패션·럭셔리,SPA·캐주얼,corporate,,major,0
+gu,지유,GU,,JP,패션·럭셔리,SPA·캐주얼,product,fast-retailing,niche,0
+hm,H&M,H&M,에이치앤엠,SE,패션·럭셔리,SPA·캐주얼,product,hm-group,mega,0
+hm-group,H&M 그룹,H&M Group,H & M Hennes & Mauritz,SE,패션·럭셔리,SPA·캐주얼,corporate,,major,0
+inditex,인디텍스,Inditex,,ES,패션·럭셔리,SPA·캐주얼,corporate,,major,0
+levis,리바이스,Levi's,Levi Strauss & Co.,US,패션·럭셔리,SPA·캐주얼,both,,mega,0
+massimo-dutti,마시모두띠,Massimo Dutti,,ES,패션·럭셔리,SPA·캐주얼,product,inditex,major,0
+mixxo,미쏘,MIXXO,,KR,패션·럭셔리,SPA·캐주얼,product,eland-world,niche,0
+mlb-fnf,MLB,MLB,엠엘비,KR,패션·럭셔리,SPA·캐주얼,product,fnf,major,0
+musinsa-standard,무신사 스탠다드,Musinsa Standard,무탠다드,KR,패션·럭셔리,SPA·캐주얼,product,musinsa,major,0
+old-navy,올드네이비,Old Navy,,US,패션·럭셔리,SPA·캐주얼,product,gap-inc,niche,0
+pull-and-bear,풀앤베어,Pull&Bear,,ES,패션·럭셔리,SPA·캐주얼,product,inditex,niche,0
+shinsung-tongsang,신성통상,Shinsung Tongsang,,KR,패션·럭셔리,SPA·캐주얼,corporate,,niche,0
+spao,스파오,SPAO,,KR,패션·럭셔리,SPA·캐주얼,product,eland-world,major,0
+topten,탑텐,TOPTEN10,탑텐10,KR,패션·럭셔리,SPA·캐주얼,product,shinsung-tongsang,major,0
+uniqlo,유니클로,Uniqlo,,JP,패션·럭셔리,SPA·캐주얼,product,fast-retailing,mega,0
+zara,자라,Zara,,ES,패션·럭셔리,SPA·캐주얼,product,inditex,mega,0
+capri-holdings,카프리 홀딩스,Capri Holdings,,US,패션·럭셔리,가방·잡화,corporate,,niche,0
+charles-keith,찰스앤키스,Charles & Keith,,SG,패션·럭셔리,가방·잡화,both,,niche,0
+coach,코치,Coach,,US,패션·럭셔리,가방·잡화,product,tapestry,major,0
+delvaux,델보,Delvaux,,BE,패션·럭셔리,가방·잡화,product,richemont,niche,0
+goyard,고야드,Goyard,,FR,패션·럭셔리,가방·잡화,both,,niche,0
+kate-spade,케이트 스페이드,Kate Spade New York,케이트스페이드,US,패션·럭셔리,가방·잡화,product,tapestry,major,0
+longchamp,롱샴,Longchamp,,FR,패션·럭셔리,가방·잡화,both,,major,0
+mcm,MCM,MCM,엠씨엠,DE,패션·럭셔리,가방·잡화,both,,major,0
+michael-kors,마이클 코어스,Michael Kors,마이클코어스|MK,US,패션·럭셔리,가방·잡화,product,capri-holdings,major,0
+montblanc,몽블랑,Montblanc,,DE,패션·럭셔리,가방·잡화,product,richemont,major,0
+polene,폴렌느,Polène,Polene,FR,패션·럭셔리,가방·잡화,both,,niche,0
+rimowa,리모와,Rimowa,,DE,패션·럭셔리,가방·잡화,product,lvmh,major,0
+samsonite,쌤소나이트,Samsonite,샘소나이트,US,패션·럭셔리,가방·잡화,both,,major,0
+stand-oil,스탠드오일,Stand Oil,,KR,패션·럭셔리,가방·잡화,both,,niche,0
+tapestry,태피스트리,Tapestry,,US,패션·럭셔리,가방·잡화,corporate,,niche,0
+tory-burch,토리버치,Tory Burch,,US,패션·럭셔리,가방·잡화,both,,major,0
+tumi,투미,Tumi,,US,패션·럭셔리,가방·잡화,product,samsonite,major,0
+acne-studios,아크네 스튜디오,Acne Studios,아크네,SE,패션·럭셔리,디자이너·스트리트,both,,major,0
+ader-error,아더에러,ADER error,,KR,패션·럭셔리,디자이너·스트리트,both,,niche,0
+aime-leon-dore,에임 레온 도르,Aimé Leon Dore,ALD|에메 레온 도르,US,패션·럭셔리,디자이너·스트리트,both,,niche,0
+ami-paris,아미,AMI Paris,아미 파리스,FR,패션·럭셔리,디자이너·스트리트,both,,major,0
+andersson-bell,앤더슨벨,Andersson Bell,,KR,패션·럭셔리,디자이너·스트리트,both,,niche,0
+auralee,오라리,Auralee,,JP,패션·럭셔리,디자이너·스트리트,both,,niche,0
+bape,베이프,A Bathing Ape,BAPE,JP,패션·럭셔리,디자이너·스트리트,both,,niche,0
+carhartt,칼하트,Carhartt,칼하트 WIP|Carhartt WIP,US,패션·럭셔리,디자이너·스트리트,both,,major,0
+comme-des-garcons,꼼데가르송,Comme des Garçons,꼼데|CDG|꼼데 가르송,JP,패션·럭셔리,디자이너·스트리트,both,,major,0
+covernat,커버낫,Covernat,,KR,패션·럭셔리,디자이너·스트리트,both,,niche,0
+fear-of-god,피어 오브 갓,Fear of God,FOG|에센셜,US,패션·럭셔리,디자이너·스트리트,both,,niche,0
+issey-miyake,이세이 미야케,Issey Miyake,플리츠플리즈|이세이미야케,JP,패션·럭셔리,디자이너·스트리트,both,,major,0
+jacquemus,자크뮈스,Jacquemus,,FR,패션·럭셔리,디자이너·스트리트,both,,niche,0
+jil-sander,질 샌더,Jil Sander,질샌더,DE,패션·럭셔리,디자이너·스트리트,product,otb-group,niche,0
+juun-j,준지,Juun.J,,KR,패션·럭셔리,디자이너·스트리트,product,samsung-cnt-fashion,niche,0
+kenzo,겐조,Kenzo,,FR,패션·럭셔리,디자이너·스트리트,product,lvmh,major,0
+kith,키스,Kith,,US,패션·럭셔리,디자이너·스트리트,both,,niche,0
+lemaire,르메르,Lemaire,,FR,패션·럭셔리,디자이너·스트리트,both,,niche,0
+low-classic,로우클래식,Low Classic,,KR,패션·럭셔리,디자이너·스트리트,both,,niche,0
+maison-kitsune,메종 키츠네,Maison Kitsuné,키츠네,FR,패션·럭셔리,디자이너·스트리트,both,,niche,0
+maison-margiela,메종 마르지엘라,Maison Margiela,마르지엘라,FR,패션·럭셔리,디자이너·스트리트,product,otb-group,major,0
+mardi-mercredi,마르디 메크르디,Mardi Mercredi,마르디,KR,패션·럭셔리,디자이너·스트리트,both,,niche,0
+marithe-francois-girbaud,마리떼 프랑소와 저버,Marithé + François Girbaud,마리떼,FR,패션·럭셔리,디자이너·스트리트,both,,niche,0
+marni,마르니,Marni,,IT,패션·럭셔리,디자이너·스트리트,product,otb-group,niche,0
+matin-kim,마뗑킴,Matin Kim,마땡킴,KR,패션·럭셔리,디자이너·스트리트,both,,niche,0
+off-white,오프화이트,Off-White,,IT,패션·럭셔리,디자이너·스트리트,both,,major,0
+otb-group,OTB 그룹,OTB Group,Only The Brave,IT,패션·럭셔리,디자이너·스트리트,corporate,,niche,0
+our-legacy,아워레가시,Our Legacy,,SE,패션·럭셔리,디자이너·스트리트,both,,niche,0
+palace,팔라스,Palace Skateboards,팔라스 스케이트보드,GB,패션·럭셔리,디자이너·스트리트,both,,niche,0
+rick-owens,릭 오웬스,Rick Owens,릭오웬스,US,패션·럭셔리,디자이너·스트리트,both,,niche,0
+sacai,사카이,Sacai,,JP,패션·럭셔리,디자이너·스트리트,both,,niche,0
+stone-island,스톤아일랜드,Stone Island,스톤,IT,패션·럭셔리,디자이너·스트리트,product,moncler,major,0
+stussy,스투시,Stüssy,Stussy,US,패션·럭셔리,디자이너·스트리트,both,,major,0
+supreme,슈프림,Supreme,,US,패션·럭셔리,디자이너·스트리트,product,essilorluxottica,major,0
+thisisneverthat,디스이즈네버댓,thisisneverthat,TINT,KR,패션·럭셔리,디자이너·스트리트,both,,niche,0
+thom-browne,톰 브라운,Thom Browne,톰브라운,US,패션·럭셔리,디자이너·스트리트,product,zegna-group,major,0
+vivienne-westwood,비비안 웨스트우드,Vivienne Westwood,비비안웨스트우드,GB,패션·럭셔리,디자이너·스트리트,both,,major,0
+wooyoungmi,우영미,Wooyoungmi,,KR,패션·럭셔리,디자이너·스트리트,both,,niche,0
+alexander-mcqueen,알렉산더 맥퀸,Alexander McQueen,맥퀸,GB,패션·럭셔리,럭셔리하우스,product,kering,major,0
+armani,아르마니,Giorgio Armani,조르지오 아르마니|엠포리오 아르마니,IT,패션·럭셔리,럭셔리하우스,both,,mega,0
+balenciaga,발렌시아가,Balenciaga,,FR,패션·럭셔리,럭셔리하우스,product,kering,mega,0
+balmain,발망,Balmain,,FR,패션·럭셔리,럭셔리하우스,both,,niche,0
+bottega-veneta,보테가 베네타,Bottega Veneta,보테가,IT,패션·럭셔리,럭셔리하우스,product,kering,major,0
+brioni,브리오니,Brioni,,IT,패션·럭셔리,럭셔리하우스,product,kering,niche,0
+burberry,버버리,Burberry,,GB,패션·럭셔리,럭셔리하우스,both,,mega,0
+celine,셀린느,Celine,셀린|Céline,FR,패션·럭셔리,럭셔리하우스,product,lvmh,mega,0
+chanel,샤넬,Chanel,,FR,패션·럭셔리,럭셔리하우스,both,,mega,0
+chloe,끌로에,Chloé,Chloe,FR,패션·럭셔리,럭셔리하우스,product,richemont,major,0
+dior,디올,Dior,크리스찬 디올|Christian Dior,FR,패션·럭셔리,럭셔리하우스,product,lvmh,mega,0
+dolce-gabbana,돌체앤가바나,Dolce & Gabbana,돌체앤가바나|D&G,IT,패션·럭셔리,럭셔리하우스,both,,major,0
+fendi,펜디,Fendi,,IT,패션·럭셔리,럭셔리하우스,product,lvmh,mega,0
+ferragamo,페라가모,Ferragamo,살바토레 페라가모,IT,패션·럭셔리,럭셔리하우스,both,,major,0
+givenchy,지방시,Givenchy,,FR,패션·럭셔리,럭셔리하우스,product,lvmh,major,0
+gucci,구찌,Gucci,,IT,패션·럭셔리,럭셔리하우스,product,kering,mega,0
+hermes,에르메스,Hermès,Hermes,FR,패션·럭셔리,럭셔리하우스,both,,mega,0
+kering,케링,Kering,,FR,패션·럭셔리,럭셔리하우스,corporate,,mega,0
+loewe,로에베,Loewe,,ES,패션·럭셔리,럭셔리하우스,product,lvmh,major,0
+loro-piana,로로피아나,Loro Piana,,IT,패션·럭셔리,럭셔리하우스,product,lvmh,major,0
+louis-vuitton,루이비통,Louis Vuitton,LV|루이뷔통,FR,패션·럭셔리,럭셔리하우스,product,lvmh,mega,0
+lvmh,LVMH,LVMH Moët Hennessy Louis Vuitton,루이비통모에헤네시|엘브이엠에이치,FR,패션·럭셔리,럭셔리하우스,corporate,,mega,0
+miu-miu,미우미우,Miu Miu,,IT,패션·럭셔리,럭셔리하우스,product,prada-group,major,0
+moncler,몽클레르,Moncler,몽클레어,IT,패션·럭셔리,럭셔리하우스,both,,major,0
+prada,프라다,Prada,,IT,패션·럭셔리,럭셔리하우스,product,prada-group,mega,0
+prada-group,프라다 그룹,Prada Group,Prada S.p.A.,IT,패션·럭셔리,럭셔리하우스,corporate,,major,0
+saint-laurent,생로랑,Saint Laurent,입생로랑|YSL,FR,패션·럭셔리,럭셔리하우스,product,kering,mega,0
+valentino,발렌티노,Valentino,,IT,패션·럭셔리,럭셔리하우스,both,,major,0
+versace,베르사체,Versace,,IT,패션·럭셔리,럭셔리하우스,product,prada-group,mega,0
+zegna,제냐,Zegna,에르메네질도 제냐,IT,패션·럭셔리,럭셔리하우스,product,zegna-group,major,0
+zegna-group,제냐 그룹,Ermenegildo Zegna Group,,IT,패션·럭셔리,럭셔리하우스,corporate,,niche,0
+berluti,벨루티,Berluti,,FR,패션·럭셔리,신발,product,lvmh,niche,0
+birkenstock,버켄스탁,Birkenstock,,DE,패션·럭셔리,신발,both,,major,0
+christian-louboutin,크리스찬 루부탱,Christian Louboutin,루부탱,FR,패션·럭셔리,신발,both,,major,0
+churchs,처치스,Church's,,GB,패션·럭셔리,신발,product,prada-group,niche,0
+clarks,클락스,Clarks,,GB,패션·럭셔리,신발,both,,niche,0
+converse,컨버스,Converse,,US,패션·럭셔리,신발,product,nike,major,0
+crocs,크록스,Crocs,,US,패션·럭셔리,신발,both,,major,0
+deckers,데커스 브랜즈,Deckers Brands,,US,패션·럭셔리,신발,corporate,,niche,0
+dr-martens,닥터마틴,Dr. Martens,닥마,GB,패션·럭셔리,신발,both,,major,0
+ecco,에코,ECCO,,DK,패션·럭셔리,신발,both,,niche,0
+jimmy-choo,지미추,Jimmy Choo,,GB,패션·럭셔리,신발,product,capri-holdings,major,0
+onitsuka-tiger,오니츠카 타이거,Onitsuka Tiger,오니츠카,JP,패션·럭셔리,신발,product,asics,major,0
+skechers,스케쳐스,Skechers,,US,패션·럭셔리,신발,both,,major,0
+timberland,팀버랜드,Timberland,,US,패션·럭셔리,신발,product,vf-corp,major,0
+tods,토즈,Tod's,,IT,패션·럭셔리,신발,both,,niche,0
+ugg,어그,UGG,,US,패션·럭셔리,신발,product,deckers,major,0
+vans,반스,Vans,,US,패션·럭셔리,신발,product,vf-corp,major,0
+carin,카린,CARIN,,KR,패션·럭셔리,안경·아이웨어,both,,niche,0
+essilorluxottica,에실로룩소티카,EssilorLuxottica,룩소티카,FR,패션·럭셔리,안경·아이웨어,corporate,,major,0
+gentle-monster,젠틀몬스터,Gentle Monster,젠몬,KR,패션·럭셔리,안경·아이웨어,product,iicombined,major,0
+iicombined,아이아이컴바인드,IICOMBINED,,KR,패션·럭셔리,안경·아이웨어,corporate,,niche,0
+oakley,오클리,Oakley,,US,패션·럭셔리,안경·아이웨어,product,essilorluxottica,major,0
+ray-ban,레이밴,Ray-Ban,,IT,패션·럭셔리,안경·아이웨어,product,essilorluxottica,mega,0
+warby-parker,와비 파커,Warby Parker,,US,패션·럭셔리,안경·아이웨어,both,,niche,0
+byc,BYC,BYC,비와이씨,KR,패션·럭셔리,언더웨어·라운지,both,,major,0
+skims,스킴스,Skims,,US,패션·럭셔리,언더웨어·라운지,both,,niche,0
+victorias-secret,빅토리아 시크릿,Victoria's Secret,빅시,US,패션·럭셔리,언더웨어·라운지,both,,major,0
+wacoal,와코루,Wacoal,,JP,패션·럭셔리,언더웨어·라운지,both,,niche,0
+allsaints,올세인츠,AllSaints,,GB,패션·럭셔리,컨템포러리,both,,niche,0
+apc,아페쎄,A.P.C.,APC,FR,패션·럭셔리,컨템포러리,both,,niche,0
+beanpole,빈폴,Beanpole,,KR,패션·럭셔리,컨템포러리,product,samsung-cnt-fashion,major,0
+calvin-klein,캘빈클라인,Calvin Klein,CK,US,패션·럭셔리,컨템포러리,product,pvh,mega,0
+diesel,디젤,Diesel,,IT,패션·럭셔리,컨템포러리,product,otb-group,major,0
+ganni,가니,Ganni,,DK,패션·럭셔리,컨템포러리,both,,niche,0
+handsome,한섬,Handsome,,KR,패션·럭셔리,컨템포러리,corporate,hyundai-department-store-group,major,0
+hazzys,헤지스,Hazzys,,KR,패션·럭셔리,컨템포러리,product,lf,major,0
+hugo-boss,휴고 보스,Hugo Boss,보스|BOSS,DE,패션·럭셔리,컨템포러리,both,,major,0
+kolon-industries-fnc,코오롱인더스트리FnC,Kolon Industries FnC,코오롱FnC,KR,패션·럭셔리,컨템포러리,corporate,kolon-group,major,0
+kuho,구호,KUHO,,KR,패션·럭셔리,컨템포러리,product,samsung-cnt-fashion,niche,0
+lacoste,라코스테,Lacoste,,FR,패션·럭셔리,컨템포러리,both,,major,0
+lf,LF,LF Corp.,엘에프|LG패션,KR,패션·럭셔리,컨템포러리,corporate,,major,0
+maje,마쥬,Maje,,FR,패션·럭셔리,컨템포러리,product,smcp,niche,0
+max-mara,막스마라,Max Mara,,IT,패션·럭셔리,컨템포러리,both,,major,0
+pvh,PVH,PVH Corp.,,US,패션·럭셔리,컨템포러리,corporate,,niche,0
+ralph-lauren,랄프 로렌,Ralph Lauren,폴로|폴로 랄프로렌,US,패션·럭셔리,컨템포러리,both,,mega,0
+samsung-cnt-fashion,삼성물산 패션부문,Samsung C&T Fashion Group,,KR,패션·럭셔리,컨템포러리,corporate,samsung-group,major,0
+sandro,산드로,Sandro,,FR,패션·럭셔리,컨템포러리,product,smcp,niche,0
+shinsegae-international,신세계인터내셔날,Shinsegae International,SI|신세계인터,KR,패션·럭셔리,컨템포러리,corporate,shinsegae-group,major,0
+smcp,SMCP,SMCP,,FR,패션·럭셔리,컨템포러리,corporate,,niche,0
+studio-tomboy,스튜디오 톰보이,Studio Tomboy,톰보이,KR,패션·럭셔리,컨템포러리,product,shinsegae-international,niche,0
+system,시스템,SYSTEM,,KR,패션·럭셔리,컨템포러리,product,handsome,niche,0
+theory,띠어리,Theory,,US,패션·럭셔리,컨템포러리,product,fast-retailing,major,0
+time,타임,TIME,,KR,패션·럭셔리,컨템포러리,product,handsome,major,0
+tommy-hilfiger,타미힐피거,Tommy Hilfiger,타미,US,패션·럭셔리,컨템포러리,product,pvh,major,0
+toteme,토템,Toteme,,SE,패션·럭셔리,컨템포러리,both,,niche,0

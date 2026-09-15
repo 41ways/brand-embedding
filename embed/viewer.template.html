@@ -1,0 +1,337 @@
+<title>브랜드 좌표판</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Gothic+A1:wght@400;600;800&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+:root{
+  --paper:#f2f3f1; --sheet:#fbfbfa; --ink:#15171a; --ink-2:#4d5158; --ink-3:#868a91;
+  --rule:#d9dbd8; --dot:#b8bbc0; --hot:#d7372b; --near:#2458d6; --near-soft:rgba(36,88,214,.14);
+  --bar:#c9ccd1;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --paper:#131416; --sheet:#1b1c1f; --ink:#eceded; --ink-2:#b3b6bb; --ink-3:#7d8187;
+    --rule:#2e3034; --dot:#4a4d54; --hot:#ff5b4c; --near:#7c9dff; --near-soft:rgba(124,157,255,.16);
+    --bar:#43464c;
+  }
+}
+:root[data-theme="dark"]{
+  --paper:#131416; --sheet:#1b1c1f; --ink:#eceded; --ink-2:#b3b6bb; --ink-3:#7d8187;
+  --rule:#2e3034; --dot:#4a4d54; --hot:#ff5b4c; --near:#7c9dff; --near-soft:rgba(124,157,255,.16);
+  --bar:#43464c;
+}
+*{box-sizing:border-box}
+body{background:var(--paper);color:var(--ink);font:15px/1.6 "Gothic A1",system-ui,-apple-system,"Apple SD Gothic Neo",sans-serif;padding-inline:20px;padding-block:28px 64px}
+.wrap{max-width:1180px;margin:0 auto;display:flex;flex-direction:column;gap:28px}
+.mono{font-family:"IBM Plex Mono",ui-monospace,Menlo,monospace;font-variant-numeric:tabular-nums}
+header{display:grid;grid-template-columns:1fr auto;gap:12px 24px;align-items:end;border-bottom:3px solid var(--ink);padding-bottom:14px}
+h1{font:400 clamp(34px,5vw,54px)/1 "Black Han Sans","Gothic A1",sans-serif;margin:0;letter-spacing:-.01em}
+h1 em{font-style:normal;color:var(--hot)}
+.lede{grid-column:1/-1;margin:0;color:var(--ink-2);max-width:68ch}
+.meta{font-size:12px;color:var(--ink-3);text-align:right;letter-spacing:.04em}
+h2{font:800 13px/1.2 "Gothic A1",sans-serif;letter-spacing:.12em;margin:0;color:var(--ink-2)}
+
+.controls{display:flex;flex-wrap:wrap;gap:10px 18px;align-items:center}
+.seg{display:inline-flex;border:1.5px solid var(--ink)}
+.seg button{font:600 14px "Gothic A1",sans-serif;background:transparent;color:var(--ink);border:0;padding:8px 14px;cursor:pointer}
+.seg button+button{border-left:1.5px solid var(--ink)}
+.seg button[aria-pressed="true"]{background:var(--ink);color:var(--paper)}
+.weights{font-size:12px;color:var(--ink-2);display:flex;flex-wrap:wrap;gap:4px 12px}
+.weights b{color:var(--ink);font-weight:500}
+select,input{font:14px "Gothic A1",sans-serif;color:var(--ink);background:var(--sheet);border:1.5px solid var(--rule);padding:7px 10px;border-radius:0}
+select:focus-visible,input:focus-visible,button:focus-visible{outline:2px solid var(--hot);outline-offset:2px}
+
+.stage{display:grid;grid-template-columns:minmax(0,1.25fr) minmax(0,1fr);gap:24px;align-items:start}
+@media (max-width:860px){.stage{grid-template-columns:1fr}}
+.plot{position:relative;background:var(--sheet);border:1px solid var(--rule);aspect-ratio:1/1;max-width:100%}
+.plot canvas{position:absolute;inset:0;width:100%;height:100%;cursor:crosshair}
+.legend{position:absolute;left:10px;bottom:8px;display:flex;gap:12px;font-size:12px;color:var(--ink-2);pointer-events:none;flex-wrap:wrap}
+.legend i{display:inline-block;width:9px;height:9px;border-radius:50%;margin-right:5px;vertical-align:-1px}
+.tip{position:absolute;pointer-events:none;background:var(--ink);color:var(--paper);padding:6px 9px;font-size:12px;line-height:1.4;white-space:nowrap;transform:translate(-50%,calc(-100% - 12px))}
+.tip small{display:block;opacity:.7}
+
+.panel{display:flex;flex-direction:column;gap:14px}
+.search{position:relative}
+.search input{width:100%}
+.hits{position:absolute;z-index:5;left:0;right:0;top:100%;background:var(--sheet);border:1.5px solid var(--ink);border-top:0;max-height:260px;overflow:auto;margin:0;padding:0;list-style:none}
+.hits li{padding:6px 10px;cursor:pointer;display:flex;justify-content:space-between;gap:10px}
+.hits li[aria-selected="true"],.hits li:hover{background:var(--near-soft)}
+.hits small{color:var(--ink-3)}
+.card{border-top:3px solid var(--hot);padding-top:10px;display:grid;gap:2px}
+.card .nm{font:400 30px/1.1 "Black Han Sans","Gothic A1",sans-serif}
+.card .sub{color:var(--ink-2);font-size:13px}
+.chips{display:flex;flex-wrap:wrap;gap:6px;margin-top:6px}
+.chip{font-size:11px;border:1px solid var(--rule);padding:1px 7px;color:var(--ink-2)}
+.chip.conf-low{border-color:var(--hot);color:var(--hot)}
+.lab{font-size:11px;color:var(--ink-3);align-self:center;margin-right:2px}
+.summary{margin:8px 0 2px;font-size:14px;line-height:1.65;max-width:62ch}
+.summary.muted{color:var(--ink-3)}
+.meter{display:grid;grid-template-columns:4.5em 1fr 3em;gap:8px;align-items:center;font-size:12px;color:var(--ink-2);margin-top:4px}
+.meter i{position:relative;height:2px;background:var(--rule)}
+.meter i b{position:absolute;top:-4px;width:10px;height:10px;border-radius:50%;background:var(--hot);transform:translateX(-50%)}
+.why{font-size:12px;color:var(--ink-3);margin-top:4px}
+.why::before{content:"근거 ";font-weight:800}
+
+.tbl-wrap{overflow-x:auto}
+table{border-collapse:collapse;width:100%;font-size:13px}
+th{font:600 11px "Gothic A1",sans-serif;letter-spacing:.06em;color:var(--ink-3);text-align:left;padding:4px 6px;border-bottom:1.5px solid var(--ink)}
+td{padding:5px 6px;border-bottom:1px solid var(--rule);vertical-align:middle}
+tr.nb{cursor:pointer}
+tr.nb:hover td{background:var(--near-soft)}
+td.rk{color:var(--near);width:1.5em}
+td.name{white-space:nowrap}
+td.name small{display:block;color:var(--ink-3);font-size:11px;line-height:1.2}
+.cell{display:grid;gap:2px;min-width:40px}
+.cell span{font-size:11px;color:var(--ink-2)}
+.cell i{display:block;height:3px;background:var(--bar)}
+.cell i b{display:block;height:100%;background:var(--ink-2)}
+.cell.off span{color:var(--rule)}
+.cell.off i{opacity:.35}
+.note{font-size:12px;color:var(--ink-3);margin:0}
+
+.compare{display:grid;gap:12px}
+.compare table td{vertical-align:top;font-size:13px;line-height:1.5}
+.compare td:first-child{font-weight:800;white-space:nowrap;cursor:pointer;color:var(--ink)}
+.compare td:first-child:hover{color:var(--hot)}
+.compare th:not(:first-child){min-width:170px}
+
+.reads{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:20px}
+@media (max-width:760px){.reads{grid-template-columns:1fr}}
+.reads div{border-top:1.5px solid var(--ink);padding-top:10px}
+.reads h3{margin:0 0 4px;font:800 16px/1.3 "Gothic A1",sans-serif;text-wrap:balance}
+.reads p{margin:0;color:var(--ink-2);font-size:14px}
+.next{border:1.5px dashed var(--rule);padding:14px 16px;display:grid;gap:6px}
+.next p{margin:0;color:var(--ink-2);max-width:72ch}
+</style>
+
+<div class="wrap">
+  <header>
+    <h1>브랜드 좌표판 <em>1차</em></h1>
+    <div class="meta mono" id="meta"></div>
+    <p class="lede">브랜드 <span id="count"></span>개를 네 가지 방식으로 벡터로 만들고 2차원(t-SNE)에 펼친 결과. 1차 보강으로 <b>설명글·브랜드 원형·업계 안 가격 위치·창업과 소유</b>가 들어갔음. 점을 누르거나 검색하면 가장 가까운 12곳과 묶음별로 얼마나 닮았는지가 나옴.</p>
+  </header>
+
+  <div class="controls">
+    <div class="seg" role="group" aria-label="임베딩 방식">
+      <button id="m-name" data-mode="name">이름만</button>
+      <button id="m-structure" data-mode="structure">구조만</button>
+      <button id="m-meaning" data-mode="meaning">의미만</button>
+      <button id="m-all" data-mode="all">전부</button>
+    </div>
+    <label for="sector" class="mono" style="font-size:12px;color:var(--ink-3)">분야 강조</label>
+    <select id="sector"><option value="">없음</option></select>
+    <div class="weights mono" id="weights"></div>
+  </div>
+
+  <div class="stage">
+    <div class="plot" id="plot">
+      <canvas id="cv" aria-label="브랜드 임베딩 산점도"></canvas>
+      <div class="legend"><span><i style="background:var(--hot)"></i>고른 브랜드</span><span><i style="background:var(--near)"></i>가까운 12곳</span><span id="lg-sector" hidden><i style="background:var(--ink)"></i><span id="lg-sector-name"></span></span></div>
+      <div class="tip" id="tip" hidden></div>
+    </div>
+
+    <div class="panel">
+      <div class="search">
+        <label for="q" class="mono" style="font-size:12px;color:var(--ink-3)">브랜드 찾기</label>
+        <input id="q" type="search" placeholder="에르메스, Cargill, 탬버린즈 …" autocomplete="off" role="combobox" aria-expanded="false" aria-controls="hits">
+        <ul class="hits" id="hits" role="listbox" hidden></ul>
+      </div>
+      <div class="card" id="card"></div>
+      <div class="tbl-wrap"><table id="nbt"></table></div>
+      <p class="note">유사도 = 묶음별 코사인의 가중 합. 막대는 묶음별 코사인(0~1). 흐린 칸은 이 방식에 쓰지 않은 묶음.</p>
+    </div>
+  </div>
+
+  <section class="compare">
+    <h2>같은 브랜드, 세 가지 공간</h2>
+    <div class="tbl-wrap"><table id="cmp"></table></div>
+  </section>
+
+  <section class="reads">
+    <div><h3>의미만: 업종을 넘는 이웃</h3><p>람보르기니 → 오데마 피게·리차드 밀·롤렉스, 탬버린즈 → 젠틀몬스터·이세이 미야케, 할리데이비슨 → 올세인츠·스톤아일랜드. 상위 10곳의 절반이 다른 분야. 대신 스타벅스 → 크루즈·항공사 같은 헛이웃도 섞임.</p></div>
+    <div><h3>전부: 정답 세트로 고른 가중치</h3><p>"A는 C보다 B에 가깝다" 정답 34문항으로 가중치를 격자 탐색. 같은 업종 정답을 다 맞히면 다른 분야 이웃이 4% 로 줄어드는 줄다리기가 있어서, 틀림 2(애매한 문항)·다른 분야 13% 지점을 골랐음.</p></div>
+    <div><h3>남은 문제: 설명글에 국적이 샘</h3><p>무인양품 이웃이 비오레·가루비·야쿠르트처럼 일본 브랜드로 몰림. 요약에 "일본의 …"가 들어가 설명글 임베딩이 국적으로 뭉침. 출신은 따로 묶음이 있으니 요약에서 나라 이름을 빼고 다시 임베딩할 것.</p></div>
+  </section>
+
+  <section class="next">
+    <h2>다음</h2>
+    <p><b>요약에서 국적 제거</b> 후 재임베딩 → 무인양품–이케아 같은 이웃 회복. <b>정답 세트 늘리기</b>(34 → 수백, 학습용·검증용 분리)로 가중치 과적합 막기. <b>Wikidata 대조</b>로 설립 연도·국가·모회사 불일치 목록 뽑아 검수. 그다음 2차 묶음(협업·스폰서십 그래프).</p>
+  </section>
+</div>
+
+<script type="application/json" id="data">__DATA__</script>
+<script>
+(() => {
+const D = JSON.parse(document.getElementById('data').textContent);
+const B = D.brands, N = B.length;
+const idx = Object.fromEntries(B.map((b, i) => [b.id, i]));
+const BLOCKS = [['summary','설명글'],['archetype','원형'],['position','업계위치'],['heritage','창업·소유'],['category','분류'],['family','소속'],['origin','출신'],['scale','규모'],['name','이름']];
+const MODE_KO = {name:'이름만', structure:'구조만', meaning:'의미만', all:'전부'};
+const ARCH_KO = {innocent:'순수',explorer:'탐험가',sage:'현자',hero:'영웅',outlaw:'반항아',magician:'마법사',everyman:'보통사람',lover:'연인',jester:'광대',caregiver:'돌보는 자',creator:'창조자',ruler:'지배자'};
+const OWN_KO = {family:'가족 지배',founder:'창업자 지배',public:'분산 상장',state:'국영',foundation:'재단 소유',coop:'협동조합',pe:'사모펀드',chaebol:'재벌 계열',subsidiary:'자회사',unknown:'소유 불명'};
+const reduce = matchMedia('(prefers-reduced-motion: reduce)').matches;
+const $ = id => document.getElementById(id);
+
+let mode = 'all', sel = idx['hermes'] ?? 0, sector = '', hover = -1;
+let cur = D.modes[mode].xy.map(p => p.slice()), anim = null;
+
+$('count').textContent = N.toLocaleString();
+$('meta').innerHTML = 'bge-m3 · t-SNE cosine<br>2026-09-15';
+[...new Set(B.map(b => b.sector))].sort().forEach(s => {
+  const o = document.createElement('option'); o.value = s;
+  o.textContent = `${s} (${B.filter(b => b.sector === s).length})`; $('sector').append(o);
+});
+
+const cv = $('cv'), ctx = cv.getContext('2d'), plot = $('plot');
+let W = 0, dpr = 1;
+const PAD = 26;
+function css(v){ return getComputedStyle(document.documentElement).getPropertyValue(v).trim(); }
+function fit(){ dpr = devicePixelRatio || 1; W = plot.clientWidth; cv.width = W*dpr; cv.height = W*dpr; draw(); }
+new ResizeObserver(fit).observe(plot);
+matchMedia('(prefers-color-scheme: dark)').addEventListener('change', draw);
+new MutationObserver(draw).observe(document.documentElement, {attributes:true, attributeFilter:['data-theme']});
+
+const px = p => [PAD + p[0]*(W-2*PAD), PAD + (1-p[1])*(W-2*PAD)];
+
+function draw(){
+  if (!W) return;
+  const c = {dot:css('--dot'), ink:css('--ink'), ink2:css('--ink-2'), hot:css('--hot'), near:css('--near'), sheet:css('--sheet')};
+  ctx.setTransform(dpr,0,0,dpr,0,0); ctx.clearRect(0,0,W,W);
+  const nb = D.modes[mode].nb[sel].slice(0,12);
+  const nbSet = new Set(nb);
+  const r = W < 500 ? 1.6 : 2.2;
+  ctx.fillStyle = c.dot;
+  for (let i=0;i<N;i++){
+    if (i===sel || nbSet.has(i) || (sector && B[i].sector===sector)) continue;
+    const [x,y] = px(cur[i]); ctx.beginPath(); ctx.arc(x,y,r,0,7); ctx.fill();
+  }
+  if (sector){
+    ctx.fillStyle = c.ink;
+    for (let i=0;i<N;i++) if (B[i].sector===sector && i!==sel && !nbSet.has(i)){
+      const [x,y] = px(cur[i]); ctx.beginPath(); ctx.arc(x,y,r+1,0,7); ctx.fill();
+    }
+  }
+  const [sx,sy] = px(cur[sel]);
+  ctx.strokeStyle = c.near; ctx.globalAlpha = .35; ctx.lineWidth = 1;
+  nb.forEach(j => { const [x,y]=px(cur[j]); ctx.beginPath(); ctx.moveTo(sx,sy); ctx.lineTo(x,y); ctx.stroke(); });
+  ctx.globalAlpha = 1;
+  const ring = (x,y,rad,fill) => { ctx.beginPath(); ctx.arc(x,y,rad+2,0,7); ctx.fillStyle=c.sheet; ctx.fill(); ctx.beginPath(); ctx.arc(x,y,rad,0,7); ctx.fillStyle=fill; ctx.fill(); };
+  nb.forEach(j => { const [x,y]=px(cur[j]); ring(x,y,4.5,c.near); });
+  ring(sx,sy,7,c.hot);
+  // 직접 라벨: 고른 곳 + 상위 5
+  ctx.font = `600 12px "Gothic A1", sans-serif`; ctx.textBaseline = 'middle';
+  const placed = [];
+  const label = (i, bold) => {
+    const [x,y] = px(cur[i]); const t = B[i].name_ko;
+    ctx.font = `${bold?800:600} ${bold?14:12}px "Gothic A1", sans-serif`;
+    const w = ctx.measureText(t).width;
+    let lx = x + 9; if (lx + w > W - 6) lx = x - 9 - w;
+    let ly = y;
+    for (let k=0;k<6 && placed.some(p => Math.abs(p[1]-ly) < 14 && lx < p[0]+p[2] && lx+w > p[0]); k++) ly += 14;
+    placed.push([lx,ly,w]);
+    ctx.lineWidth = 3; ctx.strokeStyle = c.sheet; ctx.strokeText(t,lx,ly);
+    ctx.fillStyle = bold ? c.ink : c.ink2; ctx.fillText(t,lx,ly);
+  };
+  label(sel, true); nb.slice(0,5).forEach(j => label(j,false));
+  if (hover >= 0){ const [x,y]=px(cur[hover]); ctx.beginPath(); ctx.arc(x,y,6,0,7); ctx.strokeStyle=c.ink; ctx.lineWidth=1.5; ctx.stroke(); }
+}
+
+function nearest(ev){
+  const rect = cv.getBoundingClientRect(); const mx = ev.clientX-rect.left, my = ev.clientY-rect.top;
+  let best=-1, bd=144;
+  for (let i=0;i<N;i++){ const [x,y]=px(cur[i]); const d=(x-mx)**2+(y-my)**2; if (d<bd){bd=d;best=i;} }
+  return best;
+}
+cv.addEventListener('mousemove', ev => {
+  const i = nearest(ev); if (i===hover) return; hover = i; draw();
+  const tip = $('tip');
+  if (i<0){ tip.hidden = true; return; }
+  const [x,y] = px(cur[i]); const b = B[i];
+  tip.innerHTML = `${b.name_ko} <span class="mono">${b.name_en}</span><small>${b.sector} › ${b.category} · ${b.country}</small>`;
+  tip.style.left = Math.min(Math.max(x, 90), W-90)+'px'; tip.style.top = y+'px'; tip.hidden = false;
+});
+cv.addEventListener('mouseleave', () => { hover=-1; $('tip').hidden=true; draw(); });
+cv.addEventListener('click', ev => { const i = nearest(ev); if (i>=0) select(i); });
+
+function setMode(m){
+  mode = m;
+  document.querySelectorAll('.seg button').forEach(b => b.setAttribute('aria-pressed', b.dataset.mode===m));
+  $('weights').innerHTML = Object.entries(D.modes[m].weights).map(([k,v]) => `<span>${BLOCKS.find(b=>b[0]===k)[1]} <b>${v}</b></span>`).join('');
+  const from = cur.map(p=>p.slice()), to = D.modes[m].xy;
+  cancelAnimationFrame(anim);
+  if (reduce){ cur = to.map(p=>p.slice()); draw(); } else {
+    const t0 = performance.now();
+    const step = t => { const k = Math.min(1,(t-t0)/600), e = 1-Math.pow(1-k,3);
+      for (let i=0;i<N;i++){ cur[i][0]=from[i][0]+(to[i][0]-from[i][0])*e; cur[i][1]=from[i][1]+(to[i][1]-from[i][1])*e; }
+      draw(); if (k<1) anim = requestAnimationFrame(step); };
+    anim = requestAnimationFrame(step);
+  }
+  renderPanel();
+}
+document.querySelectorAll('.seg button').forEach(b => b.addEventListener('click', () => setMode(b.dataset.mode)));
+$('sector').addEventListener('change', e => { sector = e.target.value; $('lg-sector').hidden = !sector; $('lg-sector-name').textContent = sector; draw(); });
+
+function select(i){ sel = i; renderPanel(); draw(); }
+
+function renderPanel(){
+  const b = B[sel], M = D.modes[mode];
+  const parent = b.parent && idx[b.parent] != null ? B[idx[b.parent]].name_ko : '';
+  const arch = b.archetype ? Object.entries(b.archetype).sort((x,y)=>y[1]-x[1]).map(([k,v])=>`<span class="chip">${ARCH_KO[k]||k} ${Math.round(v*100)}</span>`).join('') : '';
+  const meter = (lab, v) => v==null ? '' : `<div class="meter"><span>${lab}</span><i><b style="left:${v*100}%"></b></i><span class="mono">${v.toFixed(2)}</span></div>`;
+  const heritage = [b.founded ? `${b.founded}년` : '', b.ownership ? OWN_KO[b.ownership] : '', b.founder_named ? '창업자 이름' : ''].filter(Boolean).join(' · ');
+  $('card').innerHTML = `<div class="nm">${b.name_ko}</div><div class="sub mono">${b.name_en}</div>
+    <div class="chips"><span class="chip">${b.sector} › ${b.category}</span><span class="chip">${b.country}</span><span class="chip">${b.tier}</span><span class="chip">${b.b2b==='1'?'B2B':'B2C'}</span>${parent?`<span class="chip">소속 ${parent}</span>`:''}${b.confidence?`<span class="chip conf-${b.confidence}">확신 ${b.confidence}</span>`:''}</div>
+    ${b.summary ? `<p class="summary">${b.summary}</p>` : '<p class="summary muted">보강 데이터 없음</p>'}
+    ${arch ? `<div class="chips"><span class="lab">원형</span>${arch}</div>` : ''}
+    ${meter('가격 위치', b.price_pos)}${meter('희소성', b.exclusivity)}
+    ${heritage ? `<div class="sub">${heritage}</div>` : ''}
+    ${b.why ? `<div class="why">${b.why}</div>` : ''}`;
+  const used = BLOCKS.filter(([k]) => k in M.weights);
+  let h = `<thead><tr><th></th><th>가까운 곳</th><th class="mono">유사도</th>${used.map(([k,ko])=>`<th>${ko}</th>`).join('')}</tr></thead><tbody>`;
+  M.nb[sel].forEach((j, r) => {
+    const n = B[j];
+    h += `<tr class="nb" data-i="${j}"><td class="rk mono">${r+1}</td><td class="name">${n.name_ko}<small>${n.category} · ${n.country}</small></td><td class="mono">${M.sim[sel][r].toFixed(3)}</td>`;
+    used.forEach(([k]) => {
+      const raw = M.why[k][sel][r];
+      if (raw <= -1) { h += `<td><div class="cell off"><span class="mono">없음</span><i></i></div></td>`; return; }
+      const v = Math.max(0, raw);
+      h += `<td><div class="cell"><span class="mono">${v.toFixed(2)}</span><i><b style="width:${Math.round(v*100)}%"></b></i></div></td>`;
+    });
+    h += `</tr>`;
+  });
+  $('nbt').innerHTML = h + '</tbody>';
+  $('nbt').querySelectorAll('tr.nb').forEach(tr => tr.addEventListener('click', () => select(+tr.dataset.i)));
+}
+
+// 검색
+const norm = s => s.toLowerCase().replace(/[\s\-·.&']/g,'');
+const keys = B.map(b => norm(b.name_ko)+'|'+norm(b.name_en)+'|'+b.id);
+let hits = [], hi = 0;
+const q = $('q'), list = $('hits');
+function showHits(){
+  const s = norm(q.value);
+  hits = s ? keys.map((k,i)=>[k.indexOf(s),i]).filter(x=>x[0]>=0).sort((a,b)=>a[0]-b[0]||B[a[1]].name_ko.length-B[b[1]].name_ko.length).slice(0,12).map(x=>x[1]) : [];
+  hi = 0; list.hidden = !hits.length; q.setAttribute('aria-expanded', !!hits.length);
+  list.innerHTML = hits.map((i,k)=>`<li role="option" aria-selected="${k===hi}" data-i="${i}">${B[i].name_ko} <small>${B[i].name_en} · ${B[i].category}</small></li>`).join('');
+}
+q.addEventListener('input', showHits);
+q.addEventListener('keydown', e => {
+  if (list.hidden) return;
+  if (e.key==='ArrowDown'||e.key==='ArrowUp'){ e.preventDefault(); hi=(hi+(e.key==='ArrowDown'?1:-1)+hits.length)%hits.length;
+    list.querySelectorAll('li').forEach((li,k)=>li.setAttribute('aria-selected',k===hi)); }
+  if (e.key==='Enter'){ e.preventDefault(); pick(hits[hi]); }
+  if (e.key==='Escape'){ list.hidden=true; }
+});
+list.addEventListener('mousedown', e => { const li = e.target.closest('li'); if (li) pick(+li.dataset.i); });
+q.addEventListener('blur', () => setTimeout(()=>{ list.hidden=true; q.setAttribute('aria-expanded', false); }, 100));
+function pick(i){ q.value=''; list.hidden=true; select(i); }
+
+// 비교표
+const SAMPLE = ['lamborghini','tamburins','harley-davidson','red-bull','apple','hermes','starbucks','muji','cargill'].filter(s=>idx[s]!=null);
+$('cmp').innerHTML = `<thead><tr><th>브랜드</th>${Object.keys(MODE_KO).map(m=>`<th>${MODE_KO[m]}</th>`).join('')}</tr></thead><tbody>` +
+  SAMPLE.map(s => { const i = idx[s]; return `<tr><td data-i="${i}">${B[i].name_ko}</td>${Object.keys(MODE_KO).map(m=>`<td>${D.modes[m].nb[i].slice(0,5).map(j=>B[j].name_ko).join(', ')}</td>`).join('')}</tr>`; }).join('') + '</tbody>';
+$('cmp').querySelectorAll('td[data-i]').forEach(td => td.addEventListener('click', () => { select(+td.dataset.i); $('plot').scrollIntoView({behavior: reduce?'auto':'smooth', block:'center'}); }));
+
+setMode(mode);
+})();
+</script>
