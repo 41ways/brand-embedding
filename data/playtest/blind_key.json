@@ -4,5 +4,7 @@
  "set-c": "quota-150",
  "set-d": "base",
  "set-e": "hybrid-200",
- "set-f": "hybrid-300"
+ "set-f": "hybrid-300",
+ "set-g": "hybrid-200-tuned (hint 10%)",
+ "set-h": "panel-150-tuned (hint 10%)"
 }

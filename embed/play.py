@@ -37,14 +37,14 @@ def variants():
     return ["base"] + sorted(p.stem for p in SUBSETS.glob("*-*.csv"))
 
 
-def prepare(weights=None, tag=""):
+def prepare(weights=None, tag="", only=None, hint_pct=.05):
     import preview as P
     rows, extra = P.load()
     idx = {r["id"]: i for i, r in enumerate(rows)}
     cos, mask = P.pairwise(P.build_blocks(rows, extra))
     w = weights or P.MODES["all"]
     OUT.mkdir(parents=True, exist_ok=True)
-    for v in variants():
+    for v in (only or variants()):
         ids = [r["id"] for r in rows] if v == "base" else [r["id"] for r in csv.DictReader((SUBSETS / f"{v}.csv").open())]
         sel = np.array([idx[i] for i in ids])
         c = {b: cos[b][np.ix_(sel, sel)] for b in w}
@@ -57,7 +57,7 @@ def prepare(weights=None, tag=""):
             cb = np.where(m[b] > 0, c[b], -np.inf)
             np.fill_diagonal(cb, -np.inf)
             cnt = np.isfinite(cb).sum(1)
-            kth = np.maximum(1, (cnt * .05).astype(int))
+            kth = np.maximum(1, (cnt * hint_pct).astype(int))
             srt = -np.sort(-cb, axis=1)
             edge = srt[np.arange(n), kth - 1]
             near |= ((cb >= edge[:, None]) & (cb > 0) & np.isfinite(cb)).astype(np.uint16) << k
