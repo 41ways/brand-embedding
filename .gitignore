@@ -2,3 +2,4 @@ embed/out/
 data/verify/cache/
 __pycache__/
 .DS_Store
+.venv/

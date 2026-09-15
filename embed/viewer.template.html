@@ -285,7 +285,7 @@ function renderPanel(){
   const money = b => {
     const parts = [];
     if (b.typical_price_krw) parts.push(`${won(b.typical_price_krw)} <small>${b.price_item||''}</small>`);
-    if (b.market_cap_usd_b) parts.push(`시총 ${usd(b.market_cap_usd_b)}${b.ticker?` <small class="mono">${b.ticker}</small>`:''}`);
+    if (b.market_cap_usd_b) parts.push(`시총 ${usd(b.market_cap_usd_b)}${b.ticker?` <small class="mono">${b.ticker}</small>`:''} <small>${b.market_cap_date ? b.market_cap_date+' 시세' : '추정'}</small>`);
     else if (b.revenue_usd_b) parts.push(`매출 ${usd(b.revenue_usd_b)}`);
     return parts.length ? `<div class="money">${parts.join('<span class="dot">·</span>')}</div>` : '';
   };

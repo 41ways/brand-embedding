@@ -94,5 +94,20 @@ class CompanySize(unittest.TestCase):
         self.assertGreater(m[0, :len(P.SIZE_CENTERS)].max(), m[1, :len(P.SIZE_CENTERS)].max())
 
 
+class MarketCaps(unittest.TestCase):
+    def test_real_cap_overrides_llm_estimate(self):
+        import tempfile
+        with tempfile.NamedTemporaryFile("w", suffix=".csv", delete=False) as f:
+            f.write("id,market_cap_usd_b,status,fetched\n"
+                    "a,123.4,ok,2026-09-15\nb,9,check,2026-09-15\nc,1,not_found,2026-09-15\n")
+        extra = {"a": {"market_cap_usd_b": 50}, "b": {"market_cap_usd_b": 1}, "c": {"market_cap_usd_b": 7}}
+        P.apply_market_caps(extra, Path(f.name))
+        self.assertEqual(extra["a"]["market_cap_usd_b"], 123.4)
+        self.assertEqual(extra["a"]["market_cap_llm_usd_b"], 50)
+        self.assertEqual(extra["b"]["market_cap_usd_b"], 9.0)
+        self.assertEqual(extra["c"]["market_cap_usd_b"], 7)  # 조회 실패는 추정값 유지
+        self.assertNotIn("market_cap_date", extra["c"])
+
+
 if __name__ == "__main__":
     unittest.main()

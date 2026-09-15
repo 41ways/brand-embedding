@@ -1,0 +1,1604 @@
+id,name_en,qid,wd_label,wd_desc,country,wd_country,country_ok,founded,wd_founded,founded_ok,parent,wd_parents,parent_ok
+allianz,Allianz,Q487292,Allianz SE,European multinational insurance and financial services corporation,DE,DE,1,1890,1890,1,,,
+axa,AXA,Q160054,AXA,French multinational insurance firm,FR,FR,1,1817,1816,1,,,
+hanwha-life,Hanwha Life,Q491990,Hanwha Life Insurance,insurance company in South Korea,KR,KR|ID,1,1946,1946,1,hanwha-group,Hanwha Group,1
+hyundai-marine,Hyundai Marine & Fire Insurance,Q482973,Hyundai Marine & Fire Insurance,South Korean insurance company,KR,KR,1,1955,1955,1,,,
+kyobo-life,Kyobo Life Insurance,,,,KR,,,1958,,,,,
+ping-an,Ping An Insurance,Q1256188,Ping An Insurance,Chinese insurance company,CN,CN,1,1988,1988,1,,Central Huijin Investment|Charoen Pokphand|UBS|JPMorgan Chase|Citigroup|Shenzhen Investment Holdings,missing
+samsung-fire,Samsung Fire & Marine Insurance,Q492706,Samsung Fire & Marine Insurance,South Korean insurance company,KR,,,1952,1952,1,samsung-group,Samsung Group|Samsung Life Insurance,1
+samsung-life,Samsung Life Insurance,Q624080,Samsung Life Insurance,South Korean company,KR,KR,1,1957,1957,1,samsung-group,Samsung Group|Lee Kun-hee|Samsung C&T Corporation|emart|National Pension Service|treasury stock,1
+binance,Binance,,,,KY,,,2017,,,,,
+bithumb,Bithumb,,,,KR,,,2014,,,,,
+coinbase,Coinbase,Q16972754,Coinbase,American company that operates a cryptocurrency exchange platform,US,US,1,2012,2012,1,,Brian Armstrong|Union Square Ventures|Andreessen Horowitz,missing
+tether,Tether,,,,SV,,,2014,,,,,
+upbit,Upbit,,,,KR,,,2017,,,,,
+bank-of-america,Bank of America,Q487907,Bank of America,American multinational banking and financial services corporation,US,US,1,1904,1998,0,,Berkshire Hathaway|The Vanguard Group|BlackRock,missing
+barclays,Barclays,Q245343,Barclays,British bank,GB,GB,1,1690,1690,1,,,
+bnp-paribas,BNP Paribas,Q499707,BNP Paribas,French bank and financial services company,FR,FR,1,2000,1848,0,,,
+citi,Citigroup,Q219508,Citigroup,American investment bank and financial services corporation,US,US,1,1812,1812,1,,BlackRock|The Vanguard Group,missing
+deutsche-bank,Deutsche Bank,Q66048,Deutsche Bank,German global banking and financial services company,DE,DE,1,1870,1870,1,,BlackRock|Capital Group Companies|Cerberus Capital Management,missing
+hana-bank,Hana Bank,Q484047,Hana Bank,South Korean company,KR,KR,1,1991,1967,0,hana-financial-group,,
+hana-financial-group,Hana Financial Group,Q490601,Hana Financial Group,South Korean financial holding company,KR,KR,1,2005,1969,0,,,
+hsbc,HSBC Holdings,Q190464,HSBC,British multinational bank,GB,GB,1,1865,1865,1,,,
+ibk,Industrial Bank of Korea,Q483855,Industrial Bank of Korea,company,KR,KR,1,1961,1961,1,,Financial Services Commission,missing
+icbc,Industrial and Commercial Bank of China,Q26463,Industrial and Commercial Bank of China,Chinese multinational banking company,CN,CN,1,1984,1984,1,,Ministry of Finance of the People's Republic of China|Central Huijin Investment,missing
+jpmorgan-chase,JPMorgan Chase,Q192314,JPMorgan Chase,American multinational banking and financial services holding company,US,US,1,1799,1968,0,,The Vanguard Group|BlackRock,missing
+kakaobank,KakaoBank,Q33570421,KakaoBank,Internet-based South Korean bank,KR,KR,1,2017,2016,1,kakao,Kakao,1
+kb-financial-group,KB Financial Group,Q12581339,KB Financial Group,"major Korean finance group, known due to daughter company (KB Kookmin Bank)",KR,KR,1,2008,2008,1,,,
+kb-kookmin-bank,KB Kookmin Bank,Q496606,KB Kookmin Bank,South Korean banking company,KR,KR,1,1963,1963,1,kb-financial-group,,
+monzo,Monzo,Q25206290,Monzo,online bank based in the United Kingdom,GB,GB,1,2015,2015,1,,,
+mufg,Mitsubishi UFJ Financial Group,Q1542175,Mitsubishi UFJ Financial Group,Japanese bank holding and financial services company,JP,JP,1,2005,2005,1,,Mitsubishi|Japan Trustee Services Bank|The Master Trust Bank of Japan|The Vanguard Group,missing
+nh-nonghyup-bank,NongHyup Bank,Q15283673,Nonghyup Bank,bank in South Korea,KR,KR,1,2012,2012,1,nonghyup,NH NongHyup Financial Group,1
+nubank,Nubank,Q25422888,Nubank,Brazilian financial technology company,BR,BR,1,2013,2013,1,,Nu Holdings Ltd.|David Vélez,missing
+revolut,Revolut,Q22908307,Revolut,financial technology company,GB,LT,0,2015,,,,,
+shinhan-bank,Shinhan Bank,Q487230,Shinhan Bank,South Korean company,KR,KR,1,1982,1897,0,shinhan-financial-group,Shinhan Financial Group,1
+shinhan-financial-group,Shinhan Financial Group,Q491325,Shinhan Financial Group,"Financial holding company in Seoul, South Korea",KR,KR,1,2001,2001,1,,,
+toss-bank,Toss Bank,Q110117949,Toss Bank,,KR,KR,1,2021,2020,1,,Viva Republica|Viva Republica,missing
+ubs,UBS Group,Q193199,UBS,Swiss multinational investment bank and financial services company,CH,CH,1,1862,1854,0,,GIC Private Limited|BlackRock|Norges Bank,missing
+wells-fargo,Wells Fargo,Q744149,Wells Fargo,American multinational banking and financial services company,US,US,1,1852,1852,1,,Berkshire Hathaway|BlackRock|The Vanguard Group,missing
+woori-bank,Woori Bank,Q4855966,Woori Bank of Indonesia,South Korean company in Indonesia,KR,ID,0,1899,1906,0,woori-financial-group,,
+woori-financial-group,Woori Financial Group,Q484117,Woori Financial Group,company,KR,KR,1,2001,2001,1,,,
+blackrock,BlackRock,Q219635,BlackRock,American multinational investment management corporation,US,US,1,1988,1988,1,,The Vanguard Group|Kuwait Investment Authority|BlackRock,missing
+fidelity,Fidelity Investments,Q1411292,Fidelity Investments,US American multinational financial services corporation,US,US,1,1946,1946,1,,,
+mirae-asset-global-investments,Mirae Asset Global Investments,Q137671410,Mirae Asset Global Investments (South Korea),"company in Seoul, South Korea",KR,KR,1,1997,1997,1,mirae-asset-group,,
+vanguard,Vanguard,Q849363,The Vanguard Group,American investment management company,US,US,1,1975,1975,1,,,
+charles-schwab,Charles Schwab,Q1066028,Charles Schwab Corporation,American financial services company,US,US,1,1971,1971,1,,,
+goldman-sachs,Goldman Sachs,Q193326,Goldman Sachs,American investment bank,US,US,1,1869,1869,1,,The Vanguard Group|BlackRock|State Street Corporation,missing
+kiwoom-securities,Kiwoom Securities,Q12620803,Kiwoom Securities,South Korean financial services company,KR,KR,1,2000,2000,1,,,
+korea-investment-securities,Korea Investment & Securities,,,,KR,,,1974,,,,,
+mirae-asset-securities,Mirae Asset Securities,Q5208293,Mirae Asset Daewoo,South Korean company,KR,,,1999,1970,0,mirae-asset-group,,
+morgan-stanley,Morgan Stanley,Q334204,Morgan Stanley,U.S. investment bank,US,US|GB,1,1935,2008,0,,Mitsubishi UFJ Financial Group|State Street Corporation|The Vanguard Group|BlackRock|T. Rowe Price,missing
+robinhood,Robinhood,Q18155123,Robinhood,American financial services company,US,US,1,2013,2013,1,,,
+samsung-securities,Samsung Securities,Q16166252,Samsung Securities,South Korean company,KR,KR,1,1982,1982,1,samsung-group,Samsung Life Insurance,0
+alipay,Alipay,Q493556,Alipay,third-party online payment platform in China,CN,CN,1,2004,2004,1,,Ant Group|Alibaba Group,missing
+american-express,American Express,Q194360,American Express,American multinational financial services corporation,US,US,1,1850,1850,1,,Berkshire Hathaway|The Vanguard Group|BlackRock,missing
+hyundai-card,Hyundai Card,Q5962566,Hyundai Card,South Korean credit card company,KR,KR,1,2001,2001,1,hyundai-motor-group,Hyundai Motor Group|Hyundai Motor Company,1
+kakaopay,Kakao Pay,,,,KR,,,2017,,,kakao,,
+kb-kookmin-card,KB Kookmin Card,,,,KR,,,2011,,,kb-financial-group,,
+klarna,Klarna,Q1165072,Klarna,Swedish fintech company,SE,SE,1,2005,2007,1,,Klarna Holding,missing
+lotte-card,Lotte Card,Q6684903,Lotte Card,Korean credit card company,KR,,,1995,2002,0,,Lotte,missing
+mastercard,Mastercard,Q489921,Mastercard,American multinational financial services corporation,US,US,1,1966,1966,1,,,
+paypal,PayPal,Q135683185,,American financial services company,US,US,1,1998,1999,1,,PayPal Holdings|이베이,missing
+samsung-card,Samsung Card,Q624076,Samsung Card,company,KR,KR,1,1983,1983,1,samsung-group,Samsung Life Insurance|Samsung Life Insurance,0
+shinhan-card,Shinhan Card,Q7497509,Shinhan Card,Korean credit card company,KR,,,2007,2002,0,shinhan-financial-group,,
+stripe,Stripe,Q7624104,Stripe,Irish-American payment technology company,US,US|IE,1,2010,2010,1,,Q140991293,missing
+unionpay,UnionPay,Q719625,UnionPay,Chinese financial services company,CN,CN,1,2002,2002,1,,,
+visa,Visa,Q328840,Visa Inc.,American multinational financial services corporation,US,US,1,1958,1958,1,,The Vanguard Group|BlackRock,missing
+wise,Wise,Q7833987,Wise,British online money transfer service,GB,GB,1,2011,2011,1,,,
+aekyung-group,Aekyung Group,Q12605982,Aekyung Group,,KR,KR,1,1954,1950,0,,,
+booyoung-group,Booyoung Group,,,,KR,,,1983,,,,,
+celltrion-group,Celltrion Group,,,,KR,,,2002,,,,,
+cj-group,CJ Group,Q483593,CJ Group,South Korean conglomerate holding company,KR,KR,1,1953,1953,1,,,
+daesang-group,Daesang Group,,,,KR,,,1956,,,,,
+db-group,DB Group,Q5295831,DB Group,South Korean conglomerate,KR,KR,1,1969,1969,1,,,
+dl-group,DL Group,,,,KR,,,1939,,,,,
+dongwon-group,Dongwon Group,,,,KR,,,1969,,,,,
+doosan-group,Doosan Group,Q486002,Doosan Group,South Korean conglomerate company,KR,KR,1,1896,1896,1,,,
+eland-group,E-Land Group,Q5321417,E-Land,South Korean conglomerate,KR,KR,1,1980,1978,1,,,
+gs-group,GS Group,Q489198,GS Group,South Korean conglomerate,KR,KR,1,2005,2005,1,,,
+hanjin-group,Hanjin Group,,,,KR,,,1945,,,,,
+hankook-group,Hankook & Company Group,,,,KR,,,1941,,,,,
+hansol-group,Hansol Group,,,,KR,,,1965,,,,,
+hanwha-group,Hanwha Group,Q489202,Hanwha Group,South Korean conglomerate,KR,KR,1,1952,1952,1,,,
+harim-group,Harim Group,,,,KR,,,1986,,,,,
+hd-hyundai,HD Hyundai,Q626638,HD Hyundai,South Korean conglomerate,KR,KR,1,1972,2002,0,,,
+hdc-group,HDC Group,Q17062560,HDC Group,large-scale South Korean business group,KR,,,1976,1999,0,,,
+hoban-group,Hoban Group,,,,KR,,,1989,,,,,
+hyosung-group,Hyosung Group,Q497254,Hyosung,company,KR,KR,1,1966,1966,1,,,
+hyundai-department-store-group,Hyundai Department Store Group,Q5962584,Hyundai Department Store Group,Department store business,KR,,,1971,1971,1,,,
+hyundai-motor-group,Hyundai Motor Group,Q59243,Hyundai Motor Group,"car manufacturer headquartered in Seoul, South Korea",KR,KR,1,1967,2000,0,,,
+jungheung-group,Jungheung Group,Q140129506,Jungheung Group,,KR,,,1983,,,,,
+kcc-group,KCC Group,Q16169027,KCC Group,,KR,KR,1,1958,1958,1,,,
+kolon-group,Kolon Group,Q11276134,Kolon,company based in South Korea,KR,KR,1,1954,1957,0,,,
+korea-investment-group,Korea Investment Holdings,,,,KR,,,2003,,,,,
+kt-group,KT Group,Q139245123,KT Group,Holding company that oversees the KT Group in Japan,KR,JP,0,1981,1939,0,,,
+kumho-asiana-group,Kumho Asiana Group,,,,KR,,,1946,,,,,
+kyobo-group,Kyobo Group,,,,KR,,,1958,,,,,
+lg-group,LG Group,Q136778,LG Group,South Korean multinational conglomerate,KR,KR,1,1947,1947,1,,National Pension Service|Mirae Asset Group,missing
+lotte-group,Lotte Group,Q102265292,Lotte Group,Czech company,KR,CZ,0,1948,2013,0,,,
+ls-group,LS Group,Q625626,LS Group,company,KR,,,2003,1936,0,,,
+lx-group,LX Group,,,,KR,,,2021,,,,,
+mirae-asset-group,Mirae Asset Group,Q6872554,Mirae Asset Group,Financial Services Company in South Korea,KR,KR,1,1997,1997,1,,,
+nonghyup,NongHyup,Q15283673,Nonghyup Bank,bank in South Korea,KR,KR,1,1961,2012,0,,NH NongHyup Financial Group,missing
+oci-group,OCI Group,,,,KR,,,1959,,,,,
+paradise-group,Paradise Group,Q7134278,Paradise Group of Industries,Bangladeshi company,KR,,,1972,1985,0,,,
+posco-group,POSCO Group,,,,KR,,,1968,,,,,
+samsung-group,Samsung Group,Q20716,Samsung Group,South Korean multinational conglomerate,KR,KR,1,1938,1938,1,,,
+samyang-group,Samyang Group,,,,KR,,,1924,,,,,
+seah-group,SeAH Group,,,,KR,,,1960,,,,,
+shinsegae-group,Shinsegae Group,,,,KR,,,1963,,,,,
+sk-group,SK Group,Q10213576,SK Group,Israeli defense and security holding company,KR,IL,0,1953,2004,0,,Sami Katsav,missing
+sono-group,Sono Group,,,,KR,,,1979,,,,,
+taekwang-group,Taekwang Group,Q7674768,Taekwang Group,South Korean conglomerate,KR,KR,1,1950,1950,1,,,
+youngpoong-group,Young Poong Group,Q12607561,Young Poong Group,South Korean conglomerate,KR,,,1949,,,,,
+3m,3M,Q159433,3M,American multinational corporation,US,US,1,1902,1902,1,,The Vanguard Group|BlackRock|State Street Corporation,missing
+adani-group,Adani Group,Q4680631,Adani Group,Indian conglomerate,IN,IN,1,1988,1988,1,,,
+aditya-birla-group,Aditya Birla Group,Q357600,Aditya Birla Group,Indian multinational conglomerate company,IN,IN,1,1857,1857,1,,,
+ayala-corporation,Ayala Corporation,Q1994975,Ayala Corporation,publicly listed holding company for the diversified interests of the Ayala Group,PH,PH,1,1834,1834,1,,,
+berkshire-hathaway,Berkshire Hathaway,Q217583,Berkshire Hathaway,American multinational conglomerate holding company,US,US,1,1839,1955,0,,Warren Buffett|Charlie Munger|David Gottesman|Bill Gates|Fidelity Investments,missing
+bollore,Bolloré,Q444172,Bolloré,French investment and industrial holding group,FR,FR,1,1822,1822,1,,Bolloré family,missing
+citic-group,CITIC Group,Q856322,CITIC Group,Chinese state-owned investment company,CN,CN,1,1979,1982,0,,State Council of the People's Republic of China|State Council of the People's Republic of China,missing
+ck-hutchison,CK Hutchison,Q19548352,CK Hutchison Holdings,Multinational conglomerate headquartered in Hong Kong,HK,CN,0,2015,2015,1,,Li Ka-shing,missing
+fosun-group,Fosun International,Q3079736,Fosun International Limited,Chinese multinational conglomerate holding company,CN,CN,1,1992,1992,1,,,
+general-electric,General Electric,Q54173,General Electric,American multinational conglomerate (1892–2024),US,,,1892,,,,,
+hitachi,Hitachi,Q53238,Hitachi,Japanese multinational engineering and electronics company,JP,JP,1,1910,1910,1,,,
+honeywell,Honeywell,Q898208,Honeywell,American multinational conglomerate,US,US,1,1906,1885,0,,,
+investor-ab,Investor AB,Q1671804,Investor,Swedish investment company,SE,SE,1,1916,1916,1,,Wallenberg family,missing
+jardine-matheson,Jardine Matheson,Q1683452,Jardine Matheson,British conglomerate that incorporated in Bermuda and headquartered in Hong Kong,HK,BM,0,1832,1832,1,,,
+koc-holding,Koç Holding,Q1306571,Koç Holding,industrial conglomerate in Turkey,TR,TR,1,1926,1938,0,,,
+mahindra-group,Mahindra Group,Q6734045,Mahindra Group,Indian multinational conglomerate corporation,IN,IN,1,1945,1945,1,,,
+mitsubishi-group,Mitsubishi Group,Q183275,Mitsubishi,"group of autonomous, Japanese multinational companies",JP,JP,1,1870,1870,1,,,
+mitsui-group,Mitsui Group,Q899122,Mitsui Group,business,JP,JP,1,1673,1876,0,,,
+reliance,Reliance Industries,Q908931,Reliance Industries Limited,Indian company,IN,IN,1,1958,1958,1,,Mukesh Ambani,missing
+siemens,Siemens,Q81230,Siemens,German multinational conglomerate company,DE,DE,1,1847,1847,1,,Siemens|treasury stock|Qatar Investment Authority|BlackRock,missing
+softbank-group,SoftBank Group,Q201653,SoftBank Group,Japanese company,JP,JP,1,1981,1981,1,,Japan Trustee Services Bank|Masayoshi Son|The Master Trust Bank of Japan|JPMorgan Chase|Custody Bank of Japan,missing
+sumitomo-group,Sumitomo Group,Q717318,Sumitomo Group,Japanese conglomerate corporation,JP,JP,1,1615,1630,0,,,
+swire-group,Swire Group,Q1141162,Swire Group,London Hong Kong-based conglomerate,GB,GB,1,1816,,,,,
+tata-group,Tata Group,,,,IN,,,1868,,,,,
+virgin-group,Virgin Group,Q494917,Virgin Group,British multinational branded venture capital conglomerate,GB,GB,1,1970,1970,1,,Richard Branson,missing
+adm,Archer-Daniels-Midland,Q632694,Archer Daniels Midland,American global food processing and commodities trading corporation,US,US,1,1902,1902,1,,,
+bunge,Bunge,,,,US,,,1818,,,,,
+cargill,Cargill,Q1036056,Cargill,American-based international food conglomerate,US,US,1,1865,1865,1,,Cargill family,missing
+cofco,COFCO,Q4382137,COFCO Group,Chinese company,CN,CN,1,1949,1952,0,,,
+louis-dreyfus,Louis Dreyfus Company,Q833111,Louis Dreyfus Group,"French-Dutch merchant firm that is involved in agriculture, food processing, international shipping, and finance",NL,FR|NL,1,1851,1851,1,,,
+olam,Olam Group,Q5950695,Olam Group Limited,Singaporean agriculture company,SG,FR,0,1989,1989,1,,Temasek Holdings|Temasek Holdings,missing
+wilmar,Wilmar International,Q1786712,Wilmar International,Singaporean food processing and investment holding company,SG,SG,1,1991,1991,1,,,
+barry-callebaut,Barry Callebaut,Q809018,Barry Callebaut,Swiss cocoa producer,CH,CH,1,1996,1996,1,,Jacobs Holding|Artisan Partners|Jacobs|BlackRock|UBS,missing
+cj-bio,CJ CheilJedang Bio,,,,KR,,,,,,cj-cheiljedang,,
+dsm-firmenich,dsm-firmenich,Q120091633,DSM-Firmenich,Swiss chemical business,CH,CH,1,2023,,,,,
+givaudan,Givaudan,Q509544,Givaudan S.A.,"Swiss manufacturer of flavors, fragrances, cosmetic ingredients",CH,CH,1,1895,1895,1,,,
+iff,International Flavors & Fragrances,Q1666568,International Flavors & Fragrances,American corporation which produces flavors and fragrances,US,US|NL,1,1958,1958,1,,,
+ingredion,Ingredion,Q8273105,Ingredion,American ingredient manufacturer,US,US,1,1906,1906,1,,,
+kerry-group,Kerry Group,Q253967,Kerry Group,public food company headquartered in Ireland,IE,IE,1,1972,1972,1,,,
+novonesis,Novonesis,Q45576,Novonesis,Danish company,DK,DK,1,2024,2000,0,,Novo Holdings|Novo Holdings|Novo Nordisk Foundation,missing
+ofi,ofi,,,,SG,,,2020,,,olam,,
+symrise,Symrise,Q73251,Symrise,German chemical company that produces flavor and fragrances,DE,DE,1,2003,2003,1,,,
+tate-lyle,Tate & Lyle,Q2395492,Tate & Lyle,British-based multinational agribusiness,GB,GB,1,1921,1921,1,,,
+harim,Harim,,,,KR,,,1986,,,,,
+hormel,Hormel Foods,Q1454852,Hormel,American food processing company,US,US,1,1891,1891,1,,,
+jbs,JBS,Q1676554,JBS S.A.,Brazilian meat company,BR,BR,1,1953,1953,1,,J&F Investimentos,missing
+pilgrims-pride,Pilgrim's Pride,Q3388421,Pilgrim's Corp,"Brazilian-owned, American food company",US,US,1,1946,1946,1,jbs,JBS S.A.|JBS USA|JBS S.A.,1
+smithfield,Smithfield Foods,Q1477575,Smithfield Foods,American meat processing company,US,US,1,1936,1936,1,wh-group,WH Group|WH Group,1
+tyson,Tyson Foods,Q1325987,Tyson Foods,food manufacturing company,US,US,1,1935,1935,1,,,
+wh-group,WH Group,Q17499655,WH Group,"publicly-traded Chinese meat and food processing company headquartered in Luohe, Henan, China",HK,CN,0,2006,1958,0,,,
+bayer-crop-science,Bayer Crop Science,Q140908146,Bayer CropScience K.K. (Japan),"company in Tokyo, Japan",DE,JP,0,2002,1941,0,bayer,,
+corteva,Corteva Agriscience,Q63197674,Corteva,American agriculture company,US,US,1,2019,2018,1,,DowDuPont,missing
+farm-hannong,Farm Hannong,,,,KR,,,,,,lg-group,,
+kws,KWS Saat,Q871483,KWS Saat,plant breeding and biotechnology company,DE,DE,1,1856,1856,1,,,
+mosaic,The Mosaic Company,Q7752327,The Mosaic Company,American chemical company,US,US,1,2004,2004,1,,,
+nongwoo-bio,Nongwoo Bio,,,,KR,,,1981,,,,,
+nutrien,Nutrien,,,,CA,,,2018,,,,,
+syngenta,Syngenta,Q688613,Syngenta,Swiss agricultural technology company,CH,CH,1,2000,2000,1,,Syngenta Group,missing
+yara,Yara International,Q901886,Yara International,Norwegian chemical company,NO,NO,1,1905,2003,0,,"Ministry of Trade, Industry and Fisheries|Government Pension Fund Norway",missing
+cainiao,Cainiao,Q16947973,Cainiao,package delivery service in China,CN,,,2013,2013,1,alibaba,Alibaba Group,1
+db-schenker,DB Schenker,Q552912,DB Schenker,a subsidiary of the Danish logistics company DSV,DE,DE,1,1872,2007,0,dsv,DSV,1
+dsv,DSV,Q1155771,DSV,Danish company,DK,DK,1,1976,1976,1,,Ernst Göhner Foundation|Agility Logistics|BlackRock|Capital Group Companies,missing
+flexport,Flexport,Q23016856,Flexport,US internet-based freight forwarding company,US,US,1,2013,2013,1,,,
+hyundai-glovis,Hyundai Glovis,Q5962598,Hyundai Glovis,South Korean company,KR,,,2001,2001,1,hyundai-motor-group,Hyundai Motor Company,0
+kuehne-nagel,Kuehne+Nagel,Q671267,Kuehne + Nagel,global logistics company based in Switzerland,CH,CH,1,1890,1890,1,,,
+lx-pantos,LX Pantos,Q485952,LX Pantos,South Korean logistics company,KR,,,1977,1977,1,,,
+barogo,Barogo,,,,KR,,,2014,,,,,
+cj-logistics,CJ Logistics,Q5012276,CJ Logistics,South Korean logistics company,KR,,,1930,1930,1,cj-group,,
+coupang-logistics,Coupang Logistics Services,,,,KR,,,2018,,,coupang,,
+dhl,DHL Group,Q157645,DHL Group,German logistics company,DE,DE,1,1969,1995,0,,KfW|KfW,missing
+fedex,FedEx,Q459477,FedEx,American multinational delivery services company,US,US|CA,1,1971,1971,1,,The Vanguard Group|Frederick W. Smith|BlackRock|Dodge & Cox|PRIMECAP,missing
+hanjin,Hanjin,Q12624336,"Hanjin Transportation Co., Ltd",transportation company,KR,KR,1,1945,1958,0,,,
+korea-post,Korea Post,Q483280,Korea Post,governmental organization in South Korea,KR,KR,1,1884,2000,0,,"Ministry of Science, ICT and Future Planning|Ministry of Science and ICT",missing
+logen,Logen,,,,KR,,,,,,,,
+lotte-global-logistics,Lotte Global Logistics,Q5962624,Lotte Global Logistics,,KR,,,1988,1988,1,lotte-group,,
+sf-express,SF Express,Q7390019,SF Express,Chinese delivery services company,CN,CN,1,1993,1993,1,,,
+ups,United Parcel Service,Q155026,United Parcel Service,American international package delivery company,US,US,1,1907,1907,1,,The Vanguard Group|BlackRock,missing
+usps,United States Postal Service,Q668687,United States Postal Service,independent agency of the U.S. federal government responsible for providing postal service,US,US,1,1775,1971,0,,,
+yamato-transport,Yamato Transport,Q6584353,Yamato Transport,Japanese delivery services company,JP,JP,1,1919,1919,1,,Yamato Holdings|Yamato Holdings,missing
+cma-cgm,CMA CGM,Q1023867,CMA CGM,French shipping company,FR,FR,1,1978,1999,0,,로돌프 사데,missing
+cosco-shipping,COSCO Shipping,Q26263180,China COSCO Shipping,Chinese state-owned company,CN,CN,1,1961,2016,0,,,
+evergreen-marine,Evergreen Marine,Q706946,Evergreen Marine,Taiwanese shipping company,TW,TW,1,1968,1968,1,,Evergreen Group|Evergreen Group,missing
+hapag-lloyd,Hapag-Lloyd,Q2915439,Hapag-Lloyd Flug,former German charter airline,DE,DE,1,1970,1972,1,,TUI Group,missing
+hmm,HMM,Q486923,HMM,South Korean shipping line,KR,KR,1,1976,1976,1,,,
+maersk,A.P. Moller-Maersk,Q18224,Maersk,Global logistics company,DK,DK,1,1904,1904,1,,A.P. Møller Holding|A.P. Møller Holding|A.P. Møller og Hustru Chastine McKinney Møllers Familiefond|Den A.P. Møllerske Støttefond,missing
+msc,Mediterranean Shipping Company,Q125471886,Mediterranean Shipping Company,shipping company,CH,CH,1,1970,,,,,
+pan-ocean,Pan Ocean,Q7394894,Pan Ocean,Korea-based shipping company,KR,KR,1,1966,1966,1,,STX Offshore & Shipbuilding,missing
+clarins,Clarins,Q2975619,Clarins,French luxury cosmetics company,FR,FR,1,1954,1954,1,,,
+dior-beauty,Dior Beauty,,,,FR,,,1947,,,lvmh,,
+estee-lauder,The Estée Lauder Companies,,,,US,,,1946,,,,,
+guerlain,Guerlain,Q1553251,Guerlain,"French perfume, cosmetics, and skincare house",FR,FR,1,1828,1828,1,lvmh,LVMH|LVMH,1
+la-mer,La Mer,,,,US,,,1965,,,estee-lauder,,
+la-prairie,La Prairie,,,,CH,,,1978,,,beiersdorf,,
+lancome,Lancôme,Q1541268,Lancôme,French luxury perfumes and cosmetics house,FR,FR,1,1935,1935,1,loreal,L'Oréal,1
+sk-ii,SK-II,Q7390579,SK-II,Japanese cosmetics company,JP,JP,1,1980,1980,1,pg,Procter & Gamble,1
+sulwhasoo,Sulwhasoo,Q85980775,Sulwhasoo,Korean costmetics brand,KR,,,1997,1932,0,amorepacific,,
+the-whoo,The History of Whoo,,,,KR,,,2003,,,lg-hh,,
+tom-ford-beauty,Tom Ford Beauty,,,,US,,,2006,,,estee-lauder,,
+ysl-beaute,YSL Beauté,Q16034592,YSL Beauty,cosmetic products subsidiary of L'Oreal,FR,FR,1,1964,2000,0,loreal,L'Oréal,1
+3ce,3CE,Q125707710,,,KR,FR,0,2009,,,loreal,,
+bobbi-brown,Bobbi Brown,Q105132734,Bobbi Brown,American cosmetics retailer,US,US,1,1991,1991,1,estee-lauder,Estée Lauder Companies,0
+charlotte-tilbury,Charlotte Tilbury,Q106670902,Charlotte Tilbury Beauty,British cosmetics company,GB,GB,1,2013,2013,1,puig,Puig,1
+etude,Etude,Q11198442,etude,Video game developer,KR,JP,0,1985,,,amorepacific,,
+fenty-beauty,Fenty Beauty,Q51135597,Fenty Beauty,cosmetics line by Rihanna,US,US,1,2017,2018,1,lvmh,LVMH|Coty|리한나|Coty|LVMH,1
+glossier,Glossier,Q85865456,Glossier,skincare and beauty brand,US,,,2014,2014,1,,,
+hera,Hera,,,,KR,,,1995,,,amorepacific,,
+loreal-paris,L'Oréal Paris,,,,FR,,,1909,,,loreal,,
+mac-cosmetics,MAC Cosmetics,Q2624442,Make-up Art Cosmetics,international cosmetics store retail chain,CA,,,1984,1984,1,estee-lauder,Estée Lauder Companies|Estée Lauder Companies,0
+maybelline,Maybelline New York,Q1351054,Maybelline,cosmetics company,US,US|BR,1,1915,1915,1,loreal,L'Oréal|L'Oréal,1
+nars,NARS Cosmetics,Q3869356,NARS Cosmetics,Skin care company,US,FR,0,1994,1996,1,shiseido,Shiseido,1
+rare-beauty,Rare Beauty,Q116030556,Rare Beauty,American cosmetics company,US,US,1,2020,2020,1,,Selena Gomez,missing
+romand,rom&nd,Q136541354,Rom&nd,cosmetics company,KR,,,2016,,,,,
+chicor,Chicor,,,,KR,,,2016,,,shinsegae-group,,
+olive-young,CJ Olive Young,,,,KR,,,1999,,,cj-group,,
+sephora,Sephora,Q2408041,Sephora,French multinational chain of cosmetics stores,FR,FR,1,1970,1969,1,lvmh,LVMH|LVMH,1
+ulta-beauty,Ulta Beauty,Q7880076,Ulta Beauty,American chain of beauty stores,US,US,1,1990,1990,1,,,
+colgate-palmolive,Colgate-Palmolive,Q609466,Colgate-Palmolive Company,American multinational consumer products company,US,US,1,1806,1806,1,,,
+dettol,Dettol,Q15061688,Dettol,brand of antiseptic and cleaning supplies,GB,GB,1,1932,1932,1,reckitt,Reckitt,1
+durex,Durex,Q1267311,Durex,brand of condoms and lubricants,GB,GB,1,1929,2002,0,reckitt,Reckitt,1
+gillette,Gillette,Q503592,Gillette,American brand of men's safety razors and other personal care products,US,US,1,1901,1901,1,pg,Procter & Gamble|Procter & Gamble,1
+kao,Kao,,,,JP,,,1887,,,,,
+kimberly-clark,Kimberly-Clark,Q1741634,Kimberly-Clark,American multinational company,US,US,1,1872,1872,1,,,
+kleenex,Kleenex,Q1371867,Kleenex,brand name for a variety of paper-based products,US,US,1,1924,1924,1,kimberly-clark,Kimberly-Clark,1
+pampers,Pampers,Q2340498,Pampers,American brand of baby and toddler products,US,,,1961,1965,0,pg,Procter & Gamble,1
+pg,Procter & Gamble,Q212405,Procter & Gamble,American multinational consumer goods corporation,US,US,1,1837,1837,1,,The Vanguard Group|BlackRock,missing
+reckitt,Reckitt,Q1190881,Reckitt,"British multinational company producer of health, hygiene and home products",GB,GB,1,1840,1999,0,,,
+unilever,Unilever,Q157062,Unilever,British multinational consumer goods company,GB,GB|NL,1,1929,1929,1,,,
+yuhan-kimberly,Yuhan-Kimberly,Q16170749,Yuhan-Kimberly,,KR,KR,1,1970,1970,1,,,
+aesop,Aesop,Q4688560,Aesop,"Australian luxury cosmetics brand that produces skincare, haircare and fragrance products",AU,AU,1,1987,1987,1,loreal,L'Oréal,1
+amorepacific,Amorepacific,Q490142,Amorepacific Corporation,company,KR,KR,1,1945,2006,0,,Amorepacific Holdings,missing
+anua,Anua,,,,KR,,,,,,,,
+apr,APR,,,,KR,,,2014,,,,,
+beauty-of-joseon,Beauty of Joseon,,,,KR,,,,,,goodai-global,,
+beiersdorf,Beiersdorf,Q201691,Beiersdorf,German personal care company,DE,DE,1,1882,1882,1,,,
+biore,Bioré,,,,JP,,,1980,,,kao,,
+cerave,CeraVe,Q23731275,CeraVe,Dermatology and skin care company,US,,,2005,,,loreal,L'Oréal,1
+cetaphil,Cetaphil,Q5065628,Cetaphil,line of skin care products from Galderma Laboratories,CA,,,1947,,,galderma,Galderma,1
+clinique,Clinique,Q2655764,"Clinique Laboratories, LLC","American manufacturer of skincare, cosmetics, toiletries and fragrances",US,US,1,1968,1968,1,estee-lauder,Estée Lauder Companies|Estée Lauder Companies,0
+cosmax,Cosmax,Q17991457,Cosmax,Korean company,KR,KR,1,1992,1992,1,,,
+cosrx,COSRX,,,,KR,,,2013,,,amorepacific,,
+dr-jart,Dr.Jart+,,,,KR,,,2004,,,estee-lauder,,
+goodai-global,Goodai Global,,,,KR,,,,,,,,
+innisfree,Innisfree,Q16176002,Innisfree,South Korean cosmetic brand,KR,KR,1,2000,2000,1,amorepacific,Amorepacific Holdings,1
+kiehls,Kiehl's,Q3196447,Kiehl's,American cosmetics brand retailer,US,,,1851,1851,1,loreal,L'Oréal|L'Oréal,1
+kolmar-korea,Kolmar Korea,Q18142473,"Kolmar Korea Co., Ltd.","company in Sejong, South Korea",KR,KR,1,1990,1990,1,,,
+la-roche-posay,La Roche-Posay,Q1356442,La Roche-Posay,"Skin care company with paraben-free, fragrance-free products tested for sensitive skin.",FR,FR,1,1975,,,loreal,L'Oréal|L'Oréal,1
+laneige,Laneige,Q16935511,Laneige,South Korean cosmetics brand,KR,,,1994,,,amorepacific,Amorepacific Corporation,1
+lg-hh,LG H&H,Q132097479,,,KR,FR,0,1947,2021,0,lg-group,,
+loreal,L'Oréal,Q156077,L'Oréal,international cosmetics and beauty company,FR,FR,1,1909,1909,1,,Eugène Schueller|Liliane Bettencourt|GESPARAL|TETHYS|Nestlé|TETHYS|Nestlé|TETHYS|Nestlé,missing
+medicube,Medicube,Q138526906,,Finnish company,KR,FI,0,2016,2020,0,apr,,
+mediheal,Mediheal,,,,KR,,,2009,,,,,
+neutrogena,Neutrogena,Q2451589,Neutrogena,Cosmetics company,US,,,1930,1930,1,kenvue,Johnson & Johnson|Johnson & Johnson,0
+nivea,Nivea,Q337408,Nivea,German personal care brand that specializes in skin and body care,DE,DE,1,1911,1911,1,beiersdorf,Beiersdorf|Beiersdorf,1
+round-lab,Round Lab,,,,KR,,,2017,,,,,
+shiseido,Shiseido,Q728185,Shiseido,Japanese multinational personal care company,JP,JP,1,1872,1872,1,,,
+the-face-shop,The Face Shop,Q624440,The Face Shop,South Korean cosmetics brands,KR,KR,1,2003,2003,1,lg-hh,LG Household & Health Care,0
+the-ordinary,The Ordinary,Q126595227,The Ordinary,Canadian skincare brand,CA,,,2016,2016,1,estee-lauder,Estée Lauder Companies,0
+torriden,Torriden,,,,KR,,,2015,,,,,
+byredo,Byredo,Q30595852,Byredo,Swedish fragrance and cosmetics company,SE,SE,1,2006,2006,1,puig,Puig,1
+coty,Coty,Q1104787,Coty,multinational fragrance and cosmetics company,US,US,1,1904,1904,1,,JAB Holding Company|Pfizer|JAB Holding Company|François Coty,missing
+diptyque,Diptyque,Q1227345,Diptyque,French perfume brand,FR,FR,1,1961,1961,1,,,
+jo-malone,Jo Malone London,Q20724743,Jo Malone London,British fragrance brand,GB,GB,1,1990,1994,0,estee-lauder,Estée Lauder Companies|Estée Lauder Companies,0
+le-labo,Le Labo,Q29469190,Le Labo,American perfume brand,US,US,1,2006,2006,1,estee-lauder,Estée Lauder Companies,0
+maison-francis-kurkdjian,Maison Francis Kurkdjian,Q104381586,Maison Francis Kurkdjian,French perfume house,FR,FR,1,2009,2009,1,lvmh,LVMH,1
+nonfiction,Nonfiction,,,,KR,,,,,,,,
+puig,Puig,Q3410623,Puig,multinational fashion and beauty company,ES,ES,1,1914,1914,1,,,
+tamburins,Tamburins,,,,KR,,,2017,,,,,
+aekyung,Aekyung Industrial,,,,KR,,,1954,,,,,
+dove,Dove,Q7284120,Dovetail Games,British video game developer,US,GB,0,1957,2008,0,unilever,,
+kerasys,Kerasys,,,,KR,,,,,,aekyung,,
+lush,Lush,Q1585448,Lush,cosmetics company,GB,GB,1,1995,1995,1,,,
+pantene,Pantene,Q1353013,Pantene,brand of hair care products owned by Procter & Gamble,US,US|CH,1,1945,1945,1,pg,Procter & Gamble|Procter & Gamble,1
+ryo,Ryo,,,,KR,,,2008,,,amorepacific,,
+the-body-shop,The Body Shop,Q837851,The Body Shop,international cosmetics company,GB,GB,1,1976,1976,1,,L'Oréal|Natura & Co|Aurelius Group,missing
+vaseline,Vaseline,,,,US,,,1870,,,unilever,,
+bechtel,Bechtel,Q813639,Bechtel,American construction and civil engineering company,US,US,1,1898,1906,0,,,
+daewoo-enc,Daewoo Engineering & Construction,,,,KR,,,1973,,,,,
+dl-enc,DL E&C,Q105628048,DL E&C,South Korean construction company,KR,KR,1,1939,2021,0,,DL Holdings,missing
+e-pyeonhan-sesang,e-Pyeonhan Sesang,,,,KR,,,2000,,,dl-enc,,
+gs-enc,GS Engineering & Construction,Q16219417,GS Engineering & Construction,,KR,KR,1,1969,1969,1,gs-group,,
+hdc-hyundai-development,HDC Hyundai Development,Q5962586,IPARK Hyundai Development Company,South Korean company,KR,KR,1,1976,1976,1,,,
+hillstate,Hillstate,Q21825533,Hillstate,,KR,,,2006,,,hyundai-enc,Hyundai Engineering and Construction,1
+hyundai-enc,Hyundai Engineering & Construction,Q489809,Hyundai Engineering and Construction,"South Korean construction company, associated with the Hyundai Group and the Hyundai Motor Group",KR,KR,1,1947,1947,1,hyundai-motor-group,Hyundai Mobis|Hyundai Motor Company,0
+ipark,IPARK,Q17062626,IPARK,brand of apartments by HDC Hyundai Development Company,KR,,,2001,,,hdc-hyundai-development,IPARK Hyundai Development Company,1
+lotte-castle,Lotte Castle,Q21576347,Lotte Castle,,KR,,,1999,,,lotte-group,Lotte Engineering & Construction,0
+posco-enc,POSCO E&C,Q12621891,POSCO E&C,South Korean construction company,KR,KR,1,1994,1994,1,posco-group,,
+prugio,Prugio,Q28698179,Prugio,brand of apartments by Daewoo E&C,KR,,,2003,,,daewoo-enc,Daewoo E&C,0
+raemian,Raemian,Q7281980,Raemian,,KR,,,2000,,,samsung-ct,Samsung C&T Corporation,1
+samsung-ct,Samsung C&T,Q499194,Samsung C&T Corporation,South Korean construction and engineering company,KR,KR,1,1938,1938,1,samsung-group,Lee Jae-yong|treasury stock|KCC Corporation|National Pension Service|Lee Boo-jin|Lee Seo-hyeon|Lee Kun-hee,0
+the-sharp,The Sharp,Q141078458,The Sharp,,KR,,,,,,posco-enc,POSCO E&C,1
+vinci,Vinci,Q1475312,Vinci,French concessions and construction company,FR,FR,1,1899,1899,1,,Qatari Diar|BlackRock|Castor|Qatar Investment Authority,missing
+xi,Xi,,,,KR,,,2002,,,gs-enc,,
+caterpillar,Caterpillar,Q459965,Caterpillar Inc.,"American corporation which designs, manufactures, markets and sells machinery and engines",US,US,1,1925,1925,1,,The Vanguard Group|State Street Corporation|BlackRock,missing
+daedong,Daedong,,,,KR,,,1947,,,,,
+doosan-bobcat,Doosan Bobcat,Q134643395,Doosan Bobcat Korea Co. Ltd,business,KR,FR,0,1958,2015,0,doosan-group,,
+hd-hyundai-xitesolution,HD Hyundai XiteSolution,,,,KR,,,,,,hd-hyundai,,
+hyundai-elevator,Hyundai Elevator,Q11286389,Hyundai Elevator,South Korean Elevator Manufacturer,KR,KR,1,1984,1984,1,,,
+jcb,JCB,Q1542317,J.C. Bamford Excavators,British equipment manufacturer,GB,GB,1,1945,1945,1,,,
+john-deere,John Deere,Q98642757,John Deere,brand of Deere & Company,US,,,1837,,,,Deere & Company,missing
+komatsu,Komatsu,Q162257,Komatsu Limited,Japanese industrial machinery company,JP,JP,1,1921,1921,1,,,
+kubota,Kubota,Q1514221,Kubota,Japanese multinational manufacturing company,JP,JP,1,1890,1890,1,,,
+liebherr,Liebherr,Q662090,Liebherr Group,company,DE,CH,0,1949,1949,1,,,
+otis,Otis,,,,US,,,1853,,,,,
+sany,SANY,Q49203,Sanyo,Japanese electronics company,CN,JP,0,1989,1947,0,,Panasonic Holdings Corporation,missing
+dewalt,DEWALT,Q847270,DeWALT,Tool company.,US,US,1,1924,1924,1,stanley-black-decker,Stanley Black & Decker,1
+festool,Festool,Q320091,Festool,German power tool manufacturer,DE,DE,1,1925,1925,1,,,
+hilti,Hilti,Q1361530,Hilti,Liechtenstein multinational company in the manufacturing industry,LI,LI,1,1941,1941,1,,,
+keyang,Keyang Electric Machinery,,,,KR,,,,,,,,
+knipex,Knipex,Q427800,Knipex,"German company, manufacturer of pliers, cutters and related tools",DE,DE,1,1882,1882,1,,,
+makita,Makita,Q691508,Makita,Japanese manufacturer of power tools,JP,JP,1,1915,1915,1,,,
+milwaukee-tool,Milwaukee Tool,Q6861736,Milwaukee Electric Tool Corporation,power tool manufacturer,US,US,1,1924,1924,1,techtronic-industries,Techtronic Industries|Atlas Copco|Merrill|Domino Foods,1
+ryobi,Ryobi,Q1104912,Ryobi,Japanese manufacturer,JP,JP,1,1943,1943,1,techtronic-industries,Techtronic Industries,1
+snap-on,Snap-on,Q1631922,Snap-on,American tool manufacturer,US,US|CA,1,1920,1920,1,,,
+stanley-black-decker,Stanley Black & Decker,Q706094,Stanley Black & Decker,American manufacturer of industrial tools and household hardware and provider of security products and locks,US,US,1,1843,1843,1,,,
+techtronic-industries,Techtronic Industries,Q2399612,Techtronic Industries,"manufacturer of power tools, outdoor power equipment, accessories,hand tools, layout and measuring tools, floorcare and appliances",HK,DE,0,1985,1985,1,,,
+wera,Wera,,,,DE,,,1936,,,,,
+abb,ABB,Q30258448,ABB,Czech company,CH,CZ,0,1988,1993,0,,ABB Group|ABB Asea Brown Boveri,missing
+boston-dynamics,Boston Dynamics,Q2298325,Boston Dynamics,engineering and robotics design company,US,US,1,1992,1992,1,hyundai-motor-group,Google|SoftBank Group|Hyundai Motor Company|X Development|SoftBank Group|Hyundai Motor Company|SoftBank Group,0
+doosan-robotics,Doosan Robotics,Q110114780,Doosan Robotics,South Korean robotics company,KR,KR,1,2015,,,doosan-group,,
+fanuc,FANUC,Q212116,FANUC,Group of companies that provide automation products and services such as robotics and computer numerical control systems,JP,JP,1,1972,1956,0,,,
+keyence,Keyence,Q1475699,Keyence,Japanese electronics manufacturer,JP,JP,1,1974,1974,1,,,
+kuka,KUKA,Q163566,KUKA,German company,DE,DE,1,1898,1898,1,,Midea|Quandt family,missing
+yaskawa,Yaskawa Electric,Q2620239,Yaskawa Electric Corporation,Japanese manufacturer of robots and related components,JP,JP,1,1915,1915,1,,,
+doosan-enerbility,Doosan Enerbility,Q492581,Doosan Enerbility,company,KR,KR,1,1962,1962,1,doosan-group,Doosan Group|National Pension Service,1
+hanwha-ocean,Hanwha Ocean,Q497860,Hanwha Ocean,shipbuilder of South Korea,KR,KR,1,1978,2000,0,hanwha-group,Hanwha Group|Korea Development Bank|Hana Bank|Hanwha Aerospace|National Pension Service|Hanwha Systems|Hanwha Impact,1
+hd-hyundai-heavy,HD Hyundai Heavy Industries,Q483231,HD Hyundai Heavy Industries,South Korean shipbuilding manufacturer,KR,KR,1,1972,1972,1,hd-ksoe,HD Korea Shipbuilding & Offshore Engineering,1
+hd-hyundai-samho,HD Hyundai Samho,Q489251,HD Hyundai Samho,Korean shipbuilding company,KR,KR,1,,1998,,hd-ksoe,HD Korea Shipbuilding & Offshore Engineering,1
+hd-ksoe,HD Korea Shipbuilding & Offshore Engineering,Q65312870,HD Korea Shipbuilding & Offshore Engineering,,KR,KR,1,2019,2019,1,hd-hyundai,HD Hyundai,1
+kawasaki-heavy,Kawasaki Heavy Industries,Q748148,Kawasaki Heavy Industries,Japanese multinational manufacturing company,JP,JP,1,1878,1878,1,,,
+mitsubishi-heavy,Mitsubishi Heavy Industries,Q648280,Mitsubishi Heavy Industries,Japanese company,JP,JP,1,1884,1934,0,,Mitsubishi,missing
+samsung-heavy,Samsung Heavy Industries,Q489243,Samsung Heavy Industries,South Korean shipbuilding company,KR,KR,1,1974,1974,1,samsung-group,Samsung Group|Samsung Electronics|Samsung Life Insurance,1
+airbus,Airbus,Q2311,Airbus,pan-European aerospace and defence group,FR,NL|FR,1,1970,1998,0,,Sociedad Estatal de Participaciones Industriales|SOGEPA|Gesellschaft zur Beteiligungsverwaltung mbH & Co. KG,missing
+bae-systems,BAE Systems,Q739416,BAE Systems,"defense, security and aerospace company",GB,GB,1,1999,1999,1,,,
+blue-origin,Blue Origin,Q885836,Blue Origin,American aerospace developer and manufacturer,US,US,1,2000,2000,1,,,
+boeing,Boeing,Q66,Boeing,American global aerospace and defense corporation,US,US,1,1916,1916,1,,The Vanguard Group|T. Rowe Price|Newport Trust|BlackRock,missing
+bombardier,Bombardier,Q333498,Bombardier,aerospace and transportation manufacturer in Canada,CA,CA,1,1942,1942,1,,,
+dassault-aviation,Dassault Aviation,Q460487,Dassault Aviation,aerospace manufacturer in France,FR,FR,1,1929,1929,1,,Dassault Group|Dassault Group,missing
+embraer,Embraer,Q105557,Embraer,aircraft manufacturer in Brazil,BR,BR,1,1969,1969,1,,,
+ge-aerospace,GE Aerospace,Q5513251,GE Aerospace,former business group of General Electric,US,US,1,1892,1961,0,,General Electric,missing
+hanwha-aerospace,Hanwha Aerospace,Q563107,Hanwha Aerospace,South Korean aerospace and defense company,KR,KR,1,1977,1977,1,hanwha-group,Hanwha Group,1
+hanwha-systems,Hanwha Systems,Q16166298,Hanwha Systems,,KR,KR,1,,2000,,hanwha-group,,
+hyundai-rotem,Hyundai Rotem,Q152517,Hyundai Rotem,South Korean machinery manufacturer,KR,KR,1,1999,1999,1,hyundai-motor-group,Hyundai Motor Company|Hyundai Motor Company,0
+kai,Korea Aerospace Industries,Q488470,Korea Aerospace Industries,aerospace manufacturer in south korea,KR,KR,1,1999,1999,1,,,
+lig-nex1,LIG Nex1,Q6458668,LIG Defense&Aerospace,South Korean aerospace manufacturer and defense company,KR,KR,1,1976,1976,1,,LIG Group|LIG,missing
+lockheed-martin,Lockheed Martin,Q7240,Lockheed Martin,US aerospace and defense manufacturer,US,US,1,1995,1995,1,,State Street Corporation|The Vanguard Group|BlackRock,missing
+northrop-grumman,Northrop Grumman,Q329953,Northrop Grumman Corporation,American aerospace and defense technology corporation,US,US,1,1994,1994,1,,State Street Corporation|Capital Group Companies|The Vanguard Group|BlackRock|The Vanguard Group|State Street Corporation|Capital Group Companies|BlackRock|Morgan Stanley|Geode Capital Management|Franklin Templeton Investments|Wellington Management Company|Bank of America,missing
+rheinmetall,Rheinmetall,Q161544,Rheinmetall AG,automotive and defense company in Germany,DE,DE,1,1889,1889,1,,Röchling Group|Reichswerke AG für Waffen-und Maschinenbau Hermann Göring|BlackRock|Bank of America|Goldman Sachs|Société Générale|Capital Group Companies|UBS|Fidelity Investments,missing
+rocket-lab,Rocket Lab,Q116319,Rocket Lab,U.S. & New Zealand aerospace manufacturer and launch service provider,US,NZ|US,1,2006,2006,1,,,
+rolls-royce-holdings,Rolls-Royce Holdings,Q243278,Rolls-Royce,British multinational public holding company,GB,GB,1,1906,1906,1,,ValueAct Capital|Capital Group Companies|Credit Suisse,missing
+rtx,RTX,Q89368734,RTX,American multinational aerospace and defense conglomerate,US,US,1,2020,2020,1,,The Vanguard Group|Capital Group Companies|BlackRock|State Street Corporation|Dodge & Cox|Geode Capital Management|JPMorgan Chase|Morgan Stanley|Bank of America,missing
+saab,Saab,Q219501,Saab Group,Swedish aerospace and defense company,SE,SE,1,1937,1937,1,,Saab-Scania|Investor,missing
+safran,Safran,Q1886126,Safran,"French multinational aircraft engine, rocket engine, aerospace-component, defense, and security company",FR,FR,1,2005,2005,1,,,
+spacex,SpaceX,Q193701,SpaceX,American spaceflight and AI company,US,US,1,2002,2002,1,,Elon Musk,missing
+ace-bed,Ace Bed,,,,KR,,,1963,,,,,
+casamia,Casamia,Q125710011,,,KR,FR,0,1982,,,shinsegae-group,,
+fursys,Fursys,Q18156488,퍼시스,,KR,KR,1,1983,1996,0,,,
+hanssem,Hanssem,Q21060742,HANSSEM,South Korean appliance and furniture company,KR,KR,1,1970,1970,1,,,
+hay,HAY,Q112039777,HAY,Danish furniture company,DK,DK,1,2002,2002,1,millerknoll,Herman Miller,1
+herman-miller,Herman Miller,Q489469,Herman Miller,manufacturer of high-end office furniture,US,US,1,1905,1923,0,millerknoll,,
+hyundai-livart,Hyundai Livart,,,,KR,,,1977,,,,,
+ikea,IKEA,Q54078,IKEA,Swedish multinational furniture store chain,SE,,,1943,1943,1,,Stichting INGKA Foundation,missing
+iloom,iloom,,,,KR,,,,,,fursys,,
+millerknoll,MillerKnoll,Q489469,Herman Miller,manufacturer of high-end office furniture,US,US,1,2021,1923,0,,,
+muuto,Muuto,Q19903482,Muuto,Scandinavian furniture company,DK,DK,1,2006,2006,1,millerknoll,,
+nitori,Nitori,Q10801453,Nitori,Japanese furniture retailer,JP,JP,1,1967,1967,1,,Nitori Holdings,missing
+vitra,Vitra,Q646959,Vitra,Swiss furniture manufacturer design,CH,CH,1,1950,1950,1,,,
+bic,BIC,,,,FR,,,1945,,,,,
+lamy,Lamy,Q637707,Lamy,German manufacturer of pens and pencils,DE,DE,1,1930,1930,1,mitsubishi-pencil,,
+mitsubishi-pencil,Mitsubishi Pencil,Q867714,Mitsubishi Pencil,Japanese stationery manufacturer,JP,JP,1,1887,1887,1,,,
+moleskine,Moleskine,Q568068,Moleskine,"Italian manufacturer, papermaker and product designer",IT,IT,1,1997,1997,1,,,
+monami,Monami,Q6897937,Monami,South Korean office supplies manufacturer founded in 1960,KR,KR,1,1960,1960,1,,,
+pilot,Pilot,Q1753527,Pilot,Scottish musical group,JP,GB,0,1918,1973,0,,,
+staedtler,Staedtler,Q691150,Staedtler,company,DE,DE,1,1835,1835,1,,,
+chewy,Chewy,Q28130158,Chewy,internet retailer of pet items,US,US,1,2011,2011,1,,,
+hills,Hill's Pet Nutrition,Q60484641,Hill's Pet Nutrition,Czech company,US,CZ,0,1948,2015,0,colgate-palmolive,Colgate-Palmolive Company,1
+petfriends,Pet Friends,,,,KR,,,,,,gs-group,,
+purina,Purina,Q542376,Nestlé Purina PetCare,"American pet food manufacturer, subsidiary of the Swiss corporation Nestlé",US,DE,0,1894,1893,1,nestle,Nestlé|Nestlé,1
+royal-canin,Royal Canin,Q1849609,Royal Canin,dog and cat feed manufacturer,FR,FR,1,1968,1968,1,mars,"Mars, Incorporated",1
+barbie,Barbie,Q167447,Barbie,fashion doll brand and media franchise,US,US,1,1959,1959,1,mattel,Mattel,1
+hasbro,Hasbro,Q501476,Hasbro,American multinational toy and entertainment company,US,US,1,1923,1923,1,,Alan G. Hassenfeld|The Vanguard Group|Capital Research Global Investors|BlackRock,missing
+hello-kitty,Hello Kitty,,,,JP,,,1974,,,sanrio,,
+jellycat,Jellycat,Q122329245,Jellycat,British plush toy company,GB,,,1999,1999,1,,,
+kakao-friends,Kakao Friends,Q20445497,Kakao friends,"fictional characters of the Kakao brand, popular in South Korea and made into toys",KR,KR,1,2012,,,,Kakao,missing
+labubu,Labubu,Q131324035,Labubu,brand of collectible plush toys,CN,CN,1,2015,2015,1,pop-mart,,
+lego,LEGO,Q1063455,The Lego Group,Danish toy manufacturer best known for interlocking-brick construction toys,DK,DK,1,1932,1932,1,,"Kirkbi|Kirkbi|Koldingvej 2, Billund",missing
+mattel,Mattel,Q596139,Mattel,American multinational toy and entertainment company,US,US,1,1945,1945,1,,T. Rowe Price|The Vanguard Group|Janus Capital Group,missing
+pop-mart,Pop Mart,Q97180096,Pop Mart,Chinese toy company,CN,CN|KY,1,2010,2010,1,,,
+sanrio,Sanrio,Q1136885,Sanrio,"Japanese company, brand",JP,JP,1,1960,1960,1,,,
+sonny-angel,Sonny Angel,,,,JP,,,2004,,,,,
+young-toys,Young Toys,Q55732070,Young Toys,Korean toy company,KR,KR,1,,1980,,,,
+corelle,Corelle,Q5170254,Corelle,brand of glassware and dishware,US,,,1970,,,,,
+groupe-seb,Groupe SEB,Q125081376,GROUPE SEB FRANCE,,FR,FR,1,1857,2001,0,,,
+le-creuset,Le Creuset,Q555861,Le Creuset,French cookware manufacturer,FR,FR,1,1925,1925,1,,,
+locknlock,LocknLock,Q5646759,Lock & Lock,South Korean household products company,KR,KR,1,1978,1978,1,,,
+stanley,Stanley,,,,US,,,1913,,,,,
+tefal,Tefal,Q125081448,TEFAL (company),French company,FR,FR,1,1956,1973,0,groupe-seb,GROUPE SEB FRANCE,1
+thermos,Thermos,,,,JP,,,1904,,,,,
+tupperware,Tupperware,Q16985829,Tupperware Brands,American manufacturer of kitchen and household products,US,US,1,1946,1946,1,,,
+zwilling,Zwilling J.A. Henckels,Q244736,Zwilling J. A. Henckels,German houseware manufacturer,DE,DE,1,1731,1731,1,,Wilh. Werhahn KG,missing
+acushnet,Acushnet,Q344839,Acushnet Company,American company that makes golf equipment and clothing,US,US,1,1910,1910,1,,"Fila, Inc.",missing
+callaway,Callaway,Q1027181,Callaway Golf Company,American golf equipment manufacturer,US,US,1,1982,1982,1,,,
+g-fore,G/FORE,,,,US,,,2011,,,,,
+honma,Honma Golf,Q11520941,Honma Golf,,JP,JP,1,1959,1959,1,,,
+j-lindeberg,J.Lindeberg,Q3356778,,Swedish clothing company,SE,US|CA|SE,1,1996,1997,1,,,
+malbon-golf,Malbon Golf,,,,US,,,2017,,,,,
+mark-and-lona,Mark & Lona,,,,JP,,,2008,,,,,
+pearly-gates,Pearly Gates,,,,JP,,,1989,,,,,
+ping,PING,,,,US,,,1959,,,,,
+pxg,PXG,Q30646600,Parsons Xtreme Golf,global sports equipment manufacturing company,US,,,2014,,,,,
+taylormade,TaylorMade,Q1380797,TaylorMade Golf Company,golf equipment manufacturer,US,US,1,1979,1979,1,,,
+titleist,Titleist,Q609502,Titleist,American golf equipment manufacturer,US,US,1,1932,1932,1,acushnet,Acushnet Company,1
+volvik,Volvik,Q118947741,Volvik,South Korean golf equipment maker,KR,,,1980,1980,1,,,
+waac,WAAC,Q7984253,West African Airways Corporation,defunct airline (Nigeria),KR,NG,0,2015,1946,0,kolon-industries-fnc,West African Airways Corporation,0
+amer-sports,Amer Sports,Q152695,Amer Sports,company based in Finland,FI,FI,1,1950,1950,1,,Anta,missing
+arena,Arena,,,,IT,,,1973,,,,,
+babolat,Babolat,Q797750,Babolat,sporting goods manufacturer,FR,FR,1,1875,1875,1,,,
+decathlon,Decathlon,Q137753171,Decathlon supermarkets,chain of sporting goods stores,FR,,,1976,,,,,
+giant,Giant Bicycles,Q703557,Giant Bicycles,Taiwanese bicycle company,TW,TW,1,1972,1972,1,,,
+head,HEAD,,,,AT,,,1950,,,,,
+mizuno,Mizuno,Q1156731,Mizuno Corporation,Japanese sports equipment and sportswear company,JP,JP,1,1906,1906,1,,,
+shimano,Shimano,Q949610,Shimano,Japanese bicycle parts manufacturing company,JP,JP,1,1921,1921,1,,,
+specialized,Specialized,Q124966655,Specialized,brand of bicycle related products,US,,,1974,,,,Specialized Bicycle Components,missing
+speedo,Speedo,Q125356552,Speedo,brand of underwear owned by Speedo International Limited,GB,,,1914,,,,Speedo International Limited,missing
+wilson,Wilson,,,,US,,,1913,,,amer-sports,,
+yonex,Yonex,Q773924,Yonex,Japanese sports equipment manufacturing company,JP,JP,1,1946,1946,1,,,
+adidas,Adidas,Q3895,Adidas AG,German multinational corporation,DE,DE,1,1949,1924,0,,,
+alo-yoga,Alo Yoga,Q123700068,Alo Yoga,athletic apparel retailer,US,US,1,2007,2007,1,,Color Image Apparel,missing
+andar,Andar,,,,KR,,,2015,,,,,
+anta-sports,Anta Sports,Q4653060,Anta,Chinese sportswear manufacturer,CN,KY,0,1991,1994,0,,,
+asics,ASICS,Q327247,ASICS,Japanese athletic equipment company,JP,JP|DE|US,1,1949,1949,1,,,
+barrel,Barrel,,,,KR,,,2010,,,,,
+descente,Descente,Q11320384,Descente,Japanese sports clothing and accessories company,JP,JP,1,1935,1935,1,,,
+fila,FILA,,,,KR,,,1911,,,fila-holdings,,
+fila-holdings,FILA Holdings,,,,KR,,,1991,,,,,
+gymshark,Gymshark,Q56246099,Gymshark,British sports clothing and accessories company,GB,GB,1,2012,2012,1,,Ben Francis|General Atlantic,missing
+hoka,HOKA,Q16908664,Hoka,"American owned athletic shoe company, originally founded in France",US,FR,0,2009,2010,1,deckers,Deckers Outdoor Corporation,1
+jordan,Jordan Brand,Q101144401,Jordan Brand,sub-brand owned by Nike,US,,,1984,1997,0,nike,Nike,1
+kappa,Kappa,Q735873,Kappa,Italian sportswear brand,IT,IT,1,1916,1916,1,,BasicNet|BasicNet,missing
+le-coq-sportif,Le Coq Sportif,Q1066156,Le Coq sportif,French company producing sports equipment,FR,FR,1,1882,1882,1,,Dan Mamane,missing
+li-ning,Li-Ning,,,,CN,,,1990,,,,,
+lululemon,Lululemon,Q124965942,lululemon,athletic apparel brand owned by Lululemon Athletica,CA,,,1998,,,,Lululemon Athletica,missing
+new-balance,New Balance,Q742988,New Balance,American footwear manufacturer,US,US,1,1906,1906,1,,,
+nike,Nike,Q483915,Nike,American athletic equipment company,US,US,1,1964,1964,1,,,
+on-running,On,Q1065,United Nations,global international and intergovernmental organization,CH,US,0,2010,1945,0,,,
+prospecs,Prospecs,Q7250716,Prospecs,South Korean sportswear brand,KR,,,1981,1981,1,,,
+puma,Puma,Q157064,Puma,German multinational corporation,DE,DE,1,1948,1948,1,,Groupe Artémis|Norges Bank,missing
+rapha,Rapha,,,,GB,,,2004,,,,,
+reebok,Reebok,Q466183,Reebok,American sports equipment company,US,US,1,1958,1895,0,,Adidas AG|Authentic Brands Group,missing
+satisfy,Satisfy,,,,FR,,,2015,,,,,
+umbro,Umbro,Q652047,Umbro,English sportswear company,GB,GB|AU,1,1924,1920,0,,Iconix Brand Group|Nike,missing
+under-armour,Under Armour,Q2031485,Under Armour,American sports clothing and accessories company,US,US,1,1996,1996,1,,,
+xexymix,Xexymix,Q131188308,젝시믹스,,KR,KR,1,2015,2017,1,,,
+arcteryx,Arc'teryx,Q3271455,Arc'teryx,Chinese outdoor apparel and equipment brand,CA,CA,1,1989,1989,1,amer-sports,Amer Sports|Anta|Anta,1
+black-yak,Black Yak,Q55730526,Black Yak,South Korean outdoor brand,KR,,,1973,,,,,
+canada-goose,Canada Goose,Q2988422,Canada Goose Inc.,Canadian manufacturer of cold weather apparel,CA,CA,1,1957,1957,1,,Bain Capital,missing
+columbia,Columbia Sportswear,Q1112588,Columbia Sportswear Company,United States company that manufactures and distributes outerwear and sportswear,US,US,1,1938,1938,1,,,
+discovery-expedition,Discovery Expedition,Q26286443,Discovery Expedition (clothing),clothing brand,KR,,,2012,,,fnf,,
+eider,Eider,,,,KR,,,1962,,,k2-korea,,
+fjallraven,Fjällräven,Q1422481,Fjällräven,Swedish outdoors clothing and equipment manufacturer and retail chain,SE,SE,1,1960,1960,1,,Fenix Outdoor,missing
+goldwin,Goldwin,Q11303928,Goldwin,Japanese company,JP,JP,1,1950,1951,1,,,
+helinox,Helinox,Q137262919,,brand of camping equipment,KR,,,2009,,,,Q137262887,missing
+jack-wolfskin,Jack Wolfskin,Q536133,Jack Wolfskin,German outdoors clothing and equipment manufacturer and retail chain,DE,DE,1,1981,1981,1,anta-sports,Anta,1
+k2-korea,K2,Q139736682,K2,Japanese video game developer,KR,JP,0,1972,,,,,
+kolon-sport,Kolon Sport,,,,KR,,,1973,,,kolon-industries-fnc,,
+mammut,Mammut,,,,CH,,,1862,,,,,
+millet,Millet,,,,FR,,,1921,,,,,
+montbell,Montbell,,,,JP,,,1975,,,,,
+national-geographic-apparel,National Geographic Apparel,,,,KR,,,2017,,,,,
+nepa,NEPA,,,,KR,,,,,,,,
+patagonia,Patagonia,Q1660552,"Patagonia, Inc.",American clothing company,US,US,1,1973,1973,1,,,
+peak-performance,Peak Performance,Q3898469,Peak Performance,Swedish sportswear company,SE,SE,1,1986,1986,1,amer-sports,Amer Sports|IC Group,1
+salomon,Salomon,Q2120822,Salomon,French company featuring outdoor apparel and sportswear,FR,FR,1,1947,1947,1,amer-sports,Amer Sports|Amer Sports,1
+snow-peak,Snow Peak,Q11312604,Snow Peak,Japanese camping equipment manufacturer,JP,JP,1,1958,1964,0,,,
+the-north-face,The North Face,Q124965868,The North Face,outdoor clothing & gear brand,US,,,1966,,,vf-corp,"The North Face, Inc.",0
+vf-corp,VF Corporation,Q457960,VF Corporation,American global apparel & footwear company,US,US,1,1899,1899,1,,,
+casio,Casio,Q217338,Casio,multinational electronics manufacturing company,JP,JP,1,1946,1957,0,,,
+citizen,Citizen,,,,JP,,,1918,,,,,
+daniel-wellington,Daniel Wellington,Q22104639,Daniel Wellington,Swedish watch company,SE,SE,1,2011,2011,1,,,
+fossil,Fossil,,,,US,,,1984,,,,,
+g-shock,G-SHOCK,Q1047701,G-Shock,watch model series manufactured by Casio,JP,,,1983,1983,1,casio,Casio|Casio,1
+hamilton,Hamilton,,,,US,,,1892,,,swatch-group,,
+mido,Mido,Q1725661,Mido,Swatch Group subsidiary,CH,CH,1,1918,1918,1,swatch-group,The Swatch Group|The Swatch Group,1
+rado,Rado,,,,CH,,,1917,,,swatch-group,,
+seiko,Seiko,Q322601,Seiko,"Japanese company that manufactures and sells watches, clocks, electronic devices, semiconductors and optical products",JP,JP,1,1881,1881,1,,Seiko Group,missing
+swatch,Swatch,Q694107,The Swatch Group,Swiss company,CH,CH,1,1983,1931,0,swatch-group,Nicolas Hayek|Esther Grether,0
+swatch-group,The Swatch Group,Q694107,The Swatch Group,Swiss company,CH,CH,1,1983,1931,0,,Nicolas Hayek|Esther Grether,missing
+tissot,Tissot,Q659530,Tissot,Swiss watch manufacturer,CH,CH,1,1853,1853,1,swatch-group,The Swatch Group|The Swatch Group,1
+apm-monaco,APM Monaco,Q85738954,APM Monaco,Monacan jewelry company,MC,,,1982,,,,,
+boucheron,Boucheron,Q848553,Boucheron,French company,FR,FR,1,1858,1858,1,kering,Kering|Kering|Frédéric Boucheron,1
+buccellati,Buccellati,Q15994135,Buccellati Holding Italia,jewelry and watches company,IT,IT,1,1919,1919,1,richemont,Richemont,1
+bulgari,Bulgari,Q752515,Bulgari,Italian luxury fashion house,IT,IT,1,1884,1884,1,lvmh,LVMH|LVMH,1
+cartier,Cartier,Q538587,Cartier,French jeweler,FR,FR,1,1847,1847,1,richemont,Richemont,1
+chaumet,Chaumet,Q2961620,Chaumet,luxury jewelry retailer,FR,FR,1,1780,1780,1,lvmh,LVMH,1
+chopard,Chopard,Q670112,Chopard,"Swiss manufacturer and retailer of luxury watches, jewellery and accessories, founded in 1860 by Louis-Ulysse Chopard in Sonvilier, Switzerland",CH,CH,1,1860,1860,1,,,
+chow-tai-fook,Chow Tai Fook,Q5105515,Chow Tai Fook,Hong Kong–based privately owned conglomerate,HK,CN|VG|HK|MO,1,1929,1929,1,,,
+didier-dubot,Didier Dubot,,,,KR,,,,,,,,
+fred,Fred,,,,FR,,,1936,,,lvmh,,
+goldendew,Goldendew,,,,KR,,,1988,,,,,
+graff,Graff,,,,GB,,,1960,,,,,
+harry-winston,Harry Winston,Q3127944,Burgundy Diamond Mines,"Toronto, Canada, specialist diamond mining and retail company",US,,,1932,1980,0,swatch-group,,
+jestina,J.ESTINA,Q16159823,J.ESTINA,,KR,KR,1,2003,1988,0,,,
+messika,Messika,Q104889722,Messika,French jewelry brand and jewelry chain,FR,,,2005,2005,1,,,
+mikimoto,Mikimoto,Q11341902,Mikimoto,,JP,JP,1,1893,1899,0,,,
+pandora,Pandora,Q2241604,Pandora,Danish multinational jewelry manufacturer and retail chain,DK,DK,1,1982,1982,1,,Pandora|BlackRock|Parvus Asset Management Europe Limited,missing
+pomellato,Pomellato,Q3907789,Pomellato,Italian jewelry company,IT,IT,1,1967,1967,1,kering,Kering,1
+qeelin,Qeelin,Q5161882,Qeelin,Hong Kong-based fine jewellery company,HK,CN,0,2004,2004,1,kering,Kering,1
+richemont,Compagnie Financière Richemont,Q689240,Richemont,Swiss holding company,CH,CH,1,1988,1979,0,,,
+stonehenge,Stonehenge,,,,KR,,,,,,,,
+swarovski,Swarovski,Q124984005,Swarovski,jewelry and crystal brand,AT,,,1895,,,,Swarovski,missing
+tiffany,Tiffany & Co.,Q1066858,Tiffany & Co.,American multinational luxury jewelry and specialty retailer,US,US,1,1837,1837,1,lvmh,LVMH|Investcorp|JANA Partners|LVMH|Charles Lewis Tiffany|Louis Comfort Tiffany,1
+van-cleef-arpels,Van Cleef & Arpels,Q2708181,Van Cleef & Arpels,"French jewellery, watch, and perfume company",FR,FR,1,1896,1896,1,richemont,Richemont|Richemont,1
+a-lange-sohne,A. Lange & Söhne,Q278880,A. Lange & Söhne,company,DE,DE,1,1845,1845,1,richemont,Richemont|Richemont,1
+audemars-piguet,Audemars Piguet,Q667425,Audemars Piguet,manufacturer of luxury Swiss watches,CH,CH,1,1875,1875,1,,,
+blancpain,Blancpain,Q804327,Blancpain,Swiss luxury watch manufacturer,CH,CH,1,1735,1735,1,swatch-group,The Swatch Group|The Swatch Group,1
+breguet,Breguet,Q661205,Breguet,Swiss watchmaking company,CH,CH,1,1775,1775,1,swatch-group,The Swatch Group|Investcorp|The Swatch Group,1
+breitling,Breitling,Q665740,Breitling,Swiss luxury watchmaker,CH,CH,1,1884,1884,1,,Partners Group,missing
+grand-seiko,Grand Seiko,Q11300325,Grand Seiko,Japanese watch brand,JP,JP,1,1960,1960,1,seiko,Seiko,1
+hublot,Hublot,Q691958,Hublot,clock and watch manufacturing company,CH,CH,1,1980,1980,1,lvmh,LVMH|LVMH,1
+iwc,IWC Schaffhausen,Q662902,International Watch Company,Swiss-based international watch company and brand,CH,CH,1,1868,1868,1,richemont,Richemont|Richemont,1
+jaeger-lecoultre,Jaeger-LeCoultre,Q378698,Jaeger-LeCoultre,Swiss luxury watches and clocks manufactured since 1833,CH,CH,1,1833,1833,1,richemont,Richemont|Richemont,1
+longines,Longines,Q603698,Longines,Swiss watchmaker,CH,CH,1,1832,1832,1,swatch-group,The Swatch Group|The Swatch Group,1
+nomos-glashutte,NOMOS Glashütte,Q883395,Nomos Glashütte,German watchmaker,DE,DE,1,1990,1990,1,,,
+omega,Omega,,,,CH,,,1848,,,swatch-group,,
+panerai,Panerai,Q1475590,Panerai Watches,Italian manufacturing company,IT,IT,1,1860,1860,1,richemont,,
+patek-philippe,Patek Philippe,Q659096,Patek Philippe & Co.,Swiss luxury watch and clock manufacturer founded in 1839,CH,CH,1,1839,1839,1,,Philippe Stern,missing
+piaget,Piaget,Q658961,Piaget,Swiss luxury watchmaker and jeweller,CH,CH,1,1874,1874,1,richemont,Richemont|Richemont,1
+richard-mille,Richard Mille,Q3431044,Richard Mille,brand of luxury Swiss watches,CH,CH,1,2001,2001,1,,,
+rolex,Rolex,Q62288,Rolex,Swiss luxury watch designer and manufacturer,CH,CH,1,1905,1905,1,,Fondation Hans Wilsdorf,missing
+tag-heuer,TAG Heuer,Q645984,TAG Heuer,Swiss luxury manufacturer,CH,CH,1,1860,1860,1,lvmh,LVMH|LVMH,1
+tudor,Tudor,,,,CH,,,1926,,,rolex,,
+vacheron-constantin,Vacheron Constantin,Q62341,Vacheron Constantin,Swiss watch company,CH,CH,1,1755,1755,1,richemont,Richemont|Richemont,1
+zenith,Zenith,,,,CH,,,1865,,,lvmh,,
+herbalife,Herbalife,Q572948,Herbalife,American based multi-level marketing company,US,US,1,1980,1980,1,,,
+jeonggwanjang,Cheong Kwan Jang,Q16256202,Korea Ginseng Corporation,South Korean ginseng company,KR,KR,1,1899,1999,0,,,
+cadbury,Cadbury,Q6677525,Cadbury,British multinational confectionery company,GB,,,1824,1824,1,mondelez,Kraft Foods Group|Mondelez International|Mondelez International,1
+calbee,Calbee,Q846834,Calbee,Japanese food company,JP,JP,1,1949,1949,1,,,
+cheetos,Cheetos,Q484544,Cheetos,brand of snack food,US,US,1,1948,1948,1,pepsico,Frito-Lay,0
+choco-pie,Choco Pie,,,,KR,,,1974,,,orion,,
+crown,Crown Confectionery,Q624194,Crown Confectionery,company,KR,,,1947,1947,1,,CrownHaitai Holdings,missing
+doritos,Doritos,Q776795,Doritos,American brand of flavored tortilla chips,US,US,1,1964,1964,1,pepsico,Frito-Lay,0
+ferrero,Ferrero,Q269792,Ferrero SpA,Italian manufacturer of chocolate and confectionery products,IT,IT|LU,1,1946,1946,1,,,
+ferrero-rocher,Ferrero Rocher,,,,IT,,,1982,,,ferrero,,
+glico,Ezaki Glico,Q391534,Ezaki Glico,Japanese confectionery company,JP,JP,1,1922,1929,0,,,
+haitai,Haitai Confectionery,Q487281,Haitai Confectionery & Foods,South Korean confectionary company,KR,KR,1,1945,1945,1,,CrownHaitai Holdings,missing
+haribo,Haribo,Q169552,Haribo,confectionery company,DE,DE,1,1920,1920,1,,,
+hershey,Hershey's,Q1056637,The Hershey Company,American corporation,US,US,1,1894,1894,1,,Hershey Trust Company,missing
+kinder,Kinder,Q15410057,Kinder,brand of chocolate products owned by Ferrero SpA,IT,IT,1,1968,1968,1,ferrero,Ferrero SpA,1
+kitkat,Kit Kat,Q367251,Kit Kat,brand of chocolate products,CH,GB,0,1935,1935,1,nestle,Nestlé|Rowntree's|The Hershey Company,1
+lays,Lay's,Q723513,Lay’s,snack food company,US,US,1,1932,1934,1,pepsico,Frito-Lay|PepsiCo,1
+lindt,Lindt & Sprüngli,Q54969841,Lindt & Sprüngli (Czechia,company in the Czech Republic,CH,CZ,0,1845,,,,,
+lotte-wellfood,Lotte Wellfood,Q6684915,Lotte Wellfood,South Korean confectionery company,KR,KR,1,1967,1967,1,lotte-group,,
+mars,"Mars, Incorporated",Q695087,"Mars, Incorporated",American global food company and manufacturer,US,US,1,1911,1911,1,,,
+meiji,Meiji,,,,JP,,,1916,,,,,
+mms,M&M's,Q739550,M&M's,brand of chocolate candy pieces,US,US,1,1941,1941,1,mars,"Mars, Incorporated",1
+mondelez,Mondelez International,Q12857502,Mondelez International,"American multinational confectionery, food and beverage conglomerate",US,US,1,2012,2012,1,,The Vanguard Group|Capital Group Companies|Lindsell Train,missing
+oreo,Oreo,,,,US,,,1912,,,mondelez,,
+orion,Orion,Q861799,Orion Publishing Group,British publisher,KR,GB,0,1956,1991,0,,Hachette,missing
+pepero,Pepero,,,,KR,,,1983,,,lotte-wellfood,,
+pepsico,PepsiCo,Q334800,PepsiCo,American soft drink company,US,US|BE,1,1965,1961,0,,The Vanguard Group|BlackRock|State Street Global Advisors,missing
+pocky,Pocky,,,,JP,,,1966,,,glico,,
+pringles,Pringles,Q528187,Pringles,brand of potato-based chips,US,US,1,1968,1968,1,mars,Kellanova,0
+saeukkang,Saeukkang,,,,KR,,,1971,,,nongshim,,
+snickers,Snickers,Q714179,Snickers,"brand name chocolate bar made by Mars, Incorporated",US,US,1,1930,1930,1,mars,"Mars, Incorporated",1
+spc-samlip,SPC Samlip,Q16165525,SPC Samlip,,KR,KR,1,1945,1945,1,spc-group,SPC Group|SPC Group,1
+toblerone,Toblerone,Q215707,Toblerone,brand of chocolate confection,CH,CH,1,1908,1908,1,mondelez,Mondelez International,1
+bibigo,Bibigo,,,,KR,,,2010,,,cj-cheiljedang,,
+buldak,Buldak,,,,KR,,,2012,,,samyang-foods,,
+cj-cheiljedang,CJ CheilJedang,Q6451272,CJ Cheil Jedang,South Korean company,KR,KR,1,1953,1953,1,cj-group,CJ Corporation,0
+dongwon-fnb,Dongwon F&B,Q12593511,Dongwon F&B,South Korean food business,KR,KR,1,1982,2000,0,,,
+dongwon-tuna,Dongwon Tuna,,,,KR,,,1982,,,dongwon-fnb,,
+general-mills,General Mills,Q629998,General Mills,American consumer goods manufacturer,US,US,1,1928,1866,0,,,
+hetbahn,Hetbahn,,,,KR,,,1996,,,cj-cheiljedang,,
+jin-ramen,Jin Ramen,,,,KR,,,1988,,,ottogi,,
+nestle,Nestlé,Q160746,Nestlé,Swiss multi-national food and beverage company,CH,CH,1,1866,1866,1,,treasury stock|BlackRock|Norges Bank Investment Management,missing
+nissin,Nissin Foods,Q53293,Nissin Food Products,"Japanese company, originally, a small family-run company producing salt",JP,JP,1,1948,1958,0,,Nissin Foods Holdings,missing
+nongshim,Nongshim,Q111865397,Nongshim Hotel,"hotel in Busan, South Korea",KR,KR,1,1965,,,,,
+ottogi,Ottogi,Q625852,Ottogi,South Korean food company,KR,KR,1,1969,1969,1,,,
+pulmuone,Pulmuone,Q7259556,Pulmuone,South Korean food company,KR,KR,1,1984,1981,0,,,
+quaker,Quaker Oats,Q2699694,Quaker Oats Company,American food conglomerate,US,US,1,1877,1877,1,pepsico,PepsiCo|PepsiCo,1
+samyang-foods,Samyang Foods,Q7413176,Samyang Foods,South Korean food company,KR,KR,1,1961,1961,1,,,
+shin-ramyun,Shin Ramyun,,,,KR,,,1986,,,nongshim,,
+spam,Spam,Q606132,Spam,brand of canned precooked meat product,US,US,1,1937,,,hormel,,
+banana-milk,Banana Flavored Milk,,,,KR,,,1974,,,binggrae,,
+binggrae,Binggrae,Q12599539,Binggrae,South Korean company,KR,KR,1,1967,1967,1,,,
+chobani,Chobani,Q5103456,Chobani,USA dairy processor specializing in strained yogurt,US,US,1,2005,2005,1,,,
+danone,Danone,Q329426,Danone,French food company,FR,ES|FR,1,1919,1919,1,,,
+haagen-dazs,Häagen-Dazs,Q1143333,Häagen-Dazs,American ice cream company,US,US,1,1960,1961,1,general-mills,General Mills|Froneri,1
+lactalis,Lactalis,Q1799825,Lactalis,French agribusiness company,FR,FR,1,1933,1933,1,,Emmanuel Besnier,missing
+maeil-dairies,Maeil Dairies,Q11239984,Maeil Dairies,,KR,KR,1,1969,1969,1,,,
+namyang-dairy,Namyang Dairy,Q12589926,Namyang Dairy Products,Korean food and dairy corporation,KR,KR,1,1964,1964,1,,,
+oatly,Oatly,Q10605824,Oatly AB,"Business in Sweden, from 1994 from Malmö",SE,SE,1,1994,1994,1,,,
+seoul-milk,Seoul Milk,Q626144,Seoul Milk,company,KR,KR,1,1937,1937,1,,,
+yakult,Yakult,Q16172223,Yakult Honsha,Japanese company,JP,JP,1,1935,1955,0,,,
+celsius,Celsius,,,,US,,,2004,,,,,
+chilsung-cider,Chilsung Cider,,,,KR,,,1950,,,lotte-chilsung,,
+coca-cola,Coca-Cola,Q3295867,The Coca-Cola Company,American multinational beverage corporation,US,US,1,1886,1892,0,,Berkshire Hathaway|The Vanguard Group|BlackRock|Berkshire Hathaway|The Vanguard Group|BlackRock|State Street Corporation|Fidelity Investments|Morgan Stanley|Geode Capital Management|Charles Schwab Corporation|J.P. Morgan & Co.|Norges Bank,missing
+dr-pepper,Dr Pepper,Q1254149,Dr Pepper Snapple Group,company,US,US,1,1885,2008,0,keurig-dr-pepper,,
+evian,Evian,,,,FR,,,1826,,,danone,,
+fanta,Fanta,Q13424955,Fantagio,South Korean entertainment management company,US,KR,0,1940,2008,0,coca-cola,,
+fiji-water,Fiji Water,Q649491,Fiji Water,"brand of bottled water derived, bottled, and shipped from Fiji",US,US,1,1996,1996,1,,,
+gatorade,Gatorade,Q304992,Gatorade,manufacturer of sports-themed beverage and food products,US,US,1,1965,1965,1,pepsico,PepsiCo|PepsiCo|Quaker Oats Company,1
+jeju-samdasoo,Jeju Samdasoo,,,,KR,,,1998,,,,,
+keurig-dr-pepper,Keurig Dr Pepper,Q3116111,Keurig Dr Pepper,American beverage company,US,US,1,2018,2018,1,,,
+liquid-death,Liquid Death,Q106254248,Liquid Death,canned water company,US,,,2019,,,,,
+lotte-chilsung,Lotte Chilsung Beverage,,,,KR,,,1950,,,lotte-group,,
+monster-beverage,Monster Energy,,,,US,,,2002,,,,,
+olipop,Olipop,Q123655529,Olipop,American beverage company,US,,,2018,,,,,
+pepsi,Pepsi,Q334800,PepsiCo,American soft drink company,US,US|BE,1,1893,1961,0,pepsico,The Vanguard Group|BlackRock|State Street Global Advisors,0
+perrier,Perrier,,,,FR,,,1903,,,nestle,,
+poppi,Poppi,,,,US,,,2018,,,pepsico,,
+red-bull,Red Bull,Q698639,Red Bull GmbH,Austrian drinks company,AT,AT,1,1987,1984,0,,,
+san-pellegrino,S.Pellegrino,,,,IT,,,1899,,,nestle,,
+sprite,Sprite,Q206978,Sprite,soft carbonated drink by The Coca-Cola Company,US,US|DE,1,1961,1961,1,coca-cola,,
+ajinomoto,Ajinomoto,Q412826,Ajinomoto,Japanese food and biotechnology company,JP,JP|FR,1,1909,1925,0,,,
+chungjungone,Chungjungone,,,,KR,,,1996,,,daesang,,
+daesang,Daesang,Q12591553,Daesang,,KR,KR,1,1956,1956,1,,Daesang Holdings,missing
+heinz,Heinz,,,,US,,,1869,,,kraft-heinz,,
+kewpie,Kewpie,Q107293020,Kewpie,Japanese mayonnaise brand,JP,JP,1,1919,1925,0,,Kewpie Corporation,missing
+kikkoman,Kikkoman,Q1321815,Kikkoman,"company in Noda, Chiba, Japan",JP,JP,1,1917,1917,1,,,
+kraft-heinz,Kraft Heinz,Q19681433,Kraft Heinz,American worldwide food company formed by the merger of Kraft Foods and Heinz,US,US|GB,1,2015,2015,1,,Berkshire Hathaway|Berkshire Hathaway,missing
+lee-kum-kee,Lee Kum Kee,Q855533,Lee Kum Kee,company,HK,HK,1,1888,1888,1,,,
+maggi,Maggi,,,,CH,,,1884,,,nestle,,
+miwon,Miwon,,,,KR,,,1956,,,daesang,,
+nutella,Nutella,Q212193,Nutella,chocolate hazelnut spread manufactured by Ferrero,IT,IT,1,1964,1964,1,ferrero,Ferrero SpA,1
+ab-inbev,Anheuser-Busch InBev,Q128738,Anheuser-Busch InBev,Belgian-Brazilian multinational beverage and brewing company,BE,BE,1,2008,1977,0,,Stichting Anheuser-Busch InBev|Altria,missing
+absolut,Absolut Vodka,Q332378,Absolut Vodka,Swedish brand of vodka,SE,SE,1,1879,1879,1,pernod-ricard,Pernod Ricard,1
+asahi,Asahi,Q11257202,Asahi,Japanese manufacturer and retailer based in Osaka City that operates a chain of bicycle specialty stores,JP,JP,1,1889,1975,0,,,
+bacardi,Bacardi,Q685395,Bacardi,"largest privately held, family-owned spirits company with Cuban origins",BM,BM,1,1862,1862,1,,,
+brown-forman,Brown-Forman,Q392221,Brown-Forman,American-owned spirit and wine producer and distributor,US,US|NL,1,1870,1870,1,,,
+budweiser,Budweiser,Q610672,Budweiser,"American-style pale lager, a brand of Belgian company AB InBev",US,CZ,0,1876,1876,1,ab-inbev,,
+carlsberg,Carlsberg,Q113215,Carlsberg Group,Danish brewery group,DK,DK,1,1847,1847,1,,Carlsberg Foundation|Carlsberg Foundation|MFS Investment Management|BlackRock,missing
+cass,Cass,,,,KR,,,1994,,,oriental-brewery,,
+chamisul,Chamisul,Q16219738,Chamisul,South Korean soju brand,KR,KR,1,1998,1998,1,hitejinro,Hite,0
+chivas-regal,Chivas Regal,,,,GB,,,1909,,,pernod-ricard,,
+chum-churum,Chum Churum,Q5116128,Chum-Churum,,KR,,,2006,1926,0,lotte-chilsung,,
+corona,Corona,,,,MX,,,1925,,,ab-inbev,,
+diageo,Diageo,Q161140,Diageo,multinational alcoholic beverages company,GB,GB,1,1997,1997,1,,Capital Group Companies|BlackRock|MFS Investment Management,missing
+guinness,Guinness,Q194297,Guinness,Irish brand of beer,IE,IE,1,1759,1759,1,diageo,,
+heineken,Heineken,Q180855,Heineken International,Dutch beer company,NL,NL,1,1864,1864,1,,Heineken Holding|Charlene de Carvalho-Heineken,missing
+hennessy,Hennessy,Q1229287,Hennessy,French brandy distillery,FR,FR,1,1765,1765,1,lvmh,LVMH|LVMH,1
+hitejinro,HiteJinro,Q494272,HiteJinro,South Korean beverage company,KR,KR,1,1924,1924,1,,HiteJinro Holdings,missing
+jack-daniels,Jack Daniel's,Q371068,Jack Daniel's,distiller of Tennessee whiskey,US,US,1,1875,1866,0,brown-forman,Brown-Forman|Brown-Forman,1
+jameson,Jameson,,,,IE,,,1780,,,pernod-ricard,,
+jim-beam,Jim Beam,Q222787,Jim Beam,American brand of bourbon whiskey,US,US,1,1795,1795,1,suntory,,
+johnnie-walker,Johnnie Walker,Q502268,Johnnie Walker,"brand of Scotch whisky owned by Diageo that originated in Kilmarnock, Ayrshire, Scotland",GB,GB,1,1820,1820,1,diageo,Diageo,1
+kirin,Kirin Holdings,Q13403399,Kirin Holdings,Japanese beverage company,JP,JP,1,1907,1885,0,,Mitsubishi,missing
+kweichow-moutai,Kweichow Moutai,Q1518607,Kweichow Moutai Company,"company in Renhuai, Zunyi, Guizhou, China",CN,CN,1,1951,1999,0,,,
+macallan,The Macallan,,,,GB,,,1824,,,,,
+moet-chandon,Moët & Chandon,Q699529,Moët & Chandon,"French fine winery, Epernay",FR,FR,1,1743,1743,1,lvmh,LVMH|LVMH,1
+oriental-brewery,Oriental Brewery,Q205601,Oriental Brewery,Brewery Company in South Korea,KR,BR,0,1952,1952,1,ab-inbev,Anheuser-Busch InBev|Anheuser-Busch InBev,1
+pernod-ricard,Pernod Ricard,Q837049,Pernod Ricard,French company that produces distilled beverages,FR,FR,1,1975,1975,1,,,
+sapporo,Sapporo,Q288727,Sapporo Breweries,Japanese beer brewing company,JP,JP,1,1876,1876,1,,Sapporo Holdings,missing
+smirnoff,Smirnoff,Q777721,Smirnoff,Vodka brand founded in Russia,GB,RU,0,1864,1860,0,diageo,Diageo|Diageo,1
+stella-artois,Stella Artois,,,,BE,,,1366,,,ab-inbev,,
+suntory,Suntory Holdings,Q137363738,Suntory Holdings,Japanese business,JP,JP,1,1899,,,,,
+terra,Terra,Q1135120,Terra,"web portal and internet company, subsidiary of Telefônica Brasil",KR,BR,0,2019,1999,0,hitejinro,Telefônica Brasil,0
+tsingtao,Tsingtao,Q56701971,Tsingtao,Chinese beer brand,CN,CN,1,1903,1903,1,,,
+yamazaki,Yamazaki,,,,JP,,,1923,,,suntory,,
+dongsuh-foods,Dongsuh Foods,,,,KR,,,1968,,,,,
+nescafe,Nescafé,Q503191,Nescafé,instant coffee brand,CH,CH,1,1938,1938,1,nestle,Nestlé,1
+nespresso,Nespresso,Q301301,Nespresso,coffee brand owned by Nestlé S.A.,CH,CH,1,1986,1986,1,nestle,Nestlé|Nestlé,1
+catl,Contemporary Amperex Technology,Q18653563,Contemporary Amperex Technology Co. Limited,Chinese battery company,CN,CN,1,2011,2011,1,,,
+duracell,Duracell,Q858702,Duracell,American manufacturer of batteries,US,US,1,1924,1930,0,,Berkshire Hathaway|Procter & Gamble|Berkshire Hathaway,missing
+ecopro,EcoPro,Q131188085,EcoPro,South Korean battery company,KR,KR,1,1998,,,,,
+ecopro-bm,EcoPro BM,Q123178169,ECOPRO BM,,KR,KR,1,2016,,,ecopro,ECOPRO|ECOPRO,1
+lg-energy-solution,LG Energy Solution,Q109464416,LG Energy Solution,South Korean battery maker,KR,KR,1,2020,,,lg-chem,,
+lnf,L&F,Q6455435,L&F Jones,British company,KR,GB,0,,1911,,,,
+posco-future-m,POSCO Future M,Q12621901,POSCO Future M,South Korean company,KR,KR,1,1971,1971,1,posco-group,,
+samsung-sdi,Samsung SDI,Q21120876,Samsung SDI,"South Korean company, manufacturer of screens, batteries, and electronics materials",KR,KR,1,1970,1970,1,samsung-group,Samsung Electronics|National Pension Service,0
+sk-on,SK On,Q131187782,SK On,South Korean battery company,KR,KR,1,2021,,,sk-innovation,,
+adnoc,ADNOC,Q131314519,ADNOC Distribution,mobility retailer,AE,,,1971,,,,Abu Dhabi National Oil Company,missing
+bp,BP,Q152057,BP,British multinational oil and gas company,GB,GB,1,1909,1908,1,,,
+chevron,Chevron,Q319642,Chevron Corporation,American multinational energy corporation,US,US,1,1879,,,,,
+exxonmobil,ExxonMobil,Q156238,ExxonMobil,American multinational oil and gas corporation,US,US,1,1870,1882,0,,State Street Corporation|BlackRock|The Vanguard Group,missing
+gs-caltex,GS Caltex,Q624012,GS Caltex,company,KR,JP,0,1967,1966,1,gs-group,GS Energy,0
+hd-hyundai-oilbank,HD Hyundai Oilbank,Q5962649,HD Hyundai Oilbank,petroleum refinery company,KR,KR,1,1964,1964,1,hd-hyundai,HD Hyundai,1
+kogas,Korea Gas Corporation,Q491489,Korea Gas Corporation,company,KR,KR,1,1983,1983,1,,"Ministry of Trade, Industry and Resource",missing
+s-oil,S-OIL,Q185564,S-Oil,company,KR,KR,1,1976,1976,1,saudi-aramco,Saudi Aramco,1
+saudi-aramco,Saudi Aramco,Q679322,Saudi Aramco,Saudi Arabian state-owned petroleum company,SA,SA,1,1933,1988,0,,Public Investment Fund|Public Investment Fund,missing
+shell,Shell,Q154950,Shell,British multinational oil and gas company,GB,GB|MX,1,1907,1890,0,,BlackRock|The Vanguard Group|Norges Bank Investment Management|Legal & General|State Street Global Advisors|Geode Capital Management|Clearstream,missing
+sinopec,Sinopec,Q831445,Sinopec,Chinese oil and gas company,CN,CN,1,2000,2000,1,,China Petrochemical Corporation,missing
+sk-energy,SK Energy,Q494158,SK Group,South Korean conglomerate,KR,KR,1,1962,1953,0,sk-innovation,,
+sk-innovation,SK Innovation,Q16172809,SK Innovation,South Korean energy and chemical company,KR,KR,1,1962,2011,0,sk-group,SK Inc.,0
+totalenergies,TotalEnergies,Q154037,TotalEnergies,French multinational energy and petroleum company,FR,FR,1,1924,1924,1,,BlackRock|TotalEnergies Actionnariat France|BlackRock|TotalEnergies Actionnariat France|Capital Group Companies|Energetický a průmyslový holding,missing
+corning,Corning,Q5842736,Corning Inc.,American manufacturer of glass & ceramics,US,US,1,1851,1851,1,,The Vanguard Group|BlackRock,missing
+hyosung-tnc,Hyosung TNC,Q131187773,Hyosung TNC,South Korean textile and trading company,KR,KR,1,1966,,,hyosung-group,,
+kolon-industries,Kolon Industries,Q18142409,Kolon Industries,Korean chemical and textile manufacturing company,KR,KR,1,1957,1957,1,kolon-group,,
+saint-gobain,Saint-Gobain,Q678565,Saint-Gobain,French building material company,FR,FR,1,1665,1665,1,,Wendel,missing
+shin-etsu,Shin-Etsu Chemical,Q904284,Shin-Etsu Chemical,company,JP,JP,1,1926,1926,1,,,
+toray,Toray Industries,Q168115,Toray Industries,company,JP,JP,1,1926,1926,1,,Mitsui Group,missing
+edf,Électricité de France,Q274591,프랑스 전력공사,French multinational electric utility company,FR,FR,1,1946,1946,1,,French State|French State|French State,missing
+hanwha-qcells,Hanwha Qcells,Q265176,Qcells,Solar cell manufacturer,KR,DE|KR,1,1999,2012,0,hanwha-solutions,,
+kepco,Korea Electric Power Corporation,Q486737,Korea Electric Power Corporation,company,KR,KR,1,1961,1898,0,,"Ministry of Trade, Industry and Resource|Korea Development Bank|Government of South Korea|National Pension Service",missing
+khnp,Korea Hydro & Nuclear Power,Q6431646,Korea Hydro & Nuclear Power,energy company in South Korea,KR,KR,1,2001,2001,1,kepco,"Korea Electric Power Corporation|Ministry of Trade, Industry and Resource|Korea Electric Power Corporation",1
+nextera-energy,NextEra Energy,Q967868,NextEra Energy,American energy company,US,US,1,1925,1925,1,,,
+orsted,Ørsted,Q1241260,Ørsted,"integrated energy company based in Fredericia, Denmark",DK,DK,1,1972,2006,0,,Ministry of Finance of Denmark|Andel Energy|Goldman Sachs|Capital Group Companies,missing
+siemens-energy,Siemens Energy,Q89189545,Siemens Energy AG,German company in electrical engineering and energy technology,DE,DE,1,2020,2020,1,,Siemens,missing
+vestas,Vestas,Q868259,Vestas,manufacturer of wind turbines,DK,DK,1,1898,1945,0,,BlackRock|Marathon Asset Management,missing
+arcelormittal,ArcelorMittal,Q27893,ArcelorMittal,multinational steel manufacturing corporation,LU,LU|ES,1,2006,2006,1,,Lakshmi Mittal|BlackRock|Société Générale,missing
+baowu,China Baowu Steel Group,Q249692,China Baowu Steel Group,Chinese state-owned company,CN,CN,1,2016,1978,0,,State-owned Assets Supervision and Administration Commission of the State Council,missing
+bhp,BHP,Q625713,BHP Group,Australian multinational mining and metals company,AU,AU,1,1885,2001,0,,,
+glencore,Glencore,Q169339,Glencore,"metals and minerals, and energy products company",CH,CH,1,1974,1974,1,,Qatar Investment Authority|Ivan Glasenberg|Harris Associates|BlackRock|Daniel Maté|Telis Mistakidis|Norges Bank,missing
+hyundai-steel,Hyundai Steel,Q6502960,Hyundai Steel,South Korean company,KR,KR,1,1953,1975,0,hyundai-motor-group,Hyundai Motor Group|Hyundai Motor Company,1
+korea-zinc,Korea Zinc,Q16183878,Korea Zinc Co.,South Korean smelting company,KR,KR,1,1974,1974,1,,,
+nippon-steel,Nippon Steel,Q651282,Nippon Steel,former steelmaker company in Japan,JP,JP,1,1970,1970,1,,,
+posco,POSCO,Q483946,POSCO,"company, from Pohang, South Korea; with New York Exchange -listed share (PKX)",KR,KR,1,1968,1968,1,posco-group,,
+rio-tinto,Rio Tinto,,,,GB,,,1873,,,,,
+air-liquide,Air Liquide,Q407448,Air Liquide,French multinational company which supplies industrial gases and services,FR,FR|CA,1,1902,1902,1,,,
+basf,BASF,Q9401,BASF,German chemical company with worldwide reach,DE,DE,1,1865,1865,1,,,
+dow,Dow,Q62739842,Dow Inc.,American chemical company,US,US,1,1897,2019,0,,,
+dupont,DuPont,Q221062,DuPont,American multinational chemical company,US,US,1,1802,1802,1,,The Vanguard Group|BlackRock,missing
+hanwha-solutions,Hanwha Solutions,Q5651426,Hanwha Solutions,"organization in Seoul, South Korea",KR,KR,1,1965,1974,0,hanwha-group,,
+kumho-petrochemical,Kumho Petrochemical,Q16171192,Kumho Petrochemical Co.,South Korean multinational chemical company,KR,KR,1,1970,1970,1,,,
+lg-chem,LG Chem,Q486976,LG Chem,South Korean chemical company,KR,KR,1,1947,1947,1,lg-group,LG Group|National Pension Service,1
+linde,Linde,Q682759,Linde Group,multinational industrial gases and engineering company founded in Germany in 1879,GB,IE|GB,1,1879,,,,,
+lotte-chemical,Lotte Chemical,Q12594201,Lotte Chemical,Korean company,KR,KR,1,1976,1976,1,lotte-group,Lotte Holdings|National Pension Service|Lotte Hotels & Resorts,0
+sabic,SABIC,Q903219,SABIC,chemicals manufacturing company,SA,SA,1,1976,1976,1,saudi-aramco,Saudi Aramco,1
+agoda,Agoda,Q395182,Agoda,online travel agency,SG,SG,1,2005,1998,0,booking-holdings,Booking Holdings,1
+airbnb,Airbnb,Q63327,Airbnb,American online platform for rental accommodations,US,US,1,2008,2008,1,,,
+booking-com,Booking.com,Q4035313,booking.com,website and mobile apps for booking accommodation,NL,GB|NL,1,1996,1996,1,booking-holdings,Booking Holdings|Booking Holdings,1
+booking-holdings,Booking Holdings,Q18674747,Booking Holdings,Online travel & related services company,US,US,1,1997,1997,1,,The Vanguard Group|BlackRock,missing
+expedia,Expedia,Q8085893,Expedia Group,American-based parent company to several global online travel brands,US,US,1,1996,1996,1,,public company,missing
+hanatour,Hanatour,Q624874,HANATOUR,,KR,KR,1,1993,,,,,
+hotels-com,Hotels.com,Q3068067,Hotels.com,website for booking hotel rooms online and by telephone,US,US,1,1991,1991,1,expedia,Expedia Group|Expedia Group,1
+interpark-triple,Interpark Triple,,,,KR,,,,,,yanolja,,
+kayak,KAYAK,Q6380402,kayak.com,fare aggregator and travel metasearch engine,US,US,1,2004,2004,1,booking-holdings,Booking Holdings,1
+kkday,KKday,Q28412951,KKday,Taiwanese online travel agency,TW,TW,1,2014,,,,,
+klook,Klook,Q126888337,Klook,travel company based in Hong Kong,HK,CN,0,2014,,,,,
+modetour,Modetour,,,,KR,,,1989,,,,,
+myrealtrip,MyRealTrip,,,,KR,,,2012,,,,,
+skyscanner,Skyscanner,Q1319169,Skyscanner,online travel company,GB,GB,1,2003,2001,1,trip-com,Trip.com Group,1
+trip-com,Trip.com,Q5191790,Trip.com Group,Chinese provider of travel services,CN,CN,1,1999,1999,1,,,
+tripadvisor,Tripadvisor,Q1770710,Tripadvisor,American travel website company,US,US,1,2000,2000,1,,Liberty Media,missing
+trivago,trivago,Q265286,Trivago,German accommodation metasearch platform,DE,DE,1,2005,2005,1,expedia,Expedia Group|Expedia Group,1
+verygoodtour,Very Good Tour,,,,KR,,,,,,,,
+vrbo,Vrbo,,,,US,,,1995,,,expedia,,
+yanolja,Yanolja,,,,KR,,,2005,,,,,
+ybtour,Yellow Balloon Tour,,,,KR,,,2001,,,,,
+yeogi-eottae,Yeogi Eottae,,,,KR,,,2014,,,,,
+caribbean-bay,Caribbean Bay,,,,KR,,,1996,,,everland,,
+carnival-cruise,Carnival Cruise Line,Q1044059,Carnival Corporation,global cruise company,US,GB|US,1,1972,1972,1,,,
+disney-parks,Disneyland,Q3030499,"Disneyland, Inc.",company that own and manage California's Disneyland complex,US,US,1,1955,1955,1,disney,Disney Experiences|The Walt Disney Company,1
+everland,Everland,Q139354397,Everland,public company from Thailand,KR,TH,0,1976,1988,0,samsung-group,,
+legoland,Legoland,Q253302,Legoland,global theme park chain based on the LEGO brand of toys,GB,,,1968,1968,1,,Merlin Entertainments,missing
+lotte-world,Lotte World,,,,KR,,,1989,,,lotte-group,,
+msc-cruises,MSC Cruises,Q663626,MSC Cruises,cruise line,CH,IT|CH,1,1988,1970,0,,Mediterranean Shipping Company,missing
+norwegian-cruise-line,Norwegian Cruise Line,Q130309,Norwegian Cruise Line,American company operating cruise ships,US,US,1,1966,1966,1,,Norwegian Cruise Line Holdings Ltd.,missing
+princess-cruises,Princess Cruises,Q745700,Princess Cruises,cruise line,US,US,1,1965,1965,1,carnival-cruise,Carnival Corporation,1
+royal-caribbean,Royal Caribbean,Q427881,Royal Caribbean Group,cruise holding company,US,US,1,1968,1997,0,,,
+seaworld,SeaWorld,Q540102,SeaWorld,"United States chain of marine mammal parks, oceanariums, and animal theme parks",US,US,1,1964,1964,1,,United Parks & Resorts|United Parks & Resorts,missing
+seoul-land,Seoul Land,,,,KR,,,1988,,,,,
+six-flags,Six Flags,Q127324768,Six Flags,"American amusement park company, formed by the merger of Cedar Fair and Six Flags",US,US,1,1961,2024,0,,BlackRock|The Vanguard Group,missing
+tokyo-disney-resort,Tokyo Disney Resort,Q109362198,Tokyo Disney Resort Toy Story Hotel,"hotel at Tokyo Disney Resort, Japan",JP,JP,1,1983,,,,,
+universal-studios,Universal Studios,Q168383,Universal Pictures,American film and distribution company,US,US,1,1964,1912,0,nbcuniversal,NBCUniversal|Comcast,1
+virgin-voyages,Virgin Voyages,Q20539284,Virgin Voyages,cruise line based in Florida,GB,US,0,2014,2014,1,virgin-group,Virgin Group|Bain Capital,1
+air-busan,Air Busan,Q406932,Air Busan,South Korean low-cost airline based in Busan,KR,KR,1,2007,2007,1,korean-air,Asiana Airlines,0
+air-france,Air France,Q131005,Air France,flag-carrier and largest airline in France,FR,FR,1,1933,1933,1,,Air France-KLM,missing
+air-india,Air India,Q69906,Air India,flag-carrier airline of India,IN,IN,1,1932,1932,1,tata-group,타타 그룹|Air India Limited,0
+air-premia,Air Premia,Q106504531,Air Premia,airline in South Korea,KR,KR,1,2017,2017,1,,,
+air-seoul,Air Seoul,Q24867828,Air Seoul,South Korean low-cost airline based in Seoul,KR,KR,1,2015,2014,1,korean-air,Asiana Airlines,0
+airasia,AirAsia,Q406643,AirAsia,Malaysian low-cost airline,MY,MY,1,2001,1993,0,,Tune Group|Tune Group,missing
+american-airlines,American Airlines,Q32396,American Airlines,major airline of the United States,US,US,1,1926,1926,1,,American Airlines Group|AMR Corporation|American Airlines Group,missing
+ana,All Nippon Airways,Q204284,All Nippon Airways,Japanese airline,JP,JP,1,1952,1952,1,,ANA Holdings,missing
+asiana-airlines,Asiana Airlines,Q211165,Asiana Airlines,airline in South Korea,KR,KR,1,1988,1988,1,korean-air,대한항공|KUMHO,1
+british-airways,British Airways,Q8766,British Airways,flag carrier airline of the United Kingdom,GB,GB,1,1974,1919,0,,International Airlines Group|International Airlines Group,missing
+cathay-pacific,Cathay Pacific,Q32141,Cathay Pacific,flag carrier of Hong Kong,HK,CN,0,1946,1946,1,swire-group,Swire Group,1
+delta-air-lines,Delta Air Lines,Q188920,Delta Air Lines,airline in the United States (1929–present),US,US,1,1925,1925,1,,,
+eastar-jet,Eastar Jet,Q489392,Eastar Jet,low-cost airline of South Korea,KR,KR,1,2007,2007,1,,Eastar Jet Group,missing
+easyjet,easyJet,Q191551,easyJet,British low-cost airline,GB,GB,1,1995,1995,1,,,
+emirates,Emirates,Q180432,Emirates,flag carrier airline of the United Arab Emirates,AE,AE,1,1985,1985,1,,Emirate of Dubai,missing
+etihad-airways,Etihad Airways,Q212304,Etihad Airways,flag-carrier airline of the United Arab Emirates,AE,AE,1,2003,2003,1,,ADQ,missing
+eva-air,EVA Air,Q715113,EVA Air,Taiwanese international airline,TW,TW,1,1989,1989,1,,Evergreen Group|Evergreen Group,missing
+finnair,Finnair,Q201821,Finnair,flag-carrier and largest airline of Finland,FI,FI,1,1923,1923,1,,,
+jal,Japan Airlines,Q213140,Japan Airlines,flag-carrier airline of Japan,JP,JP,1,1951,1951,1,,,
+jeju-air,Jeju Air,Q482642,Jeju Air,South Korean low-cost airline,KR,KR,1,2005,2005,1,aekyung-group,,
+jin-air,Jin Air,Q484872,Jin Air,budget flight operator under the family-controlled conglomerate Hanjin Group,KR,KR,1,2008,2008,1,korean-air,Hanjin KAL,0
+klm,KLM Royal Dutch Airlines,Q181912,KLM,flag carrier airline of the Netherlands,NL,NL,1,1919,1919,1,,Air France-KLM|Air France-KLM,missing
+korean-air,Korean Air,Q213147,대한항공,flag-carrier airline of South Korea,KR,KR,1,1969,1969,1,hanjin-group,Hanjin|Hanjin KAL,0
+lufthansa,Lufthansa,Q9325,Lufthansa,Flag-carrier and largest airline of Germany,DE,DE,1,1953,1926,0,,Lufthansa Group,missing
+peach-aviation,Peach Aviation,Q1376634,Peach,Japanese Airline,JP,JP,1,2011,2011,1,,ANA Holdings,missing
+qantas,Qantas,Q32491,Qantas Airways,the flag carrier airline of Australia,AU,AU,1,1920,1920,1,,,
+qatar-airways,Qatar Airways,Q208033,Qatar Airways,state-owned flag-carrier airline of Qatar,QA,QA,1,1993,1993,1,,Qatar,missing
+ryanair,Ryanair,Q170614,Ryanair,low-cost airline of Ireland,IE,IE,1,1984,1985,1,,,
+singapore-airlines,Singapore Airlines,Q32245,Singapore Airlines,the flag carrier airline of Singapore,SG,SG,1,1947,1964,0,,Temasek Holdings|Temasek Holdings,missing
+southwest-airlines,Southwest Airlines,Q503308,Southwest Airlines,airline of the United States,US,US,1,1967,1967,1,,,
+turkish-airlines,Turkish Airlines,Q4548,Turkish Airlines,national flag-carrier airline of Turkey,TR,TR,1,1933,1933,1,,Türkiye Wealth Fund,missing
+tway-air,T'way Air,Q494775,Trinity Airways,airline in South Korea,KR,KR,1,2010,2004,0,sono-group,T'way Holdings,0
+united-airlines,United Airlines,Q174769,United Airlines,American airline,US,US,1,1926,1926,1,,United Airlines Holdings|UAL Corporation|United Airlines Holdings,missing
+vietjet,VietJet Air,Q853878,VietJet Air,low-cost airline from Vietnam,VN,VN,1,2007,2012,0,,Sovico Group,missing
+vietnam-airlines,Vietnam Airlines,Q174386,Vietnam Airlines,flag-carrier airline of Vietnam,VN,VN,1,1956,1956,1,,,
+virgin-atlantic,Virgin Atlantic,Q32277,Virgin Atlantic,British airline,GB,GB,1,1984,1984,1,virgin-group,Virgin Group|Virgin Group,1
+accor,Accor,Q212599,Accor,French hotel group,FR,FR,1,1967,1967,1,,Parvus Asset Management Europe Limited|Kingdom Holding Company|Qatar Investment Authority|BlackRock,missing
+ace-hotel,Ace Hotel,Q100253504,Ace Hotel Kyoto,hotel in Japan,US,JP,0,1999,,,,,
+aman,Aman,,,,CH,,,1988,,,,,
+andaz,Andaz,Q48836304,Andaz,lifestyle luxury hotel brand owned by Hyatt,US,,,2007,2007,1,hyatt,Hyatt Hotels Corporation,1
+banyan-tree,Banyan Tree,Q807019,Banyan Tree Holdings,company,SG,SG,1,1994,2000,0,,,
+citizenm,citizenM,Q5122531,citizenM,Netherlands-based hotel chain,NL,NL,1,2008,2005,0,marriott,Marriott International,1
+club-med,Club Med,Q1076645,Club Med,French company,FR,FR,1,1950,1950,1,fosun-group,Fosun International Limited|Fosun International Limited,1
+conrad,Conrad Hotels & Resorts,Q855525,Conrad Hotels & Resorts,hotel brand by Hilton Worldwide,US,,,1982,1985,0,hilton,Hilton Worldwide,1
+fairmont,Fairmont Hotels & Resorts,Q1393345,Fairmont Hotels & Resorts,hotel chain,CA,US,0,1907,1907,1,accor,Accor|Accor,1
+four-seasons,Four Seasons Hotels and Resorts,Q1424786,Four Seasons Hotels and Resorts,Canadian luxury hotel and resort company,CA,CA,1,1960,1960,1,,Cascade Investment|Kingdom Holding Company|Isadore Sharp,missing
+glad-hotels,GLAD Hotels,,,,KR,,,2014,,,dl-group,,
+hanwha-resorts,Hanwha Hotels & Resorts,,,,KR,,,,,,hanwha-group,,
+hilton,Hilton,Q1057464,Hilton Worldwide,American multinational hospitality company,US,US,1,1919,1919,1,,BlackRock,missing
+holiday-inn,Holiday Inn,Q2717882,Holiday Inn,upper-midscale hotel chain run by IHG,US,US,1,1952,1952,1,ihg,IHG Hotels & Resorts,1
+hoshino-resorts,Hoshino Resorts,Q11513060,Hoshino Resorts,Japan-based international operator of Ryokan,JP,JP,1,1914,1904,0,,Hoshino Resort Holdings|Hoshino Resort Holdings,missing
+hotel-shilla,The Shilla,Q111416194,The Shilla Jeju,"hotel in Seogwipo, South Korea",KR,KR,1,1973,,,samsung-group,,
+hyatt,Hyatt Hotels,Q1425063,Hyatt Hotels Corporation,American multinational hospitality company,US,US,1,1957,1957,1,,,
+ibis,ibis,Q920166,ibis Hotels,hotel chain operated by Accor,FR,FR,1,1974,1974,1,accor,Accor|Accor,1
+ihg,IHG Hotels & Resorts,Q1424962,IHG Hotels & Resorts,British multinational hospitality company,GB,GB,1,2003,2003,1,,,
+intercontinental,InterContinental Hotels & Resorts,Q1825730,InterContinental,brand of luxury hotels,GB,,,1946,1946,1,ihg,IHG Hotels & Resorts,1
+josun-hotels,Josun Hotels & Resorts,Q567458,Josun Hotels & Resorts,,KR,KR,1,1914,1914,1,shinsegae-group,,
+jw-marriott,JW Marriott,Q1067636,JW Marriott Hotels,mid-level luxury hotel brand,US,US,1,1984,1984,1,marriott,Marriott International,1
+kensington-hotels,Kensington Hotels & Resorts,,,,KR,,,,,,eland-group,,
+lotte-hotel,Lotte Hotels & Resorts,Q326720,Lotte Hotels & Resorts,hotel company,KR,KR,1,1973,1973,1,lotte-group,,
+mandarin-oriental,Mandarin Oriental,Q1064758,Mandarin Oriental,five-star hotel in Hong Kong,HK,HK,1,1963,1963,1,jardine-matheson,Mandarin Oriental Hotel Group,0
+marina-bay-sands,Marina Bay Sands,Q548679,Marina Bay Sands,integrated resort in Singapore,SG,SG,1,2010,2010,1,,Las Vegas Sands,missing
+marriott,Marriott International,Q1141173,Marriott International,"international hospitality company in Bethesda, Maryland, United States",US,US,1,1927,1993,0,,,
+novotel,Novotel,Q420545,Novotel,international hotel brand,FR,FR,1,1967,1967,1,accor,Accor,1
+paradise-hotels,Paradise Hotels & Resorts,,,,KR,,,1972,,,paradise-group,,
+park-hyatt,Park Hyatt,Q3145620,Park Hyatt Paris-Vendôme,"luxury hotel in Paris, Île-de-France, France",US,FR,0,1980,,,hyatt,Pritzker family,0
+peninsula-hotels,The Peninsula Hotels,Q1761140,The Peninsula Hotels,hotel chain,HK,,,1928,1928,1,,Hongkong and Shanghai Hotels,missing
+raffles,Raffles Hotels & Resorts,Q4306661,Raffles Hotels & Resorts,luxury hotel chain,SG,FR|SG,1,1887,1989,0,accor,Accor,1
+ritz-carlton,The Ritz-Carlton,Q782200,Ritz-Carlton,American luxury hotel company,US,,,1983,1983,1,marriott,Marriott International|Marriott International,1
+rosewood,Rosewood Hotels & Resorts,Q7368777,Rosewood Hotels & Resorts,hotel chain,HK,,,1979,1979,1,,Rosewood Hotel Group,missing
+shangri-la,Shangri-La Hotels and Resorts,Q837244,Shangri-La Hotels and Resorts,hotel chain,HK,CN|BM,0,1971,1971,1,,,
+shilla-stay,Shilla Stay,Q111406422,Shilla Stay Dongtan,"hotel in Hwaseong-si, South Korea",KR,KR,1,2013,,,hotel-shilla,,
+signiel,SIGNIEL,Q135437144,Signiel,Hotel chain owned by Lotte Hotels & Resorts,KR,,,2017,,,lotte-hotel,Lotte Hotels & Resorts,1
+six-senses,Six Senses,Q108049683,Six Senses Hotels Resorts Spas,hotel chain,TH,TH,1,1995,1995,1,ihg,IHG Hotels & Resorts|IHG Hotels & Resorts,1
+sofitel,Sofitel,Q749431,Sofitel,international luxury hotel chain,FR,FR,1,1964,1964,1,accor,Accor,1
+sono-hotels,Sono Hotels & Resorts,,,,KR,,,1979,,,sono-group,,
+taj-hotels,Taj Hotels,Q1521893,Taj Hotels Resorts and Palaces,hotel company,IN,FR,0,1903,1903,1,tata-group,Indian Hotels Company Limited,0
+toyoko-inn,Toyoko Inn,Q1320541,Toyoko Inn,Japanese hotel chain,JP,JP,1,1986,1986,1,,,
+w-hotels,W Hotels,Q7958488,W Hotels,hotel chain,US,,,1998,1998,1,marriott,Marriott International|Marriott International,1
+waldorf-astoria,Waldorf Astoria,Q1123997,"Waldorf-Astoria Hotel (New York, N.Y.)","hotel in New York, United States",US,US,1,1893,1893,1,hilton,Anbang Insurance Group,0
+walkerhill,Walkerhill,Q53978990,Walkerhill Hotels & Resorts,South Korean hotel company,KR,KR,1,1963,1963,1,sk-group,,
+westin,Westin Hotels & Resorts,Q1969162,Westin Hotels & Resorts,American international hotel chain,US,,,1930,1930,1,marriott,UAL Corporation|Aoki Corporation|Starwood Capital Group|Marriott International,1
+cj-foodville,CJ Foodville,Q12580821,CJ Foodville,South Korean food company,KR,KR,1,2000,2000,1,cj-group,CJ Corporation,0
+din-tai-fung,Din Tai Fung,Q699142,Din Tai Fung,Taiwanese multinational restaurant chain,TW,JP|TW|US|CN|AU|SG|KR|TH|AE,1,1958,1991,0,,,
+ichiran,Ichiran,Q11266830,Ichiran,Japanese ramen food-service business,JP,JP,1,1960,1960,1,,,
+outback,Outback Steakhouse,Q4928282,Bloomin' Brands,restaurant holding company that owns several American casual dining restaurant chains,US,US,1,1988,1987,1,,,
+theborn-korea,The Born Korea,Q130223345,Theborn Korea,South Korean company,KR,KR,1,1994,,,,,
+vips,VIPS,Q12599540,VIPS,Korean restaurant chain,KR,KR|CN,1,1997,1997,1,cj-foodville,,
+bbq,Genesis BBQ,Q12616311,Genesis BBQ,,KR,KR,1,1995,,,,,
+bhc,bhc Chicken,,,,KR,,,2004,,,,,
+bonjuk,Bonjuk,Q131375113,BonJuk,Korean porridge brand,KR,KR,1,2002,,,,,
+dominos,Domino's,Q839466,Domino's Pizza,American pizza restaurant chain,US,US,1,1960,1960,1,,Bain Capital,missing
+goobne,Goobne Chicken,,,,KR,,,2005,,,,,
+kyochon,Kyochon Chicken,,,,KR,,,1991,,,,,
+papa-johns,Papa John's,Q2759586,Papa John's,pizza restaurant chain,US,US,1,1984,1984,1,,,
+pizza-hut,Pizza Hut,Q191615,Pizza Hut,American restaurant chain and international franchise,US,,,1958,2002,0,yum-brands,Yum! Brands,1
+baskin-robbins,Baskin-Robbins,Q584601,Baskin-Robbins,American multinational ice cream parlor chain,US,US,1,1945,1945,1,inspire-brands,Inspire Brands|Inspire Brands,1
+dunkin,Dunkin',Q847743,Dunkin',American global donut company and coffeehouse,US,US,1,1950,1950,1,inspire-brands,Dunkin' Brands|Inspire Brands,1
+knotted,Knotted,Q141451541,Knotted,South Korean cafe chain,KR,,,2017,2017,1,,,
+krispy-kreme,Krispy Kreme,Q1192805,Krispy Kreme,American global doughnut company and coffeehouse chain,US,US,1,1937,1937,1,,JAB Holding Company,missing
+london-bagel-museum,London Bagel Museum,,,,KR,,,2021,,,,,
+paris-baguette,Paris Baguette,Q62605260,Paris Baguette,multinational bakery chain,KR,,,1988,,,spc-group,Paris Croissant,0
+spc-group,SPC Group,Q7392484,SPC Group,South Korean conglomerate,KR,,,1945,1945,1,,,
+sulbing,Sulbing,Q18156373,Sulbing,South Korean dessert cafe chain,KR,,,2013,2013,1,,,
+sungsimdang,Sungsimdang,Q22974149,Sungsimdang,"Bakery in Daejeon, South Korea",KR,KR,1,1956,1956,1,,,
+tous-les-jours,Tous les Jours,Q3535609,Tous les Jours,South Korean bakery chain,KR,KR,1,1997,1997,1,cj-foodville,CJ Group,1
+arabica,% Arabica,,,,JP,,,2013,,,,,
+blue-bottle,Blue Bottle Coffee,Q4928917,Blue Bottle Coffee Company,"coffee roaster and retailer headquartered in Oakland, California",US,US,1,2002,2002,1,nestle,Centurium Capital,0
+chagee,Chagee,Q125052867,Chagee,"beverage shop chain based in Chengdu, Sichuan, China",CN,CN,1,2017,,,,,
+coffee-bean,The Coffee Bean & Tea Leaf,Q1141384,The Coffee Bean & Tea Leaf,American coffee shop chain,US,,,1963,1963,1,jollibee,,
+compose-coffee,Compose Coffee,Q120997937,Compose Coffee,Korean coffeehouse chain,KR,KR,1,2014,2014,1,jollibee,,
+costa-coffee,Costa Coffee,Q608845,Costa Coffee,British multinational coffeehouse company,GB,GB,1,1971,1971,1,,The Coca-Cola Company|Whitbread,missing
+ediya,Ediya Coffee,Q12611298,Ediya Coffee,South Korean coffeehouse chain,KR,KR,1,2001,2001,1,,,
+fritz-coffee,Fritz Coffee Company,,,,KR,,,2014,,,,,
+gong-cha,Gong cha,Q5581670,Gong Cha,Taiwan bubble tea chain,TW,TW,1,2006,2006,1,,,
+heytea,HeyTea,Q60875376,Hey Tea,Chinese tea drink chain,CN,,,2012,,,,,
+hollys,Hollys Coffee,Q12624386,Hollys Coffee,South Korean coffee company,KR,,,1998,1998,1,,,
+luckin-coffee,Luckin Coffee,Q56811344,Luckin Coffee,Chinese coffee shop company,CN,CN,1,2017,2017,1,,,
+mega-coffee,Mega MGC Coffee,Q120998343,Mega MGC Coffee,Korean coffeehouse chain,KR,KR,1,2015,2010,0,,,
+mixue,Mixue,Q107406476,Mixue Ice Cream & Tea,"company based in Zhengzhou, Henan, China, running ice cream and beverage shops",CN,CN,1,1997,1997,1,,,
+paik-dabang,Paik's Coffee,Q55730575,Paik's Coffee,South Korean coffeehouse chain,KR,KR,1,2006,2006,1,theborn-korea,Theborn Korea,1
+paul-bassett,Paul Bassett,Q30674569,Paul Bassett,coffeehouse chain,KR,,,2009,,,,,
+starbucks,Starbucks,Q37158,Starbucks,American multinational coffee company,US,US,1,1971,1971,1,,,
+terarosa,Terarosa,,,,KR,,,2002,,,,,
+tim-hortons,Tim Hortons,Q175106,Tim Hortons,Canadian multinational quick-service restaurant chain,CA,CA,1,1964,1964,1,rbi,Restaurant Brands International|Restaurant Brands International,1
+twosome-place,A Twosome Place,Q12621301,A Twosome Place,South Korean coffeehouse chain,KR,,,2002,2002,1,,,
+burger-king,Burger King,Q177054,Burger King,"global chain of hamburger fast food restaurants headquartered in Florida, United States",US,US,1,1954,1954,1,rbi,Restaurant Brands International|QSRP|Groupe Bertrand,1
+chick-fil-a,Chick-fil-A,Q491516,Chick-fil-A,American fast food restaurant chain,US,US,1,1946,1946,1,,,
+chipotle,Chipotle Mexican Grill,Q465751,Chipotle Mexican Grill,American fast casual Mexican restaurant chain,US,US,1,1993,1993,1,,,
+five-guys,Five Guys,Q1131810,Five Guys,"burger and fries chain, based in the United States",US,US,1,1986,1986,1,,,
+in-n-out,In-N-Out Burger,Q1205312,In-N-Out Burger,American chain of fast food restaurants,US,US,1,1948,1948,1,,,
+inspire-brands,Inspire Brands,Q55074808,Inspire Brands,restaurant holding company,US,,,2018,2018,1,,,
+jollibee,Jollibee Foods,Q45208078,Jollibee Group,Filipino multinational company,PH,,,1978,1978,1,,,
+kfc,KFC,Q524757,KFC,American fast food restaurant chain specializing in fried chicken,US,US,1,1952,1930,0,yum-brands,Yum! Brands,1
+lotteria,Lotteria,Q249525,Lotteria,chain of fast-food restaurants,KR,KR|JP,1,1979,1972,0,lotte-group,Lotte Corporation|Lotte Holdings,0
+mcdonalds,McDonald's,Q38076,McDonald's,American fast food restaurant chain,US,US,1,1940,1940,1,,BlackRock|State Street Corporation|The Vanguard Group,missing
+moms-touch,Mom's Touch,Q23044856,Mom's Touch,fast food chain,KR,,,1997,1997,1,,,
+popeyes,Popeyes,Q1330910,Popeyes,American multinational chain of fried chicken fast food restaurants,US,US,1,1972,1972,1,rbi,Restaurant Brands International,1
+rbi,Restaurant Brands International,Q18619470,Restaurant Brands International,Canadian–American multinational fast food holding corporation,CA,CA,1,2014,2014,1,,3G Capital|Pershing Square Capital Management,missing
+shake-shack,Shake Shack,Q1058722,Shake Shack,fast casual burger restaurant,US,US,1,2004,2004,1,,,
+subway,Subway,Q244457,Subway,American sandwich restaurant chain,US,US,1,1965,1965,1,,,
+taco-bell,Taco Bell,Q668737,Yum! Brands,American fast food company,US,US,1,1962,1997,0,yum-brands,The Vanguard Group|BlackRock|Corvex Management,0
+wendys,Wendy's,Q550258,Wendy's,American international fast food chain restaurant,US,US,1,1969,1969,1,,,
+wingstop,Wingstop,Q8025339,Wingstop,American fast food chain,US,US,1,1994,1994,1,,,
+yum-brands,Yum! Brands,Q668737,Yum! Brands,American fast food company,US,US,1,1997,1997,1,,The Vanguard Group|BlackRock|Corvex Management,missing
+daiso,Daiso,Q866991,Daiso,Japanese multinational variety store chain,KR,JP,0,1992,1977,0,,,
+home-depot,The Home Depot,Q864407,The Home Depot,American multinational home improvement supplies retailing company,US,US,1,1978,1978,1,,The Vanguard Group|BlackRock,missing
+muji,MUJI,Q116104243,MUJI,Brands operated by Ryohin Keikaku,JP,JP,1,1980,1980,1,,Ryohin Keikaku,missing
+ohouse,Ohouse,,,,KR,,,2014,,,,,
+aldi,Aldi,Q125054,Aldi,brand name of two global discount supermarket chains,DE,US|DE|NL|BE,1,1946,1946,1,,Karl Hans Albrecht|Karl Albrecht Jr.|Theo Albrecht,missing
+carrefour,Carrefour,Q217599,Carrefour,French hypermarket brand of the Carrefour Group,FR,FR|BE,1,1959,1959,1,,Carrefour Group|Carrefour Group,missing
+costco,Costco,Q715583,Costco,American multinational chain of membership-only stores,US,US,1,1983,1983,1,,The Vanguard Group|BlackRock,missing
+don-quijote,Don Quijote,Q1185381,Don Quijote,Japanese discount chain store,JP,JP,1,1980,1980,1,,Pan Pacific International Holdings Corporation,missing
+emart,Emart,Q490371,emart,company,KR,KR,1,1993,1993,1,shinsegae-group,Shinsegae,0
+emart-traders,Emart Traders,,,,KR,,,2010,,,emart,,
+homeplus,Homeplus,Q5889167,Homeplus,Korean discount store retail chain,KR,KR,1,1997,1999,1,,,
+lotte-mart,Lotte Mart,Q765895,Lotte Himart,company,KR,KR,1,1998,1993,0,lotte-group,Lotte Shopping,0
+target,Target,Q1046951,Target Corporation,American retailer and supermarket chain,US,US,1,1962,1902,0,,,
+tesco,Tesco,Q487494,Tesco,British multinational retailer,GB,GB,1,1919,1919,1,,Norges Bank|Deutsche Bank|BlackRock|Schroders,missing
+walmart,Walmart,Q483551,월마트,U.S. discount retailer based in Arkansas,US,US,1,1962,1962,1,,Walton Enterprises|State Street Corporation|The Vanguard Group|BlackRock,missing
+whole-foods,Whole Foods Market,Q1809448,Whole Foods Market,American supermarket chain specializing in natural and organic foods,US,US,1,1980,1980,1,amazon,Amazon|Amazon,1
+29cm,29CM,,,,KR,,,2011,,,musinsa,,
+farfetch,Farfetch,Q18712957,Farfetch,online luxury fashion marketplace,GB,GB|PT,1,2007,2007,1,coupang,Coupang,1
+kream,KREAM,Q141227308,,South Korean limited-edition resale platform,KR,KR,1,2020,2021,1,naver,스노우,0
+musinsa,Musinsa,,,,KR,,,2001,,,,,
+mytheresa,Mytheresa,Q53108351,Mytheresa,"online retailer for luxury fashion based in Munich, Germany",DE,DE,1,1987,2006,0,,,
+ssense,SSENSE,Q48814393,SSENSE,"international fashion platform that sells products from a selection of independent, luxury and streetwear designers",CA,CA,1,2003,2003,1,,,
+w-concept,W Concept,Q131243515,,,KR,FR,0,2008,2024,0,ssg-com,,
+zigzag,Zigzag,,,,KR,,,2015,,,kakao,,
+galleria,Galleria Department Store,Q5518957,Galleria Department Store,South Korean department store franchise,KR,,,,,,hanwha-group,,
+harrods,Harrods,Q1748412,Harrods Buenos Aires,defunct department store in Argentina,GB,AR,0,1849,1914,0,,Harrods,missing
+hyundai-department-store,Hyundai Department Store,Q624388,Hyundai Department Store,company,KR,,,1971,1971,1,hyundai-department-store-group,,
+lotte-department-store,Lotte Department Store,Q489905,Lotte Department Store,South Korean department store chain,KR,KR,1,1979,1979,1,lotte-group,Lotte Shopping,0
+macys,Macy's,Q5479360,"Macy's, Inc.",American holding company,US,US,1,1858,1929,0,,Affiliated Managers Group|The Vanguard Group|American International Group|State Street Global Advisors|Vesa Equity Investment,missing
+shinsegae-department-store,Shinsegae Department Store,,,,KR,,,1930,,,shinsegae-group,,
+11st,11st,,,,KR,,,2008,,,,,
+alibaba,Alibaba Group,Q1359568,Alibaba Group,Chinese multinational technology company,CN,CN|GB|HK|SG,1,1999,1999,1,,Jack Ma|SoftBank Group|Altaba|Joseph Tsai,missing
+aliexpress,AliExpress,Q29904317,AliExpress,Chinese online marketplace,CN,CN,1,2010,,,alibaba,Alibaba Group|Alibaba Group,1
+amazon,Amazon,Q3884,Amazon,American multinational technology company,US,US,1,1994,1994,1,,Jeff Bezos|The Vanguard Group|BlackRock,missing
+coupang,Coupang,Q12620655,Coupang,"eCommerce website and enterprise in Seoul, South Korea",KR,KR,1,2010,2010,1,,,
+ebay,eBay,Q58024,이베이,American multinational internet corporation that manages eBay.com,US,US,1,1995,1995,1,,Pierre Omidyar|The Vanguard Group|BlackRock,missing
+etsy,Etsy,Q1353939,엣시,American e-commerce company,US,US,1,2005,2005,1,,,
+gmarket,Gmarket,Q16172136,Qoo10.jp,Singaporean multinational e-commerce platform,KR,SG,0,2000,2010,0,,이베이,missing
+jd-com,JD.com,Q3598926,JD.com,Chinese e-commerce company,CN,CN,1,1998,2004,0,,,
+kurly,Kurly,Q97203011,Kurly,,KR,KR,1,2015,2015,1,,,
+rakuten,Rakuten,Q973054,"Rakuten Group, Inc.",Japanese e-commerce company,JP,JP,1,1997,1997,1,,The Master Trust Bank of Japan|Crimson Group|Hiroshi Mikitani|Japan Post Holdings|Custody Bank of Japan,missing
+shein,Shein,Q107377209,Shein,Chinese-Singaporean online fashion retailer,SG,CN|SG,1,2008,2008,1,,,
+shopee,Shopee,Q109676747,SPX Express,Logistics services owned by Singaporean ecommerce company Shopee,SG,,,2015,,,,,
+ssg-com,SSG.COM,,,,KR,,,2014,,,shinsegae-group,,
+taobao,Taobao,,,,CN,,,2003,,,alibaba,,
+temu,Temu,,,,CN,,,2022,,,,,
+cu,CU,,,,KR,,,1990,,,,,
+gs25,GS25,Q624041,GS25,South Korean convenience store chain,KR,KR,1,1990,1990,1,gs-group,GS Retail,0
+seven-eleven,7-Eleven,Q259340,7-Eleven,American convenience store chain,JP,US|JP|DK|KR|AU,1,1927,1927,1,,,
+anthropic,Anthropic,Q116758847,Anthropic,American artificial intelligence corporation,US,US,1,2021,2021,1,,,
+chatgpt,ChatGPT,,,,US,,,2022,,,openai,,
+claude,Claude,,,,US,,,2023,,,anthropic,,
+cohere,Cohere,Q110363143,Cohere,Canadian artificial intelligence company building foundational models,CA,CA,1,2019,2019,1,,,
+cursor,Cursor,,,,US,,,2022,,,,,
+deepseek,DeepSeek,Q131577453,DeepSeek,Chinese artificial intelligence company,CN,CN,1,2023,2023,1,,High-Flyer|High-Flyer,missing
+gemini,Gemini,,,,US,,,2023,,,google,,
+google-deepmind,Google DeepMind,Q15733006,Google DeepMind,artificial intelligence company owned by Google,GB,GB,1,2010,2010,1,google,Alphabet Inc.|Google|Google|Alphabet Inc.,1
+hugging-face,Hugging Face,Q108943604,Hugging Face,American company,US,US,1,2016,2016,1,,,
+midjourney,Midjourney,Q116956702,"Midjourney, Inc.",Artificial intelligence company in the United States,US,US,1,2021,,,,,
+mistral-ai,Mistral AI,Q119718658,Mistral AI,French AI company,FR,FR,1,2023,2023,1,,,
+openai,OpenAI,Q124605186,OpenAI,"artificial intelligence company, owner and operator of ChatGPT, ChatGPT Enterprise and OpenAI’s API tools",US,US,1,2015,2020,0,,OpenAI OpCo,missing
+perplexity,Perplexity,Q124333951,Perplexity AI,American conversational search engine company,US,US,1,2022,2022,1,,,
+scale-ai,Scale AI,Q112629176,Scale AI,American multinational data annotation company,US,US,1,2016,2016,1,,,
+upstage,Upstage,Q127983087,Upstage,South Korean artificial intelligence company,KR,KR,1,2020,2020,1,,,
+wrtn,wrtn,Q7955322,WRTN-LD,"low-power TV station in Alexandria–Nashville, Tennessee",KR,US,0,2021,2007,0,,,
+xai,xAI,Q120599684,SpaceXAI,American artificial intelligence and social media division of SpaceX,US,US,1,2023,2023,1,,SpaceX|Elon Musk|Kingdom Holding Company|SpaceX,missing
+bytedance,ByteDance,Q55606242,ByteDance,Chinese Internet and technology company,CN,CN,1,2012,2016,0,,Xiamen Xingchen Qidian Technology|Zhang Lidong,missing
+discord,Discord,Q30753174,,American software company that owns the software Discord,US,US,1,2015,2012,0,,,
+facebook,Facebook,Q380,Meta Platforms,American technology company,US,US,1,2004,2004,1,meta,Mark Zuckerberg|Dustin Moskovitz|Eduardo Saverin|Mark Zuckerberg|Dustin Moskovitz|Eduardo Saverin|BlackRock,0
+instagram,Instagram,,,,US,,,2010,,,meta,,
+kakao,Kakao,Q17684312,Kakao,South Korean internet company,KR,KR,1,2010,1995,0,,Kim Beom-soo,missing
+kakaotalk,KakaoTalk,,,,KR,,,2010,,,kakao,,
+line,LINE,,,,JP,,,2011,,,,,
+linkedin,LinkedIn,Q80056039,LinkedIn Ireland,Irish company,US,IE,0,2002,2009,0,microsoft,Microsoft,1
+meta,Meta Platforms,Q380,Meta Platforms,American technology company,US,US,1,2004,2004,1,,Mark Zuckerberg|Dustin Moskovitz|Eduardo Saverin|Mark Zuckerberg|Dustin Moskovitz|Eduardo Saverin|BlackRock,missing
+naver-band,BAND,,,,KR,,,2012,,,naver,,
+pinterest,Pinterest,Q96095585,Pinterest Inc.,American company,US,US,1,2010,,,,,
+reddit,Reddit,Q111759432,Reddit Inc.,American company that operates Reddit,US,US,1,2005,2005,1,,Condé Nast,missing
+snapchat,Snapchat,Q27022329,Snap Inc.,American multinational technology company,US,US,1,2011,2011,1,,,
+telegram,Telegram,Q32049814,Telegram FZ-LLC,non-profit organization; Telegram messaging service operator,AE,AE,1,2013,2013,1,,Pavel Durov,missing
+tiktok,TikTok,Q48938223,TikTok,video-focused social media platform,CN,CN,1,2016,2016,1,bytedance,,
+wechat,WeChat,,,,CN,,,2011,,,tencent,,
+weverse,Weverse,Q91219994,Weverse,South Korean mobile app and web platform,KR,KR,1,2019,2019,1,hybe,Weverse Company|Hybe,1
+whatsapp,WhatsApp,Q52410688,WhatsApp LLC,WhatsApp developers,US,US,1,2009,2009,1,meta,Meta Platforms|Meta Platforms,1
+x-twitter,X,,,,US,,,2006,,,,,
+zepeto,ZEPETO,,,,KR,,,2018,,,naver,,
+alphabet,Alphabet,Q20800404,Alphabet Inc.,American multinational technology conglomerate,US,US,1,2015,2015,1,,Fidelity Investments|BlackRock|The Vanguard Group|Government Pension Fund Global|Sergey Brin|Eric Schmidt|The Vanguard Group|The Vanguard Group|BlackRock|Fidelity Investments|Larry Page|The Vanguard Group|Sergey Brin|Larry Page|Sergey Brin|Larry Page|Eric Schmidt|Eric Schmidt,missing
+android,Android,Q79576,Google Play,digital software distribution platform from Google,US,US,1,2003,2008,0,google,Google,1
+baidu,Baidu,Q14772,Baidu,Chinese web services company,CN,CN,1,2000,2000,1,,,
+bing,Microsoft Bing,,,,US,,,2009,,,microsoft,,
+daum,Daum,Q3017025,Daum,"Crystal studio in Nancy, France",KR,FR,0,1995,1878,0,,,
+google,Google,Q95,Google,"American multinational technology company, a subsidiary of Alphabet Inc.",US,US,1,1998,1998,1,alphabet,Alphabet Inc.,1
+naver,NAVER,Q489247,Naver Corporation,South Korean company,KR,KR,1,1999,1999,1,,,
+yahoo,Yahoo,Q29231846,Yahoo Inc.,American internet company (2017–present),US,US,1,1994,2006,0,,Apollo Global Management|Apollo Global Management|Verizon,missing
+bandai-namco,Bandai Namco,Q1194689,Bandai Namco Entertainment,Japanese video game publisher,JP,JP,1,2005,2006,1,,Bandai Namco Holdings|Bandai Namco Holdings,missing
+blizzard,Blizzard Entertainment,Q178824,Blizzard Entertainment,American video game publisher and developer owned by Microsoft,US,US,1,1991,1991,1,microsoft,Activision Blizzard|Activision Blizzard,0
+capcom,Capcom,Q14428,Capcom,Japanese video game company,JP,JP,1,1979,1979,1,,,
+cd-projekt,CD Projekt,Q7098994,CD Projekt,Polish video game company,PL,PL,1,1994,1994,1,,,
+devsisters,Devsisters,Q20445830,Devsisters,South Korean video game developer,KR,KR,1,2007,2007,1,,,
+electronic-arts,Electronic Arts,Q173941,Electronic Arts,American video game company,US,US,1,1982,1982,1,,,
+epic-games,Epic Games,Q739711,에픽게임즈,American video game and software developer,US,US,1,1991,1991,1,,Tencent|Sony Group|Tim Sweeney|The Walt Disney Company,missing
+fromsoftware,FromSoftware,Q2414469,FromSoftware,Japanese video game developer,JP,JP,1,1986,1986,1,kadokawa,Kadokawa Corporation|Kadokawa Shoten|Sixjoy Hong Kong Limited|Sony Interactive Entertainment,1
+kakao-games,Kakao Games,Q47488519,Kakao Games,video game developer and publisher,KR,KR,1,2016,,,kakao,Kakao|Kakao,1
+konami,Konami,Q45700,Konami,Japanese entertainment and video game company,JP,JP,1,1969,1969,1,,,
+krafton,KRAFTON,Q4035237,Krafton,South Korean video game developer and publisher,KR,KR,1,2007,2007,1,,Tencent,missing
+mihoyo,miHoYo,Q28686397,miHoYo,Chinese video game developer,CN,CN,1,2012,2012,1,,,
+minecraft,Minecraft,,,,SE,,,2009,,,microsoft,,
+ncsoft,NCSOFT,Q483036,NC,South Korean video game development company,KR,KR,1,1997,1997,1,,,
+neowiz,NEOWIZ,Q795583,Neowiz,South Korean video game development company,KR,KR,1,1997,2002,0,,Neowiz,missing
+netease,NetEase,Q196259,NetEase,Chinese Internet technology company,CN,CN|KY,1,1997,1997,1,,,
+netmarble,Netmarble,Q625647,Netmarble,"developer, publisher, and sponsor of free online games",KR,KR,1,2000,2000,1,,CJ Group,missing
+nexon,NEXON,Q562078,Nexon,Japanese video game developer,KR,JP,0,1994,1994,1,,NXC|NXC,missing
+nintendo,Nintendo,Q8093,Nintendo,Japanese multinational video game and consumer electronics company,JP,JP,1,1889,1889,1,,Capital Group Companies|Bank of Kyoto|Public Investment Fund,missing
+pearl-abyss,Pearl Abyss,Q55735496,Pearl Abyss,South Korean video game developer and publisher,KR,KR,1,2010,2010,1,,,
+playstation,PlayStation,Q1323662,플레이스테이션,video gaming brand owned by Sony Interactive Entertainment,JP,JP,1,1994,,,sony,Sony Interactive Entertainment,1
+pubg,PUBG: Battlegrounds,,,,KR,,,2017,,,krafton,,
+riot-games,Riot Games,Q1060165,Riot Games,American video game developer,US,US,1,2006,2006,1,tencent,Tencent|Tencent,1
+roblox,Roblox,Q67186598,로블록스 코퍼레이션,American video game developer,US,US,1,2004,2004,1,,David Baszucki|Altos Ventures|David Baszucki,missing
+rockstar-games,Rockstar Games,,,,US,,,1998,,,take-two,,
+sega,SEGA,Q122741,세가,Japanese video game developer and publisher and subsidiary of Sega Sammy Holdings,JP,JP,1,1960,1960,1,,SEGA Group Corporation|Sega Sammy Holdings|Gulf and Western Industries|SCSK Corporation,missing
+shift-up,SHIFT UP,Q108537188,Shift Up,South Korean video game developer,KR,KR,1,2013,2013,1,,,
+smilegate,Smilegate,Q12603595,Smilegate,Korean video game developer,KR,KR,1,2002,2002,1,,,
+square-enix,Square Enix,Q207784,Square Enix,"Japanese video game developer, publisher, and distribution company",JP,JP,1,2003,1975,0,,Square Enix Holdings,missing
+steam,Steam,Q337535,Steam,video game store and digital distribution platform among other services,US,,,2003,,,valve,밸브 코퍼레이션,1
+supercell,Supercell,Q1438774,Supercell,Finnish video game company,FI,FI,1,2010,2009,1,tencent,Tencent|SoftBank Group|Tencent,1
+take-two,Take-Two Interactive,Q94933,Take-Two Interactive,"American publisher, developer and distributor of video games",US,US,1,1993,1993,1,,,
+tencent,Tencent,Q860580,Tencent,Chinese multinational investment holding conglomerate,CN,CN,1,1998,1998,1,,Ma Huateng|Myriad International Holdings|JPMorgan Chase|Naspers,missing
+ubisoft,Ubisoft,Q188273,유비소프트,French video game company,FR,FR,1,1986,1986,1,,Tencent|Guillemot family|Baillie Gifford,missing
+valve,Valve,Q193559,밸브 코퍼레이션,American video game development and digital distribution company,US,US,1,1996,1996,1,,,
+xbox,Xbox,Q73801,Xbox Game Studios,American video game company,US,US,1,2001,2000,1,microsoft,Microsoft|마이크로소프트 게이밍|Microsoft,1
+daangn,Daangn,Q109458271,Daangn market Inc.,,KR,KR,1,2015,,,,,
+soomgo,Soomgo,,,,KR,,,2015,,,,,
+zigbang,Zigbang,,,,KR,,,2010,,,,,
+chzzk,CHZZK,Q125118776,CHZZK,video streaming service,KR,KR,1,2023,2023,1,naver,Naver Corporation,1
+coupang-play,Coupang Play,Q116638614,Coupang Play,South Korean OTT Service,KR,KR,1,2020,2020,1,coupang,Coupang,1
+crunchyroll,Crunchyroll,Q682156,Crunchyroll SA,"Swiss anime and manga publisher and subsidiary of Crunchyroll, LLC",US,CH,0,2006,1995,0,sony,"Crunchyroll, LLC|Crunchyroll, LLC",0
+disney-plus,Disney+,Q54958752,Disney+,American video streaming service,US,US,1,2019,2019,1,disney,Disney Media and Entertainment Distribution|The Walt Disney Company,1
+genie-music,Genie Music,Q20943680,KT Genie Music,South Korean company,KR,KR,1,2012,1991,0,kt,KT Corporation,1
+hbo-max,HBO Max,Q65359104,HBO Max,Warner Bros. Discovery video-on-demand service,US,US,1,2020,2020,1,,Warner Bros. Discovery,missing
+kakao-page,KakaoPage,Q21463262,KakaoPage,South Korean content platform,KR,,,2013,2013,1,kakao-entertainment,Kakao Entertainment,1
+melon,Melon,Q12595115,Melon,South Korean online music service,KR,KR,1,2004,2004,1,kakao,Kakao M,1
+naver-webtoon,NAVER WEBTOON,Q24836950,Webtoon,Webtoon hosting service,KR,,,2004,,,naver,Webtoon|Naver Corporation,1
+netflix,Netflix,Q907311,Netflix,American subscription video on-demand over-the-top streaming service,US,US,1,1997,2007,0,,,
+prime-video,Prime Video,,,,US,,,2006,,,amazon,,
+ridi,RIDI,,,,KR,,,2008,,,,,
+soop,SOOP,Q604213,Nowcom,South Korean tech company,KR,,,2006,1994,0,,,
+spotify,Spotify,Q689141,Spotify,Swedish audio streaming service,SE,SE,1,2006,2006,1,,,
+tving,TVING,Q12621401,TVING,South Korean online streaming service,KR,KR,1,2010,,,cj-enm,CJ ENM,1
+twitch,Twitch,Q4555537,트위치,American live-streaming platform,US,US,1,2011,2011,1,amazon,Twitch Interactive|Amazon,1
+watcha,WATCHA,Q19349822,WATCHA,Mobile streaming service (OTT) in Korea,KR,,,2011,2011,1,,,
+wavve,wavve,Q65233413,WAVVE,South Korean streaming service,KR,KR,1,2019,2019,1,,SK Telecom|Korean Broadcasting System|Munhwa Broadcasting Corporation|Seoul Broadcasting System,missing
+youtube,YouTube,Q866,YouTube,American video-sharing platform owned by Alphabet Inc.,US,US,1,2005,2005,1,alphabet,Q112247183|Google,0
+naver-pay,Naver Pay,,,,KR,,,2015,,,naver,,
+toss,Toss,,,,KR,,,2013,,,,,
+alpine,Alpine,,,,FR,,,1955,,,renault-group,,
+aston-martin,Aston Martin,Q27074,Aston Martin Lagonda,British luxury sports car manufacturer,GB,GB,1,1913,,,,Investment Dar,missing
+bentley,Bentley Motors,Q27224,Bentley,British automotive brand manufacturer,GB,GB,1,1919,1919,1,volkswagen-group,Volkswagen Group|Volkswagen Group,1
+bugatti,Bugatti,Q2308012,부가티,French high-performance luxury automobile manufacturer,FR,FR,1,1909,2000,0,,Bugatti Rimac|Bugatti Rimac,missing
+ferrari,Ferrari,Q27586,Ferrari,Italian luxury sports car manufacturer,IT,IT,1,1947,1947,1,,Q22243729|Q22243729,missing
+koenigsegg,Koenigsegg,Q35594,Koenigsegg,Swedish manufacturer of high-performance sports cars,SE,SE,1,1994,1994,1,,Christian von Koenigsegg,missing
+lamborghini,Automobili Lamborghini,Q35886,Lamborghini,Italian car manufacturer,IT,IT,1,1963,1948,0,audi,Audi AG|Volkswagen Group,1
+lotus,Lotus Cars,Q35935,Lotus Cars,British manufacturer of sports and racing cars,GB,GB,1,1948,1952,0,geely-holding,Geely|Proton,1
+maserati,Maserati,Q35962,Maserati,Italian luxury car manufacturer,IT,IT,1,1914,1914,1,stellantis,Fiat Chrysler Automobiles|Fiat S.p.A.|Ferrari|Fiat S.p.A.|Stellantis|Fiat S.p.A.|Ferrari|Fiat S.p.A.|Fiat Chrysler Automobiles|Stellantis,1
+mclaren,McLaren Automotive,Q1351854,McLaren Automotive,British automotive manufacturer,GB,GB,1,1985,1985,1,,McLaren Technology Group|McLaren Technology Group,missing
+mercedes-amg,Mercedes-AMG,Q26966,Mercedes-AMG,subsidiary and sub-brand of Mercedes-Benz AG,DE,DE,1,1967,1812,0,mercedes-benz,Mercedes-Benz Group|Mercedes-Benz AG,1
+mercedes-maybach,Mercedes-Maybach,Q16218337,Mercedes-Maybach,"automobile subbrand of Mercedes-Benz Group AG, followed the ""Maybach"" brand in 2014",DE,DE,1,1909,2014,0,mercedes-benz,Mercedes-Benz AG|Mercedes-Benz Group,1
+pagani,Pagani,Q749239,Pagani Automobili,Italian car manufacturer,IT,IT,1,1992,1998,0,,,
+porsche,Porsche,Q40993,Porsche,"German automobile manufacturer specializing in high-performance sports cars, SUVs and sedans, owned by Volkswagen AG",DE,DE,1,1931,1931,1,volkswagen-group,Volkswagen Group|Volkswagen Group,1
+rolls-royce-motor-cars,Rolls-Royce Motor Cars,Q234803,Rolls-Royce Motor Cars,English car company (1998-present),GB,GB,1,1904,1998,0,bmw-group,BMW Group|BMW Group,1
+singer,Singer Vehicle Design,Q55633247,Singer Vehicle Design,American automotive company,US,US,1,2009,,,,,
+didi,DiDi,,,,CN,,,2012,,,,,
+grab,Grab,Q20873932,Grab,Southeast Asian technology company headquartered in Singapore,SG,SG,1,2012,2012,1,,,
+hertz,Hertz,Q1543874,The Hertz Corporation,American car rental company,US,US,1,1918,1918,1,,Hertz Global Holdings|Rental Car Intermediate Holdings,missing
+kakao-mobility,Kakao Mobility,,,,KR,,,2017,,,kakao,,
+lyft,Lyft,Q17077936,Lyft,American transportation network company,US,US,1,2012,2013,1,,,
+socar,SOCAR,Q1622293,State Oil Company of Azerbaijan Republic,"wholly state-owned national oil company headquartered in Baku, Azerbaijan",KR,AZ,0,2011,1992,0,,,
+tmap-mobility,TMAP Mobility,Q131604501,TMAP Mobility,,KR,,,2020,,,sk-group,,
+uber,Uber,Q780442,Uber,"peer-to-peer ridesharing, food delivery, and transportation network company headquartered in San Francisco, California",US,US|NL,1,2009,2009,1,,Morgan Stanley,missing
+waymo,Waymo,Q15330,구글 무인 자동차,autonomous car technology company,US,US,1,2009,2016,0,alphabet,Google|Alphabet Inc.|Waymo Holding,1
+daimler-truck,Daimler Truck,Q1157624,Daimler Truck,German commercial vehicle manufacturer,DE,DE,1,2019,2019,1,,Mercedes-Benz Group|Mercedes-Benz Group|Mercedes-Benz Group|State-owned Assets Supervision and Administration Commission of the People's Government of Beijing Municipality|Kuwait Investment Authority,missing
+isuzu,Isuzu Motors,Q29803,Isuzu,Japanese company manufacturing motor vehicles,JP,JP,1,1916,1934,0,,,
+man-truck-bus,MAN Truck & Bus,Q708667,MAN Truck & Bus,leading international provider of commercial vehicles,DE,DE,1,1758,1898,0,traton,MAN SE|Traton|Volkswagen Group|Traton,1
+scania,Scania,Q219960,Scania,Swedish truck and bus manufacturer,SE,SE,1,1891,1911,0,traton,Traton|Saab-Scania,1
+traton,TRATON,Q28228137,Traton,German commercial vehicle manufacturer,DE,DE,1,2015,,,volkswagen-group,Volkswagen Group,1
+volvo-group,AB Volvo,Q163810,AB Volvo,Swedish manufacturing company,SE,SE,1,1927,1927,1,,,
+acura,Acura,Q53097,Acura,car brand and luxury vehicle division of Japanese automaker Honda Motor Company,US,JP,0,1986,1986,1,honda,American Honda Motor Company|Honda,1
+alfa-romeo,Alfa Romeo,Q26921,Alfa Romeo,Italian automotive manufacturer,IT,IT,1,1910,1910,1,stellantis,Fiat Chrysler Automobiles|Fiat S.p.A.|Stellantis|Stellantis Europe|Q135987620,1
+audi,Audi,Q23317,Audi AG,German automotive manufacturing subsidiary of Volkswagen Group,DE,DE,1,1909,1909,1,volkswagen-group,Volkswagen Group|Volkswagen Group,1
+bmw,BMW,Q26678,BMW Group,"German automobile manufacturer, and conglomerate",DE,DE,1,1916,1916,1,bmw-group,Stefan Quandt|Susanne Klatten|BlackRock,0
+bmw-group,BMW Group,Q26678,BMW Group,"German automobile manufacturer, and conglomerate",DE,DE,1,1916,1916,1,,Stefan Quandt|Susanne Klatten|BlackRock,missing
+cadillac,Cadillac,Q27436,Cadillac,division of General Motors,US,US,1,1902,1902,1,general-motors,General Motors|General Motors,1
+chery,Chery,,,,CN,,,1997,,,,,
+chevrolet,Chevrolet,,,,US,,,1911,,,general-motors,,
+chrysler,Chrysler,Q1088671,Chrysler Europe,division of the Chrysler Corporation,US,FR,0,1925,1967,0,stellantis,Stellantis North America|Stellantis North America,1
+citroen,Citroën,Q6746,Citroën,French automotive manufacturer,FR,FR,1,1919,1919,1,stellantis,Stellantis|Stellantis,1
+cupra,CUPRA,Q8352675,Cupra,Spanish automobile manufacturer,ES,ES,1,2018,1996,0,volkswagen-group,Volkswagen Group|SEAT,1
+dodge,Dodge,Q27564,Dodge,US automotive company,US,US,1,1900,1900,1,stellantis,Stellantis North America|Stellantis North America,1
+fiat,Fiat,Q27597,Fiat,Italian automotive company,IT,IT,1,1899,1899,1,stellantis,Fiat Chrysler Automobiles|Fiat S.p.A.|Stellantis|Stellantis Europe|Q135987620,1
+ford,Ford Motor,Q44294,Ford Motor Company,American multinational automotive company,US,US,1,1903,1903,1,,,
+geely-holding,Zhejiang Geely Holding Group,Q739000,Geely,Chinese automotive manufacturing company,CN,CN,1,1986,1986,1,,Li Shufu,missing
+general-motors,General Motors,Q81965,General Motors,American multinational automotive company,US,US,1,1908,1908,1,,The Vanguard Group|BlackRock,missing
+genesis,Genesis,,,,KR,,,2015,,,hyundai-motor,,
+gm-korea,GM Korea,,,,KR,,,2002,,,general-motors,,
+gmc,GMC,,,,US,,,1911,,,general-motors,,
+honda,Honda Motor,Q9584,Honda,"manufacturer of automobiles, motorcycles, and power equipment",JP,JP,1,1948,1948,1,,Japan Trustee Services Bank|The Master Trust Bank of Japan|Chase Bank|Meiji Yasuda Life|Tokio Marine,missing
+hyundai-motor,Hyundai Motor,Q55931,Hyundai Motor Company,South Korean multinational automaker,KR,KR|DE,1,1967,1967,1,hyundai-motor-group,Hyundai|Hyundai Motor Group|Hyundai Mobis|Chung Mong-koo|National Pension Service|Chung Eui-sun,1
+infiniti,Infiniti,Q29714,Infiniti,Japanese luxury vehicle brand owned by Nissan,JP,JP,1,1989,1989,1,nissan,Nissan|Nissan,1
+jaguar,Jaguar,,,,GB,,,1922,,,jaguar-land-rover,,
+jaguar-land-rover,Jaguar Land Rover,Q6122893,Jaguar Land Rover,British multinational automotive company,GB,GB,1,2008,2013,0,,Q56303208|Tata Motors Ltd|Tata Motors Ltd,missing
+jeep,Jeep,Q30113,Jeep,US automotive company,US,US,1,1941,1941,1,stellantis,Stellantis North America|Stellantis North America,1
+kg-mobility,KG Mobility,Q221869,KG Mobility,South Korean automobile manufacturer,KR,KR,1,1954,1954,1,,KG Group,missing
+kia,Kia,Q35349,Kia,South Korean automobile manufacturer,KR,KR,1,1944,1944,1,hyundai-motor-group,Hyundai Motor Group|Hyundai Motor Company|National Pension Service|Chung Eui-sun,1
+land-rover,Land Rover,Q35907,Land Rover,former British car company,GB,GB,1,1948,1978,0,jaguar-land-rover,Ford Motor Company|Tata Motors Ltd|British Leyland|BMW Group|Rover Group,0
+lexus,Lexus,Q35919,Lexus,Japanese brand of luxury vehicle owned by Toyota Motor Corporation,JP,JP,1,1989,1989,1,toyota,Toyota,1
+lincoln,Lincoln,,,,US,,,1917,,,ford,,
+mazda,Mazda,Q35996,Mazda,Japanese multinational automaker,JP,JP,1,1920,1920,1,,Japan Trustee Services Bank|Toyota|The Master Trust Bank of Japan|Sumitomo Mitsui Banking Corporation,missing
+mercedes-benz,Mercedes-Benz,Q36008,Mercedes-Benz,German automobile brand owned by Mercedes-Benz AG,DE,DE,1,1926,1926,1,mercedes-benz-group,Mercedes-Benz Group|Mercedes-Benz Group,1
+mercedes-benz-group,Mercedes-Benz Group,Q27530,Mercedes-Benz Group,German automotive manufacturer,DE,DE,1,1926,1998,0,,Li Shufu|Kuwait Investment Authority|BlackRock|BAIC Group|Kuwait Investment Authority,missing
+mini,MINI,,,,GB,,,1959,,,bmw-group,,
+mitsubishi-motors,Mitsubishi Motors,Q36033,Mitsubishi Motors,Japanese automotive manufacturer,JP,JP,1,1970,1970,1,,Mitsubishi|Nissan|Mitsubishi Corporation|The Master Trust Bank of Japan|Mitsubishi Heavy Industries|MUFG Bank,missing
+nissan,Nissan Motor,Q20165,Nissan,Japanese automobile manufacturer,JP,JP,1,1933,1933,1,,Renault|Renault–Nissan–Mitsubishi Alliance|Renault|Mercedes-Benz Group,missing
+opel,Opel,Q40966,Opel,"German automobile manufacturer, subsidiary of Stellantis",DE,DE,1,1862,1862,1,stellantis,General Motors|Groupe PSA|Stellantis|Stellantis,1
+peugeot,Peugeot,Q6742,Peugeot,French automotive brand of Stellantis,FR,FR,1,1810,1810,1,stellantis,Stellantis,1
+ram,Ram Trucks,Q165708,Ram Trucks,American brand of light to mid-weight commercial vehicles,US,US|CA,1,2010,2010,1,stellantis,Stellantis,1
+renault,Renault,Q6686,Renault,automotive conglomerate,FR,FR,1,1899,2002,0,renault-group,Nissan|French State|Mercedes-Benz Group,0
+renault-group,Renault Group,Q98590326,Renault Group,Netherlandese holding company,FR,NL,0,1899,,,,Renault,missing
+renault-korea,Renault Korea,Q494168,Renault Korea Motors,South Korean car manufacturer,KR,KR,1,2000,1994,0,renault-group,Renault|Renault–Nissan–Mitsubishi Alliance|Renault|Samsung Card|Geely,0
+skoda,Škoda Auto,Q29637,Škoda Auto,automotive manufacturing subsidiary of Volkswagen Group,CZ,CZ,1,1895,1895,1,volkswagen-group,Volkswagen Group|Volkswagen Group|Volkswagen Finance Luxemburg|Škoda Works|Volkswagen Group|Volkswagen Group|Konsolidační banka Praha|Volkswagen Finance Luxemburg,1
+stellantis,Stellantis,Q97439162,Stellantis,Franco-Italian-American multinational automotive manufacturer,NL,NL,1,2021,2021,1,,Exor|Peugeot Invest|Bpifrance,missing
+subaru,Subaru,Q1051297,Subaru Corporation,Japanese multinational automotive company,JP,JP,1,1953,1953,1,,Toyota|Japan Transport Safety Board|Mizuho Bank|Sompo Japan Nipponkoa,missing
+suzuki,Suzuki Motor,Q181642,Suzuki Motor Corporation,Japanese multinational automotive corporation,JP,JP,1,1909,1909,1,,The Master Trust Bank of Japan|Toyota|Tokio Marine Nichido|MUFG Bank|Shizuoka Bank|JPMorgan Chase|The Bank of New York Mellon,missing
+tata-motors,Tata Motors,Q188514,Tata Motors Ltd,Indian multinational automotive manufacturing company,IN,IN,1,1945,1945,1,,,
+toyota,Toyota Motor,Q53268,Toyota,Japanese multinational automotive manufacturer,JP,JP,1,1937,1937,1,,Nippon Life Insurance Company,missing
+volkswagen,Volkswagen,Q156578,Volkswagen Group,German automotive manufacturing conglomerate,DE,DE,1,1937,1937,1,volkswagen-group,Porsche Automobil Holding SE|Porsche Automobil Holding SE|Qatar Investment Authority|Hannoversche Beteiligungsgesellschaft,0
+volkswagen-group,Volkswagen Group,Q156578,Volkswagen Group,German automotive manufacturing conglomerate,DE,DE,1,1937,1937,1,,Porsche Automobil Holding SE|Porsche Automobil Holding SE|Qatar Investment Authority|Hannoversche Beteiligungsgesellschaft,missing
+volvo-cars,Volvo Cars,Q215293,Volvo Cars,automotive brand manufacturing subsidiary of Geely,SE,SE,1,1927,1927,1,geely-holding,Geely|Geely|AMF,1
+ducati,Ducati,Q271812,Ducati,Italian company that designs and manufactures motorcycles,IT,IT,1,1926,1926,1,audi,Audi AG|Volkswagen Group,1
+harley-davidson,Harley-Davidson,Q192814,Harley-Davidson,American motorcycle manufacturer,US,US,1,1903,1903,1,,,
+ktm,KTM,Q215657,KTM,Austrian motorcycle and sports car brand,AT,AT,1,1934,1934,1,,,
+piaggio,Piaggio,Q841263,Piaggio,Italian motor vehicle manufacturer,IT,IT,1,1884,1884,1,,,
+triumph,Triumph Motorcycles,,,,GB,,,1902,,,,,
+vespa,Vespa,Q217673,Vespa,Italian scooter,IT,IT,1,1946,1946,1,piaggio,Piaggio|Piaggio,1
+yamaha-motor,Yamaha Motor,Q158888,Yamaha Motor Company,Japanese motorcycle manufacturer,JP,JP,1,1955,1955,1,,The Master Trust Bank of Japan|Custody Bank of Japan|Northern Trust|Yamaha|State Street Corporation,missing
+aisin,Aisin,Q409907,Aisin Seiki,Japanese manufacturer of systems and components for the automotive industry,JP,JP,1,1949,1949,1,,Toyota Group|Toyota,missing
+bosch,Robert Bosch,Q234021,Robert Bosch,German manufacturing company,DE,DE|NL,1,1886,1886,1,,Robert Bosch Stiftung|RB Familiengesellschaft bürgerlichen Rechts|Robert Bosch Industrietreuhand|Robert Bosch Familientreuhand,missing
+brembo,Brembo,Q907265,Brembo,Italian automotive brake systems manufacturer,IT,IT,1,1961,1961,1,,Alberto Bombassei,missing
+continental,Continental,Q163241,Continental AG,German automotive supplier and rubber processing company founded in Hanover in 1871,DE,DE,1,1871,1871,1,,IHO Verwaltungs GmbH|IHO Beteiligungs|BlackRock|Jakob Frank|Q136676155,missing
+denso,Denso,Q176508,Denso,Japanese automotive components manufacturer,JP,JP,1,1949,1949,1,,Toyota,missing
+hanon-systems,Hanon Systems,Q5642735,Hanon Systems,Korean automotive company,KR,KR,1,1986,1986,1,,Hankook Tire & Technology|Hahn & Company|Hankook Tire & Technology|National Pension Service,missing
+hl-mando,HL Mando,,,,KR,,,1962,,,,,
+hyundai-kefico,Hyundai Kefico,Q119857263,Hyundai Kefico (South Korea),"company in Gunpo, South Korea",KR,KR,1,1987,1987,1,hyundai-motor-group,,
+hyundai-mobis,Hyundai Mobis,Q497534,Hyundai Mobis,Korean automotive company,KR,KR,1,1977,1977,1,hyundai-motor-group,Hyundai Motor Group|Kia|Chung Mong-koo|Hyundai Steel,1
+hyundai-transys,Hyundai Transys,Q19795115,Hyundai Transys,"South Korean automotive parts manufacturer, subsidiary of the Hyundai Motor Company",KR,KR,1,2019,1994,0,hyundai-motor-group,Hyundai Motor Company,0
+hyundai-wia,Hyundai WIA,Q493997,Hyundai WIA,South Korean automotive and defense company,KR,KR,1,1976,1976,1,hyundai-motor-group,Hyundai Motor Company,0
+magna,Magna International,Q697311,Magna International,Canadian automotive supplier,CA,CA,1,1957,1957,1,,,
+valeo,Valeo,Q41568182,Valeo (Czechia),"company in Rakovník, Czechia",FR,CZ,0,1923,1923,1,,Valeo,missing
+zf,ZF Friedrichshafen,Q136119,ZF Friedrichshafen AG,German company,DE,DE,1,1915,1915,1,,Zeppelin Foundation,missing
+byd,BYD,Q2608329,비야디,Chinese battery and electric vehicles manufacturer,CN,CN,1,1995,1995,1,,Wang Chuanfu|Berkshire Hathaway Energy|Lu Xiang-yang|Himalaya Capital|Morgan Stanley|Wang Chuanfu|Lu Xiang-yang|Berkshire Hathaway Energy|Xia Zuo-quan|BlackRock,missing
+li-auto,Li Auto,Q98139925,Li Auto,Chinese car company,CN,,,2015,2015,1,,,
+lucid,Lucid Motors,Q28027517,Lucid Motors,California-based EV company founded in 2007,US,US,1,2007,2007,1,,Public Investment Fund,missing
+nio,NIO,,,,CN,,,2014,,,,,
+polestar,Polestar,Q4047174,Polestar,Swedish automotive brand,SE,SE,1,1996,1996,1,geely-holding,Volvo Cars|Geely|Volvo Cars,1
+rimac,Rimac Automobili,Q7334368,Rimac Automobili,Croatian car manufacturer,HR,HR,1,2009,2009,1,,Bugatti Rimac,missing
+rivian,Rivian,Q7338847,Rivian Automotive,American automaker and automotive technology company,US,US,1,2009,2009,1,,Amazon|Abdul Latif Jameel|Volkswagen Group|Ford Motor Company,missing
+tesla,Tesla,Q478214,Tesla,"American automotive, energy storage and solar power company",US,US,1,2003,2003,1,,Elon Musk|Fidelity Investments|Baillie Gifford|T. Rowe Price|Elon Musk|Fidelity Investments|T. Rowe Price|Government Pension Fund Global|Elon Musk|Baillie Gifford|Capital Ventures International|Capital Group Companies|Larry Ellison,missing
+xpeng,XPeng,Q63035278,XPeng,Chinese automobile manufacturer,CN,CN,1,2014,2014,1,,,
+zeekr,Zeekr,Q106621124,Zeekr,Chinese high-end EV brand,CN,CN,1,2021,2021,1,geely-holding,Geely Auto,0
+bridgestone,Bridgestone,Q179433,Bridgestone,Japanese multinational manufacturer,JP,JP,1,1931,1931,1,,,
+goodyear,Goodyear,Q620875,Goodyear Tire and Rubber Company,American multinational tire manufacturer,US,US,1,1898,1898,1,,,
+hankook-tire,Hankook Tire & Technology,Q493094,Hankook Tire & Technology,South Korean tire company,KR,KR,1,1941,1941,1,,,
+kumho-tire,Kumho Tire,Q493108,Kumho Tire,Korean tire manufacturer (subsidiary of Chinese Doublestar),KR,,,1960,1960,1,,Doublestar,missing
+michelin,Michelin,Q151107,Michelin,French multinational tyre manufacturing company,FR,FR,1,1889,1889,1,,,
+nexen-tire,Nexen Tire,Q625573,Nexen Tire,South Korean tire manufacturer,KR,KR,1,1942,1942,1,,,
+pirelli,Pirelli,Q207770,Pirelli,Italian multinational tyre manufacturer based in the city of Milan,IT,IT,1,1872,1872,1,,ChemChina|Marco Tronchetti Provera|Sinochem Holdings|Marco Tronchetti Provera,missing
+yokohama-tire,Yokohama Rubber,Q1471756,Yokohama Rubber Company,Japanese tire company,JP,JP,1,1917,1917,1,,,
+accenture,Accenture,Q338825,Accenture,"multinational management consulting, technology services and outsourcing company",IE,IE,1,1989,2001,0,,The Vanguard Group|BlackRock,missing
+cisco,Cisco Systems,Q173395,Cisco,American multinational technology company,US,US,1,1984,1984,1,,The Vanguard Group|BlackRock,missing
+hyundai-autoever,Hyundai AutoEver,Q11286392,Hyundai AutoEver,South Korean automotive software company,KR,,,2000,2000,1,hyundai-motor-group,Hyundai Motor Company|Hyundai Mobis,0
+ibm,IBM,Q37156,IBM,American multinational technology company,US,US,1,1911,1911,1,,Berkshire Hathaway|The Vanguard Group|State Street Corporation,missing
+infosys,Infosys,Q26989,Infosys limited,Indian multinational technology company,IN,IN,1,1981,1981,1,,,
+lg-cns,LG CNS,Q10854619,LG CNS,Provider of information technology services,KR,KR,1,1987,1987,1,lg-group,LG Group,1
+samsung-sds,Samsung SDS,Q7410538,Samsung SDS,South-Korean company,KR,KR,1,1985,1985,1,samsung-group,Samsung Electronics|Lee Jae-yong|Lee Seo-hyeon|Samsung C&T Corporation|National Pension Service,0
+tcs,Tata Consultancy Services,Q13227919,Tata Consultancy Services,Information technology consulting company,IN,IN,1,1968,1968,1,,타타 그룹|타타 그룹,missing
+acer,Acer,Q481778,Acer,Taiwanese multinational hardware and electronics corporation,TW,TW,1,1976,1976,1,,,
+asus,ASUS,Q152864,ASUS,Taiwanese computers and electronics company,TW,TW,1,1989,1989,1,,,
+corsair,Corsair,Q140571587,Corsair,brand,US,,,1994,,,,Corsair Memory Inc.,missing
+dell,Dell Technologies,Q27500963,Dell Technologies,American multinational technology company,US,US,1,1984,2016,0,,Michael Dell|Dodge & Cox|Elliott Investment Management|Temasek Holdings|The Vanguard Group|DFO Management|Davidson Kempner Capital Management,missing
+framework,Framework Computer,Q107661386,프레임워크,American computer company,US,US,1,2019,2019,1,,,
+hp,HP Inc.,Q21404084,HP Inc.,American information technology company,US,US,1,1939,2015,0,,,
+ipad,iPad,,,,US,,,2010,,,apple,,
+keychron,Keychron,Q135963489,Keychron,Hong Kong-based manufacturer of computer peripherals,HK,CN,0,2017,2017,1,,,
+lenovo,Lenovo,Q14799,Lenovo,Chinese multinational technology company established in 1984,CN,CN,1,1984,1984,1,,,
+lg-gram,LG gram,,,,KR,,,2014,,,lg-electronics,,
+logitech,Logitech,Q223127,Logitech,Swiss global provider of peripherals,CH,CH|US,1,1981,1981,1,,,
+macbook,MacBook,Q3065317,MacBook,"lines of Apple laptops with the brand name ""MacBook""",US,,,2006,2006,1,apple,,
+msi,Micro-Star International,Q502935,Micro-Star International,Taiwanese electronics company,TW,TW,1,1986,1986,1,,,
+raspberry-pi,Raspberry Pi,Q245,Raspberry Pi,series of low-cost single-board computers used for educational purposes and embedded systems,GB,GB|CN,1,2012,,,,,
+razer,Razer,Q367412,Razer Inc.,Singaporean-American technological company which specializes in products marketed to gamers,SG,US|SG|KY,1,2005,1998,0,,,
+steelseries,SteelSeries,Q2629769,SteelSeries,Danish gaming peripherals and accessory manufacturer,DK,DK,1,2001,2001,1,,,
+wacom,Wacom,Q1044773,Wacom,Japanese company that specializes in graphics tablets and related products,JP,JP,1,1983,1983,1,,,
+boe,BOE Technology,Q22234667,BOE Technology,Chinese company based in Beijing,CN,CN,1,1993,1993,1,,,
+foxconn,Foxconn,Q463094,폭스콘,Taiwanese multinational electronics contract manufacturer,TW,TW,1,1974,1974,1,,Terry Gou|The Vanguard Group,missing
+lg-display,LG Display,Q483006,LG Display,South Korean display manufacturer owned by LG,KR,KR,1,1985,1999,0,lg-electronics,LG Electronics|LG Group,1
+lg-innotek,LG Innotek,Q16219421,LG Innotek,electronic component company,KR,KR,1,1970,1976,0,lg-electronics,,
+murata,Murata Manufacturing,Q613325,Murata Manufacturing,company,JP,JP,1,1944,1944,1,,,
+samsung-display,Samsung Display,Q16166104,Samsung Display,South Korean manufacturing company,KR,KR,1,2012,2012,1,samsung-electronics,Samsung Electronics,1
+samsung-electro-mechanics,Samsung Electro-Mechanics,Q627018,Samsung Electro-Mechanics,South Korean multinational electronic component company,KR,,,1973,1973,1,samsung-group,Samsung Electronics|National Pension Service|National Pension Service|The Vanguard Group|Norges Bank,0
+amd,Advanced Micro Devices,Q128896,AMD,American multinational semiconductor company,US,US,1,1969,1969,1,,The Vanguard Group|BlackRock,missing
+applied-materials,Applied Materials,Q621610,Applied Materials,American company,US,US,1,1967,1967,1,,,
+arm,Arm Holdings,Q296782,Arm Holdings,British multinational semiconductor and software design company,GB,GB,1,1990,1990,1,softbank-group,SoftBank Group|SoftBank Group,1
+asml,ASML,Q297879,ASML Holding,Dutch company and supplier of photolithography systems,NL,NL,1,1984,1984,1,,,
+broadcom,Broadcom,Q555925,Broadcom,American semiconductor manufacturer,US,US,1,1991,1991,1,,Broadcom,missing
+furiosaai,FuriosaAI,Q133254813,FuriosaAI,South Korean Fabless company,KR,KR,1,2017,,,,,
+hanmi-semiconductor,Hanmi Semiconductor,Q131188043,한미반도체,South Korean semiconductor equipment company,KR,KR,1,1980,,,,,
+infineon,Infineon Technologies,Q311394,Infineon Technologies,German high-tech company,DE,DE,1,1999,1999,1,,BlackRock|Norges Bank|Capital Group Companies|Sun Life Financial|Kuwait,missing
+intel,Intel,Q248,Intel,American multinational technology company,US,US,1,1968,1968,1,,The Vanguard Group|BlackRock,missing
+mediatek,MediaTek,Q699848,MediaTek,Taiwanese semiconductor company,TW,TW,1,1997,1997,1,,,
+micron,Micron Technology,Q1197548,Micron Technology,"American multinational corporation based in Boise, Idaho",US,US,1,1978,1978,1,,,
+nvidia,NVIDIA,Q182477,Nvidia,American multinational technology company,US,US,1,1993,1993,1,,The Vanguard Group|BlackRock|Fidelity Investments|State Street Corporation|Jensen Huang|BlackRock|The Vanguard Group|Jensen Huang,missing
+qualcomm,Qualcomm,Q544847,Qualcomm,American global semiconductor company,US,US,1,1985,1985,1,,,
+rebellions,Rebellions,Q136432142,Rebellions,South Korean technology company,KR,,,2020,,,,,
+sk-hynix,SK hynix,Q370719,SK Hynix,South Korean memory semiconductor supplier,KR,KR,1,1983,1983,1,sk-group,SK Group|SK Square|National Pension Service,1
+texas-instruments,Texas Instruments,Q193412,Texas Instruments,American multinational semiconductor design and manufacturing company,US,US,1,1930,1930,1,,The Vanguard Group|BlackRock,missing
+tokyo-electron,Tokyo Electron,Q1351484,Tokyo Electron,Japanese electronics manufacturer,JP,JP,1,1963,1963,1,,,
+tsmc,Taiwan Semiconductor Manufacturing Company,Q713418,TSMC,semiconductor foundry company headquartered in Taiwan,TW,TW,1,1987,1987,1,,,
+adobe,Adobe,Q11463,Adobe,American multinational computer software company,US,US,1,1982,1982,1,,The Vanguard Group|BlackRock,missing
+atlassian,Atlassian,Q757307,Atlassian,Australian enterprise software company,AU,US|AU,1,2002,2002,1,,,
+autodesk,Autodesk,Q628051,Autodesk,American software company,US,US,1,1982,1982,1,,,
+aws,Amazon Web Services,Q456157,Amazon Web Services,subsidiary of Amazon that provides on-demand cloud computing platforms on a metered pay-as-you-go basis,US,US,1,2006,2006,1,amazon,Amazon|Amazon,1
+canva,Canva,Q23498528,Canva,online graphic design platform,AU,AU,1,2012,2013,1,,Q136783069,missing
+cloudflare,Cloudflare,Q4778915,Cloudflare,American internet infrastructure and website security company,US,US,1,2009,2009,1,,,
+databricks,Databricks,Q18350420,Databricks,American technology company,US,US,1,2013,2013,1,,,
+douzone-bizon,Douzone Bizon,,,,KR,,,1991,,,,,
+dropbox,Dropbox,Q142539,Dropbox,cloud storage and file synchronization service,US,US,1,2007,2007,1,,Dropbox Inc.,missing
+figma,Figma,Q307650,Figma,brand of Japanese action figures,US,JP,0,2012,2008,0,,,
+framer,Framer,,,,NL,,,,,,,,
+github,GitHub,Q364,GitHub,hosting service for software projects using Git,US,US,1,2008,2007,1,microsoft,Microsoft|Q28771536,1
+hancom,Hancom,Q482665,Hancom,company,KR,KR,1,1990,1990,1,,,
+linear,Linear,,,,US,,,2019,,,,,
+microsoft,Microsoft,Q2283,Microsoft,American multinational technology corporation,US,US,1,1975,1975,1,,BlackRock|Bill Gates|The Vanguard Group|Capital Group Companies|State Street Corporation|The Vanguard Group|BlackRock|Steve Ballmer|Bill Gates|The Vanguard Group|BlackRock,missing
+naver-cloud,NAVER Cloud,Q135398287,NAVER Cloud (South Korea),"company in Seongnam-si, South Korea",KR,KR,1,2009,2009,1,naver,,
+notion,Notion,,,,US,,,2013,,,,,
+oracle,Oracle,Q19900,Oracle Corporation,American multinational computer corporation,US,US,1,1977,1977,1,,Larry Ellison|The Vanguard Group|Capital Group Companies,missing
+palantir,Palantir Technologies,Q2047336,Palantir Technologies,"American software and services company, specializing in data analysis",US,US,1,2003,2003,1,,Alexander C. Karp|Peter Thiel|The Vanguard Group|BlackRock,missing
+salesforce,Salesforce,Q941127,Salesforce,American cloud-based software company,US,US,1,1999,1999,1,,Marc Benioff,missing
+sap,SAP,Q552581,SAP,German software producer,DE,DE,1,1972,1972,1,,Hasso Plattner|Klaus Tschira|BlackRock|Dietmar Hopp|Government Pension Fund Global|Dietmar Hopp|Hasso Plattner|BlackRock,missing
+servicenow,ServiceNow,Q7455653,ServiceNow,American technology company,US,US,1,2004,2004,1,,,
+shopify,Shopify,Q7501150,Shopify,Canadian e-commerce company,CA,CA,1,2006,2006,1,,,
+slack,Slack,Q17130715,Slack,web-based instant messaging service,US,,,2013,2013,1,salesforce,Salesforce,1
+snowflake,Snowflake,,,,US,,,2012,,,,,
+unity,Unity Technologies,Q7893816,Unity Technologies,software company most known for creating the Unity game engine,US,US,1,2004,2004,1,,,
+vmware,VMware,Q11407,VMware,"for-profit maker of virtualization software, acquired by Broadcom Inc. in 2023",US,US,1,1998,1998,1,broadcom,Broadcom,1
+zoom,Zoom Communications,Q17460900,Zoom Communications,company responsible for the Zoom software,US,US,1,2011,2011,1,,,
+apple,Apple,Q312,Apple Inc.,"American multinational technology company based in Cupertino, California",US,US,1,1976,1976,1,,The Vanguard Group|Berkshire Hathaway|BlackRock|State Street Global Advisors,missing
+balmuda,BALMUDA,Q17222008,Balmuda,Japanese product manufacturing company,JP,JP,1,2003,2003,1,,,
+coway,Coway,Q112148746,"Coway Co., Ltd.",Korean water purifier manufacturer,KR,KR,1,1989,2001,0,netmarble,,
+cuckoo,Cuckoo,,,,KR,,,1978,,,,,
+dyson,Dyson,Q621429,Dyson,"Technology company based in Singapore that designs and manufactures vacuum cleaners, hand dryers, bladeless fans and heaters",GB,SG,0,1991,1991,1,,James Dyson,missing
+electrolux,Electrolux,Q505922,Electrolux,Swedish multinational manufacturer and marketer of home appliances,SE,SE,1,1919,1910,0,,,
+galaxy,Samsung Galaxy,,,,KR,,,2009,,,samsung-electronics,,
+google-pixel,Google Pixel,,,,US,,,2016,,,google,,
+haier,Haier,Q1143211,Haier,multinational consumer electronics and home appliances company based in China,CN,CN,1,1984,1984,1,,,
+hisense,Hisense,Q2527941,Hisense,Chinese multinational white goods and electronics manufacturer,CN,CN,1,1969,1969,1,,,
+huawei,Huawei,Q160120,Huawei,Chinese multinational technology company,CN,CN,1,1987,1987,1,,Ren Zhengfei|Ren Zhengfei,missing
+iphone,iPhone,,,,US,,,2007,,,apple,,
+lg-electronics,LG Electronics,Q162345,LG Electronics,South Korean multinational electronics company,KR,KR,1,1958,1958,1,lg-group,LG Group|LG Group,1
+miele,Miele,Q695230,Miele,German manufacturer of high-end domestic appliances and commercial equipment,DE,DE,1,1899,1899,1,,,
+motorola,Motorola,Q634815,Motorola Solutions,American data communications and telecommunications equipment provider,US,US,1,1928,2011,0,lenovo,,
+nothing,Nothing,Q110339215,Nothing Technology Ltd.,"English technology company based in London, England",GB,GB,1,2020,2020,1,,GV|Steve Huffman|Paddy Cosgrave|Casey Neistat,missing
+oneplus,OnePlus,Q16499972,OnePlus,"Chinese consumer electronics manufacturer, a subsidiary of Oppo",CN,CN,1,2013,2013,1,oppo,"BBK Electronics|Guangdong Oplus Holdings Co., Ltd.",0
+oppo,OPPO,Q2084900,Oppo,Chinese consumer electronics manufacturer,CN,CN,1,2004,2004,1,,"Guangdong Oplus Holdings Co., Ltd.|BBK Electronics",missing
+panasonic,Panasonic,Q125872293,Panasonic,brand owned by Panasonic Corporation,JP,,,1918,1955,0,,Panasonic Corporation,missing
+philips,Philips,Q170416,Koninklijke Philips NV,Dutch multinational conglomerate corporation,NL,NL,1,1891,1891,1,,,
+samsung-electronics,Samsung Electronics,Q20718,Samsung Electronics,South Korean multinational electronics corporation,KR,KR,1,1969,1969,1,samsung-group,treasury stock|National Pension Service|Samsung Life Insurance|Samsung C&T Corporation|Lee Kun-hee,0
+sharp,Sharp,Q53227,Sharp Corporation,Japanese electronics company,JP,JP,1,1912,1912,1,foxconn,폭스콘|폭스콘|Foxconn Technology|Foxconn Group|Foxconn (Far East)|Foxconn Technology|CTBC Bank|SIO International Holdings|Nippon Life Insurance Company|Meiji Yasuda Life,1
+tcl,TCL,Q733958,TCL Technology,Chinese multinational technology company,CN,CN,1,1981,1981,1,,,
+whirlpool,Whirlpool,Q11254284,Whirlpool,video game developer; gaming brand,US,JP,0,1911,2006,0,,,
+xiaomi,Xiaomi,Q1636958,Xiaomi,Chinese electronics company,CN,CN,1,2010,2010,1,,,
+airpods,AirPods,,,,US,,,2016,,,apple,,
+audio-technica,Audio-Technica,Q700466,Audio-Technica,Japanese electronic company,JP,JP,1,1962,1962,1,,,
+bang-olufsen,Bang & Olufsen,Q790020,Bang & Olufsen,Danish multinational audio equipment manufacturer and retail chain,DK,DK,1,1925,1925,1,,Arbejdsmarkedets Tillægspension|Sparkle Roll Group Limited|Samsung Group|Chr. Augustinus Fabrikker,missing
+beats,Beats by Dre,Q1961036,Beats Electronics,American audio products manufacturer,US,US,1,2006,2006,1,apple,Apple Inc.|Apple Inc.,1
+bose,Bose,Q328568,Bose Corporation,US audio equipment manufacturer and retail chain,US,US,1,1964,1964,1,,,
+canon,Canon,Q63554165,Canon,corporate brand of Canon Inc.,JP,JP,1,1937,1935,1,,Canon Inc.,missing
+dji,DJI,Q16924332,DJI,Chinese technology company,CN,CN,1,2006,2006,1,,,
+fujifilm,Fujifilm,Q124998286,Fujifilm,brand of film and cameras,JP,,,1934,,,,Fujifilm Corporation,missing
+fujifilm-x,Fujifilm X Series,,,,JP,,,2011,,,fujifilm,,
+gopro,GoPro,Q733482,GoPro,American technology company,US,US,1,2002,2002,1,,,
+hanwha-vision,Hanwha Vision,Q52112789,Hanwha Vision,South Korean company,KR,KR,1,1977,2018,0,hanwha-group,,
+harman,Harman International,Q1585599,Harman International Industries,American electronics company,US,US,1,1953,1980,0,samsung-electronics,Samsung Electronics|Samsung Group,1
+hasselblad,Hasselblad,Q64545,Hasselblad,Swedish company,SE,SE,1,1941,1841,0,dji,Shriro,0
+insta360,Insta360,Q48147014,Insta360,Chinese action camera manufacturer,CN,CN,1,2015,2015,1,,,
+jbl,JBL,Q1153754,JBL,American audio hardware company,US,US,1,1946,1946,1,harman,Harman International Industries|Samsung Group|Sidney Harman,1
+leica,Leica Camera,Q161833,Leica Camera,German optics company,DE,DE,1,1869,1869,1,,,
+marshall,Marshall,Q1379613,Marshall University,"public research university in Huntington, West Virginia, United States",GB,US,0,1962,1837,0,,,
+nikon,Nikon,Q63868416,Nikon,corporate brand of Nikon Corporation,JP,JP,1,1917,1946,0,,Nikon,missing
+sennheiser,Sennheiser,Q167221,Sennheiser,German audio electronics manufacturer,DE,DE,1,1945,1945,1,,,
+sonos,Sonos,Q3492619,Sonos,"American consumer electronics company based in Santa Barbara, California",US,US,1,2002,2002,1,,,
+sony,Sony,Q41187,Sony Group,Japanese multinational conglomerate corporation,JP,JP,1,1946,1946,1,,BlackRock|Sumitomo Mitsui Trust Asset Management|Nomura Asset Management,missing
+teenage-engineering,Teenage Engineering,Q19883064,Teenage Engineering,Swedish electronics company,SE,SE,1,2005,2005,1,,,
+alteogen,Alteogen,Q52853036,Alteogen (South Korea),"company in Daejeon, South Korea",KR,KR,1,2008,2008,1,,,
+amgen,Amgen,Q470517,Amgen,American multinational biopharmaceutical company,US,US,1,1980,1980,1,,,
+biontech,BioNTech,Q30256699,BioNTech,Biotechnology company from Germany,DE,DE,1,2008,2008,1,,AT Impf,missing
+celltrion,Celltrion,Q16175734,Celltrion,South Korean biopharmaceutical company,KR,KR,1,2002,1999,0,,,
+lonza,Lonza,Q674216,Lonza Group,"Swiss chemical and pharmaceutical company headquartered in Basel, Switzerland",CH,CH,1,1897,1897,1,,,
+lotte-biologics,Lotte Biologics,Q131862585,Lotte Biologics,South Korean biotechnology company,KR,KR,1,2022,2022,1,lotte-group,,
+moderna,Moderna,Q17081612,Moderna,American biotechnology company,US,US,1,2010,2010,1,,"Noubar Afeyan|Stéphane Bancel|Robert S. Langer, Jr.",missing
+samsung-bioepis,Samsung Bioepis,Q16920038,SAMSUNG BIOEPIS,,KR,,,2012,2012,1,samsung-group,,
+samsung-biologics,Samsung Biologics,Q16767532,Samsung Biologics,Korean company,KR,KR,1,2011,2011,1,samsung-group,Samsung C&T Corporation|Samsung Electronics,0
+sk-bioscience,SK bioscience,Q98768286,SK Bioscience,South Korean biotech company,KR,KR,1,2018,2018,1,sk-group,SK Chemicals,0
+abbott,Abbott,Q306764,Abbott Laboratories,American global health care and medical device products company,US,US,1,1888,1888,1,,The Vanguard Group|BlackRock,missing
+boston-scientific,Boston Scientific,Q894585,Boston Scientific,"worldwide developer, manufacturer and marketer of medical devices",US,US,1,1979,1979,1,,,
+dexcom,Dexcom,Q15109865,Dexcom,"company that develops, manufactures and distributes continuous glucose monitoring systems",US,US,1,1999,1999,1,,,
+ge-healthcare,GE HealthCare,Q1152374,GE HealthCare,American multinational medical technology company,US,US,1,,2004,,,General Electric,missing
+intuitive-surgical,Intuitive Surgical,Q2743863,Intuitive Surgical,American corporation,US,US,1,1995,1995,1,,,
+lunit,Lunit,Q131188279,Lunit,,KR,KR,1,2013,,,,,
+medtronic,Medtronic,Q642189,Medtronic plc,medical device company,IE,IE,1,1949,1949,1,,,
+olympus,Olympus,Q64128009,Olympus,photography brand,JP,,,1919,,,,Olympus Corporation,missing
+osstem,Osstem Implant,Q18176068,Osstem Implant (South Korea),"company in Seoul, South Korea",KR,KR,1,1997,1997,1,,,
+siemens-healthineers,Siemens Healthineers,Q472451,Siemens Healthineers,German company,DE,DE,1,,2017,,,Siemens,missing
+stryker,Stryker,,,,US,,,1941,,,,,
+bacchus,Bacchus,,,,KR,,,1961,,,dong-a-pharm,,
+band-aid,Band-Aid,Q2737652,Band-Aid,brand name of adhesive bandages and related products,US,,,1920,1920,1,kenvue,Johnson & Johnson,0
+centrum,Centrum,,,,US,,,1978,,,haleon,,
+dong-a-pharm,Dong-A Pharmaceutical,Q12593479,Dong-A Pharmaceutical,South Korean pharmaceutical business,KR,,,1932,1932,1,,Dong-A Socio Holdings,missing
+dongwha-pharm,Dongwha Pharm,Q104480343,Dongwha Pharm (South Korea),"company in Seoul, South Korea",KR,KR,1,1897,1897,1,,,
+haleon,Haleon,Q112860932,Haleon,British multinational consumer healthcare company,GB,GB,1,2022,,,,,
+hwalmyungsu,Gas Hwalmyungsu,,,,KR,,,1897,,,dongwha-pharm,,
+kenvue,Kenvue,Q118905792,Kenvue,American consumer health company,US,US,1,2023,,,,,
+listerine,Listerine,Q944073,Listerine,brand of mouthwash,US,US,1,1879,1879,1,kenvue,Johnson & Johnson|Johnson & Johnson,0
+sensodyne,Sensodyne,Q2046939,Sensodyne,an oral health brand targeted at people with sensitive teeth,GB,,,1961,1961,1,haleon,GSK,0
+tylenol,Tylenol,Q3245302,Tylenol,consumer drug brand owned by Johnson & Johnson,US,US,1,1955,,,kenvue,McNeil Consumer Healthcare,0
+urusa,URSA,,,,KR,,,1961,,,daewoong,,
+abbvie,AbbVie,Q14662364,AbbVie,pharmaceutical company,US,US,1,2013,2012,1,,The Vanguard Group|BlackRock,missing
+astrazeneca,AstraZeneca,Q731938,AstraZeneca,British-Swedish pharmaceutical company,GB,GB|SE,1,1999,1913,0,,BlackRock|Investor|Capital Group Companies|Wellington Management Company,missing
+bayer,Bayer,Q152051,Bayer,"German multinational pharmaceutical, chemical, and agricultural biotechnology company",DE,DE,1,1863,1863,1,,,
+boehringer-ingelheim,Boehringer Ingelheim,Q30260626,Boehringer Ingelheim,"company in Tokyo, Japan",DE,JP,0,1885,1885,1,,,
+chong-kun-dang,Chong Kun Dang,Q12617231,Chong Kun Dang,S. Korean Pharma Company,KR,KR,1,1941,1941,1,,Chong Kun Dang Holdings,missing
+daewoong,Daewoong Pharmaceutical,Q16219728,Daewoong Pharm,bioengineering company,KR,KR,1,1945,1978,0,,,
+eli-lilly,Eli Lilly,Q43896148,Eli Lilly,"company in Sesto Fiorentino, Italy",US,IT,0,1876,1876,1,,Eli Lilly and Company,missing
+galderma,Galderma,Q581008,Galderma,company,CH,CH,1,1981,1981,1,,,
+gc-biopharma,GC Biopharma,,,,KR,,,1967,,,,,
+gsk,GSK,Q212322,GSK,British multinational pharmaceutical and biotechnology company,GB,GB,1,2000,2000,1,,,
+hanmi,Hanmi Pharmaceutical,Q17095096,Hanmi Pharmaceutical,South Korean pharmaceutical company,KR,KR,1,1973,1973,1,,,
+johnson-johnson,Johnson & Johnson,Q333718,Johnson & Johnson,"U.S multinational medical devices, pharmaceutical and consumer packaged goods manufacturer",US,US|GB,1,1886,1886,1,,The Vanguard Group|BlackRock|State Street Corporation,missing
+mounjaro,Mounjaro,,,,US,,,2022,,,eli-lilly,,
+msd,Merck & Co.,Q247489,Merck & Co.,American multinational pharmaceutical company,US,US,1,1891,1891,1,,The Vanguard Group|BlackRock,missing
+novartis,Novartis,Q507154,Novartis,Swiss-American multinational pharmaceutical corporation,CH,CH,1,1996,1996,1,,,
+novo-nordisk,Novo Nordisk,Q818846,Novo,Danish pharmaceutical company,DK,DK,1,1923,1923,1,,Novo Holdings|Novo Holdings|Novo Nordisk Foundation,missing
+ozempic,Ozempic,,,,DK,,,2017,,,novo-nordisk,,
+pfizer,Pfizer,Q206921,Pfizer,American multinational pharmaceutical and biotechnology corporation,US,US,1,1849,1849,1,,The Vanguard Group|BlackRock|State Street Corporation,missing
+roche,Roche,Q212646,Hoffmann-La Roche,Swiss healthcare company,CH,CH,1,1896,1896,1,,Roche Holding,missing
+sanofi,Sanofi,Q158205,Sanofi,French pharmaceutical company,FR,FR,1,1973,2004,0,,L'Oréal,missing
+takeda,Takeda,Q899133,Takeda Pharmaceutical Company,Japanese pharmaceutical company,JP,JP,1,1781,1781,1,,,
+wegovy,Wegovy,,,,DK,,,2021,,,novo-nordisk,,
+yuhan,Yuhan,Q8060442,Yuhan,South Korean Company,KR,,,1926,1926,1,,,
+bbc,British Broadcasting Corporation,Q9531,British Broadcasting Corporation,British public service broadcaster,GB,GB,1,1922,1922,1,,"Department for Digital, Culture, Media and Sport",missing
+bloomberg,Bloomberg,Q13977,Bloomberg L.P.,American multinational mass media corporation,US,US,1,1981,1981,1,,Michael Bloomberg,missing
+chosun-ilbo,The Chosun Ilbo,,,,KR,,,1920,,,,,
+cnn,Cable News Network,Q48340,CNN,American news channel,US,US,1,1980,1980,1,,WarnerMedia|Warner Bros. Discovery|WarnerMedia|Warner Bros. Discovery,missing
+espn,ESPN,Q17085515,"ESPN, LLC",American sports media conglomerate,US,US,1,1979,1979,1,disney,The Walt Disney Company|American Broadcasting Company|Hearst Communications|The Walt Disney Company|National Football League,1
+joongang-ilbo,JoongAng Ilbo,,,,KR,,,1965,,,,,
+jtbc,JTBC,Q213097,JTBC,South Korean nationwide general cable TV network and broadcasting company,KR,KR,1,2011,2011,1,,The Joong-ang Ilbo|TV Asahi|Turner Broadcasting System Asia Pacific,missing
+kbs,Korean Broadcasting System,Q498825,Korean Broadcasting System,South Korean public service broadcaster,KR,KR,1,1973,1973,1,,Government of South Korea,missing
+mbc,Munhwa Broadcasting Corporation,Q482607,Munhwa Broadcasting Corporation,South Korean broadcasting company,KR,KR,1,1961,1961,1,,Foundation for Broadcast Culture|Chungsoo Scholarship Foundation,missing
+mnet,Mnet,Q490182,Mnet,South Korean television channel,KR,KR,1,1995,1991,0,cj-enm,CJ E&M Media,0
+new-york-times,The New York Times,Q2529982,The New York Times Company,American mass media company,US,US,1,1851,1851,1,,,
+nhk,Japan Broadcasting Corporation,Q212128,NHK,Japanese broadcasting company,JP,JP,1,1926,1924,1,,,
+sbs,Seoul Broadcasting System,Q928831,Seoul Broadcasting System,South Korean television and radio network,KR,KR,1,1990,1990,1,,TY Holdings,missing
+the-economist,The Economist,Q474153,The Economist Group,"media company headquartered in London, United Kingdom",GB,GB,1,1843,1843,1,,Exor,missing
+tvn,tvN,Q476608,TVN,Polish commercial television network,KR,PL,0,2006,1997,0,cj-enm,Grupa TVN,0
+big-hit-music,BIGHIT MUSIC,,,,KR,,,2005,,,hybe,,
+cj-enm,CJ ENM,Q56063989,CJ ENM,South Korean entertainment and retail company,KR,KR,1,2011,1994,0,cj-group,,
+hybe,HYBE,Q16161254,Hybe,South Korean multinational corporation,KR,KR,1,2005,2005,1,,,
+jyp-entertainment,JYP Entertainment,Q483238,JYP Entertainment,South Korean entertainment company,KR,KR,1,1997,1996,1,,J.Y. Park,missing
+kakao-entertainment,Kakao Entertainment,Q106341957,Kakao Entertainment,"South Korean entertainment, mass media and publishing company",KR,KR,1,2021,2021,1,kakao,Kakao|Kakao,1
+live-nation,Live Nation Entertainment,Q1061903,Live Nation Entertainment,American entertainment company,US,US,1,2005,2005,1,,Liberty Media,missing
+sm-entertainment,SM Entertainment,Q483938,SM Entertainment,South Korean entertainment company,KR,KR,1,1995,1995,1,kakao,,
+sony-music,Sony Music Entertainment,Q56760250,Sony Music,American multinational music recording company,US,US,1,1929,2009,0,sony,Sony Entertainment|Sony Corporation of America,1
+starship-entertainment,Starship Entertainment,Q255363,Starship Entertainment,South Korean record label,KR,KR,1,2008,2008,1,kakao-entertainment,Kakao M|Kakao Entertainment|Kakao Entertainment,1
+studio-dragon,Studio Dragon,Q31180504,Studio Dragon,South Korean TV series production company,KR,KR,1,2016,2016,1,cj-enm,CJ ENM Entertainment Division|CJ ENM,1
+universal-music-group,Universal Music Group,Q38903,Universal Music Group,Dutch–American music corporation,NL,US|NL,1,1934,1934,1,,Vivendi|Tencent|Pershing Square Holdings,missing
+warner-music-group,Warner Music Group,Q21077,Warner Music Group,American multinational entertainment and record label conglomerate,US,US,1,2004,1958,0,,Access Industries|Access Industries|Tencent|Len Blavatnik,missing
+yg-entertainment,YG Entertainment,Q50595,YG Entertainment,South Korean entertainment company,KR,KR,1,1996,1995,1,,,
+a24,A24,Q16248298,A24,American independent entertainment company,US,US,1,2012,2012,1,,,
+cgv,CJ CGV,Q5012261,CJ CGV,South Korean multiplex theater company,KR,KR,1,1998,1996,1,cj-group,CJ Group,1
+disney,The Walt Disney Company,Q7414,The Walt Disney Company,American multinational mass media company,US,US,1,1923,1923,1,,The Vanguard Group|BlackRock,missing
+dreamworks-animation,DreamWorks Animation,Q500088,DreamWorks Animation,American animation studio,US,US,1,1994,1994,1,nbcuniversal,Universal Pictures|Comcast,1
+imax,IMAX,Q1654103,IMAX Corporation,Canadian theater company,CA,CA,1,1967,1968,1,,,
+lotte-cinema,Lotte Cinema,Q6684911,Lotte Cinema,chain of movie theatres in South Korea,KR,KR,1,1999,1999,1,lotte-group,,
+marvel-studios,Marvel Studios,Q367466,Marvel Studios,American entertainment company,US,US,1,1993,1993,1,disney,Walt Disney Studios|Marvel Entertainment,0
+megabox,Megabox,Q55729642,Plus M Entertainment,South Korean film production company,KR,KR,1,2000,,,,,
+nbcuniversal,NBCUniversal,Q724759,NBCUniversal,American media and entertainment conglomerate,US,US,1,2004,2004,1,comcast,Comcast|Comcast,1
+paramount,Paramount Skydance,Q135485147,Paramount Skydance,American multinational mass media and entertainment conglomerate,US,US,1,1912,2025,0,,,
+pixar,Pixar Animation Studios,Q127552,Pixar,American computer animation studio,US,US,1,1986,1986,1,disney,Walt Disney Studios|The Walt Disney Company|스티브 잡스,1
+sony-pictures,Sony Pictures Entertainment,Q822314,Sony Pictures,American television and film studio,US,US,1,1987,1987,1,sony,Sony Group|Sony Corporation of America|Sony Group,1
+studio-ghibli,Studio Ghibli,Q182950,Studio Ghibli,Japanese animation studio,JP,JP,1,1985,1985,1,,Tokuma Shoten|Nippon Television|Tokuma Shoten|Nippon Television,missing
+toei-animation,Toei Animation,Q730179,Toei Animation,Japanese animation studio,JP,JP,1,1948,1948,1,,Toei Company|Toei Company,missing
+toho,Toho,Q875920,Toho,Japanese film production company,JP,JP,1,1932,1932,1,,Hankyu Hanshin Holdings,missing
+universal-pictures,Universal Pictures,Q168383,Universal Pictures,American film and distribution company,US,US,1,1912,1912,1,nbcuniversal,NBCUniversal|Comcast,1
+warner-bros,Warner Bros.,Q126399,Warner Bros. Entertainment,American entertainment company,US,US,1,1923,1923,1,,Warner Bros.-Seven Arts|Kinney National Company|Warner Communications|WarnerMedia|WarnerMedia|Warner Bros. Discovery,missing
+elsevier,Elsevier,Q746413,Elsevier,Dutch publishing and analytics company,NL,NL|GB|ZA|HK|US|ES|BR|EG|KR|CN|IN|IE|IT|TW|MX|SG,1,1880,1880,1,,RELX|RELX Group (Netherlands),missing
+kadokawa,Kadokawa,Q15031115,Kadokawa Key-Process,Japanese company,JP,JP,1,1945,1954,0,,Kadokawa Corporation,missing
+kodansha,Kodansha,Q726081,Kodansha,Japanese publishing company,JP,JP,1,1909,1909,1,,Noma Cultural Foundation,missing
+minumsa,Minumsa,Q12596263,Minumsa,South Korean publishing house,KR,KR,1,1966,1966,1,,,
+munhakdongne,Munhakdongne,Q12595839,Munhakdongne,South Korean publisher,KR,KR,1,1993,1993,1,,,
+penguin-random-house,Penguin Random House,Q2908540,Penguin Random House,multinational conglomerate publishing company,US,US,1,2013,2013,1,,Bertelsmann|Bertelsmann|Pearson plc,missing
+shueisha,Shueisha,Q844822,Shueisha,Japanese publishing company,JP,JP,1,1925,1925,1,,Shogakukan|Shogakukan,missing
+att,AT&T,Q35476,AT&T,American multinational conglomerate,US,US,1,1885,1983,0,,The Vanguard Group|BlackRock,missing
+china-mobile,China Mobile,Q741618,China Mobile,Chinese state-owned telecommunication company,CN,CN,1,1997,1997,1,,State-owned Assets Supervision and Administration Commission of the State Council,missing
+comcast,Comcast,Q1113804,Comcast,American multinational telecommunications conglomerate,US,US,1,1963,1963,1,,,
+deutsche-telekom,Deutsche Telekom,Q9396,Deutsche Telekom,partially privatized German telecommunications company,DE,DE,1,1995,1995,1,,Germany|KfW|BlackRock|Government Pension Fund Global|SoftBank Group,missing
+kt,KT,,,,KR,,,1981,,,,,
+lg-uplus,LG Uplus,Q626409,LG Uplus,"South Korean cellular, broadband, IDC carrier",KR,KR,1,1996,1996,1,lg-group,LG Corp.|LG Group,1
+ntt,Nippon Telegraph and Telephone,Q1054787,"NTT, Inc.",Japanese telecommunication company,JP,JP,1,1952,1985,0,,Government of Japan|Minister of Finance|Toyota,missing
+ntt-docomo,NTT Docomo,Q853958,NTT DoCoMo,Japanese telecommunications company,JP,JP,1,1991,1992,1,ntt,"NTT, Inc.|NTT, Inc.",1
+sk-broadband,SK Broadband,Q10854819,SK Broadband,seoul-based telecommunications company,KR,,,1997,1997,1,sk-telecom,SK Telecom,1
+sk-telecom,SK Telecom,Q493145,SK Telecom,South Korean telecommunications company,KR,KR,1,1984,1984,1,sk-group,SK Inc.|SK Group,1
+softbank-corp,SoftBank Corp.,,,,JP,,,1986,,,softbank-group,,
+starlink,Starlink,Q127785902,Starlink,division of SpaceX,US,US,1,2019,,,,SpaceX,missing
+t-mobile,T-Mobile US,Q3511885,T-Mobile US,American telecommunications company,US,US,1,1994,2001,0,deutsche-telekom,Deutsche Telekom|T-Mobile|Deutsche Telekom|SoftBank Group,1
+verizon,Verizon,Q467752,Verizon,American broadband and telecommunications company,US,US,1,2000,1983,0,,The Vanguard Group|BlackRock,missing
+vodafone,Vodafone,Q122141,Vodafone,British multinational telecommunications company,GB,GB,1,1982,1984,1,,,
+8seconds,8seconds,,,,KR,,,2012,,,samsung-cnt-fashion,,
+and-other-stories,& Other Stories,Q17172855,& Other Stories,Fashion brand,SE,SE,1,2013,2013,1,hm-group,,
+arket,Arket,Q86668300,Arket,Swedish fashion brand,SE,SE,1,2017,2017,1,hm-group,H&M,0
+banana-republic,Banana Republic,Q806085,Banana Republic,American clothing and accessories retailer,US,US,1,1978,1978,1,gap-inc,Gap Inc.,1
+bershka,Bershka,Q827258,Bershka,Spanish clothing retailer,ES,ES,1,1998,1998,1,inditex,Inditex,1
+cos,COS,,,,GB,,,2007,,,hm-group,,
+eland-world,E-Land World,,,,KR,,,1980,,,,,
+fast-retailing,Fast Retailing,Q1397688,Fast Retailing,Japanese company,JP,JP,1,1963,1963,1,,,
+fnf,F&F,Q18998034,F&F,,KR,KR,1,1992,1992,1,,F&F Holdings,missing
+gap,Gap,Q420822,Gap Inc.,American multinational clothing and accessories retailer,US,US|CA|FR,1,1969,1969,1,gap-inc,,
+gap-inc,Gap Inc.,Q420822,Gap Inc.,American multinational clothing and accessories retailer,US,US|CA|FR,1,1969,1969,1,,,
+gu,GU,Q371522,University of Gothenburg,"university in Gothenburg, Sweden",JP,SE,0,2006,1954,0,fast-retailing,Ministry of Education and Research,0
+hm,H&M,Q188326,H&M,Swedish multinational clothing-retail company,SE,SE,1,1947,1947,1,hm-group,Ramsbury Invest|Ramsbury Invest|Ramsbury Invest,0
+hm-group,H&M Group,,,,SE,,,1947,,,,,
+inditex,Inditex,Q44504,Inditex,Spanish multinational clothing company,ES,ES,1,1985,1985,1,,Amancio Ortega,missing
+levis,Levi's,Q13085298,Levi's,fashion brand of Levi Strauss & Co.,US,US,1,1853,,,,Levi Strauss & Co.,missing
+massimo-dutti,Massimo Dutti,Q788231,Massimo Dutti,multinational clothing retailer from Spain,ES,ES,1,1985,1985,1,inditex,Inditex,1
+mixxo,MIXXO,Q20445833,MIXXO,Korean clothing store brand,KR,KR,1,2010,,,eland-world,,
+mlb-fnf,MLB,,,,KR,,,1997,,,fnf,,
+musinsa-standard,Musinsa Standard,,,,KR,,,2017,,,musinsa,,
+old-navy,Old Navy,Q2735242,Old Navy,American clothing and accessories retailer,US,US,1,1994,1994,1,gap-inc,Gap Inc.|Gap Inc.,1
+pull-and-bear,Pull&Bear,Q691029,Pull&Bear,multinational clothing retailer from Spain,ES,ES,1,1991,1991,1,inditex,Inditex,1
+shinsung-tongsang,Shinsung Tongsang,,,,KR,,,1968,,,,,
+spao,SPAO,Q55731273,SPAO,Korean clothing company,KR,,,2009,2009,1,eland-world,,
+topten,TOPTEN10,,,,KR,,,2012,,,shinsung-tongsang,,
+uniqlo,Uniqlo,Q26070,Uniqlo,"Japanese casual wear designer, manufacturer and retailer",JP,JP,1,1984,1949,0,fast-retailing,Fast Retailing|Tadashi Yanai,1
+zara,Zara,,,,ES,,,1975,,,inditex,,
+capri-holdings,Capri Holdings,Q19572998,Capri Holdings,holdings company that owns several multinational fashion brands,US,,,2018,1981,0,,,
+charles-keith,Charles & Keith,Q3878818,Charles & Keith,Singaporean fashion company,SG,SG,1,1996,1996,1,,,
+coach,Coach,Q727697,Coach,American luxury design house,US,US,1,1941,1941,1,tapestry,"Tapestry, Inc.",1
+delvaux,Delvaux,Q18155981,Delvaux,Belgian fashion label,BE,BE,1,1829,1829,1,richemont,Delvaux Createur,0
+goyard,Goyard,Q3112837,Goyard,French trunk and leather goods maker,FR,FR,1,1853,1853,1,,,
+kate-spade,Kate Spade New York,Q6375797,Kate Spade New York,American fashion design house,US,US,1,1993,1993,1,tapestry,,
+longchamp,Longchamp,Q1869471,Longchamp,French leathergoods company,FR,FR,1,1948,1948,1,,,
+mcm,MCM,,,,DE,,,1976,,,,,
+michael-kors,Michael Kors,Q19572998,Capri Holdings,holdings company that owns several multinational fashion brands,US,,,1981,1981,1,capri-holdings,,
+montblanc,Montblanc,Q142691,Montblanc International GmbH,German company,DE,DE,1,1906,1908,1,richemont,Richemont|Richemont,1
+polene,Polène,Q122055705,Polène,French leathergoods company,FR,FR,1,2016,2015,1,,La Cadette,missing
+rimowa,Rimowa,Q1287437,Rimowa,German manufacturer of high quality travel gear,DE,DE,1,1898,1898,1,lvmh,LVMH,1
+samsonite,Samsonite,Q1203426,Samsonite,luggage company and travel accessories,US,US|LU,1,1910,1910,1,,,
+stand-oil,Stand Oil,,,,KR,,,,,,,,
+tapestry,Tapestry,,,,US,,,1941,,,,,
+tory-burch,Tory Burch,Q19988222,Tory Burch LLC,American fashion brand,US,US,1,2004,2004,1,,,
+tumi,Tumi,,,,US,,,1975,,,samsonite,,
+acne-studios,Acne Studios,Q3277165,Acne Studios,"multidisciplinary luxury fashion house based in Stockholm, Sweden",SE,SE,1,1996,1996,1,,Jonny Johansson|Mikael Schiller|IDG Capital,missing
+ader-error,ADER error,Q107394133,Ader Error,Fashion brand,KR,KR,1,2014,2014,1,,,
+aime-leon-dore,Aimé Leon Dore,Q43082416,Aimé Leon Dore,fashion brand,US,US,1,2014,2014,1,,,
+ami-paris,AMI Paris,Q107394262,Ami Paris,French luxury ready-to-wear fashion house founded in Paris in 2011,FR,FR,1,2011,2010,1,,,
+andersson-bell,Andersson Bell,,,,KR,,,2014,,,,,
+auralee,Auralee,,,,JP,,,2015,,,,,
+bape,A Bathing Ape,Q300324,A Bathing Ape,Japanese fashion brand,JP,JP,1,1993,1993,1,,I.T,missing
+carhartt,Carhartt,Q527877,Carhartt,American brand of sturdy work clothing,US,US,1,1889,1889,1,,,
+comme-des-garcons,Comme des Garçons,Q120663661,Comme des Garçons Parfums,Japanese fashion brand,JP,,,1969,,,,,
+covernat,Covernat,,,,KR,,,2008,,,,,
+fear-of-god,Fear of God,,,,US,,,2013,,,,,
+issey-miyake,Issey Miyake,Q136792595,Issey Miyake,Japanese fashion and perfume house,JP,JP,1,1970,,,,,
+jacquemus,Jacquemus,Q97394724,Jacquemus,French fashion brand,FR,FR,1,2009,2010,1,,,
+jil-sander,Jil Sander,Q17101930,Jil Sander,German fashion house,DE,IT,0,1968,1968,1,otb-group,OTB Group,1
+juun-j,Juun.J,,,,KR,,,2007,,,samsung-cnt-fashion,,
+kenzo,Kenzo,Q895795,Kenzo,French luxury fashion brand,FR,FR,1,1970,1970,1,lvmh,LVMH,1
+kith,Kith,,,,US,,,2011,,,,,
+lemaire,Lemaire,,,,FR,,,1990,,,,,
+low-classic,Low Classic,,,,KR,,,,,,,,
+maison-kitsune,Maison Kitsuné,,,,FR,,,2002,,,,,
+maison-margiela,Maison Margiela,Q1726925,Maison Margiela,French fashion house,FR,FR,1,1988,1987,1,otb-group,OTB Group,1
+mardi-mercredi,Mardi Mercredi,,,,KR,,,2018,,,,,
+marithe-francois-girbaud,Marithé + François Girbaud,Q1320295,Marithé + François Girbaud,fashion label,FR,FR,1,1972,1972,1,,,
+marni,Marni,Q3650853,Marni,Italian luxury fashion house,IT,IT,1,1994,1994,1,otb-group,OTB Group,1
+matin-kim,Matin Kim,,,,KR,,,,,,,,
+off-white,Off-White,Q53472173,Off-White,Italian luxury fashion label founded by Virgil Abloh,IT,IT,1,2012,2012,1,,Bluestar Alliance|Bluestar Alliance|Farfetch,missing
+otb-group,OTB Group,Q17162776,OTB Group,Italian clothing company,IT,IT,1,2002,2002,1,,,
+our-legacy,Our Legacy,Q10613506,Our Legacy,Swedish clothing brand,SE,SE,1,2005,2005,1,,,
+palace,Palace Skateboards,Q60963734,Palace Skateboards,British skateboard brand & shop,GB,,,2009,2009,1,,,
+rick-owens,Rick Owens,,,,US,,,1994,,,,,
+sacai,Sacai,Q43080895,sacai,Japanese luxury fashion brand,JP,JP,1,1999,1999,1,,,
+stone-island,Stone Island,Q950042,Stone Island,Italian brand,IT,IT,1,1982,1982,1,moncler,Moncler,1
+stussy,Stüssy,Q7629175,"Stüssy, Inc.",American clothing retailer and private company,US,US,1,1980,1980,1,,,
+supreme,Supreme,Q471889,Supreme Commander for the Allied Powers,title held by General Douglas MacArthur during the Allied occupation of Japan,US,,,1994,1945,0,essilorluxottica,,
+thisisneverthat,thisisneverthat,Q107394173,Thisisneverthat,Korean fashion brand,KR,KR,1,2010,2010,1,,,
+thom-browne,Thom Browne,Q113502386,Thom Browne,New York City-based luxury fashion brand,US,US,1,2001,2001,1,zegna-group,Zegna,1
+vivienne-westwood,Vivienne Westwood,Q55600894,Vivienne Westwood,British fashion and perfume brand,GB,GB,1,1971,,,,Coty,missing
+wooyoungmi,Wooyoungmi,Q3569879,WOOYOUNGMI,Global luxury designer brand,KR,,,2002,2002,1,,,
+alexander-mcqueen,Alexander McQueen,Q13882231,Alexander McQueen,British luxury fashion house,GB,GB,1,1992,1992,1,kering,Kering|Kering,1
+armani,Giorgio Armani,Q125182769,Giorgio Armani,brand owned by Giorgio Armani S.p.A.,IT,,,1975,,,,Giorgio Armani,missing
+balenciaga,Balenciaga,Q1530892,Balenciaga,French fashion house and company,FR,ES|FR,1,1917,1917,1,kering,Kering|Kering,1
+balmain,Balmain,Q1385309,Balmain,French fashion house,FR,FR,1,1945,1945,1,,Mayhoola for Investments,missing
+bottega-veneta,Bottega Veneta,Q894874,Bottega Veneta,Italian fashion company,IT,IT,1,1966,1966,1,kering,Kering|Kering,1
+brioni,Brioni,Q849724,브리오니,Italian menswear house,IT,IT,1,1945,1945,1,kering,Kering|Kering,1
+burberry,Burberry,Q390107,Burberry,English fashion company,GB,GB,1,1856,1856,1,,,
+celine,Celine,Q948531,Celine,French luxury fashion house,FR,FR,1,1945,1945,1,lvmh,LVMH|LVMH,1
+chanel,Chanel,Q218115,Chanel,French fashion house,FR,FR,1,1910,2010,0,,,
+chloe,Chloé,Q1075391,Chloé,French fashion house created by Gaby Aghion,FR,FR,1,1952,1952,1,richemont,Richemont,1
+dior,Dior,Q542767,Christian Dior,French multinational luxury fashion house,FR,FR,1,1946,1946,1,lvmh,Financière Agache|Agache,0
+dolce-gabbana,Dolce & Gabbana,Q214480,Dolce & Gabbana,Italian fashion house,IT,IT,1,1985,1980,0,,,
+fendi,Fendi,Q926575,Fendi,Italian enterprise and fashion house,IT,IT,1,1925,1925,1,lvmh,LVMH,1
+ferragamo,Ferragamo,,,,IT,,,1927,,,,,
+givenchy,Givenchy,Q759210,Givenchy,French luxury brand,FR,FR,1,1952,1952,1,lvmh,LVMH,1
+gucci,Gucci,Q178516,Gucci,"Italian luxury fashion house based in Florence, Italy",IT,IT,1,1921,1921,1,kering,Kering,1
+hermes,Hermès,Q843887,Hermès,French luxury goods manufacturer,FR,FR,1,1837,1837,1,,H51,missing
+kering,Kering,Q931207,Kering,French business (1962-),FR,FR,1,1963,1962,1,,Groupe Artémis|Groupe Artémis,missing
+loewe,Loewe,Q966905,Loewe,"fashion house specialising in leather goods, clothing, perfumes and other fashion accessories",ES,ES,1,1846,1846,1,lvmh,LVMH,1
+loro-piana,Loro Piana,Q1686544,Loro Piana,Italian Luxury Company,IT,IT,1,1924,1924,1,lvmh,LVMH|LVMH,1
+louis-vuitton,Louis Vuitton,Q504998,LVMH,French multinational luxury goods conglomerate,FR,FR,1,1854,1987,0,lvmh,Christian Dior|Agache,0
+lvmh,LVMH Moët Hennessy Louis Vuitton,Q504998,LVMH,French multinational luxury goods conglomerate,FR,FR,1,1987,1987,1,,Christian Dior|Agache,missing
+miu-miu,Miu Miu,Q552230,Miu Miu,Italian fashion house,IT,IT,1,1993,1993,1,prada-group,Prada|Prada,1
+moncler,Moncler,Q1548951,Moncler,Italian luxury fashion company,IT,IT,1,1952,1952,1,,,
+prada,Prada,Q193136,Prada,Italian luxury fashion house,IT,IT,1,1913,1913,1,prada-group,Miuccia Prada,0
+prada-group,Prada Group,Q193136,Prada,Italian luxury fashion house,IT,IT,1,1913,1913,1,,Miuccia Prada,missing
+saint-laurent,Saint Laurent,,,,FR,,,1961,,,kering,,
+valentino,Valentino,,,,IT,,,1960,,,,,
+versace,Versace,Q696376,Versace,Italian luxury fashion company,IT,IT,1,1978,1978,1,prada-group,Prada|Prada,1
+zegna,Zegna,Q1355904,Zegna,Italian luxury fashion house,IT,IT,1,1910,1910,1,zegna-group,,
+zegna-group,Ermenegildo Zegna Group,Q1355904,Zegna,Italian luxury fashion house,IT,IT,1,1910,1910,1,,,
+berluti,Berluti,Q821969,Berluti,luxury brand,FR,FR,1,1895,1895,1,lvmh,LVMH,1
+birkenstock,Birkenstock,Q648458,Birkenstock,German shoe manufacturer,DE,DE,1,1774,1774,1,,L Catterton,missing
+christian-louboutin,Christian Louboutin,Q23681835,Christian Louboutin Ltd.,luxury shoe company,FR,,,1991,1991,1,,,
+churchs,Church's,,,,GB,,,1873,,,prada-group,,
+clarks,Clarks,Q1095857,C. & J. Clark International Ltd,British international shoe manufacturer and retailer,GB,GB,1,1825,1825,1,,,
+converse,Converse,Q319515,Converse,American shoe company and brand,US,US,1,1908,1910,1,nike,Nike|Nike,1
+crocs,Crocs,Q125007648,Crocs,brand of foam footwear,US,,,2002,,,,"Crocs, Inc.",missing
+deckers,Deckers Brands,Q1181953,Deckers Outdoor Corporation,company,US,US,1,1973,1993,0,,,
+dr-martens,Dr. Martens,Q1126126,Dr. Martens,footwear brand,GB,GB,1,1960,1951,0,,Permira|Permira|Wollaston Vulcanizing Company Limited,missing
+ecco,ECCO,Q1280255,ECCO,shoe company,DK,DK,1,1963,1963,1,,ECCO Holding|Hanni Toosbuy|Anna Kasprzak,missing
+jimmy-choo,Jimmy Choo,Q5213855,Jimmy Choo Ltd,British high fashion house,GB,GB,1,1996,1996,1,capri-holdings,Capri Holdings,1
+onitsuka-tiger,Onitsuka Tiger,Q7093962,Onitsuka Tiger,Sports-fashion brands under ASICS,JP,JP,1,1949,1949,1,asics,ASICS,1
+skechers,Skechers,Q2945643,Skechers,American shoe company,US,US,1,1992,1992,1,,Fidelity Investments|BlackRock|The Vanguard Group|Gil Schwartzberg|Robert Greenberg|Gil Schwartzberg|Robert Greenberg,missing
+timberland,Timberland,Q1539185,The Timberland Company,American manufacturer and retailer of outdoors wear,US,US,1,1952,1952,1,vf-corp,VF Corporation|VF Corporation,1
+tods,Tod's,Q1342350,Tod's S.p.A.,"Brand known for his high-end products, incons of the Italian luxury",IT,IT,1,1920,1920,1,,,
+ugg,UGG,Q1138480,UGG,company,US,US,1,1978,1978,1,deckers,Deckers Outdoor Corporation,1
+vans,Vans,Q1135366,Vans,American manufacturer of shoes,US,,,1966,1966,1,vf-corp,VF Corporation,1
+carin,CARIN,,,,KR,,,,,,,,
+essilorluxottica,EssilorLuxottica,Q56853086,EssilorLuxottica,Multinational eyewear and optical equipment company,FR,FR,1,2018,2018,1,,,
+gentle-monster,Gentle Monster,Q43083084,Gentle Monster,South Korean sunglasses and optical glasses brand,KR,KR,1,2011,2011,1,iicombined,,
+iicombined,IICOMBINED,,,,KR,,,2011,,,,,
+oakley,Oakley,,,,US,,,1975,,,essilorluxottica,,
+ray-ban,Ray-Ban,Q653941,Ray-Ban,brand of luxury sunglasses and eyeglasses,IT,IT,1,1937,1937,1,essilorluxottica,Luxottica|Luxottica,0
+warby-parker,Warby Parker,Q7968882,Warby Parker,American eyeglasses and contact lens retailer,US,US,1,2010,2010,1,,,
+byc,BYC,,,,KR,,,1946,,,,,
+skims,Skims,Q110778161,SKIMS,American fashion company founded by Kim Kardashian,US,US,1,2019,2019,1,,Kim Kardashian,missing
+victorias-secret,Victoria's Secret,Q332477,Victoria’s Secret,American retailer of lingerie,US,US,1,1977,1977,1,,"Bath & Body Works, Inc.",missing
+wacoal,Wacoal,Q909522,Wacoal,company,JP,JP,1,1946,1949,0,,,
+allsaints,AllSaints,Q4728473,AllSaints,"British fashion retailer headquartered in London, UK",GB,GB,1,1994,1994,1,,Lion Capital LLP,missing
+apc,A.P.C.,Q546542,A.P.C.,Clothing brand,FR,,,1987,1987,1,,Jean Touitou,missing
+beanpole,Beanpole,,,,KR,,,1989,,,samsung-cnt-fashion,,
+calvin-klein,Calvin Klein,Q1068628,Calvin Klein,American fashion house,US,US,1,1968,1968,1,pvh,PVH Corp.,1
+diesel,Diesel,,,,IT,,,1978,,,otb-group,,
+ganni,Ganni,Q104842926,Ganni,Danish clothing company,DK,DK,1,2000,2000,1,,L Catterton|Ditte Reffstrup|Nicolaj Reffstrup,missing
+handsome,Handsome,Q5647649,Handsome,American rock supergroup,KR,US,0,1987,1996,0,hyundai-department-store-group,,
+hazzys,Hazzys,Q12581437,HAZZYS,,KR,KR,1,2000,,,lf,,
+hugo-boss,Hugo Boss,Q491627,Hugo Boss,Germany fashion company,DE,DE,1,1924,1924,1,,Marzotto,missing
+kolon-industries-fnc,Kolon Industries FnC,,,,KR,,,,,,kolon-group,,
+kuho,KUHO,,,,KR,,,1997,,,samsung-cnt-fashion,,
+lacoste,Lacoste,Q309031,Lacoste,French company specialized in ready-to-wear clothing,FR,FR,1,1933,1933,1,,Maus Frères|Maus Frères,missing
+lf,LF Corp.,,,,KR,,,2006,,,,,
+maje,Maje,Q3280458,Maje,French international fashion brand,FR,FR,1,1998,1998,1,smcp,SMCP Group|SMCP Group,1
+max-mara,Max Mara,Q1151774,Max Mara,Italian fashion company,IT,IT,1,1951,1951,1,,Max Mara Fashion Group|Max Mara Fashion Group,missing
+pvh,PVH Corp.,Q1132272,PVH Corp.,American clothing company,US,US,1,1881,1881,1,,,
+ralph-lauren,Ralph Lauren,Q20971370,Ralph Lauren,cosmetic product license created by the stylist Ralph Lauren and owned by the L'Oréal group,US,,,1967,1978,0,,L'Oréal,missing
+samsung-cnt-fashion,Samsung C&T Fashion Group,,,,KR,,,,,,samsung-group,,
+sandro,Sandro,,,,FR,,,1984,,,smcp,,
+shinsegae-international,Shinsegae International,,,,KR,,,1996,,,shinsegae-group,,
+smcp,SMCP,Q17629435,SMCP Group,French fashion group,FR,FR,1,2010,2010,1,,,
+studio-tomboy,Studio Tomboy,,,,KR,,,1977,,,shinsegae-international,,
+system,SYSTEM,,,,KR,,,1990,,,handsome,,
+theory,Theory,,,,US,,,1997,,,fast-retailing,,
+time,TIME,Q617572,Time,Yugoslavian musical group; rock band,KR,YU,0,1993,1971,0,handsome,,
+tommy-hilfiger,Tommy Hilfiger,Q634881,Tommy Hilfiger B.V.,American multinational corporation that designs and manufactures apparel,US,US,1,1985,1985,1,pvh,PVH Corp.,1
+toteme,Toteme,,,,SE,,,2014,,,,,

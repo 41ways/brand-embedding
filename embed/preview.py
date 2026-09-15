@@ -76,7 +76,21 @@ def load():
                     if folder == "out2":
                         d["confidence2"] = d.pop("confidence", None)
                     cur.update(d)
+    apply_market_caps(extra)
     return rows, extra
+
+
+def apply_market_caps(extra, path=ROOT / "data" / "market" / "caps.csv"):
+    """data/market/update_caps.py 가 받은 실제 시총이 있으면 LLM 추정값 대신 쓴다."""
+    if not path.exists():
+        return
+    with path.open(newline="") as f:
+        for r in csv.DictReader(f):
+            if r["status"] in ("ok", "check") and r["id"] in extra:
+                e = extra[r["id"]]
+                e["market_cap_llm_usd_b"] = e.get("market_cap_usd_b")
+                e["market_cap_usd_b"] = float(r["market_cap_usd_b"])
+                e["market_cap_date"] = r["fetched"]
 
 
 def bge(texts, cache, max_length):
@@ -249,7 +263,7 @@ def main():
         e = extra.get(r["id"])
         if e:
             b.update({k: e.get(k) for k in ["summary", "why", "archetype", "price_pos", "exclusivity", "founded", "founder_named", "ownership", "confidence",
-                                        "typical_price_krw", "price_item", "products", "listed", "ticker", "market_cap_usd_b", "revenue_usd_b"]})
+                                        "typical_price_krw", "price_item", "products", "listed", "ticker", "market_cap_usd_b", "market_cap_date", "revenue_usd_b"]})
         brands.append(b)
     result = {"brands": brands, "modes": {}}
 
