@@ -78,7 +78,55 @@ def compact_cos(dense, ids):
     return cos, mask
 
 
+def main_subset(out_dir, subset, tag, hint_pct=.10, origin_rank_frac=.25):
+    """유명 모드: 부분 목록 + 재조정 가중치. 기본 파일(brands.json, model.json)은 건드리지 않고
+    brands_<tag>.json, model_<tag>.json 을 따로 쓴다. 지도 좌표도 이 목록 안에서 다시 펼친다"""
+    import csv as _csv
+    from sklearn.manifold import TSNE
+    rows_all, extra = P.load()
+    ids = [r["id"] for r in _csv.DictReader((P.ROOT / "data" / "subsets" / f"{subset}.csv").open())]
+    pos = {r["id"]: i for i, r in enumerate(rows_all)}
+    sel = np.array([pos[i] for i in ids])
+    rows = [rows_all[i] for i in sel]
+    w = json.loads((P.OUT / f"tuned_{subset}.json").read_text())["weights"]
+    blocks_all = P.build_blocks(rows_all, extra)
+    blocks = {b: (v[sel], has[sel]) for b, (v, has) in blocks_all.items()}
+    # 설명·상품 SVD 는 전체 목록으로 맞춘 축을 쓴다 (목록이 작아 축이 흔들리지 않게)
+    dense_all, _ = compact_blocks(rows_all, blocks_all)
+    dense = {b: (q[sel], has[sel]) for b, (q, has) in dense_all.items()}
+    _, ids_c = compact_blocks(rows, blocks)
+    fc, fm = P.pairwise(blocks)
+    full = P.similarity(fc, fm, w)
+    cc, cm = compact_cos(dense, ids_c)
+    comp = P.similarity(cc, cm, w)
+    n = len(rows)
+    rk = lambda s: np.argsort(np.argsort(-s, axis=1), axis=1)
+    sp = np.array([np.corrcoef(rk(full)[i], rk(comp)[i])[0, 1] for i in range(n)])
+    top10 = np.mean([len(set(np.argsort(-full[i])[:10]) & set(np.argsort(-comp[i])[:10])) / 10 for i in range(n)])
+    print(f"[{tag}] {n}개 순위 상관(중앙) {np.median(sp):.4f} 상위10 겹침 {top10:.3f}")
+    assert np.median(sp) > 0.97 and top10 > 0.8
+    dist = np.clip(1 - full, 0, 2); np.fill_diagonal(dist, 0)
+    xy = TSNE(n_components=2, metric="precomputed", init="random", perplexity=20, random_state=7).fit_transform(dist)
+    xy = (xy - xy.min(0)) / (xy.max(0) - xy.min(0))
+    model = {"n": n, "weights": w, "full_share": P.FULL_SHARE, "labels": LABEL, "hint_pct": hint_pct,
+             "origin_rank_frac": origin_rank_frac, "tag": tag, "subset": subset,
+             "dense": {b: {"dim": int(q.shape[1]), "data": base64.b64encode(np.ascontiguousarray(q).tobytes()).decode(),
+                           "has": base64.b64encode(np.packbits(has.astype(np.uint8)).tobytes()).decode()} for b, (q, has) in dense.items()},
+             "ids": {k: v.astype(int).tolist() for k, v in ids_c.items()},
+             "golden": {rows[i]["id"]: [rows[j]["id"] for j in np.argsort(-comp[i])[:20] if j != i][:19] for i in range(0, n, 23)}}
+    brands = [{"id": r["id"], "name": r["name_ko"], "en": r["name_en"], "alias": [a for a in r["aliases"].split("|") if a],
+               "sector": r["sector"], "sub": r["category"], "country": r["country"],
+               "x": round(float(xy[i][0]), 4), "y": round(float(xy[i][1]), 4),
+               "products": (extra.get(r["id"], {}).get("products") or [])[:4]} for i, r in enumerate(rows)]
+    (out_dir / "data" / f"brands_{tag}.json").write_text(json.dumps({"brands": brands}, ensure_ascii=False, separators=(",", ":")))
+    (out_dir / "worker" / "src" / f"model_{tag}.json").write_text(json.dumps(model, ensure_ascii=False, separators=(",", ":")))
+    print("ok", tag)
+
+
 def main():
+    if "--subset" in sys.argv:
+        a = sys.argv
+        return main_subset(Path(a[1]), a[a.index("--subset") + 1], a[a.index("--tag") + 1])
     out_dir = Path(sys.argv[1])
     rows, extra = P.load()
     blocks = P.build_blocks(rows, extra)
