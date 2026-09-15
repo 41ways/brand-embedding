@@ -1,0 +1,1604 @@
+id,qid,sitelinks,ko_title,en_title,ko_views,en_views
+allianz,Q487292,48,알리안츠,Allianz,1215,196670
+axa,Q160054,44,AXA,Axa,911,99247
+hanwha-life,Q491990,8,한화생명보험,Hanwha Life Insurance,3112,12150
+hyundai-marine,Q482973,7,현대해상화재보험,Hyundai Marine & Fire Insurance,4610,7542
+kyobo-life,,0,,,0,0
+ping-an,Q1256188,28,핑안보험,Ping An Insurance,607,44520
+samsung-fire,Q492706,9,삼성화재해상보험,Samsung Fire & Marine Insurance,4928,14577
+samsung-life,Q624080,20,삼성생명보험,Samsung Life Insurance,3691,24471
+binance,,0,,,0,0
+bithumb,,0,,,0,0
+coinbase,Q16972754,38,코인베이스,Coinbase,4207,264386
+tether,,0,,,0,0
+upbit,,0,,,0,0
+bank-of-america,Q487907,59,뱅크 오브 아메리카,Bank of America,2293,586203
+barclays,Q245343,54,바클리즈,Barclays,1309,389862
+bnp-paribas,Q499707,46,BNP 파리바,BNP Paribas,2933,256167
+citi,Q219508,47,씨티그룹,Citigroup,1476,358385
+deutsche-bank,Q66048,68,도이체 방크,Deutsche Bank,1372,266290
+hana-bank,Q484047,8,하나은행,Hana Bank,10388,19340
+hana-financial-group,Q490601,11,하나금융그룹,Hana Financial Group,3441,14515
+hsbc,Q190464,58,HSBC,HSBC,5462,613210
+ibk,Q483855,11,중소기업은행,Industrial Bank of Korea,8485,7654
+icbc,Q26463,53,중국공상은행,Industrial and Commercial Bank of China,905,142887
+jpmorgan-chase,Q192314,57,JP모건 체이스,JPMorgan Chase,6174,993113
+kakaobank,Q33570421,4,카카오뱅크,KakaoBank,5394,6898
+kb-financial-group,Q12581339,8,KB금융그룹,KB Financial Group,2915,12932
+kb-kookmin-bank,Q496606,17,KB국민은행,Kookmin Bank,7331,15690
+monzo,Q25206290,9,,Monzo,0,158820
+mufg,Q1542175,28,미쓰비시UFJ파이낸셜 그룹,MUFG,2157,97492
+nh-nonghyup-bank,Q15283673,6,NH농협은행,NongHyup Bank,6783,383
+nubank,Q25422888,11,,Nubank,0,105552
+revolut,Q22908307,34,,Revolut,0,794357
+shinhan-bank,Q487230,15,신한은행,Shinhan Bank,6970,18398
+shinhan-financial-group,Q491325,9,신한금융지주,Shinhan Financial Group,3547,10036
+toss-bank,Q110117949,1,토스뱅크,,13093,0
+ubs,Q193199,54,UBS,UBS,3203,356575
+wells-fargo,Q744149,47,웰스 파고,Wells Fargo,1766,515542
+woori-bank,Q4855966,2,,Bank Woori Saudara,0,1772
+woori-financial-group,Q484117,7,우리금융그룹,Woori Financial Group,2833,6019
+blackrock,Q219635,56,블랙록 (기업),BlackRock,15305,1793763
+fidelity,Q1411292,20,피델리티 인베스트먼트,Fidelity Investments,1157,405340
+mirae-asset-global-investments,Q137671410,1,미래에셋자산운용,,312,0
+vanguard,Q849363,37,뱅가드 그룹,The Vanguard Group,3375,737192
+charles-schwab,Q1066028,17,,Charles Schwab Corporation,0,236007
+goldman-sachs,Q193326,57,골드만삭스,Goldman Sachs,3819,699673
+kiwoom-securities,Q12620803,3,키움증권,Kiwoom Securities,5235,11953
+korea-investment-securities,,0,,,0,0
+mirae-asset-securities,Q5208293,5,미래에셋증권,Mirae Asset Securities,5557,12249
+morgan-stanley,Q334204,48,모건 스탠리,Morgan Stanley,10142,526402
+robinhood,Q18155123,22,로빈후드 (기업),Robinhood Markets,2644,249762
+samsung-securities,Q16166252,3,삼성증권,Samsung Securities,5745,13235
+alipay,Q493556,35,알리페이,Alipay,4353,89898
+american-express,Q194360,54,아메리칸 익스프레스,American Express,2904,556238
+hyundai-card,Q5962566,4,현대카드,Hyundai Card,3872,16407
+kakaopay,,0,,,0,0
+kb-kookmin-card,,0,,,0,0
+klarna,Q1165072,22,,Klarna,0,433011
+lotte-card,Q6684903,6,롯데카드,Lotte Card,6128,1731
+mastercard,Q489921,60,마스터카드,Mastercard,2068,287383
+paypal,Q135683185,0,,,0,0
+samsung-card,Q624076,9,삼성카드,Samsung Card,2581,6403
+shinhan-card,Q7497509,3,신한카드,Shinhan Card,2730,3962
+stripe,Q7624104,27,스트라이프 (기업),"Stripe, Inc.",1046,435575
+unionpay,Q719625,29,유니온페이,UnionPay,6339,59873
+visa,Q328840,62,비자 (기업),Visa Inc.,2625,347587
+wise,Q7833987,24,와이즈 (기업),Wise (company),1072,312652
+aekyung-group,Q12605982,2,애경그룹,,11474,0
+booyoung-group,,0,,,0,0
+celltrion-group,,0,,,0,0
+cj-group,Q483593,28,CJ그룹,CJ Group,10322,128432
+daesang-group,,0,,,0,0
+db-group,Q5295831,6,DB그룹,DB Group,4657,8532
+dl-group,,0,,,0,0
+dongwon-group,,0,,,0,0
+doosan-group,Q486002,20,두산그룹,Doosan Group,12231,57215
+eland-group,Q5321417,5,이랜드그룹,E-Land Group,20098,14421
+gs-group,Q489198,15,GS그룹,GS Group,13088,31010
+hanjin-group,,0,,,0,0
+hankook-group,,0,,,0,0
+hansol-group,,0,,,0,0
+hanwha-group,Q489202,19,한화그룹,Hanwha Group,14875,118317
+harim-group,,0,,,0,0
+hd-hyundai,Q626638,7,HD현대,HD Hyundai,13661,25577
+hdc-group,Q17062560,2,HDC그룹,,10829,0
+hoban-group,,0,,,0,0
+hyosung-group,Q497254,13,효성 (기업),Hyosung,6426,29997
+hyundai-department-store-group,Q5962584,9,현대백화점그룹,Hyundai Department Store Group,3216,12778
+hyundai-motor-group,Q59243,34,현대자동차그룹,Hyundai Motor Group,18828,202310
+jungheung-group,Q140129506,2,중흥그룹,Jungheung Group,408,310
+kcc-group,Q16169027,1,KCC그룹,,2721,0
+kolon-group,Q11276134,2,코오롱그룹,,8785,0
+korea-investment-group,,0,,,0,0
+kt-group,Q139245123,0,,,0,0
+kumho-asiana-group,,0,,,0,0
+kyobo-group,,0,,,0,0
+lg-group,Q136778,73,LG그룹,LG,18480,333619
+lotte-group,Q102265292,0,,,0,0
+ls-group,Q625626,8,LS그룹,LS Group,11451,15703
+lx-group,,0,,,0,0
+mirae-asset-group,Q6872554,9,미래에셋그룹,Mirae Asset Financial Group,4202,46663
+nonghyup,Q15283673,6,NH농협은행,NongHyup Bank,6783,383
+oci-group,,0,,,0,0
+paradise-group,Q7134278,1,,Paradise Group of Industries,0,1381
+posco-group,,0,,,0,0
+samsung-group,Q20716,122,삼성그룹,Samsung,37924,923162
+samyang-group,,0,,,0,0
+seah-group,,0,,,0,0
+shinsegae-group,,0,,,0,0
+sk-group,Q10213576,1,,,0,0
+sono-group,,0,,,0,0
+taekwang-group,Q7674768,6,태광그룹,Taekwang Group,13919,2798
+youngpoong-group,Q12607561,2,영풍그룹,Young Poong Group,4565,5596
+3m,Q159433,46,3M,3M,2200,306534
+adani-group,Q4680631,22,아다니 그룹,Adani Group,339,341804
+aditya-birla-group,Q357600,20,,Aditya Birla Group,0,440240
+ayala-corporation,Q1994975,15,아얄라 코퍼레이션,Ayala Corporation,266,62348
+berkshire-hathaway,Q217583,53,버크셔 해서웨이,Berkshire Hathaway,6509,1178491
+bollore,Q444172,14,,Bolloré,0,60099
+citic-group,Q856322,17,중신그룹,CITIC Group,1105,53164
+ck-hutchison,Q19548352,19,,CK Hutchison Holdings,0,111514
+fosun-group,Q3079736,16,,Fosun International,0,104090
+general-electric,Q54173,68,제너럴 일렉트릭,General Electric,5835,678661
+hitachi,Q53238,60,히타치 제작소,Hitachi,4184,324017
+honeywell,Q898208,38,허니웰,Honeywell,2538,345939
+investor-ab,Q1671804,22,인베스터 AB,Investor AB,189,82192
+jardine-matheson,Q1683452,24,자딘 매시선,Jardines (company),936,88196
+koc-holding,Q1306571,25,코치 홀딩,Koç Holding,192,67868
+mahindra-group,Q6734045,13,마힌드라 그룹,Mahindra Group,243,100583
+mitsubishi-group,Q183275,68,미쓰비시 그룹,Mitsubishi,3646,303435
+mitsui-group,Q899122,30,미쓰이 그룹,Mitsui,2970,129929
+reliance,Q908931,41,릴라이언스 인더스트리,Reliance Industries,2356,650537
+siemens,Q81230,75,지멘스,Siemens,2534,520647
+softbank-group,Q201653,40,소프트뱅크 그룹,SoftBank Group,11245,361481
+sumitomo-group,Q717318,25,스미토모 그룹,Sumitomo Group,2621,103326
+swire-group,Q1141162,13,스와이어 그룹,Swire,524,79073
+tata-group,,0,,,0,0
+virgin-group,Q494917,41,버진 그룹,Virgin Group,1305,285897
+adm,Q632694,28,아처 대니얼스 미들랜드,Archer Daniels Midland,1142,116037
+bunge,,0,,,0,0
+cargill,Q1036056,32,카길,Cargill,6019,360197
+cofco,Q4382137,14,중량그룹,COFCO Group,200,18212
+louis-dreyfus,Q833111,18,,Louis Dreyfus Company,0,139175
+olam,Q5950695,13,,Olam International,0,48486
+wilmar,Q1786712,12,,Wilmar International,0,64333
+barry-callebaut,Q809018,15,,Barry Callebaut,0,60465
+cj-bio,,0,,,0,0
+dsm-firmenich,Q120091633,3,,DSM-Firmenich,0,34163
+givaudan,Q509544,23,지보단,Givaudan,1374,55841
+iff,Q1666568,12,,International Flavors & Fragrances,0,48125
+ingredion,Q8273105,7,,Ingredion,0,30540
+kerry-group,Q253967,12,케리 그룹,Kerry Group,80,45317
+novonesis,Q45576,16,,Novozymes,0,31528
+ofi,,0,,,0,0
+symrise,Q73251,12,,Symrise,0,23963
+tate-lyle,Q2395492,8,,Tate & Lyle,0,55565
+harim,,0,,,0,0
+hormel,Q1454852,37,호멜 (기업),Hormel Foods,637,81704
+jbs,Q1676554,25,JBS (기업),JBS N.V.,359,42762
+pilgrims-pride,Q3388421,8,,Pilgrim's Pride,0,37532
+smithfield,Q1477575,16,스미스필드 푸즈,Smithfield Foods,381,90210
+tyson,Q1325987,26,타이슨 푸드,Tyson Foods,979,143198
+wh-group,Q17499655,10,WH 그룹,WH Group,330,23569
+bayer-crop-science,Q140908146,0,,,0,0
+corteva,Q63197674,8,,Corteva,0,60605
+farm-hannong,,0,,,0,0
+kws,Q871483,7,,KWS Saat,0,9044
+mosaic,Q7752327,10,,The Mosaic Company,0,45746
+nongwoo-bio,,0,,,0,0
+nutrien,,0,,,0,0
+syngenta,Q688613,2,,Syngenta,0,83190
+yara,Q901886,26,야라 인터내셔널,Yara International,75,35690
+cainiao,Q16947973,14,차이냐오,Cainiao,576,37634
+db-schenker,Q552912,12,DB 쉥커,,165,0
+dsv,Q1155771,17,,DSV (company),0,86451
+flexport,Q23016856,2,,Flexport,0,42736
+hyundai-glovis,Q5962598,8,현대글로비스,Hyundai Glovis,3887,19085
+kuehne-nagel,Q671267,20,,Kuehne + Nagel,0,94184
+lx-pantos,Q485952,6,LX판토스,LX Pantos,9676,8880
+barogo,,0,,,0,0
+cj-logistics,Q5012276,2,CJ대한통운,CJ Logistics,10543,8472
+coupang-logistics,,0,,,0,0
+dhl,Q157645,36,도이체 포스트,DHL Group,304,92625
+fedex,Q459477,46,페덱스,FedEx,1560,387748
+hanjin,Q12624336,1,한진,,3267,0
+korea-post,Q483280,13,우정사업본부,Korea Post,4431,5316
+logen,,0,,,0,0
+lotte-global-logistics,Q5962624,3,롯데글로벌로지스,Lotte Global Logistics,5445,2995
+sf-express,Q7390019,13,SF Express,SF Express,1744,39833
+ups,Q155026,45,UPS (기업),United Parcel Service,2108,316228
+usps,Q668687,41,미국 우정공단,United States Postal Service,338,381000
+yamato-transport,Q6584353,15,야마토운수,Yamato Transport,509,36318
+cma-cgm,Q1023867,28,CMA CGM,CMA CGM,962,215882
+cosco-shipping,Q26263180,15,코스코해운,COSCO Shipping,637,50029
+evergreen-marine,Q706946,26,에버그린 마린,Evergreen Marine Corporation,345,74498
+hapag-lloyd,Q2915439,13,,Hapag-Lloyd Flug,0,13409
+hmm,Q486923,21,HMM (기업),HMM (company),9645,57633
+maersk,Q18224,49,A.P. 몰러-머스크 그룹,Maersk,1098,314420
+msc,Q125471886,0,,,0,0
+pan-ocean,Q7394894,3,팬오션,Pan Ocean,3440,3769
+clarins,Q2975619,13,클라랑스,Clarins,374,33494
+dior-beauty,,0,,,0,0
+estee-lauder,,0,,,0,0
+guerlain,Q1553251,22,겔랑 (브랜드),Guerlain,997,69140
+la-mer,,0,,,0,0
+la-prairie,,0,,,0,0
+lancome,Q1541268,30,랑콤,Lancôme,601,52036
+sk-ii,Q7390579,12,SK-II,SK-II,1364,23073
+sulwhasoo,Q85980775,2,설화수,Sulwhasoo,931,5527
+the-whoo,,0,,,0,0
+tom-ford-beauty,,0,,,0,0
+ysl-beaute,Q16034592,1,,,0,0
+3ce,Q125707710,0,,,0,0
+bobbi-brown,Q105132734,0,,,0,0
+charlotte-tilbury,Q106670902,3,,Charlotte Tilbury Beauty,0,30999
+etude,Q11198442,1,,,0,0
+fenty-beauty,Q51135597,15,,Fenty Beauty,0,104882
+glossier,Q85865456,3,,Glossier,0,27560
+hera,,0,,,0,0
+loreal-paris,,0,,,0,0
+mac-cosmetics,Q2624442,22,맥 (화장품),MAC Cosmetics,1825,67939
+maybelline,Q1351054,31,메이블린,Maybelline New York,469,11393
+nars,Q3869356,9,나스 (화장품),NARS Cosmetics,1009,34298
+rare-beauty,Q116030556,11,,Rare Beauty,0,101231
+romand,Q136541354,1,,Rom&nd,0,2292
+chicor,,0,,,0,0
+olive-young,,0,,,0,0
+sephora,Q2408041,41,세포라,Sephora,1103,222602
+ulta-beauty,Q7880076,14,울타 뷰티,Ulta Beauty,1111,84850
+colgate-palmolive,Q609466,46,콜게이트-파몰리브,Colgate-Palmolive,504,171646
+dettol,Q15061688,18,데톨,Dettol,341,76088
+durex,Q1267311,31,듀렉스,Durex,1121,75810
+gillette,Q503592,36,질레트,Gillette,1009,157497
+kao,,0,,,0,0
+kimberly-clark,Q1741634,27,킴벌리-클라크,Kimberly-Clark,1350,203386
+kleenex,Q1371867,25,크리넥스,Kleenex,1107,52955
+pampers,Q2340498,21,팸퍼스,Pampers,1197,68770
+pg,Q212405,62,프록터 앤드 갬블,Procter & Gamble,7611,529460
+reckitt,Q1190881,33,레킷,Reckitt,214,173390
+unilever,Q157062,63,유니레버,Unilever,2403,645751
+yuhan-kimberly,Q16170749,2,유한킴벌리,,7472,0
+aesop,Q4688560,8,이솝 (브랜드),Aesop (brand),2954,78272
+amorepacific,Q490142,12,아모레퍼시픽,Amorepacific Corporation,10404,40871
+anua,,0,,,0,0
+apr,,0,,,0,0
+beauty-of-joseon,,0,,,0,0
+beiersdorf,Q201691,32,바이어스도르프,Beiersdorf,641,58645
+biore,,0,,,0,0
+cerave,Q23731275,3,,CeraVe,0,96575
+cetaphil,Q5065628,2,,Cetaphil,0,58539
+clinique,Q2655764,20,크리니크,Clinique,634,38700
+cosmax,Q17991457,1,코스맥스,,5960,0
+cosrx,,0,,,0,0
+dr-jart,,0,,,0,0
+goodai-global,,0,,,0,0
+innisfree,Q16176002,11,이니스프리,Innisfree (brand),3411,29862
+kiehls,Q3196447,11,키엘,Kiehl's,885,39780
+kolmar-korea,Q18142473,1,한국콜마,,8502,0
+la-roche-posay,Q1356442,3,,,0,0
+laneige,Q16935511,10,라네즈,Laneige,884,33741
+lg-hh,Q132097479,0,,,0,0
+loreal,Q156077,57,로레알,L'Oréal,2392,358334
+medicube,Q138526906,1,,,0,0
+mediheal,,0,,,0,0
+neutrogena,Q2451589,17,뉴트로지나,Neutrogena,996,70440
+nivea,Q337408,43,니베아,Nivea,735,104828
+round-lab,,0,,,0,0
+shiseido,Q728185,27,시세이도,Shiseido,1683,71261
+the-face-shop,Q624440,6,더페이스샵,,1398,0
+the-ordinary,Q126595227,0,,,0,0
+torriden,,0,,,0,0
+byredo,Q30595852,6,바이레도,Byredo,2102,50709
+coty,Q1104787,20,,Coty,0,90373
+diptyque,Q1227345,9,딥티크,Diptyque,1119,45509
+jo-malone,Q20724743,10,조 말론 런던,Jo Malone London,727,44302
+le-labo,Q29469190,4,,Le Labo,0,53466
+maison-francis-kurkdjian,Q104381586,1,,,0,0
+nonfiction,,0,,,0,0
+puig,Q3410623,17,,Puig (company),0,74130
+tamburins,,0,,,0,0
+aekyung,,0,,,0,0
+dove,Q7284120,7,,Dovetail Games,0,23341
+kerasys,,0,,,0,0
+lush,Q1585448,18,러쉬 (기업),Lush (company),3000,112659
+pantene,Q1353013,25,팬틴,Pantene,1373,32264
+ryo,,0,,,0,0
+the-body-shop,Q837851,29,더바디샵,The Body Shop,1710,103689
+vaseline,,0,,,0,0
+bechtel,Q813639,25,벡텔,Bechtel,1972,219848
+daewoo-enc,,0,,,0,0
+dl-enc,Q105628048,7,DL이앤씨,DL E&C,8354,4683
+e-pyeonhan-sesang,,0,,,0,0
+gs-enc,Q16219417,2,GS건설,GS Engineering & Construction,5519,1138
+hdc-hyundai-development,Q5962586,5,IPARK현대산업개발,HDC Hyundai Development Company,1813,8111
+hillstate,Q21825533,1,힐스테이트,,2799,0
+hyundai-enc,Q489809,12,현대건설,Hyundai Engineering and Construction,9398,11442
+ipark,Q17062626,2,아이파크,IPARK,1933,1021
+lotte-castle,Q21576347,1,롯데캐슬,,1319,0
+posco-enc,Q12621891,1,포스코이앤씨,,5319,0
+prugio,Q28698179,1,푸르지오,,3209,0
+raemian,Q7281980,2,래미안,Raemian,2424,1381
+samsung-ct,Q499194,17,삼성물산,Samsung C&T Corporation,10010,78049
+the-sharp,Q141078458,0,,,0,0
+vinci,Q1475312,46,빈치 (기업),Vinci SA,541,65658
+xi,,0,,,0,0
+caterpillar,Q459965,50,캐터필러,Caterpillar Inc.,5147,396317
+daedong,,0,,,0,0
+doosan-bobcat,Q134643395,0,,,0,0
+hd-hyundai-xitesolution,,0,,,0,0
+hyundai-elevator,Q11286389,4,현대엘리베이터,Hyundai Elevator,7490,5199
+jcb,Q1542317,29,,JCB (heavy equipment manufacturer),0,186940
+john-deere,Q98642757,0,,,0,0
+komatsu,Q162257,37,고마쓰 제작소,Komatsu Limited,669,104499
+kubota,Q1514221,27,구보다,Kubota,450,84625
+liebherr,Q662090,34,립벨 그룹,Liebherr,527,93199
+otis,,0,,,0,0
+sany,Q49203,41,산요 전기,Sanyo,1207,106547
+dewalt,Q847270,24,,DeWalt,0,134701
+festool,Q320091,13,,Festool,0,35184
+hilti,Q1361530,33,힐티,Hilti,1074,112411
+keyang,,0,,,0,0
+knipex,Q427800,9,,Knipex,0,19812
+makita,Q691508,37,마끼다,Makita,942,90516
+milwaukee-tool,Q6861736,16,밀워키 툴,Milwaukee Tool,152,156681
+ryobi,Q1104912,10,,Ryobi,0,104298
+snap-on,Q1631922,8,,Snap-on,0,72502
+stanley-black-decker,Q706094,20,스탠리 블랙앤데커,Stanley Black & Decker,1020,145424
+techtronic-industries,Q2399612,12,,Techtronic Industries,0,110977
+wera,,0,,,0,0
+abb,Q30258448,0,,,0,0
+boston-dynamics,Q2298325,37,보스턴 다이내믹스,Boston Dynamics,20939,187212
+doosan-robotics,Q110114780,2,두산로보틱스,Doosan Robotics,23191,5461
+fanuc,Q212116,23,파낙,FANUC,903,52185
+keyence,Q1475699,17,키엔스,Keyence,1487,46818
+kuka,Q163566,32,KUKA,KUKA,897,70912
+yaskawa,Q2620239,14,,Yaskawa Electric Corporation,0,19102
+doosan-enerbility,Q492581,8,두산에너빌리티,Doosan Enerbility,17530,12264
+hanwha-ocean,Q497860,18,한화오션,Hanwha Ocean,34450,48929
+hd-hyundai-heavy,Q483231,27,HD현대중공업,HD Hyundai Heavy Industries,8758,65553
+hd-hyundai-samho,Q489251,9,HD현대삼호,HD Hyundai Samho,2911,5612
+hd-ksoe,Q65312870,2,HD한국조선해양,,9619,0
+kawasaki-heavy,Q748148,44,가와사키 중공업,Kawasaki Heavy Industries,1245,121555
+mitsubishi-heavy,Q648280,32,미쓰비시 중공업,Mitsubishi Heavy Industries,2614,230551
+samsung-heavy,Q489243,19,삼성중공업,Samsung Heavy Industries,8969,71270
+airbus,Q2311,46,에어버스,Airbus,6110,960521
+bae-systems,Q739416,40,BAE 시스템스,BAE Systems,964,509340
+blue-origin,Q885836,41,블루 오리진,Blue Origin,3218,534872
+boeing,Q66,97,보잉,Boeing,3896,760994
+bombardier,Q333498,39,봄바디어,Bombardier Inc.,896,229278
+dassault-aviation,Q460487,46,다소 항공,Dassault Aviation,386,236869
+embraer,Q105557,58,엠브라에르,Embraer,2222,367942
+ge-aerospace,Q5513251,4,,GE Aerospace (1960s),0,5661
+hanwha-aerospace,Q563107,11,한화에어로스페이스,Hanwha Aerospace,31880,37176
+hanwha-systems,Q16166298,1,한화시스템,,8421,0
+hyundai-rotem,Q152517,25,현대로템,Hyundai Rotem,11541,90965
+kai,Q488470,21,한국항공우주산업,Korea Aerospace Industries,13466,51515
+lig-nex1,Q6458668,11,LIG 디펜스&에어로스페이스,LIG Defense & Aerospace,7534,7532
+lockheed-martin,Q7240,68,록히드 마틴,Lockheed Martin,4697,849856
+northrop-grumman,Q329953,45,노스롭그루먼,Northrop Grumman,2710,529586
+rheinmetall,Q161544,41,라인메탈,Rheinmetall,1373,284714
+rocket-lab,Q116319,26,로켓 랩,Rocket Lab,3117,292026
+rolls-royce-holdings,Q243278,37,롤스로이스 홀딩스,Rolls-Royce Holdings,1440,282121
+rtx,Q89368734,24,RTX 코퍼레이션,RTX Corporation,1424,460972
+saab,Q219501,49,사브,Saab AB,1291,303344
+safran,Q1886126,44,사프란 (기업),Safran,1232,169713
+spacex,Q193701,105,스페이스X,SpaceX,47709,1476359
+ace-bed,,0,,,0,0
+casamia,Q125710011,0,,,0,0
+fursys,Q18156488,2,퍼시스,,2487,0
+hanssem,Q21060742,2,한샘,Hanssem,3803,3923
+hay,Q112039777,5,,HAY (company),0,9378
+herman-miller,Q489469,13,,Herman Miller,0,81887
+hyundai-livart,,0,,,0,0
+ikea,Q54078,91,이케아,IKEA,12872,647422
+iloom,,0,,,0,0
+millerknoll,Q489469,13,,Herman Miller,0,81887
+muuto,Q19903482,2,,Muuto,0,4132
+nitori,Q10801453,12,니토리,Nitori,1326,16832
+vitra,Q646959,13,,Vitra (furniture),0,17720
+bic,,0,,,0,0
+lamy,Q637707,16,라미 (기업),Lamy,482,28983
+mitsubishi-pencil,Q867714,12,미쓰비시 연필,Uni-ball,1070,55386
+moleskine,Q568068,18,,Moleskine,0,43471
+monami,Q6897937,8,모나미,Monami,3071,3873
+pilot,Q1753527,12,,Pilot (Scottish band),0,91423
+staedtler,Q691150,26,스테들러,Staedtler,746,38579
+chewy,Q28130158,4,,Chewy (company),0,133483
+hills,Q60484641,0,,,0,0
+petfriends,,0,,,0,0
+purina,Q542376,13,,Nestlé Purina PetCare,0,61396
+royal-canin,Q1849609,23,로얄캐닌,Royal Canin,1281,58686
+barbie,Q167447,84,바비,Barbie,2761,504629
+hasbro,Q501476,42,해즈브로,Hasbro,1052,435097
+hello-kitty,,0,,,0,0
+jellycat,Q122329245,3,,Jellycat,0,140468
+kakao-friends,Q20445497,3,카카오프렌즈,Kakao Friends,22517,24497
+labubu,Q131324035,55,라부부,Labubu,45866,1885038
+lego,Q1063455,51,레고 그룹,The Lego Group,3032,319468
+mattel,Q596139,44,마텔,Mattel,1025,479768
+pop-mart,Q97180096,17,팝마트,Pop Mart,2801,253607
+sanrio,Q1136885,30,산리오,Sanrio,5332,195136
+sonny-angel,,0,,,0,0
+young-toys,Q55732070,1,영실업,,1569,0
+corelle,Q5170254,1,,Corelle,0,27455
+groupe-seb,Q125081376,0,,,0,0
+le-creuset,Q555861,13,르크루제,Le Creuset,1173,80716
+locknlock,Q5646759,6,락앤락,Lock & Lock,1959,9165
+stanley,,0,,,0,0
+tefal,Q125081448,0,,,0,0
+thermos,,0,,,0,0
+tupperware,Q16985829,6,,Tupperware Brands,0,28867
+zwilling,Q244736,13,,Zwilling J. A. Henckels,0,47250
+acushnet,Q344839,8,아큐시네트,Acushnet Company,481,46921
+callaway,Q1027181,17,캘러웨이 골프 컴퍼니,Callaway Golf Company,812,71152
+g-fore,,0,,,0,0
+honma,Q11520941,2,,,0,0
+j-lindeberg,Q3356778,7,,J.Lindeberg,0,17495
+malbon-golf,,0,,,0,0
+mark-and-lona,,0,,,0,0
+pearly-gates,,0,,,0,0
+ping,,0,,,0,0
+pxg,Q30646600,2,,Parsons Xtreme Golf,0,17502
+taylormade,Q1380797,13,테일러메이드,TaylorMade,3968,45780
+titleist,Q609502,11,,Titleist,0,47681
+volvik,Q118947741,2,볼빅 (기업),Volvik,468,1998
+waac,Q7984253,3,,West African Airways Corporation,0,2603
+amer-sports,Q152695,23,에이머 스포츠,Amer Sports,785,158691
+arena,,0,,,0,0
+babolat,Q797750,22,,Babolat,0,41517
+decathlon,Q137753171,0,,,0,0
+giant,Q703557,24,자이언트 (기업),Giant Bicycles,255,59109
+head,,0,,,0,0
+mizuno,Q1156731,28,미즈노,Mizuno,2107,83833
+shimano,Q949610,31,시마노,Shimano,616,66604
+specialized,Q124966655,0,,,0,0
+speedo,Q125356552,0,,,0,0
+wilson,,0,,,0,0
+yonex,Q773924,27,요넥스,Yonex,1080,74954
+adidas,Q3895,99,아디다스,Adidas,3974,865348
+alo-yoga,Q123700068,5,,Alo Yoga,0,237511
+andar,,0,,,0,0
+anta-sports,Q4653060,18,안타스포츠,Anta Sports,2235,207126
+asics,Q327247,42,아식스,Asics,4454,290174
+barrel,,0,,,0,0
+descente,Q11320384,7,데상트,Descente,7525,29622
+fila,,0,,,0,0
+fila-holdings,,0,,,0,0
+gymshark,Q56246099,8,,Gymshark,0,150704
+hoka,Q16908664,16,호카 오네 오네,Hoka,2721,83095
+jordan,Q101144401,0,,,0,0
+kappa,Q735873,43,카파 (기업),Kappa (brand),899,115346
+le-coq-sportif,Q1066156,35,르꼬끄 스포르티브,Le Coq Sportif,3848,66438
+li-ning,,0,,,0,0
+lululemon,Q124965942,0,,,0,0
+new-balance,Q742988,39,뉴발란스,New Balance,6651,295930
+nike,Q483915,84,나이키,"Nike, Inc.",9037,905597
+on-running,Q1065,297,유엔,United Nations,17661,1916186
+prospecs,Q7250716,3,프로스펙스,Pro-Specs,3832,7298
+puma,Q157064,67,푸마,Puma (brand),1618,431280
+rapha,,0,,,0,0
+reebok,Q466183,49,리복,Reebok,2474,333771
+satisfy,,0,,,0,0
+umbro,Q652047,43,엄브로,Umbro,2090,167157
+under-armour,Q2031485,39,언더아머,Under Armour,2804,256649
+xexymix,Q131188308,1,젝시믹스,,2174,0
+arcteryx,Q3271455,19,아크테릭스,Arc'teryx,5793,265507
+black-yak,Q55730526,1,BYN블랙야크,,1379,0
+canada-goose,Q2988422,14,캐나다 구스,Canada Goose Inc.,444,17744
+columbia,Q1112588,18,컬럼비아 스포츠웨어,Columbia Sportswear,1065,116141
+discovery-expedition,Q26286443,2,디스커버리 익스페디션,Discovery Expedition (clothing),2360,1944
+eider,,0,,,0,0
+fjallraven,Q1422481,22,,Fjällräven,0,73460
+goldwin,Q11303928,1,,,0,0
+helinox,Q137262919,0,,,0,0
+jack-wolfskin,Q536133,14,잭 울프스킨,Jack Wolfskin,21,37662
+k2-korea,Q139736682,0,,,0,0
+kolon-sport,,0,,,0,0
+mammut,,0,,,0,0
+millet,,0,,,0,0
+montbell,,0,,,0,0
+national-geographic-apparel,,0,,,0,0
+nepa,,0,,,0,0
+patagonia,Q1660552,26,파타고니아 (기업),"Patagonia, Inc.",2979,202122
+peak-performance,Q3898469,3,,Peak Performance (clothing brand),0,14236
+salomon,Q2120822,23,살로몬 그룹,Salomon Group,2281,162094
+snow-peak,Q11312604,2,,Snow Peak (company),0,13812
+the-north-face,Q124965868,0,,,0,0
+vf-corp,Q457960,19,,VF Corporation,0,186897
+casio,Q217338,56,카시오,Casio,2132,244049
+citizen,,0,,,0,0
+daniel-wellington,Q22104639,10,,Daniel Wellington,0,30034
+fossil,,0,,,0,0
+g-shock,Q1047701,23,G-SHOCK,G-Shock,597,169505
+hamilton,,0,,,0,0
+mido,Q1725661,12,,Mido (watch),0,33679
+rado,,0,,,0,0
+seiko,Q322601,40,세이코홀딩스,Seiko,1476,256266
+swatch,Q694107,26,스와치 그룹,The Swatch Group,1467,202833
+swatch-group,Q694107,26,스와치 그룹,The Swatch Group,1467,202833
+tissot,Q659530,37,티쏘,Tissot,901,128792
+apm-monaco,Q85738954,2,,APM Monaco,0,17375
+boucheron,Q848553,35,부쉐론,Boucheron,1000,28189
+buccellati,Q15994135,7,,Buccellati,0,19545
+bulgari,Q752515,51,불가리,Bulgari,892,153353
+cartier,Q538587,41,까르띠에,Cartier (brand),11510,5511
+chaumet,Q2961620,7,쇼메,Chaumet,901,22178
+chopard,Q670112,18,쇼파드,Chopard,755,46333
+chow-tai-fook,Q5105515,8,,Chow Tai Fook,0,40948
+didier-dubot,,0,,,0,0
+fred,,0,,,0,0
+goldendew,,0,,,0,0
+graff,,0,,,0,0
+harry-winston,Q3127944,3,,Burgundy Diamond Mines,0,3856
+jestina,Q16159823,1,제이에스티나,,1513,0
+messika,Q104889722,0,,,0,0
+mikimoto,Q11341902,3,,Mikimoto (company),0,746
+pandora,Q2241604,22,판도라 (보석),Pandora (jewelry),406,111711
+pomellato,Q3907789,12,,Pomellato,0,14265
+qeelin,Q5161882,8,,Qeelin,0,11376
+richemont,Q689240,25,리치몬트,Richemont,2112,228116
+stonehenge,,0,,,0,0
+swarovski,Q124984005,0,,,0,0
+tiffany,Q1066858,47,티파니 (기업),Tiffany & Co.,657,223280
+van-cleef-arpels,Q2708181,14,반클리프 아펠,Van Cleef & Arpels,2238,142583
+a-lange-sohne,Q278880,19,아 랑에 운트 죄네,A. Lange & Söhne,784,80886
+audemars-piguet,Q667425,29,오데마 피게,Audemars Piguet,1177,203896
+blancpain,Q804327,22,블랑팡,Blancpain,345,80843
+breguet,Q661205,26,브레게 (시계),Breguet (brand),752,51552
+breitling,Q665740,36,브라이틀링 SA,Breitling SA,240,84569
+grand-seiko,Q11300325,2,,Grand Seiko,0,7482
+hublot,Q691958,21,위블로,Hublot,1184,62665
+iwc,Q662902,25,IWC (기업),IWC Schaffhausen,645,89974
+jaeger-lecoultre,Q378698,21,예거 르쿨트르,Jaeger-LeCoultre,1420,93585
+longines,Q603698,32,론진,Longines,962,138503
+nomos-glashutte,Q883395,12,노모스 글라스휘테,Nomos Glashütte,238,22179
+omega,,0,,,0,0
+panerai,Q1475590,16,,Panerai,0,52369
+patek-philippe,Q659096,39,파텍 필립,Patek Philippe,5276,293359
+piaget,Q658961,26,피아제 SA,Piaget SA,866,32823
+richard-mille,Q3431044,12,,Richard Mille,0,233621
+rolex,Q62288,63,롤렉스,Rolex,2474,445132
+tag-heuer,Q645984,40,태그호이어,TAG Heuer,1020,161028
+tudor,,0,,,0,0
+vacheron-constantin,Q62341,27,바쉐론 콘스탄틴,Vacheron Constantin,2062,112138
+zenith,,0,,,0,0
+herbalife,Q572948,33,허벌라이프 뉴트리션,Herbalife,3094,245996
+jeonggwanjang,Q16256202,5,한국인삼공사,Korea Ginseng Corporation,3023,4383
+cadbury,Q6677525,38,캐드베리,Cadbury,240,441334
+calbee,Q846834,11,칼비 (기업),Calbee,857,24880
+cheetos,Q484544,26,치토스,Cheetos,3157,214993
+choco-pie,,0,,,0,0
+crown,Q624194,5,크라운제과,Crown Confectionery,3706,3926
+doritos,Q776795,35,도리토스,Doritos,956,278217
+ferrero,Q269792,43,페레로 (기업),Ferrero SpA,1259,323280
+ferrero-rocher,,0,,,0,0
+glico,Q391534,19,에자키 글리코,Glico,1935,32826
+haitai,Q487281,4,해태제과식품,Haitai,6759,5254
+haribo,Q169552,40,하리보,Haribo,1598,243902
+hershey,Q1056637,32,허쉬 (기업),The Hershey Company,1145,340487
+kinder,Q15410057,13,킨더,Kinder (brand),613,101159
+kitkat,Q367251,45,킷캣,KitKat,1146,67005
+lays,Q723513,38,레이즈,Lay's,972,291483
+lindt,Q54969841,0,,,0,0
+lotte-wellfood,Q6684915,10,롯데웰푸드,Lotte Wellfood,4711,20586
+mars,Q695087,46,마즈 (기업),Mars Inc.,2401,550823
+meiji,,0,,,0,0
+mms,Q739550,49,M&M's,M&M's,2196,393086
+mondelez,Q12857502,37,몬덜리즈 인터내셔널,Mondelez International,989,494893
+oreo,,0,,,0,0
+orion,Q861799,10,,Orion Publishing Group,0,12649
+pepero,,0,,,0,0
+pepsico,Q334800,65,펩시코,PepsiCo,4861,702421
+pocky,,0,,,0,0
+pringles,Q528187,43,프링글스,Pringles,5555,286201
+saeukkang,,0,,,0,0
+snickers,Q714179,44,스니커즈 (과자),Snickers,971,219789
+spc-samlip,Q16165525,1,삼립,,901,0
+toblerone,Q215707,45,토블레로네,Toblerone,495,283241
+bibigo,,0,,,0,0
+buldak,,0,,,0,0
+cj-cheiljedang,Q6451272,14,CJ제일제당,CJ CheilJedang,5368,44698
+dongwon-fnb,Q12593511,1,동원F&B,,1992,0
+dongwon-tuna,,0,,,0,0
+general-mills,Q629998,40,제너럴 밀스,General Mills,661,233122
+hetbahn,,0,,,0,0
+jin-ramen,,0,,,0,0
+nestle,Q160746,90,네슬레,Nestlé,3743,840271
+nissin,Q53293,30,닛신식품,Nissin Foods,2076,81054
+nongshim,Q111865397,0,,,0,0
+ottogi,Q625852,16,오뚜기,Ottogi,7459,11918
+pulmuone,Q7259556,3,풀무원,Pulmuone,3783,5748
+quaker,Q2699694,23,퀘이커 오츠,Quaker Oats Company,493,172102
+samyang-foods,Q7413176,12,삼양식품,Samyang Foods,7739,39892
+shin-ramyun,,0,,,0,0
+spam,Q606132,29,스팸,Spam (food),4981,575891
+banana-milk,,0,,,0,0
+binggrae,Q12599539,4,빙그레,Binggrae,8698,12820
+chobani,Q5103456,10,,Chobani,0,138116
+danone,Q329426,50,다논,Danone,1391,196444
+haagen-dazs,Q1143333,35,하겐다즈,Häagen-Dazs,9696,370938
+lactalis,Q1799825,21,,Lactalis,0,96663
+maeil-dairies,Q11239984,2,매일유업,,4448,0
+namyang-dairy,Q12589926,2,남양유업,Namyang Dairy Products,3210,6721
+oatly,Q10605824,12,오틀리 (기업),Oatly,99,49770
+seoul-milk,Q626144,5,서울우유협동조합,Seoul Milk,1597,3130
+yakult,Q16172223,7,야쿠르트 혼샤,Yakult Honsha,929,26298
+celsius,,0,,,0,0
+chilsung-cider,,0,,,0,0
+coca-cola,Q3295867,72,코카콜라 컴퍼니,The Coca-Cola Company,2747,650828
+dr-pepper,Q1254149,14,,Dr Pepper Snapple Group,0,84906
+evian,,0,,,0,0
+fanta,Q13424955,15,판타지오,Fantagio,12228,53189
+fiji-water,Q649491,16,,Fiji Water,0,136679
+gatorade,Q304992,27,게토레이,Gatorade,1971,317212
+jeju-samdasoo,,0,,,0,0
+keurig-dr-pepper,Q3116111,13,,Keurig Dr Pepper,0,370336
+liquid-death,Q106254248,5,,Liquid Death,0,219688
+lotte-chilsung,,0,,,0,0
+monster-beverage,,0,,,0,0
+olipop,Q123655529,2,,Olipop,0,66140
+pepsi,Q334800,65,펩시코,PepsiCo,4861,702421
+perrier,,0,,,0,0
+poppi,,0,,,0,0
+red-bull,Q698639,40,레드불 (기업),Red Bull GmbH,884,502379
+san-pellegrino,,0,,,0,0
+sprite,Q206978,60,스프라이트 (음료),Sprite (drink),3383,196440
+ajinomoto,Q412826,52,아지노모도,Ajinomoto,2161,109381
+chungjungone,,0,,,0,0
+daesang,Q12591553,2,대상 (기업),,5468,0
+heinz,,0,,,0,0
+kewpie,Q107293020,0,,,0,0
+kikkoman,Q1321815,29,깃코만,Kikkoman,310,55638
+kraft-heinz,Q19681433,35,크래프트 하인즈,Kraft Heinz,1019,322475
+lee-kum-kee,Q855533,10,이금기,Lee Kum Kee,3646,49946
+maggi,,0,,,0,0
+miwon,,0,,,0,0
+nutella,Q212193,62,누텔라 (브랜드),Nutella,1295,328589
+ab-inbev,Q128738,39,앤하이저부시 인베브,AB InBev,3430,266045
+absolut,Q332378,39,앱솔루트 보드카,Absolut Vodka,519,79989
+asahi,Q11257202,1,,,0,0
+bacardi,Q685395,39,바카디,Bacardi,720,218971
+brown-forman,Q392221,10,,Brown-Forman,0,76326
+budweiser,Q610672,37,버드와이저,Budweiser,2159,350344
+carlsberg,Q113215,54,칼스버그,Carlsberg Group,733,162541
+cass,,0,,,0,0
+chamisul,Q16219738,2,참이슬,Chamisul,27692,20509
+chivas-regal,,0,,,0,0
+chum-churum,Q5116128,1,,Lotte Liquor,0,1521
+corona,,0,,,0,0
+diageo,Q161140,41,디아지오,Diageo,2725,692729
+guinness,Q194297,59,기네스,Guinness,5678,1556892
+heineken,Q180855,52,하이네켄 (기업),Heineken N.V.,909,140327
+hennessy,Q1229287,41,헤네시,Hennessy,1980,199028
+hitejinro,Q494272,15,하이트진로,HiteJinro,13987,22609
+jack-daniels,Q371068,43,잭 대니얼스,Jack Daniel's,389,293654
+jameson,,0,,,0,0
+jim-beam,Q222787,23,짐 빔,Jim Beam,4330,144414
+johnnie-walker,Q502268,40,조니 워커,Johnnie Walker,5432,273502
+kirin,Q13403399,27,기린 맥주,Kirin Company,2586,88159
+kweichow-moutai,Q1518607,14,귀주모태주구분유한공사,Kweichow Moutai,595,50792
+macallan,,0,,,0,0
+moet-chandon,Q699529,40,모엣 & 샹동,Moët & Chandon,1366,121758
+oriental-brewery,Q205601,7,OB 맥주,Oriental Brewery,22819,16911
+pernod-ricard,Q837049,38,페르노리카,Pernod Ricard,893,164088
+sapporo,Q288727,20,삿포로 맥주,Sapporo Breweries,2141,70295
+smirnoff,Q777721,29,스미노프,Smirnoff,362,183400
+stella-artois,,0,,,0,0
+suntory,Q137363738,2,,Suntory Holdings,0,2242
+terra,Q1135120,10,테라 네트웍스,Terra (company),86,7570
+tsingtao,Q56701971,1,,,0,0
+yamazaki,,0,,,0,0
+dongsuh-foods,,0,,,0,0
+nescafe,Q503191,50,네스카페,Nescafé,1201,95540
+nespresso,Q301301,29,네스프레소,Nespresso,1017,128380
+catl,Q18653563,27,CATL,CATL,2211,202434
+duracell,Q858702,38,듀라셀,Duracell,677,84728
+ecopro,Q131188085,2,에코프로,EcoPro,15888,778
+ecopro-bm,Q123178169,1,에코프로비엠,,3786,0
+lg-energy-solution,Q109464416,10,LG에너지솔루션,LG Energy Solution,6735,27320
+lnf,Q6455435,1,,L&F Jones,0,914
+posco-future-m,Q12621901,3,포스코퓨처엠,POSCO Future M,8442,3084
+samsung-sdi,Q21120876,8,삼성SDI,Samsung SDI,9344,27599
+sk-on,Q131187782,3,SK온,SK On,4481,9803
+adnoc,Q131314519,2,,ADNOC Distribution,0,9024
+bp,Q152057,62,BP (기업),BP,2532,700499
+chevron,Q319642,59,셰브론,Chevron Corporation,2405,451439
+exxonmobil,Q156238,69,엑슨모빌,ExxonMobil,3579,548259
+gs-caltex,Q624012,5,GS칼텍스,GS Caltex,4923,14550
+hd-hyundai-oilbank,Q5962649,7,HD현대오일뱅크,HD Hyundai Oilbank,3078,5148
+kogas,Q491489,15,한국가스공사,Korea Gas Corporation,2671,5988
+s-oil,Q185564,15,S-OIL,S-Oil,6428,13270
+saudi-aramco,Q679322,62,사우디 아람코,Saudi Aramco,4214,674203
+shell,Q154950,71,로열 더치 쉘,Shell plc,2244,564497
+sinopec,Q831445,41,중국석유화공,Sinopec,911,71268
+sk-energy,Q494158,25,SK그룹,SK Group,17691,221109
+sk-innovation,Q16172809,7,SK이노베이션,SK Innovation,6792,20584
+totalenergies,Q154037,63,토탈 (기업),TotalEnergies,933,267209
+corning,Q5842736,26,코닝 (기업),Corning Inc.,1832,162448
+hyosung-tnc,Q131187773,2,효성티앤씨,Hyosung TNC,2980,3242
+kolon-industries,Q18142409,3,코오롱인더스트리,Kolon Industries,2844,5800
+saint-gobain,Q678565,42,생고뱅,Saint-Gobain,1416,109693
+shin-etsu,Q904284,16,신에쓰 화학공업,Shin-Etsu Chemical,1997,21146
+toray,Q168115,18,도레이,Toray Industries,1199,23862
+edf,Q274591,32,프랑스 전력공사,Électricité de France,532,85813
+hanwha-qcells,Q265176,16,한화솔라원,Qcells,355,22949
+kepco,Q486737,19,한국전력공사,Korea Electric Power Corporation,9055,28139
+khnp,Q6431646,10,한국수력원자력,Korea Hydro & Nuclear Power,5458,13204
+nextera-energy,Q967868,13,,NextEra Energy,0,113564
+orsted,Q1241260,25,오스테드 (기업),Ørsted (company),734,62249
+siemens-energy,Q89189545,16,,Siemens Energy,0,75950
+vestas,Q868259,32,베스타스,Vestas,1508,46541
+arcelormittal,Q27893,48,아르셀로미탈,ArcelorMittal,1111,238610
+baowu,Q249692,28,바오우,Baowu,493,50955
+bhp,Q625713,38,BHP,BHP,555,204225
+glencore,Q169339,39,글렌코어,Glencore,1337,230121
+hyundai-steel,Q6502960,15,현대제철,Hyundai Steel,4622,11916
+korea-zinc,Q16183878,3,고려아연,Korea Zinc,10277,11712
+nippon-steel,Q651282,10,,,0,0
+posco,Q483946,30,포스코,POSCO,9813,78294
+rio-tinto,,0,,,0,0
+air-liquide,Q407448,55,에어리퀴드,Air Liquide,1428,57236
+basf,Q9401,57,바스프,BASF,3271,232191
+dow,Q62739842,9,,Dow Inc.,0,4352
+dupont,Q221062,43,듀폰,DuPont,1774,414941
+hanwha-solutions,Q5651426,3,한화솔루션,Hanwha Solutions,9492,6446
+kumho-petrochemical,Q16171192,6,금호석유화학,Kumho Petrochemical,3288,7333
+lg-chem,Q486976,26,LG화학,LG Chem,4924,31661
+linde,Q682759,26,린데,Linde plc,2421,118750
+lotte-chemical,Q12594201,6,롯데케미칼,Lotte Chemical,3014,10005
+sabic,Q903219,23,사빅 (기업),SABIC,776,62356
+agoda,Q395182,28,아고다,Agoda,15289,138680
+airbnb,Q63327,52,에어비앤비,Airbnb,24826,568382
+booking-com,Q4035313,33,Booking.com,Booking.com,1317,241056
+booking-holdings,Q18674747,15,부킹 홀딩스,Booking Holdings,884,143775
+expedia,Q8085893,19,익스피디아 그룹,Expedia Group,1244,171202
+hanatour,Q624874,3,하나투어,,3728,0
+hotels-com,Q3068067,16,호텔스닷컴,Hotels.com,3718,44255
+interpark-triple,,0,,,0,0
+kayak,Q6380402,14,카약 (기업),Kayak (company),298,72370
+kkday,Q28412951,3,,KKday,0,3401
+klook,Q126888337,1,,Klook (company),0,48135
+modetour,,0,,,0,0
+myrealtrip,,0,,,0,0
+skyscanner,Q1319169,16,스카이스캐너,Skyscanner,14296,167231
+trip-com,Q5191790,10,트립닷컴 그룹,Trip.com Group,1519,90300
+tripadvisor,Q1770710,35,트립어드바이저,Tripadvisor,343,83244
+trivago,Q265286,34,트리바고,Trivago,348,68420
+verygoodtour,,0,,,0,0
+vrbo,,0,,,0,0
+yanolja,,0,,,0,0
+ybtour,,0,,,0,0
+yeogi-eottae,,0,,,0,0
+caribbean-bay,,0,,,0,0
+carnival-cruise,Q1044059,26,카니발 코퍼레이션,Carnival Corporation,283,47532
+disney-parks,Q3030499,4,,"Disneyland, Inc.",0,5082
+everland,Q139354397,0,,,0,0
+legoland,Q253302,37,레고랜드,Legoland,2048,117047
+lotte-world,,0,,,0,0
+msc-cruises,Q663626,24,MSC 크루즈,MSC Cruises,2082,301127
+norwegian-cruise-line,Q130309,22,노르웨이 크루즈 라인,Norwegian Cruise Line,336,212040
+princess-cruises,Q745700,16,프린세스 크루즈,Princess Cruises,808,193179
+royal-caribbean,Q427881,21,,Royal Caribbean Group,0,179605
+seaworld,Q540102,22,씨월드,SeaWorld,325,133990
+seoul-land,,0,,,0,0
+six-flags,Q127324768,10,,Six Flags,0,416172
+tokyo-disney-resort,Q109362198,5,도쿄 디즈니 리조트 토이 스토리 호텔,Tokyo Disney Resort Toy Story Hotel,222,3228
+universal-studios,Q168383,90,유니버설 픽처스,Universal Pictures,3357,1254909
+virgin-voyages,Q20539284,6,,Virgin Voyages,0,101498
+air-busan,Q406932,25,에어부산,Air Busan,8395,43260
+air-france,Q131005,81,에어 프랑스,Air France,2301,329220
+air-india,Q69906,64,에어 인디아,Air India,1313,629488
+air-premia,Q106504531,12,에어프레미아,Air Premia,20706,105634
+air-seoul,Q24867828,18,에어서울,Air Seoul,6520,30191
+airasia,Q406643,45,에어아시아,AirAsia,4246,320561
+american-airlines,Q32396,67,아메리칸 항공,American Airlines,3337,825011
+ana,Q204284,55,전일본공수,All Nippon Airways,4911,401447
+asiana-airlines,Q211165,49,아시아나항공,Asiana Airlines,14671,286477
+british-airways,Q8766,79,영국항공,British Airways,1801,585726
+cathay-pacific,Q32141,56,캐세이퍼시픽 항공,Cathay Pacific,9454,639742
+delta-air-lines,Q188920,70,델타 항공,Delta Air Lines,3105,970457
+eastar-jet,Q489392,17,이스타항공,Eastar Jet,36949,36394
+easyjet,Q191551,58,이지젯,EasyJet,555,413370
+emirates,Q180432,72,에미레이트 항공,Emirates (airline),7747,843699
+etihad-airways,Q212304,62,에티하드 항공,Etihad Airways,5538,651122
+eva-air,Q715113,41,에바 항공,EVA Air,6112,357895
+finnair,Q201821,58,핀에어,Finnair,2082,205193
+jal,Q213140,59,일본항공,Japan Airlines,3961,321778
+jeju-air,Q482642,24,제주항공,Jeju Air,10564,80007
+jin-air,Q484872,18,진에어,Jin Air,25287,50459
+klm,Q181912,72,KLM,KLM,2128,437037
+korean-air,Q213147,58,대한항공,Korean Air,22517,348870
+lufthansa,Q9325,94,루프트한자,Lufthansa,4620,714532
+peach-aviation,Q1376634,20,피치 항공,Peach Aviation,4802,75354
+qantas,Q32491,66,콴타스 항공,Qantas,3458,458659
+qatar-airways,Q208033,63,카타르 항공,Qatar Airways,7434,509411
+ryanair,Q170614,69,라이언에어,Ryanair,2081,877902
+singapore-airlines,Q32245,63,싱가포르 항공,Singapore Airlines,2764,450389
+southwest-airlines,Q503308,51,사우스웨스트 항공,Southwest Airlines,1657,527224
+turkish-airlines,Q4548,84,터키항공,Turkish Airlines,3254,416755
+tway-air,Q494775,21,트리니티항공,Trinity Airways,3,372
+united-airlines,Q174769,75,유나이티드 항공,United Airlines,2949,1069807
+vietjet,Q853878,81,비엣젯 항공,VietJet Air,1893,153887
+vietnam-airlines,Q174386,58,베트남 항공,Vietnam Airlines,2613,214572
+virgin-atlantic,Q32277,52,버진 애틀랜틱,Virgin Atlantic,2914,396955
+accor,Q212599,35,아코르,Accor,2078,223270
+ace-hotel,Q100253504,0,,,0,0
+aman,,0,,,0,0
+andaz,Q48836304,1,,Andaz (hotel),0,772
+banyan-tree,Q807019,7,반얀 그룹,Banyan Group,45,30412
+citizenm,Q5122531,4,,CitizenM,0,34771
+club-med,Q1076645,23,클럽메드,Club Med,2574,95719
+conrad,Q855525,15,콘래드 호텔,Conrad Hotels,344,35859
+fairmont,Q1393345,17,페어몬트 호텔 & 리조트,Fairmont Hotels & Resorts,19,90889
+four-seasons,Q1424786,28,포시즌스 호텔,Four Seasons Hotels and Resorts,3061,246668
+glad-hotels,,0,,,0,0
+hanwha-resorts,,0,,,0,0
+hilton,Q1057464,28,힐튼 월드와이드,Hilton Worldwide,391,221645
+holiday-inn,Q2717882,31,홀리데이 인,Holiday Inn,987,117565
+hoshino-resorts,Q11513060,5,호시노 리조트,Hoshino Resorts,388,9887
+hotel-shilla,Q111416194,0,,,0,0
+hyatt,Q1425063,27,하얏트,Hyatt,2284,344122
+ibis,Q920166,21,이비스,Ibis (hotel),915,48475
+ihg,Q1424962,27,인터컨티넨탈 호텔스 그룹,IHG Hotels & Resorts,472,225464
+intercontinental,Q1825730,16,인터컨티넨탈 (호텔),InterContinental,1584,63474
+josun-hotels,Q567458,3,조선호텔앤리조트,,4505,0
+jw-marriott,Q1067636,13,JW 메리어트 호텔,JW Marriott Hotels,980,72896
+kensington-hotels,,0,,,0,0
+lotte-hotel,Q326720,8,롯데호텔,Lotte Hotels & Resorts,3429,14592
+mandarin-oriental,Q1064758,12,만다린 오리엔탈 호텔 홍콩,"Mandarin Oriental, Hong Kong",1503,22756
+marina-bay-sands,Q548679,39,마리나 베이 샌즈,Marina Bay Sands,5387,291844
+marriott,Q1141173,38,메리어트 인터내셔널,Marriott International,2188,421371
+novotel,Q420545,23,노보텔,Novotel,1045,56782
+paradise-hotels,,0,,,0,0
+park-hyatt,Q3145620,2,,,0,0
+peninsula-hotels,Q1761140,10,,The Peninsula Hotels,0,37157
+raffles,Q4306661,7,,Raffles Hotels & Resorts,0,43906
+ritz-carlton,Q782200,21,리츠칼튼,The Ritz-Carlton Hotel Company,993,202037
+rosewood,Q7368777,5,,Rosewood Hotels & Resorts,0,78845
+shangri-la,Q837244,16,샹그릴라 호텔,Shangri-La Hotels and Resorts,1327,94234
+shilla-stay,Q111406422,0,,,0,0
+signiel,Q135437144,0,,,0,0
+six-senses,Q108049683,0,,,0,0
+sofitel,Q749431,18,소피텔,Sofitel,890,45062
+sono-hotels,,0,,,0,0
+taj-hotels,Q1521893,19,타지 호텔,Taj Hotels,8,115503
+toyoko-inn,Q1320541,15,토요코인,Toyoko Inn,1459,9288
+w-hotels,Q7958488,10,W 호텔,W Hotels,22,44721
+waldorf-astoria,Q1123997,31,월도프 아스토리아 뉴욕,Waldorf Astoria New York,235,215542
+walkerhill,Q53978990,2,워커힐 호텔앤리조트,,3044,0
+westin,Q1969162,12,웨스틴 호텔 & 리조트,Westin Hotels & Resorts,395,58117
+cj-foodville,Q12580821,5,CJ푸드빌,CJ Foodville,3692,7349
+din-tai-fung,Q699142,14,딘타이펑,Din Tai Fung,1573,166971
+ichiran,Q11266830,8,이치란,Ichiran,3731,42099
+outback,Q4928282,3,,Bloomin' Brands,0,50135
+theborn-korea,Q130223345,1,더본코리아,,2067,0
+vips,Q12599540,3,빕스,VIPS (South Korean restaurant),2871,2032
+bbq,Q12616311,1,제너시스 (기업),,2509,0
+bhc,,0,,,0,0
+bonjuk,Q131375113,1,본죽 (브랜드),,403,0
+dominos,Q839466,57,도미노피자,Domino's,6026,350817
+goobne,,0,,,0,0
+kyochon,,0,,,0,0
+papa-johns,Q2759586,28,파파존스,Papa John's,2855,228690
+pizza-hut,Q191615,96,피자헛,Pizza Hut,5318,403140
+baskin-robbins,Q584601,115,배스킨라빈스,Baskin-Robbins,19557,203650
+dunkin,Q847743,52,던킨,Dunkin' Donuts,4093,347210
+knotted,Q141451541,1,노티드,,352,0
+krispy-kreme,Q1192805,29,크리스피 크림,Krispy Kreme,2611,222599
+london-bagel-museum,,0,,,0,0
+paris-baguette,Q62605260,0,,,0,0
+spc-group,Q7392484,6,SPC그룹,SPC Group,13688,22405
+sulbing,Q18156373,2,설빙 (기업),Sulbing,4749,4834
+sungsimdang,Q22974149,3,성심당,Sungsimdang,19842,10313
+tous-les-jours,Q3535609,7,뚜레쥬르,Tous les Jours,8402,53240
+arabica,,0,,,0,0
+blue-bottle,Q4928917,7,블루보틀 커피,Blue Bottle Coffee,3431,95752
+chagee,Q125052867,7,차지 (기업),Chagee,1016,112989
+coffee-bean,Q1141384,13,커피빈 & 티리프,The Coffee Bean & Tea Leaf,1958,78710
+compose-coffee,Q120997937,3,컴포즈커피,Compose Coffee,4075,8774
+costa-coffee,Q608845,28,코스타 커피,Costa Coffee,1941,151587
+ediya,Q12611298,5,이디야커피,Ediya Coffee,4616,6900
+fritz-coffee,,0,,,0,0
+gong-cha,Q5581670,11,공차 (기업),Gong Cha,18848,57037
+heytea,Q60875376,7,헤이티,Heytea,6240,47701
+hollys,Q12624386,3,할리스,Hollys,4698,4067
+luckin-coffee,Q56811344,17,루이싱커피,Luckin Coffee,4142,198578
+mega-coffee,Q120998343,4,메가MGC커피,Mega MGC Coffee,9515,7297
+mixue,Q107406476,24,미쉐,Mixue Ice Cream & Tea,4160,375239
+paik-dabang,Q55730575,2,빽다방,Paik's Coffee,1201,4279
+paul-bassett,Q30674569,2,폴바셋,Paul Bassett,4148,7018
+starbucks,Q37158,90,스타벅스,Starbucks,32769,877895
+terarosa,,0,,,0,0
+tim-hortons,Q175106,35,팀홀튼,Tim Hortons,4855,432796
+twosome-place,Q12621301,3,투썸플레이스,A Twosome Place,21641,11251
+burger-king,Q177054,107,버거킹,Burger King,10546,552539
+chick-fil-a,Q491516,38,칙필레,Chick-fil-A,1965,549061
+chipotle,Q465751,21,치폴레 멕시칸 그릴,Chipotle Mexican Grill,1692,388654
+five-guys,Q1131810,29,파이브 가이즈,Five Guys,3278,277883
+in-n-out,Q1205312,44,인앤아웃 버거,In-N-Out Burger,3367,477216
+inspire-brands,Q55074808,6,,Inspire Brands,0,179519
+jollibee,Q45208078,9,,Jollibee Group,0,63757
+kfc,Q524757,97,KFC,KFC,8254,731202
+lotteria,Q249525,16,롯데리아,Lotteria,11383,42464
+mcdonalds,Q38076,123,맥도날드,McDonald's,11076,1537512
+moms-touch,Q23044856,5,맘스터치,Mom's Touch,8676,19630
+popeyes,Q1330910,35,파파이스,Popeyes,4493,312311
+rbi,Q18619470,16,,Restaurant Brands International,0,261679
+shake-shack,Q1058722,20,쉐이크쉑,Shake Shack,1490,215944
+subway,Q244457,58,써브웨이,Subway (restaurant),4926,337042
+taco-bell,Q668737,37,얌! 브랜즈,Yum! Brands,676,455750
+wendys,Q550258,46,웬디스,Wendy's,2735,381413
+wingstop,Q8025339,9,윙스탑,Wingstop,49,202609
+yum-brands,Q668737,37,얌! 브랜즈,Yum! Brands,676,455750
+daiso,Q866991,13,다이소,Daiso,18488,69912
+home-depot,Q864407,34,홈디포,Home Depot,3076,553809
+muji,Q116104243,1,,,0,0
+ohouse,,0,,,0,0
+aldi,Q125054,54,알디,Aldi,1188,807048
+carrefour,Q217599,47,까르푸,Carrefour,3377,239027
+costco,Q715583,44,코스트코,Costco,13797,956463
+don-quijote,Q1185381,16,돈 키호테 (기업),Don Quijote (store),6188,146260
+emart,Q490371,13,이마트,Emart,11415,22289
+emart-traders,,0,,,0,0
+homeplus,Q5889167,8,홈플러스,Homeplus,37641,10363
+lotte-mart,Q765895,8,롯데하이마트,Lotte Hi-Mart,2205,2733
+target,Q1046951,40,타깃 코퍼레이션,Target Corporation,1429,595310
+tesco,Q487494,54,테스코,Tesco,1548,411563
+walmart,Q483551,82,월마트,Walmart,4413,1282888
+whole-foods,Q1809448,26,홀 푸드 마켓,Whole Foods Market,1174,228433
+29cm,,0,,,0,0
+farfetch,Q18712957,11,파페치,Farfetch,2312,61115
+kream,Q141227308,1,KREAM,,0,0
+musinsa,,0,,,0,0
+mytheresa,Q53108351,6,,Mytheresa,0,21844
+ssense,Q48814393,1,,SSENSE,0,28741
+w-concept,Q131243515,0,,,0,0
+zigzag,,0,,,0,0
+galleria,Q5518957,4,갤러리아백화점,Galleria Department Store,5852,3712
+harrods,Q1748412,4,,Harrods Buenos Aires,0,6650
+hyundai-department-store,Q624388,9,현대백화점,Hyundai Department Store,3930,11800
+lotte-department-store,Q489905,14,롯데백화점,Lotte Department Store,7654,10447
+macys,Q5479360,9,,"Macy's, Inc.",0,95935
+shinsegae-department-store,,0,,,0,0
+11st,,0,,,0,0
+alibaba,Q1359568,69,알리바바 그룹,Alibaba Group,4397,503671
+aliexpress,Q29904317,47,알리익스프레스,AliExpress,15382,264946
+amazon,Q3884,116,아마존 (기업),Amazon (company),23294,2500078
+coupang,Q12620655,18,쿠팡,Coupang,171536,159611
+ebay,Q58024,90,이베이,EBay,5643,896094
+etsy,Q1353939,25,엣시,Etsy,2924,287395
+gmarket,Q16172136,5,Qoo10,Qoo10,6195,20809
+jd-com,Q3598926,26,징동닷컴,JD.com,2786,190878
+kurly,Q97203011,1,컬리 (기업),,13602,0
+rakuten,Q973054,37,라쿠텐,Rakuten,3048,302472
+shein,Q107377209,40,쉬인,Shein,24731,533920
+shopee,Q109676747,1,,,0,0
+ssg-com,,0,,,0,0
+taobao,,0,,,0,0
+temu,,0,,,0,0
+cu,,0,,,0,0
+gs25,Q624041,10,GS25,GS25,5997,25284
+seven-eleven,Q259340,49,세븐일레븐,7-Eleven,9316,758452
+anthropic,Q116758847,56,앤트로픽,Anthropic,54325,3418099
+chatgpt,,0,,,0,0
+claude,,0,,,0,0
+cohere,Q110363143,9,,Cohere,0,121962
+cursor,,0,,,0,0
+deepseek,Q131577453,80,딥시크,DeepSeek,7789,929450
+gemini,,0,,,0,0
+google-deepmind,Q15733006,55,구글 딥마인드,Google DeepMind,4028,471632
+hugging-face,Q108943604,30,허깅 페이스,Hugging Face,3203,380397
+midjourney,Q116956702,0,,,0,0
+mistral-ai,Q119718658,34,미스트랄 AI,Mistral AI,1248,380112
+openai,Q124605186,0,,,0,0
+perplexity,Q124333951,46,퍼플렉시티 AI,Perplexity AI,10235,1695556
+scale-ai,Q112629176,16,스케일 AI,Scale AI,1162,366741
+upstage,Q127983087,3,업스테이지,Upstage (company),29266,8157
+wrtn,Q7955322,1,,WRTN-LD,0,364
+xai,Q120599684,39,XAI (기업),SpaceXAI,5180,121250
+bytedance,Q55606242,49,바이트댄스,ByteDance,2551,525758
+discord,Q30753174,2,,Discord Inc.,0,2210
+facebook,Q380,82,메타 플랫폼스,Meta Platforms,15273,1356506
+instagram,,0,,,0,0
+kakao,Q17684312,20,카카오 (기업),Kakao,13087,82276
+kakaotalk,,0,,,0,0
+line,,0,,,0,0
+linkedin,Q80056039,0,,,0,0
+meta,Q380,82,메타 플랫폼스,Meta Platforms,15273,1356506
+naver-band,,0,,,0,0
+pinterest,Q96095585,1,,,0,0
+reddit,Q111759432,0,,,0,0
+snapchat,Q27022329,22,스냅 (기업),Snap Inc.,789,260393
+telegram,Q32049814,1,,,0,0
+tiktok,Q48938223,125,틱톡,TikTok,25852,4198527
+wechat,,0,,,0,0
+weverse,Q91219994,16,위버스,Weverse,7901,81628
+whatsapp,Q52410688,0,,,0,0
+x-twitter,,0,,,0,0
+zepeto,,0,,,0,0
+alphabet,Q20800404,70,알파벳 (기업),Alphabet Inc.,16227,1275566
+android,Q79576,89,구글 플레이,Google Play,9268,1578592
+baidu,Q14772,71,바이두,Baidu,3963,291908
+bing,,0,,,0,0
+daum,Q3017025,7,,Daum (studio),0,8442
+google,Q95,190,구글,Google,168391,8729004
+naver,Q489247,26,네이버 (기업),Naver Corporation,14378,78905
+yahoo,Q29231846,16,야후 (2017년 설립된 기업),Yahoo Inc. (2017–present),0,23612
+bandai-namco,Q1194689,35,반다이 남코 엔터테인먼트,Bandai Namco Entertainment,1174,248086
+blizzard,Q178824,62,블리자드 엔터테인먼트,Blizzard Entertainment,2192,322736
+capcom,Q14428,56,캡콤,Capcom,3556,539268
+cd-projekt,Q7098994,36,CD 프로젝트,CD Projekt,643,293376
+devsisters,Q20445830,5,데브시스터즈,Devsisters,1623,27174
+electronic-arts,Q173941,70,일렉트로닉 아츠,Electronic Arts,1504,814361
+epic-games,Q739711,52,에픽게임즈,Epic Games,3641,604726
+fromsoftware,Q2414469,30,프롬소프트웨어,FromSoftware,1024,740972
+kakao-games,Q47488519,10,카카오게임즈,Kakao Games,1500,21791
+konami,Q45700,58,코나미,Konami,1905,386600
+krafton,Q4035237,26,크래프톤,Krafton,7155,304912
+mihoyo,Q28686397,26,미호요,MiHoYo,2744,329783
+minecraft,,0,,,0,0
+ncsoft,Q483036,26,엔씨,NC (company),1808,19521
+neowiz,Q795583,5,네오위즈,Neowiz,2136,70352
+netease,Q196259,29,넷이즈,NetEase,1733,352176
+netmarble,Q625647,19,넷마블,Netmarble,5496,66462
+nexon,Q562078,28,넥슨,Nexon,7755,263154
+nintendo,Q8093,124,닌텐도,Nintendo,9333,1232484
+pearl-abyss,Q55735496,9,펄어비스,Pearl Abyss,4222,390416
+playstation,Q1323662,47,플레이스테이션,PlayStation,2009,600231
+pubg,,0,,,0,0
+riot-games,Q1060165,35,라이엇 게임즈,Riot Games,15063,360865
+roblox,Q67186598,27,로블록스 코퍼레이션,Roblox Corporation,3138,387403
+rockstar-games,,0,,,0,0
+sega,Q122741,72,세가,Sega,3314,638503
+shift-up,Q108537188,6,시프트업,Shift Up,2290,137771
+smilegate,Q12603595,7,스마일게이트,Smilegate,12671,59892
+square-enix,Q207784,50,스퀘어 에닉스,Square Enix,2060,431289
+steam,Q337535,77,스팀 (서비스),Steam (service),9120,818602
+supercell,Q1438774,51,슈퍼셀 (기업),Supercell (company),1686,200669
+take-two,Q94933,39,테이크투 인터랙티브,Take-Two Interactive,1356,663356
+tencent,Q860580,58,텐센트,Tencent,9359,761100
+ubisoft,Q188273,61,유비소프트,Ubisoft,1873,649398
+valve,Q193559,74,밸브 코퍼레이션,Valve Corporation,1542,957243
+xbox,Q73801,39,엑스박스 게임 스튜디오,Xbox Game Studios,498,240892
+daangn,Q109458271,1,Daangn market Inc.,,210,0
+soomgo,,0,,,0,0
+zigbang,,0,,,0,0
+chzzk,Q125118776,5,치지직,CHZZK,8663,13193
+coupang-play,Q116638614,4,쿠팡플레이,Coupang Play,5594,25931
+crunchyroll,Q682156,2,,,0,0
+disney-plus,Q54958752,63,디즈니+,Disney+,14789,740845
+genie-music,Q20943680,15,KT지니뮤직,KT Genie Music,1266,1352
+hbo-max,Q65359104,46,HBO 맥스,HBO Max,1433,748259
+kakao-page,Q21463262,7,카카오페이지,Kakao Page,4661,398
+melon,Q12595115,20,멜론 (온라인 음악 서비스),Melon (online music service),6190,25494
+naver-webtoon,Q24836950,15,네이버 웹툰,Webtoon (platform),16293,120151
+netflix,Q907311,134,넷플릭스,Netflix,128200,3042874
+prime-video,,0,,,0,0
+ridi,,0,,,0,0
+soop,Q604213,3,나우콤,SOOP Corp.,1213,1211
+spotify,Q689141,99,스포티파이,Spotify,22196,1446710
+tving,Q12621401,14,TVING,TVING,19023,41636
+twitch,Q4555537,69,트위치,Twitch (service),4305,1174672
+watcha,Q19349822,5,왓챠,Watcha,8428,1943
+wavve,Q65233413,4,Wavve,Wavve,7489,18650
+youtube,Q866,213,유튜브,YouTube,1087608,16864430
+naver-pay,,0,,,0,0
+toss,,0,,,0,0
+alpine,,0,,,0,0
+aston-martin,Q27074,66,애스턴 마틴,Aston Martin,1628,535644
+bentley,Q27224,60,벤틀리,Bentley,2608,342849
+bugatti,Q2308012,70,부가티,Bugatti Automobiles,7369,252277
+ferrari,Q27586,90,페라리,Ferrari,4002,848542
+koenigsegg,Q35594,46,코닉세그,Koenigsegg,2152,376973
+lamborghini,Q35886,81,람보르기니,Lamborghini,5571,812627
+lotus,Q35935,45,로터스 자동차,Lotus Cars,5407,392193
+maserati,Q35962,61,마세라티,Maserati,3898,335004
+mclaren,Q1351854,36,맥라렌 오토모티브,McLaren Automotive,848,387382
+mercedes-amg,Q26966,39,메르세데스-AMG,Mercedes-AMG,2618,290950
+mercedes-maybach,Q16218337,4,,Mercedes-Maybach,0,33661
+pagani,Q749239,39,파가니 (기업),Pagani Automobili,528,230237
+porsche,Q40993,84,포르쉐,Porsche,8147,719362
+rolls-royce-motor-cars,Q234803,60,롤스로이스 자동차,Rolls-Royce Motor Cars,6224,387227
+singer,Q55633247,3,,Singer Vehicle Design,0,63391
+didi,,0,,,0,0
+grab,Q20873932,25,그랩,Grab Holdings,2761,214163
+hertz,Q1543874,28,더 허츠 코퍼레이션,Hertz Global Holdings,283,87654
+kakao-mobility,,0,,,0,0
+lyft,Q17077936,25,리프트 (기업),Lyft,549,125248
+socar,Q1622293,32,아제르바이잔 국영 석유회사,SOCAR,223,144953
+tmap-mobility,Q131604501,1,티맵모빌리티,,1528,0
+uber,Q780442,68,우버,Uber,6453,638337
+waymo,Q15330,40,웨이모,Waymo,3771,695282
+daimler-truck,Q1157624,17,,Daimler Truck,0,137843
+isuzu,Q29803,52,이스즈 자동차,Isuzu,1895,256022
+man-truck-bus,Q708667,25,만 트럭 & 버스,MAN Truck & Bus,556,142225
+scania,Q219960,54,스카니아,Scania AB,3735,197317
+traton,Q28228137,17,트라톤,Traton,412,111459
+volvo-group,Q163810,69,볼보,Volvo,4261,321862
+acura,Q53097,48,아큐라,Acura,740,245660
+alfa-romeo,Q26921,74,알파 로메오,Alfa Romeo,899,366565
+audi,Q23317,110,아우디,Audi,4039,579808
+bmw,Q26678,110,BMW,BMW,8340,1073828
+bmw-group,Q26678,110,BMW,BMW,8340,1073828
+cadillac,Q27436,65,캐딜락,Cadillac,2018,540344
+chery,,0,,,0,0
+chevrolet,,0,,,0,0
+chrysler,Q1088671,11,,Chrysler Europe,0,18037
+citroen,Q6746,73,시트로엥,Citroën,3641,339171
+cupra,Q8352675,24,,Cupra (marque),0,332507
+dodge,Q27564,54,닷지,Dodge,1852,374155
+fiat,Q27597,83,피아트,Fiat,2064,322562
+ford,Q44294,111,포드 모터 컴퍼니,Ford Motor Company,3895,1127116
+geely-holding,Q739000,49,지리 (기업),Geely,867,557863
+general-motors,Q81965,84,제너럴 모터스,General Motors,4372,1006579
+genesis,,0,,,0,0
+gm-korea,,0,,,0,0
+gmc,,0,,,0,0
+honda,Q9584,99,혼다,Honda,2581,661923
+hyundai-motor,Q55931,75,현대자동차,Hyundai Motor Company,26514,611435
+infiniti,Q29714,44,인피니티,Infiniti,2466,223437
+jaguar,,0,,,0,0
+jaguar-land-rover,Q6122893,30,재규어 랜드로버,Jaguar Land Rover,837,441040
+jeep,Q30113,66,지프 (자동차),Jeep,3813,448942
+kg-mobility,Q221869,42,KG모빌리티,KG Mobility,37316,148361
+kia,Q35349,77,기아 (기업),Kia,15165,530262
+land-rover,Q35907,66,랜드로버,Land Rover,4093,472837
+lexus,Q35919,57,렉서스,Lexus,3166,483746
+lincoln,,0,,,0,0
+mazda,Q35996,80,마쓰다,Mazda,3488,512939
+mercedes-benz,Q36008,115,메르세데스-벤츠,Mercedes-Benz,9388,830260
+mercedes-benz-group,Q27530,72,메르세데스-벤츠 그룹 AG,Mercedes-Benz Group,3970,383736
+mini,,0,,,0,0
+mitsubishi-motors,Q36033,61,미쓰비시 자동차공업,Mitsubishi Motors,1375,305184
+nissan,Q20165,85,닛산 자동차,Nissan,3157,560208
+opel,Q40966,85,오펠,Opel,1302,377125
+peugeot,Q6742,76,푸조,Peugeot,3434,439482
+ram,Q165708,27,램 (자동차),Ram Trucks,814,242288
+renault,Q6686,104,르노,Renault,8635,518747
+renault-group,Q98590326,0,,,0,0
+renault-korea,Q494168,33,르노코리아,Renault Korea,19722,42141
+skoda,Q29637,78,스코다,Škoda Auto,3648,525391
+stellantis,Q97439162,49,스텔란티스,Stellantis,5585,1356290
+subaru,Q1051297,29,스바루,Subaru Corporation,1880,111459
+suzuki,Q181642,80,스즈키,Suzuki,1432,378696
+tata-motors,Q188514,70,타타 자동차,Tata Motors,1745,491188
+toyota,Q53268,143,토요타 자동차,Toyota,6975,1065055
+volkswagen,Q156578,69,폭스바겐 그룹,Volkswagen Group,4887,787337
+volkswagen-group,Q156578,69,폭스바겐 그룹,Volkswagen Group,4887,787337
+volvo-cars,Q215293,54,볼보자동차,Volvo Cars,3434,534682
+ducati,Q271812,47,두카티,Ducati,490,154365
+harley-davidson,Q192814,51,할리데이비슨,Harley-Davidson,3137,383967
+ktm,Q215657,45,KTM,KTM,607,269344
+piaggio,Q841263,42,피아지오,Piaggio,298,94723
+triumph,,0,,,0,0
+vespa,Q217673,53,베스파,Vespa,789,185801
+yamaha-motor,Q158888,92,야마하 발동기,Yamaha Motor Company,858,259300
+aisin,Q409907,21,아이신,Aisin,562,63395
+bosch,Q234021,65,보쉬 (기업),Bosch (company),1433,370350
+brembo,Q907265,25,브렘보,Brembo,362,59266
+continental,Q163241,41,콘티넨탈 AG,Continental AG,1398,151271
+denso,Q176508,26,덴소,Denso,1688,110876
+hanon-systems,Q5642735,2,한온시스템,Hanon Systems,6544,9459
+hl-mando,,0,,,0,0
+hyundai-kefico,Q119857263,0,,,0,0
+hyundai-mobis,Q497534,17,현대모비스,Hyundai Mobis,7250,36829
+hyundai-transys,Q19795115,2,현대트랜시스,Hyundai Transys,3773,3736
+hyundai-wia,Q493997,8,현대위아,Hyundai WIA,3985,14593
+magna,Q697311,20,마그나 인터내셔널,Magna International,857,99619
+valeo,Q41568182,0,,,0,0
+zf,Q136119,27,ZF 프리드리히스하펜 AG,ZF Friedrichshafen,1201,156181
+byd,Q2608329,36,비야디,BYD Company,4361,455659
+li-auto,Q98139925,22,리오토,Li Auto,826,65851
+lucid,Q28027517,22,루시드 모터스,Lucid Motors,3148,492114
+nio,,0,,,0,0
+polestar,Q4047174,28,폴스타,Polestar,24427,552958
+rimac,Q7334368,29,리막 오토모빌리,Rimac Automobili,543,158568
+rivian,Q7338847,25,리비안,Rivian,2622,553664
+tesla,Q478214,104,테슬라 (기업),"Tesla, Inc.",21072,1508568
+xpeng,Q63035278,32,샤오펑 전기차,XPeng,2912,194799
+zeekr,Q106621124,25,지커,Zeekr,5248,286016
+bridgestone,Q179433,52,브리지스톤,Bridgestone,1377,174707
+goodyear,Q620875,46,굳이어,Goodyear Tire and Rubber Company,1193,200578
+hankook-tire,Q493094,27,한국타이어앤테크놀로지,Hankook,6313,69727
+kumho-tire,Q493108,18,금호타이어,Kumho Tire,5563,44756
+michelin,Q151107,61,미쉐린,Michelin,9654,334774
+nexen-tire,Q625573,10,넥센타이어,Nexen Tire,4196,32319
+pirelli,Q207770,52,피렐리,Pirelli,927,169735
+yokohama-tire,Q1471756,24,요코하마 고무,Yokohama Rubber Company,231,48172
+accenture,Q338825,51,액센츄어,Accenture,3705,656075
+cisco,Q173395,67,시스코 시스템즈,Cisco,4309,391197
+hyundai-autoever,Q11286392,3,현대오토에버,Hyundai AutoEver,5316,4619
+ibm,Q37156,103,IBM,IBM,6928,942910
+infosys,Q26989,44,인포시스,Infosys,1182,466647
+lg-cns,Q10854619,5,LG CNS,LG CNS,13219,7179
+samsung-sds,Q7410538,9,삼성SDS,Samsung SDS,16649,23986
+tcs,Q13227919,30,타타 컨설턴시 서비스,Tata Consultancy Services,693,449543
+acer,Q481778,60,에이서,Acer Inc.,1872,173590
+asus,Q152864,68,에이수스,Asus,3512,284894
+corsair,Q140571587,0,,,0,0
+dell,Q27500963,16,델 테크놀로지스,Dell Technologies,0,157215
+framework,Q107661386,12,프레임워크 컴퓨터,Framework Computer,173,98951
+hp,Q21404084,30,HP (기업),HP Inc.,3757,298292
+ipad,,0,,,0,0
+keychron,Q135963489,1,,,0,0
+lenovo,Q14799,81,레노버,Lenovo,8532,558455
+lg-gram,,0,,,0,0
+logitech,Q223127,49,로지텍,Logitech,2933,163202
+macbook,Q3065317,17,맥북,MacBook,3500,191273
+msi,Q502935,38,마이크로-스타 인터내셔널,Micro-Star International,785,131209
+raspberry-pi,Q245,67,라즈베리 파이,Raspberry Pi,7659,509470
+razer,Q367412,37,레이저 (기업),Razer Inc.,683,115085
+steelseries,Q2629769,18,스틸시리즈,SteelSeries,152,35545
+wacom,Q1044773,27,와콤,Wacom,512,32643
+boe,Q22234667,9,BOE 테크놀로지,BOE Technology,1235,30801
+foxconn,Q463094,54,폭스콘,Foxconn,6149,435244
+lg-display,Q483006,17,LG디스플레이,LG Display,4050,23406
+lg-innotek,Q16219421,6,LG이노텍,LG Innotek,8182,21787
+murata,Q613325,15,무라타 제작소,Murata Manufacturing,2569,31511
+samsung-display,Q16166104,7,삼성디스플레이,Samsung Display,4017,18388
+samsung-electro-mechanics,Q627018,11,삼성전기,Samsung Electro-Mechanics,10322,18383
+amd,Q128896,75,AMD,AMD,22067,563436
+applied-materials,Q621610,20,어플라이드 머티어리얼즈,Applied Materials,6628,133148
+arm,Q296782,37,ARM 홀딩스,Arm Holdings,4045,273934
+asml,Q297879,42,ASML,ASML,8681,245999
+broadcom,Q555925,27,,Broadcom Corporation,0,62264
+furiosaai,Q133254813,1,퓨리오사AI,,55686,0
+hanmi-semiconductor,Q131188043,2,한미반도체,Hanmi Semiconductor,16097,161
+infineon,Q311394,32,인피니온 테크놀로지스,Infineon Technologies,2662,130949
+intel,Q248,95,인텔,Intel,4690,593725
+mediatek,Q699848,37,미디어텍,MediaTek,1482,162218
+micron,Q1197548,31,마이크론 테크놀로지,Micron Technology,13621,549800
+nvidia,Q182477,78,엔비디아,Nvidia,158737,2685252
+qualcomm,Q544847,55,퀄컴,Qualcomm,4320,410753
+rebellions,Q136432142,0,,,0,0
+sk-hynix,Q370719,35,SK하이닉스,SK Hynix,53745,342750
+texas-instruments,Q193412,54,텍사스 인스트루먼트,Texas Instruments,2446,304531
+tokyo-electron,Q1351484,14,도쿄 일렉트론,Tokyo Electron,6634,37470
+tsmc,Q713418,54,TSMC,TSMC,13645,704772
+adobe,Q11463,83,어도비 (기업),Adobe Inc.,4365,358196
+atlassian,Q757307,27,아틀라시안,Atlassian,1697,345195
+autodesk,Q628051,42,오토데스크,Autodesk,1284,195159
+aws,Q456157,44,아마존 웹 서비스,Amazon Web Services,5174,555530
+canva,Q23498528,47,Canva,Canva,94614,1903704
+cloudflare,Q4778915,39,Cloudflare,Cloudflare,8990,771928
+databricks,Q18350420,12,데이터브릭스,Databricks,2738,465553
+douzone-bizon,,0,,,0,0
+dropbox,Q142539,46,드롭박스,Dropbox,1581,163318
+figma,Q307650,7,피그마 (장난감),Figma (toy),162,9893
+framer,,0,,,0,0
+github,Q364,75,깃허브,GitHub,13455,1295957
+hancom,Q482665,5,한컴,Hancom,413,4284
+linear,,0,,,0,0
+microsoft,Q2283,167,마이크로소프트,Microsoft,22289,2113936
+naver-cloud,Q135398287,0,,,0,0
+notion,,0,,,0,0
+oracle,Q19900,73,오라클 (기업),Oracle Corporation,47736,1705675
+palantir,Q2047336,39,팔란티어 테크놀로지스,Palantir,31915,1160076
+salesforce,Q941127,36,세일즈포스닷컴,Salesforce,3205,641631
+sap,Q552581,62,SAP SE,SAP,2035,498559
+servicenow,Q7455653,15,서비스나우,ServiceNow,4957,355113
+shopify,Q7501150,31,쇼피파이,Shopify,3207,375157
+slack,Q17130715,35,슬랙 (소프트웨어),Slack (software),4436,297505
+snowflake,,0,,,0,0
+unity,Q7893816,25,유니티 테크놀로지스,Unity Technologies,670,141171
+vmware,Q11407,44,VM웨어,VMware,1256,210899
+zoom,Q17460900,43,줌 커뮤니케이션즈,Zoom Communications,343,167419
+apple,Q312,158,애플,Apple Inc.,16849,2377141
+balmuda,Q17222008,5,발뮤다,Balmuda,419,9550
+coway,Q112148746,4,코웨이,Coway (company),4076,20346
+cuckoo,,0,,,0,0
+dyson,Q621429,28,다이슨 (기업),Dyson (company),2656,243621
+electrolux,Q505922,44,일렉트로룩스,Electrolux,767,197690
+galaxy,,0,,,0,0
+google-pixel,,0,,,0,0
+haier,Q1143211,32,하이얼,Haier,1947,260744
+hisense,Q2527941,37,하이센스,Hisense,776,289073
+huawei,Q160120,92,화웨이,Huawei,5783,438035
+iphone,,0,,,0,0
+lg-electronics,Q162345,51,LG전자,LG Electronics,11382,202469
+miele,Q695230,31,밀레 (독일의 기업),Miele,733,89985
+motorola,Q634815,24,모토로라 솔루션스,Motorola Solutions,389,127505
+nothing,Q110339215,29,Nothing (기업),Nothing (company),722,592811
+oneplus,Q16499972,46,원플러스,OnePlus,482,465799
+oppo,Q2084900,62,오포 (기업),Oppo,61,352745
+panasonic,Q125872293,2,,Panasonic (brand),0,1726
+philips,Q170416,75,필립스,Philips,3596,524047
+samsung-electronics,Q20718,59,삼성전자,Samsung Electronics,65732,479402
+sharp,Q53227,58,샤프 (기업),Sharp Corporation,1851,166390
+tcl,Q733958,34,TCL (기업),TCL Technology,1534,429084
+whirlpool,Q11254284,3,Whirlpool (비디오 게임 브랜드),,38,0
+xiaomi,Q1636958,87,샤오미,Xiaomi,3756,520848
+airpods,,0,,,0,0
+audio-technica,Q700466,26,오디오 테크니카,Audio-Technica,231,43609
+bang-olufsen,Q790020,27,뱅 앤 올룹슨,Bang & Olufsen,1506,105054
+beats,Q1961036,31,비츠 일렉트로닉스,Beats (brand),453,46584
+bose,Q328568,29,보스 (미국의 기업),Bose (brand),576,45638
+canon,Q63554165,0,,,0,0
+dji,Q16924332,38,DJI,DJI,5331,265988
+fujifilm,Q124998286,0,,,0,0
+fujifilm-x,,0,,,0,0
+gopro,Q733482,39,GoPro,GoPro,807,156257
+hanwha-vision,Q52112789,9,한화비전,Hanwha Vision,11040,17175
+harman,Q1585599,25,하만 인터내셔널,Harman International,2807,146872
+hasselblad,Q64545,34,핫셀블라드,Hasselblad,2699,142253
+insta360,Q48147014,14,인스타360,Insta360,1252,107024
+jbl,Q1153754,37,JBL,JBL,1630,242197
+leica,Q161833,45,라이카 (사진기),Leica Camera,1898,177722
+marshall,Q1379613,19,,Marshall University,0,109644
+nikon,Q63868416,0,,,0,0
+sennheiser,Q167221,34,젠하이저,Sennheiser,650,93740
+sonos,Q3492619,17,소노스,Sonos,364,82324
+sony,Q41187,108,소니그룹,Sony,3956,865323
+teenage-engineering,Q19883064,10,틴에이지 엔지니어링,Teenage Engineering,272,57841
+alteogen,Q52853036,1,알테오젠,,5314,0
+amgen,Q470517,29,암젠,Amgen,1808,138487
+biontech,Q30256699,43,바이온텍,BioNTech,1309,65199
+celltrion,Q16175734,5,셀트리온,Celltrion,8655,21488
+lonza,Q674216,21,론자,Lonza Group,1338,45447
+lotte-biologics,Q131862585,2,롯데바이오로직스,Lotte Biologics,2684,1865
+moderna,Q17081612,42,모더나,Moderna,2010,107324
+samsung-bioepis,Q16920038,1,삼성바이오에피스,,3529,0
+samsung-biologics,Q16767532,6,삼성바이오로직스,Samsung Biologics,6449,29728
+sk-bioscience,Q98768286,2,SK바이오사이언스,SK Bioscience,4092,2839
+abbott,Q306764,38,애벗 래버러토리스,Abbott Laboratories,583,228394
+boston-scientific,Q894585,16,보스톤사이언티픽,Boston Scientific,436,122222
+dexcom,Q15109865,7,덱스콤,Dexcom,291,64688
+ge-healthcare,Q1152374,23,GE 헬스케어,GE HealthCare,1134,134826
+intuitive-surgical,Q2743863,14,인튜이티브 서지컬,Intuitive Surgical,2052,80104
+lunit,Q131188279,1,루닛,,4395,0
+medtronic,Q642189,23,메드트로닉,Medtronic,1660,155543
+olympus,Q64128009,0,,,0,0
+osstem,Q18176068,1,오스템임플란트,,3083,0
+siemens-healthineers,Q472451,16,,Siemens Healthineers,0,65528
+stryker,,0,,,0,0
+bacchus,,0,,,0,0
+band-aid,Q2737652,10,밴드에이드,Band-Aid,459,64213
+centrum,,0,,,0,0
+dong-a-pharm,Q12593479,2,동아제약,,4384,0
+dongwha-pharm,Q104480343,0,,,0,0
+haleon,Q112860932,11,,Haleon,0,161489
+hwalmyungsu,,0,,,0,0
+kenvue,Q118905792,8,,Kenvue,0,354496
+listerine,Q944073,19,리스테린,Listerine,1245,88008
+sensodyne,Q2046939,20,,Sensodyne,0,72763
+tylenol,Q3245302,15,타이레놀,Tylenol,10816,397943
+urusa,,0,,,0,0
+abbvie,Q14662364,23,애브비,AbbVie,1128,184372
+astrazeneca,Q731938,53,아스트라제네카,AstraZeneca,2257,226399
+bayer,Q152051,65,바이엘 (기업),Bayer,3945,390923
+boehringer-ingelheim,Q30260626,0,,,0,0
+chong-kun-dang,Q12617231,2,종근당,Chong Kun Dang,3565,3431
+daewoong,Q16219728,2,대웅제약,Daewoong Pharmaceutical,4114,5285
+eli-lilly,Q43896148,0,,,0,0
+galderma,Q581008,12,,Galderma,0,51710
+gc-biopharma,,0,,,0,0
+gsk,Q212322,55,글락소스미스클라인,GSK plc,2954,181356
+hanmi,Q17095096,2,한미약품,Hanmi Pharm,6058,4116
+johnson-johnson,Q333718,50,존슨앤드존슨,Johnson & Johnson,7377,428736
+mounjaro,,0,,,0,0
+msd,Q247489,41,MSD (기업),Merck & Co.,3417,212339
+novartis,Q507154,44,노바티스,Novartis,1464,214516
+novo-nordisk,Q818846,35,노보 노디스크,Novo (company),2663,1
+ozempic,,0,,,0,0
+pfizer,Q206921,72,화이자,Pfizer,4639,338000
+roche,Q212646,41,호프만 라 로슈,Roche,675,207269
+sanofi,Q158205,51,사노피,Sanofi,1754,172538
+takeda,Q899133,29,다케다 약품공업,Takeda Pharmaceutical Company,748,84442
+wegovy,,0,,,0,0
+yuhan,Q8060442,6,유한양행,Yuhan,9034,5630
+bbc,Q9531,132,BBC,BBC,1245,2530797
+bloomberg,Q13977,45,블룸버그 L.P.,Bloomberg L.P.,5483,359821
+chosun-ilbo,,0,,,0,0
+cnn,Q48340,110,CNN,CNN,5133,956712
+espn,Q17085515,9,,"ESPN, LLC",0,30231
+joongang-ilbo,,0,,,0,0
+jtbc,Q213097,56,JTBC,JTBC,34115,57214
+kbs,Q498825,75,한국방송공사,Korean Broadcasting System,3781458,155500
+mbc,Q482607,70,문화방송,Munhwa Broadcasting Corporation,9118669,265506
+mnet,Q490182,48,엠넷,Mnet (TV channel),6772,35490
+new-york-times,Q2529982,26,뉴욕 타임스 컴퍼니,The New York Times Company,176,150164
+nhk,Q212128,62,일본방송협회,NHK,4335,252882
+sbs,Q928831,69,SBS,Seoul Broadcasting System,25404,47225
+the-economist,Q474153,11,,The Economist Group,0,59777
+tvn,Q476608,16,TVN (폴란드의 텔레비전 채널),TVN (Polish TV channel),241,18102
+big-hit-music,,0,,,0,0
+cj-enm,Q56063989,24,CJ ENM,CJ ENM,7837,55936
+hybe,Q16161254,30,하이브,Hybe,25609,421329
+jyp-entertainment,Q483238,40,JYP 엔터테인먼트,JYP Entertainment,16694,441635
+kakao-entertainment,Q106341957,16,카카오엔터테인먼트,Kakao Entertainment,12664,69034
+live-nation,Q1061903,23,라이브 네이션,Live Nation Entertainment,1538,263572
+sm-entertainment,Q483938,46,SM 엔터테인먼트,SM Entertainment,37520,345436
+sony-music,Q56760250,61,소니 뮤직 엔터테인먼트,Sony Music,3372,257026
+starship-entertainment,Q255363,23,스타쉽 엔터테인먼트,Starship Entertainment,20329,164761
+studio-dragon,Q31180504,19,스튜디오드래곤,Studio Dragon,8696,47114
+universal-music-group,Q38903,63,유니버설 뮤직 그룹,Universal Music Group,2579,525270
+warner-music-group,Q21077,48,워너 뮤직 그룹,Warner Music Group,1381,336013
+yg-entertainment,Q50595,48,YG 엔터테인먼트,YG Entertainment,33745,358078
+a24,Q16248298,37,A24,A24,2965,2026372
+cgv,Q5012261,12,CGV,CJ CGV,10941,27585
+disney,Q7414,126,월트 디즈니 컴퍼니,The Walt Disney Company,4331,1456215
+dreamworks-animation,Q500088,58,드림웍스 애니메이션,DreamWorks Animation,1549,1215951
+imax,Q1654103,16,IMAX 코퍼레이션,IMAX Corporation,233,109867
+lotte-cinema,Q6684911,6,롯데시네마,Lotte Cinema,4146,4817
+marvel-studios,Q367466,60,마블 스튜디오,Marvel Studios,1447,547245
+megabox,Q55729642,3,플러스엠 엔터테인먼트,Plus M Entertainment,3095,5778
+nbcuniversal,Q724759,47,NBC유니버설,NBCUniversal,825,482938
+paramount,Q135485147,28,파라마운트 스카이댄스,Paramount Skydance,987,1264226
+pixar,Q127552,90,픽사,Pixar,4212,1295520
+sony-pictures,Q822314,59,소니 픽처스 엔터테인먼트,Sony Pictures,2243,410012
+studio-ghibli,Q182950,79,스튜디오 지브리,Studio Ghibli,17713,1582419
+toei-animation,Q730179,43,도에이 애니메이션,Toei Animation,3161,310680
+toho,Q875920,42,도호,Toho,1599,249331
+universal-pictures,Q168383,90,유니버설 픽처스,Universal Pictures,3357,1254909
+warner-bros,Q126399,96,워너 브라더스,Warner Bros. Entertainment,3744,203113
+elsevier,Q746413,47,엘스비어,Elsevier,1078,171924
+kadokawa,Q15031115,18,가도카와 퓨처 퍼블리싱,Kadokawa Key-Process,128,364
+kodansha,Q726081,41,고단샤,Kodansha,1627,162083
+minumsa,Q12596263,2,민음사,,5597,0
+munhakdongne,Q12595839,1,문학동네,,2612,0
+penguin-random-house,Q2908540,31,펭귄 랜덤 하우스,Penguin Random House,428,201893
+shueisha,Q844822,45,슈에이샤,Shueisha,3719,212206
+att,Q35476,70,AT&T,AT&T,2223,592672
+china-mobile,Q741618,39,중국이동통신,China Mobile,627,87617
+comcast,Q1113804,53,컴캐스트,Comcast,1793,702755
+deutsche-telekom,Q9396,49,도이체 텔레콤,Deutsche Telekom,511,222542
+kt,,0,,,0,0
+lg-uplus,Q626409,17,LG유플러스,LG Uplus,8476,19003
+ntt,Q1054787,29,일본전신전화,Nippon Telegraph and Telephone,837,99937
+ntt-docomo,Q853958,31,NTT 도코모,NTT Docomo,1387,57378
+sk-broadband,Q10854819,7,SK브로드밴드,SK Broadband,9426,7406
+sk-telecom,Q493145,27,SK텔레콤,SK Telecom,8017,69389
+softbank-corp,,0,,,0,0
+starlink,Q127785902,0,,,0,0
+t-mobile,Q3511885,18,T-모바일 US,T-Mobile US,489,386936
+verizon,Q467752,49,버라이즌 커뮤니케이션스,Verizon,1222,339861
+vodafone,Q122141,59,보다폰,Vodafone,1016,279858
+8seconds,,0,,,0,0
+and-other-stories,Q17172855,0,,,0,0
+arket,Q86668300,1,,,0,0
+banana-republic,Q806085,22,바나나 리퍼블릭,Banana Republic,580,110222
+bershka,Q827258,35,버쉬카,Bershka,1798,85848
+cos,,0,,,0,0
+eland-world,,0,,,0,0
+fast-retailing,Q1397688,16,,Fast Retailing,0,88251
+fnf,Q18998034,2,에프앤에프,,2970,0
+gap,Q420822,40,갭 (기업),Gap Inc.,984,221231
+gap-inc,Q420822,40,갭 (기업),Gap Inc.,984,221231
+gu,Q371522,42,예테보리 대학교,University of Gothenburg,485,25068
+hm,Q188326,67,H&M,H&M,10635,440104
+hm-group,,0,,,0,0
+inditex,Q44504,42,인디텍스,Inditex,1911,245765
+levis,Q13085298,1,,,0,0
+massimo-dutti,Q788231,33,마시모 두티,Massimo Dutti,590,108602
+mixxo,Q20445833,1,미쏘,,1379,0
+mlb-fnf,,0,,,0,0
+musinsa-standard,,0,,,0,0
+old-navy,Q2735242,19,올드 네이비,Old Navy,1252,96876
+pull-and-bear,Q691029,31,풀앤베어,Pull&Bear,1099,63588
+shinsung-tongsang,,0,,,0,0
+spao,Q55731273,1,스파오,,2898,0
+topten,,0,,,0,0
+uniqlo,Q26070,63,유니클로,Uniqlo,13533,470725
+zara,,0,,,0,0
+capri-holdings,Q19572998,10,,Capri Holdings,0,51650
+charles-keith,Q3878818,6,찰스앤키스,Charles & Keith,355,45424
+coach,Q727697,17,코치 (기업),Coach New York,1321,110120
+delvaux,Q18155981,7,델보 (기업),Delvaux (company),211,19201
+goyard,Q3112837,6,고야드,Goyard,1836,90318
+kate-spade,Q6375797,8,,Kate Spade New York,0,85535
+longchamp,Q1869471,11,롱샴,Longchamp (company),3609,47974
+mcm,,0,,,0,0
+michael-kors,Q19572998,10,,Capri Holdings,0,51650
+montblanc,Q142691,26,몽블랑 (기업),Montblanc (company),1184,116317
+polene,Q122055705,2,,Polène,0,21220
+rimowa,Q1287437,24,리모와,Rimowa,458,65471
+samsonite,Q1203426,23,쌤소나이트,Samsonite,2144,108595
+stand-oil,,0,,,0,0
+tapestry,,0,,,0,0
+tory-burch,Q19988222,4,,Tory Burch LLC,0,34749
+tumi,,0,,,0,0
+acne-studios,Q3277165,13,아크네 스튜디오,Acne Studios,436,60688
+ader-error,Q107394133,1,,,0,0
+aime-leon-dore,Q43082416,2,,Aimé Leon Dore,0,49693
+ami-paris,Q107394262,3,,AMI Paris,0,26920
+andersson-bell,,0,,,0,0
+auralee,,0,,,0,0
+bape,Q300324,19,A BATHING APE,A Bathing Ape,2122,127480
+carhartt,Q527877,18,칼하트,Carhartt,1294,176495
+comme-des-garcons,Q120663661,1,,Comme des Garçons Parfums,0,3695
+covernat,,0,,,0,0
+fear-of-god,,0,,,0,0
+issey-miyake,Q136792595,0,,,0,0
+jacquemus,Q97394724,1,,,0,0
+jil-sander,Q17101930,6,,Jil Sander (company),0,16177
+juun-j,,0,,,0,0
+kenzo,Q895795,26,겐조,Kenzo (brand),765,60287
+kith,,0,,,0,0
+lemaire,,0,,,0,0
+low-classic,,0,,,0,0
+maison-kitsune,,0,,,0,0
+maison-margiela,Q1726925,14,메종 마르지엘라,Maison Margiela,3284,170150
+mardi-mercredi,,0,,,0,0
+marithe-francois-girbaud,Q1320295,8,마리떼 프랑소와 저버,Marithé et François Girbaud,6501,33202
+marni,Q3650853,10,마르니,Marni (brand),226,16845
+matin-kim,,0,,,0,0
+off-white,Q53472173,19,오프화이트,Off-White (company),917,100914
+otb-group,Q17162776,5,,OTB Group,0,34993
+our-legacy,Q10613506,1,,,0,0
+palace,Q60963734,3,팔라스 스케이트보드,Palace Skateboards,387,30332
+rick-owens,,0,,,0,0
+sacai,Q43080895,5,,Sacai,0,11164
+stone-island,Q950042,18,스톤 아일랜드,Stone Island,1465,121554
+stussy,Q7629175,15,스투시,Stüssy,10328,158028
+supreme,Q471889,26,연합군 최고사령부,Supreme Commander for the Allied Powers,2533,98385
+thisisneverthat,Q107394173,0,,,0,0
+thom-browne,Q113502386,0,,,0,0
+vivienne-westwood,Q55600894,0,,,0,0
+wooyoungmi,Q3569879,3,우영미,Wooyoungmi,3164,7877
+alexander-mcqueen,Q13882231,33,알렉산더 맥퀸 (기업),Alexander McQueen (fashion house),261,76317
+armani,Q125182769,0,,,0,0
+balenciaga,Q1530892,51,발렌시아가,Balenciaga,838,347649
+balmain,Q1385309,19,발망,Balmain (fashion house),195,80601
+bottega-veneta,Q894874,38,보테가 베네타,Bottega Veneta,5809,106182
+brioni,Q849724,28,브리오니,Brioni (brand),835,34534
+burberry,Q390107,49,버버리,Burberry,1511,187215
+celine,Q948531,38,셀린느,Celine (brand),2413,94495
+chanel,Q218115,63,샤넬,Chanel,6304,417959
+chloe,Q1075391,29,끌로에 (기업),Chloé,820,75640
+dior,Q542767,55,디올 (기업),Dior,4120,369275
+dolce-gabbana,Q214480,49,돌체앤가바나,Dolce & Gabbana,996,209607
+fendi,Q926575,43,펜디,Fendi,726,179872
+ferragamo,,0,,,0,0
+givenchy,Q759210,45,지방시 (브랜드),Givenchy,1439,118213
+gucci,Q178516,73,구찌,Gucci,3356,582971
+hermes,Q843887,57,에르메스,Hermès,9180,362535
+kering,Q931207,43,케링,Kering,2859,354746
+loewe,Q966905,22,로에베,Loewe (fashion brand),2824,158487
+loro-piana,Q1686544,30,로로 피아나,Loro Piana,1346,165128
+louis-vuitton,Q504998,54,LVMH,LVMH,14451,942975
+lvmh,Q504998,54,LVMH,LVMH,14451,942975
+miu-miu,Q552230,24,미우 미우 (브랜드),Miu Miu,1911,196157
+moncler,Q1548951,21,몽클레르,Moncler,1798,148815
+prada,Q193136,65,프라다,Prada,2521,292350
+prada-group,Q193136,65,프라다,Prada,2521,292350
+saint-laurent,,0,,,0,0
+valentino,,0,,,0,0
+versace,Q696376,58,베르사체,Versace,480,289030
+zegna,Q1355904,19,에르메네질도 제냐,Zegna,1316,68183
+zegna-group,Q1355904,19,에르메네질도 제냐,Zegna,1316,68183
+berluti,Q821969,24,,Berluti,0,24451
+birkenstock,Q648458,23,버켄스탁,Birkenstock,285,164320
+christian-louboutin,Q23681835,0,,,0,0
+churchs,,0,,,0,0
+clarks,Q1095857,15,,Clarks (shoe retailer),0,77974
+converse,Q319515,46,컨버스,Converse (brand),861,169119
+crocs,Q125007648,0,,,0,0
+deckers,Q1181953,8,,Deckers Brands,0,126194
+dr-martens,Q1126126,32,닥터 마틴 (신발),Dr. Martens,1124,201723
+ecco,Q1280255,20,ECCO,ECCO,561,45473
+jimmy-choo,Q5213855,14,지미 추 (기업),Jimmy Choo (fashion house),561,60652
+onitsuka-tiger,Q7093962,8,,Onitsuka Tiger,0,314844
+skechers,Q2945643,23,스케쳐스,Skechers,3490,210278
+timberland,Q1539185,24,팀버랜드,Timberland (company),554,98381
+tods,Q1342350,18,토즈 (의류 기업),Tod's,346,34128
+ugg,Q1138480,12,어그,UGG (brand),4253,87311
+vans,Q1135366,38,반스 (기업),Vans,496,138372
+carin,,0,,,0,0
+essilorluxottica,Q56853086,26,,EssilorLuxottica,0,189137
+gentle-monster,Q43083084,8,젠틀몬스터,Gentle Monster,10004,76910
+iicombined,,0,,,0,0
+oakley,,0,,,0,0
+ray-ban,Q653941,42,레이밴,Ray-Ban,2321,201129
+warby-parker,Q7968882,5,,Warby Parker,0,75000
+byc,,0,,,0,0
+skims,Q110778161,5,,Skims,0,151425
+victorias-secret,Q332477,55,빅토리아 시크릿,Victoria's Secret,2320,482370
+wacoal,Q909522,10,와코루,Wacoal,1673,17314
+allsaints,Q4728473,4,올세인츠 (브랜드),AllSaints,1788,62914
+apc,Q546542,4,아페쎄,A.P.C.,1282,27875
+beanpole,,0,,,0,0
+calvin-klein,Q1068628,46,캘빈 클라인,Calvin Klein (fashion house),2303,268948
+diesel,,0,,,0,0
+ganni,Q104842926,1,,Ganni,0,27051
+handsome,Q5647649,2,,Handsome (band),0,12842
+hazzys,Q12581437,1,LF (기업),,5084,0
+hugo-boss,Q491627,47,휴고 보스,Hugo Boss,1434,398057
+kolon-industries-fnc,,0,,,0,0
+kuho,,0,,,0,0
+lacoste,Q309031,57,라코스테,Lacoste,6710,189196
+lf,,0,,,0,0
+maje,Q3280458,1,,,0,0
+max-mara,Q1151774,25,막스마라,Max Mara,1172,51593
+pvh,Q1132272,17,,PVH Corp.,0,75032
+ralph-lauren,Q20971370,1,,,0,0
+samsung-cnt-fashion,,0,,,0,0
+sandro,,0,,,0,0
+shinsegae-international,,0,,,0,0
+smcp,Q17629435,2,,SMCP Group,0,14868
+studio-tomboy,,0,,,0,0
+system,,0,,,0,0
+theory,,0,,,0,0
+time,Q617572,9,,Time (Yugoslav band),0,6026
+tommy-hilfiger,Q634881,35,타미 힐피거 (기업),Tommy Hilfiger (company),393,107918
+toteme,,0,,,0,0
