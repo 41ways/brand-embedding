@@ -95,8 +95,15 @@ def find(meta, q):
 
 def cmd_new(v, seed=None):
     meta, sim, _ = load_variant(v)
-    rnd = random.Random(seed if seed is not None else time.time_ns())
-    a = rnd.randrange(len(meta["brands"]))
+    n = len(meta["brands"])
+    if seed is None:
+        a = random.Random(time.time_ns()).randrange(n)
+    else:
+        # 시드마다 정답이 겹치지 않게: 목록마다 고정된 섞음 순서에서 seed 번째를 꺼낸다
+        # (예전엔 Random(seed).randrange(n) — 시드 3·4 가 늘 같은 정답을 뽑았다)
+        order = list(range(n))
+        random.Random(f"{v}:order").shuffle(order)
+        a = order[seed % n]
     GAMES.mkdir(parents=True, exist_ok=True)
     gid = f"{v}-{int(time.time() * 1000) % 10**9:09d}"
     (GAMES / f"{gid}.json").write_text(json.dumps({"variant": v, "answer": a, "seed": seed, "guesses": [], "done": False}))
