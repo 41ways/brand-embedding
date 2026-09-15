@@ -1,35 +1,89 @@
-kind,mode,anchor,near,far,note
-sanity,all,lamborghini,ferrari,kia,슈퍼카끼리
-sanity,all,hermes,chanel,zara,럭셔리하우스 vs SPA
-sanity,all,starbucks,blue-bottle,mcdonalds,커피 체인
-sanity,all,cargill,adm,nestle,곡물 무역 vs 식품 브랜드
-sanity,all,nvidia,amd,apple,반도체
-sanity,all,coupang,amazon,naver,이커머스 vs 포털
-sanity,all,hyundai-motor,kia,hyundai-mobis,완성차 vs 부품
-debatable,all,emirates,ryanair,marriott,항공사끼리(가격대가 달라도)
-sanity,all,hybe,sm-entertainment,netflix,기획사
-sanity,all,patagonia,the-north-face,zara,아웃도어
-sanity,all,toss,kakao,goldman-sachs,한국 핀테크·플랫폼
-sanity,all,lego,mattel,ikea,완구
-sanity,all,oatly,liquid-death,coca-cola,신생 음료 브랜드끼리
-debatable,all,shake-shack,in-n-out,mcdonalds,프리미엄 버거
-sanity,structure,genesis,hyundai-motor,lexus,같은 그룹 소속
-position,all,hermes,louis-vuitton,uniqlo,가격 위치
-position,all,aman,four-seasons,ryanair,최고급 숙박
-position,all,rolls-royce-motor-cars,bentley,toyota,초고가 자동차
-position,all,costco,walmart,louis-vuitton,대중 유통
-position,all,daiso,muji,hermes,저가 생활
-cross,meaning,lamborghini,rolex,hyundai-motor,업종 넘는 과시·최상위
-cross,meaning,tamburins,gentle-monster,cargill,같은 감성 브랜드
-cross,meaning,red-bull,gopro,nestle,익스트림·모험
-cross,meaning,harley-davidson,triumph,toyota,반항아
-cross,meaning,apple,dyson,samsung-electronics,디자인 중심 기술
-cross,meaning,patagonia,the-north-face,shein,가치 소비 vs 패스트패션
-cross,meaning,lego,mattel,goldman-sachs,창조자·놀이
-cross,meaning,supreme,stussy,costco,스트리트
-cross,meaning,muji,ikea,rolex,실용·조용함
-cross,meaning,audemars-piguet,ferrari,uniqlo,최고급 장인
-cross,meaning,tesla,apple,toyota,혁신 이미지
-cross,meaning,nike,adidas,nestle,영웅
-cross,meaning,disney-plus,netflix,cargill,스트리밍
-cross,meaning,four-seasons,rolex,daiso,최고급
+kind,mode,split,anchor,near,far,note
+sanity,all,train,lamborghini,ferrari,kia,슈퍼카끼리
+sanity,all,train,hermes,chanel,zara,럭셔리하우스 vs SPA
+sanity,all,train,starbucks,blue-bottle,mcdonalds,커피 체인
+sanity,all,train,cargill,adm,nestle,곡물 무역 vs 식품 브랜드
+sanity,all,train,nvidia,amd,apple,반도체
+sanity,all,train,coupang,amazon,naver,이커머스 vs 포털
+sanity,all,train,hyundai-motor,kia,hyundai-mobis,완성차 vs 부품
+debatable,all,train,emirates,ryanair,marriott,항공사끼리(가격대가 달라도)
+sanity,all,train,hybe,sm-entertainment,netflix,기획사
+sanity,all,train,patagonia,the-north-face,zara,아웃도어
+sanity,all,train,toss,kakao,goldman-sachs,한국 핀테크·플랫폼
+sanity,all,train,lego,mattel,ikea,완구
+sanity,all,train,oatly,liquid-death,coca-cola,신생 음료 브랜드끼리
+debatable,all,train,shake-shack,in-n-out,mcdonalds,프리미엄 버거
+sanity,structure,train,genesis,hyundai-motor,lexus,같은 그룹 소속
+position,all,train,hermes,louis-vuitton,uniqlo,가격 위치
+position,all,train,aman,four-seasons,ryanair,최고급 숙박
+position,all,train,rolls-royce-motor-cars,bentley,toyota,초고가 자동차
+position,all,train,costco,walmart,louis-vuitton,대중 유통
+position,all,train,daiso,muji,hermes,저가 생활
+cross,meaning,train,lamborghini,rolex,hyundai-motor,업종 넘는 과시·최상위
+cross,meaning,train,tamburins,gentle-monster,cargill,같은 감성 브랜드
+cross,meaning,train,red-bull,gopro,nestle,익스트림·모험
+cross,meaning,train,harley-davidson,triumph,toyota,반항아
+cross,meaning,train,apple,dyson,samsung-electronics,디자인 중심 기술
+cross,meaning,train,patagonia,the-north-face,shein,가치 소비 vs 패스트패션
+cross,meaning,train,lego,mattel,goldman-sachs,창조자·놀이
+cross,meaning,train,supreme,stussy,costco,스트리트
+cross,meaning,train,muji,ikea,rolex,실용·조용함
+cross,meaning,train,audemars-piguet,ferrari,uniqlo,최고급 장인
+cross,meaning,train,tesla,apple,toyota,혁신 이미지
+cross,meaning,train,nike,adidas,nestle,영웅
+cross,meaning,train,disney-plus,netflix,cargill,스트리밍
+cross,meaning,train,four-seasons,rolex,daiso,최고급
+sanity,all,test,porsche,ferrari,volvo-cars,스포츠카
+sanity,all,train,gucci,prada,uniqlo,럭셔리하우스
+sanity,all,test,rolex,omega,casio,고급 시계
+sanity,all,train,casio,seiko,patek-philippe,대중 시계
+sanity,all,test,nike,adidas,lancome,스포츠웨어
+sanity,all,train,sulwhasoo,estee-lauder,lush,고급 스킨케어
+sanity,all,test,coca-cola,pepsi,nongshim,탄산음료
+sanity,all,train,mega-coffee,paik-dabang,blue-bottle,저가 커피
+sanity,all,test,nongshim,ottogi,ferrero,라면·가공식품
+sanity,all,train,mcdonalds,burger-king,blue-bottle,패스트푸드
+sanity,all,test,google,naver,netflix,검색·포털
+sanity,all,train,netflix,tving,kakaotalk,스트리밍
+sanity,all,test,nexon,ncsoft,samsung-electronics,게임사
+sanity,all,train,visa,mastercard,kb-kookmin-bank,카드 네트워크
+sanity,all,test,kakaobank,toss,exxonmobil,인터넷은행·핀테크
+sanity,all,train,shell,exxonmobil,samsung-electronics,석유
+sanity,all,test,lg-energy-solution,catl,coca-cola,배터리
+sanity,all,train,korean-air,singapore-airlines,yanolja,대형 항공사
+sanity,all,test,ikea,hanssem,lego,가구
+sanity,all,train,sanrio,pop-mart,cargill,캐릭터
+sanity,all,test,costco,emart,musinsa,대형마트
+sanity,all,train,gs25,cu,costco,편의점
+sanity,all,test,temu,shein,louis-vuitton,초저가 이커머스
+sanity,all,train,hybe,jyp-entertainment,cj-logistics,기획사
+sanity,all,test,dhl,fedex,hanwha-aerospace,특송
+sanity,all,train,boeing,airbus,caterpillar,항공기
+sanity,all,test,pfizer,novo-nordisk,starbucks,제약
+sanity,all,train,samsung-group,sk-group,coupang,재벌 그룹
+sanity,all,test,cargill,bunge,nongshim,곡물 무역
+sanity,all,train,musinsa,29cm,costco,패션 플랫폼
+position,all,test,patek-philippe,rolex,swatch,최고급 시계
+position,all,train,ritz-carlton,four-seasons,ibis,최고급 호텔
+position,all,test,ryanair,jeju-air,singapore-airlines,저비용 항공
+position,all,train,bugatti,mclaren,fiat,하이퍼카
+position,all,test,uniqlo,zara,loewe,SPA
+position,all,train,tissot,seiko,patek-philippe,중저가 시계
+cross,meaning,test,aesop,cos,mcdonalds,조용한 미니멀
+cross,meaning,train,patek-philippe,rolls-royce-motor-cars,ikea,대를 잇는 최고급
+cross,meaning,test,leica,patek-philippe,xiaomi,장인 정밀
+cross,meaning,train,teenage-engineering,lego,caterpillar,창조·놀이 디자인
+cross,meaning,test,off-white,gentle-monster,costco,하이프 디자인
+cross,meaning,train,vespa,mini,caterpillar,귀여운 도시 이동
+cross,meaning,test,harley-davidson,marshall,novo-nordisk,로큰롤 반항
+cross,meaning,train,disney,sanrio,exxonmobil,동심·마법
+cross,meaning,test,lush,patagonia,shein,가치 소비
+cross,meaning,train,nintendo,lego,ncsoft,가족 놀이
+cross,meaning,test,a24,ader-error,disney,인디 감성
+cross,meaning,train,mega-coffee,daiso,starbucks,가성비
+cross,meaning,test,volvo-cars,ikea,lamborghini,실용·안전 (국적 누수 확인용)
+cross,meaning,train,muji,uniqlo,louis-vuitton,무난한 기본
+cross,meaning,test,gentle-monster,ader-error,lotteria,국내 디자이너 감성
+cross,meaning,train,john-deere,cargill,netflix,농업
+cross,meaning,test,ducati,ferrari,vespa,이탈리아식 속도 (국적 없이)
+cross,meaning,train,studio-ghibli,nintendo,netflix,아날로그 동심

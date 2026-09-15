@@ -19,12 +19,11 @@ embed/tune.py                                             정답 세트로 가�
 
 | 묶음 | 내용 |
 |---|---|
-| summary | 같은 틀로 쓴 한국어 요약(이름 가림) → bge-m3 |
+| summary | 같은 틀로 쓴 한국어 요약(브랜드·모회사 이름 가림, 나라·도시 이름 제거) → bge-m3 |
 | archetype | 브랜드 원형 12유형 비중 |
 | position | 같은 업종 안 가격 위치·희소성 (구간 소프트 원-핫) |
 | heritage | 소유 형태, 창업자 이름 여부, 설립 연대 |
 | category / family / origin / scale | 분류 계층, 최상위 소속, 국가·권역, 규모·B2B |
-| name | 이름 → bge-m3 (비교용, 철자에 끌려 단독으론 못 씀) |
 
 ## 실행
 
@@ -35,10 +34,10 @@ python3 embed/preview.py && python3 embed/build_viewer.py
 python3 -m unittest discover -s tests
 ```
 
-`tests/triplets.csv` 는 "A 는 C 보다 B 에 가깝다" 정답 세트. sanity·position 은 전부 맞아야 하고, cross(업종을 넘는 가까움)는 80% 이상, debatable 은 기록만 한다.
+`tests/triplets.csv` 는 "A 는 C 보다 B 에 가깝다" 정답 세트. 가중치는 train 문항으로만 고르고, sanity·position 은 train·test 전부 맞아야 하고, cross(업종을 넘는 가까움)는 80% 이상, debatable 은 기록만 한다.
 
 ## 알려진 한계
 
 - 목록과 보강 데이터는 LLM 지식 기반 1차본. 2025~26 인수·합병이 걸린 소속·소유 형태는 Wikidata 대조 후 검수가 필요하다.
-- 요약에 국적이 들어가 설명글 임베딩이 나라별로 뭉치는 경향이 있다(무인양품 → 일본 식품 브랜드).
-- 정답 세트가 34문항이라 가중치가 과적합되기 쉽다.
+- 설명글 이웃 중 같은 나라 비율이 30%(무작위 18%). 나라 이름은 지웠지만 "사케", "K-뷰티" 같은 문화 단서가 남는다.
+- 정답 세트는 90문항(train 58 / test 32)으로 아직 작다.

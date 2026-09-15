@@ -10,6 +10,8 @@ from pathlib import Path
 
 import numpy as np
 
+from clean import strip_places
+
 os.environ.setdefault("HF_HUB_OFFLINE", "1")
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "embed" / "out"
@@ -30,7 +32,6 @@ OWN = ["family", "founder", "public", "state", "foundation", "coop", "pe", "chae
 ERAS = [1850, 1900, 1945, 1970, 1990, 2005, 2015]
 
 MODES = {
-    "name": {"name": 1.0},
     "structure": {"category": 0.55, "family": 0.2, "origin": 0.1, "scale": 0.15},
     "meaning": {"summary": 0.5, "archetype": 0.3, "position": 0.2},
     # embed/tune.py 격자 탐색으로 고름 (정답 세트 틀림 최소 + 다른 분야 이웃 10% 이상)
@@ -117,8 +118,6 @@ def build_blocks(rows, extra):
     ex = [extra.get(r["id"], {}) for r in rows]
 
     blocks = {}
-    names = [" / ".join(x for x in [r["name_en"], r["name_ko"], r["aliases"].replace("|", ", ")] if x) for r in rows]
-    blocks["name"] = (bge(names, OUT / "name_emb.npy", 48), ones)
     blocks["category"] = (l2(np.hstack([onehot([r["sector"] for r in rows]) * 0.6,
                                         onehot([r["sector"] + r["category"] for r in rows])])), ones)
     blocks["family"] = (l2(onehot(root_of(rows))), ones)
@@ -128,7 +127,7 @@ def build_blocks(rows, extra):
                                      onehot([r["b2b"] for r in rows])])), ones)
 
     has = np.array([bool(e.get("summary")) for e in ex])
-    summ = [e.get("summary") or "" for e in ex]
+    summ = [strip_places(e.get("summary") or "") for e in ex]
     blocks["summary"] = (bge(summ, OUT / "summary_emb.npy", 256), has)
 
     arch = np.array([[e.get("archetype", {}).get(a, 0) for a in ARCH] for e in ex], dtype=np.float32)

@@ -1,4 +1,4 @@
-"""'전부' 모드 가중치를 정답 세트(tests/triplets.csv)로 고른다.
+"""'전부' 모드 가중치를 정답 세트(tests/triplets.csv)의 train 문항으로 고르고 test 문항으로 확인한다.
 
 격자 탐색. 1순위 sanity·position 틀린 수가 적은 것, 2순위 다른 분야 이웃 비율이 10~35% 인 것,
 3순위 현재 가중치와 가까운 것. 정답 세트가 작아 과적합되기 쉬우니 참고용 — 세트를 늘리면 다시 돌린다.
@@ -40,7 +40,8 @@ def main():
     sec = np.array([r["sector"] for r in rows])
     cos, mask = P.pairwise(P.build_blocks(rows, extra))
     trip = list(csv.DictReader((ROOT / "tests" / "triplets.csv").open(newline="")))
-    hard = [t for t in trip if t["kind"] in ("sanity", "position") and t["mode"] == "all"]
+    hard = [t for t in trip if t["kind"] in ("sanity", "position") and t["mode"] == "all" and t["split"] == "train"]
+    held = [t for t in trip if t["kind"] in ("sanity", "position") and t["mode"] == "all" and t["split"] == "test"]
     anchors = sorted({idx[t["anchor"]] for t in hard})
     current = P.MODES["all"]
     keys = list(GRID)
@@ -61,9 +62,12 @@ def main():
         r.append(float((sec[nb] != sec[:, None]).mean()))
     best.sort(key=lambda r: (not 0.10 < r[4] < 0.35, r[1]))
 
-    print(f"후보 {len(results)}개, 최소 틀림 {results[0][0]}/{len(hard)}")
+    print(f"후보 {len(results)}개, 학습 세트 최소 틀림 {results[0][0]}/{len(hard)}")
     for nfail, _, w, fails, share in best[:5]:
-        print(f"틀림 {nfail}  다른분야 {share:.3f}  " + " ".join(f"{k}={v:.3f}" for k, v in w.items()))
+        s = P.similarity(cos, mask, w)
+        held_fail = sum(s[idx[t["anchor"]], idx[t["near"]]] <= s[idx[t["anchor"]], idx[t["far"]]] for t in held)
+        print(f"학습 틀림 {nfail}  검증 틀림 {held_fail}/{len(held)}  다른분야 {share:.3f}  "
+              + " ".join(f"{k}={v:.3f}" for k, v in w.items()))
         for t in fails:
             print("   ", t["anchor"], "→", t["near"], "vs", t["far"])
 

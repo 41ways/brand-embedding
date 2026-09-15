@@ -108,12 +108,11 @@ td.name small{display:block;color:var(--ink-3);font-size:11px;line-height:1.2}
   <header>
     <h1>브랜드 좌표판 <em>1차</em></h1>
     <div class="meta mono" id="meta"></div>
-    <p class="lede">브랜드 <span id="count"></span>개를 네 가지 방식으로 벡터로 만들고 2차원(t-SNE)에 펼친 결과. 1차 보강으로 <b>설명글·브랜드 원형·업계 안 가격 위치·창업과 소유</b>가 들어갔음. 점을 누르거나 검색하면 가장 가까운 12곳과 묶음별로 얼마나 닮았는지가 나옴.</p>
+    <p class="lede">브랜드 <span id="count"></span>개를 세 가지 방식으로 벡터로 만들고 2차원(t-SNE)에 펼친 결과. 1차 보강으로 <b>설명글·브랜드 원형·업계 안 가격 위치·창업과 소유</b>가 들어갔음. 점을 누르거나 검색하면 가장 가까운 12곳과 묶음별로 얼마나 닮았는지가 나옴.</p>
   </header>
 
   <div class="controls">
     <div class="seg" role="group" aria-label="임베딩 방식">
-      <button id="m-name" data-mode="name">이름만</button>
       <button id="m-structure" data-mode="structure">구조만</button>
       <button id="m-meaning" data-mode="meaning">의미만</button>
       <button id="m-all" data-mode="all">전부</button>
@@ -148,14 +147,14 @@ td.name small{display:block;color:var(--ink-3);font-size:11px;line-height:1.2}
   </section>
 
   <section class="reads">
-    <div><h3>의미만: 업종을 넘는 이웃</h3><p>람보르기니 → 오데마 피게·리차드 밀·롤렉스, 탬버린즈 → 젠틀몬스터·이세이 미야케, 할리데이비슨 → 올세인츠·스톤아일랜드. 상위 10곳의 절반이 다른 분야. 대신 스타벅스 → 크루즈·항공사 같은 헛이웃도 섞임.</p></div>
-    <div><h3>전부: 정답 세트로 고른 가중치</h3><p>"A는 C보다 B에 가깝다" 정답 34문항으로 가중치를 격자 탐색. 같은 업종 정답을 다 맞히면 다른 분야 이웃이 4% 로 줄어드는 줄다리기가 있어서, 틀림 2(애매한 문항)·다른 분야 13% 지점을 골랐음.</p></div>
-    <div><h3>남은 문제: 설명글에 국적이 샘</h3><p>무인양품 이웃이 비오레·가루비·야쿠르트처럼 일본 브랜드로 몰림. 요약에 "일본의 …"가 들어가 설명글 임베딩이 국적으로 뭉침. 출신은 따로 묶음이 있으니 요약에서 나라 이름을 빼고 다시 임베딩할 것.</p></div>
+    <div><h3>의미만: 업종을 넘는 이웃</h3><p>람보르기니 → 오데마 피게·리차드 밀·롤렉스, 탬버린즈 → 젠틀몬스터·이세이 미야케, 할리데이비슨 → 올세인츠·스톤아일랜드. 상위 10곳의 절반이 다른 분야.</p></div>
+    <div><h3>설명글의 국적 누수 제거</h3><p>요약에 "일본의…", "국내에서는…"이 많아 설명글 이웃의 53%가 같은 나라였음(무작위 18%). 나라·지역·도시 이름을 지우고 다시 임베딩해 30%로. 무인양품 이웃이 비오레·가루비 → 아르켓·코스·헤이.</p></div>
+    <div><h3>전부: train 으로 고르고 test 로 확인</h3><p>"A는 C보다 B에 가깝다" 90문항을 학습·검증으로 나눔. 학습 문항으로만 가중치를 격자 탐색했고, 검증 18문항(업종·가격 위치)을 전부 맞힘. 다른 분야 이웃은 11%.</p></div>
   </section>
 
   <section class="next">
     <h2>다음</h2>
-    <p><b>요약에서 국적 제거</b> 후 재임베딩 → 무인양품–이케아 같은 이웃 회복. <b>정답 세트 늘리기</b>(34 → 수백, 학습용·검증용 분리)로 가중치 과적합 막기. <b>Wikidata 대조</b>로 설립 연도·국가·모회사 불일치 목록 뽑아 검수. 그다음 2차 묶음(협업·스폰서십 그래프).</p>
+    <p><b>Wikidata 대조</b>로 설립 연도·국가·모회사 불일치 검수. <b>소속 묶음 압축</b>(지금 최상위 그룹 원-핫 1,008차원 — 같은 그룹인지만 보면 되므로 서빙 땐 id 비교로). <b>2차 묶음</b>: 협업·스폰서십 그래프.</p>
   </section>
 </div>
 
@@ -165,8 +164,8 @@ td.name small{display:block;color:var(--ink-3);font-size:11px;line-height:1.2}
 const D = JSON.parse(document.getElementById('data').textContent);
 const B = D.brands, N = B.length;
 const idx = Object.fromEntries(B.map((b, i) => [b.id, i]));
-const BLOCKS = [['summary','설명글'],['archetype','원형'],['position','업계위치'],['heritage','창업·소유'],['category','분류'],['family','소속'],['origin','출신'],['scale','규모'],['name','이름']];
-const MODE_KO = {name:'이름만', structure:'구조만', meaning:'의미만', all:'전부'};
+const BLOCKS = [['summary','설명글'],['archetype','원형'],['position','업계위치'],['heritage','창업·소유'],['category','분류'],['family','소속'],['origin','출신'],['scale','규모']];
+const MODE_KO = {structure:'구조만', meaning:'의미만', all:'전부'};
 const ARCH_KO = {innocent:'순수',explorer:'탐험가',sage:'현자',hero:'영웅',outlaw:'반항아',magician:'마법사',everyman:'보통사람',lover:'연인',jester:'광대',caregiver:'돌보는 자',creator:'창조자',ruler:'지배자'};
 const OWN_KO = {family:'가족 지배',founder:'창업자 지배',public:'분산 상장',state:'국영',foundation:'재단 소유',coop:'협동조합',pe:'사모펀드',chaebol:'재벌 계열',subsidiary:'자회사',unknown:'소유 불명'};
 const reduce = matchMedia('(prefers-reduced-motion: reduce)').matches;
